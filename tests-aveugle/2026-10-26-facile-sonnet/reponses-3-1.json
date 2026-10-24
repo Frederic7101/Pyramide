@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "baleines", "raisonnement": "Les baleines sont des cétacés, et ce sont aussi les tiges du parapluie, compagnon des jours gris." },
+  "e-006": { "reponse": "veilleuse", "raisonnement": "Flamme évoque une petite lumière qui veille près du dormeur : la veilleuse." },
+  "e-007": { "reponse": "lettres", "raisonnement": "Missives a pour synonyme lettres, que le facteur distribue chaque matin." },
+  "e-008": { "reponse": "nectar", "raisonnement": "Ambroisie, nourriture des dieux, est proche de nectar, matière première du miel." },
+  "e-009": { "reponse": "écran", "raisonnement": "Moniteur est un synonyme d'écran, support du cinéma." },
+  "e-403": { "reponse": "beurre", "raisonnement": "Margarine remplace le beurre, qu'on garde au frais dans le frigo." },
+  "e-428": { "reponse": "voie", "raisonnement": "Chemin de fer / voie ferrée : voie est le mot du train, rail étant déjà écarté." },
+  "e-430": { "reponse": "cheminée", "raisonnement": "L'âtre est le foyer de la cheminée, par où descend le Père Noël." },
+  "e-435": { "reponse": "guidon", "raisonnement": "Le volant d'un vélo est le guidon, pièce de la petite reine." },
+  "e-437": { "reponse": "pilote", "raisonnement": "Commandant de bord se dit pilote, dans l'avion au-dessus des nuages." }
+}

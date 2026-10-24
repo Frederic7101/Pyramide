@@ -1,0 +1,43 @@
+[
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "texte": "Sous le masque de la vertu se cache la duplicité ; Tartuffe en est le parangon ; ses simagrées sont des larmes de crocodile.",
+    "type": "solution",
+    "dejaFausses": [
+      "l'hypocrite"
+    ]
+  },
+  {
+    "id": "e-313",
+    "titre": "Big Brother",
+    "texte": "Dans ce futur sinistre, le Parti ne cesse d'épier chaque citoyen ; la censure règne, la pensée libre est un crime, et le mensonge a remplacé la vérité.",
+    "type": "solution",
+    "dejaFausses": [
+      "1984"
+    ]
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "texte": "Il fuit ses semblables, déteste leur fausseté ; reclus dans sa retraite, il cultive sa solitude et sa ____.",
+    "type": "solution",
+    "dejaFausses": [
+      "le misanthrope"
+    ]
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "texte": "L'anachorète se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "texte": "Ce lion à tête de femme posait une devinette aux voyageurs ; quiconque échouait était dévoré ; le fils de Laïos en trouva la clé, et le monstre se jeta dans un précipice.",
+    "type": "solution",
+    "dejaFausses": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "e-003": { "reponse": "le parapluie", "raisonnement": "S'ouvre sous la menace du ciel, bouclier contre l'averse, baleines, oublié dans le train." },
+  "e-006": { "reponse": "nécropole", "raisonnement": "Cité et mort donnent la cité des morts, la nécropole ; Pompéi est écarté." },
+  "e-007": { "reponse": "le facteur", "raisonnement": "Tournée, sacoche, lettres, courrier : le facteur." },
+  "e-008": { "reponse": "le miel", "raisonnement": "Ruche, abeilles, nectar, sucré, doré, tartiné sur du pain : le miel." },
+  "e-009": { "reponse": "actrice", "raisonnement": "Comédienne a pour synonyme actrice, au cinéma." },
+  "e-403": { "reponse": "le réfrigérateur", "raisonnement": "Grande armoire blanche qui garde au frais beurre, yaourts, jambon : le réfrigérateur." },
+  "e-428": { "reponse": "le train", "raisonnement": "Quai, voie, wagon, contrôleur, billets : le train." },
+  "e-435": { "reponse": "chambre", "raisonnement": "Pièce renvoie à chambre, et le pneu contient une chambre à air ; roue est écartée." },
+  "e-437": { "reponse": "l'avion", "raisonnement": "Aéroport, pilote, piste, hôtesse : l'avion." }
+}

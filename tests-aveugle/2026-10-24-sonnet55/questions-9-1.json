@@ -1,0 +1,228 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "solution",
+    "texte": "Je m'ouvre quand le ciel est menaçant ; je suis votre ____ contre l'averse ; mes baleines plient par grand vent ; on m'oublie souvent dans le train.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "âges",
+          "siècles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "éternité",
+          "feu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "volcan",
+          "lave"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "Pompéi",
+          "nécropole"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "bouche"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-009",
+    "titre": "Septième art",
+    "type": "solution",
+    "texte": "Dans la salle obscure, on fixe le grand écran ; le réalisateur crie « Moteur ! » ; une ____ jouée par une actrice fait pleurer le public.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "solution",
+    "texte": "Sous le masque de la vertu se cache la duplicité ; Tartuffe en est le ____ ; ses simagrées sont des larmes de crocodile.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grâce",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "amnistie",
+          "absolution",
+          "rémission"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "magnanimité"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigreur",
+      "fiel",
+      "file"
+    ],
+    "dejaFausses": [
+      "rancune",
+      "amertume"
+    ]
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "solitude",
+          "retraite",
+          "isolement"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "jeûne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "ascèse",
+          "privation"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "austérité",
+          "mortification"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "ablutions"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "solution",
+    "texte": "Le philosophe vivait dans un tonneau ; il méprisait les conventions et l'argent ; son impudence provocante choquait les notables d'Athènes.",
+    "dejaFausses": [
+      "Diogène"
+    ]
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "solution",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les dogmes établis.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "solution",
+    "texte": "Ce monstre aux têtes multiples renaissait à chaque décapitation ; Héraclès dut cautériser les plaies pour en venir à bout.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande armoire blanche garde au frais le beurre, les yaourts et le jambon.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la selle, on tient le guidon, on appuie sur les pédales ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "solution",
+    "texte": "Dans l'aéroport, on dépose ses valises ; le pilote attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "solution",
+    "texte": "Les pigments sont posés sur un enduit encore humide ; juché sur un ____, Michel-Ange couvrit ainsi le plafond de la Sixtine.",
+    "dejaFausses": [
+      "échafaudage"
+    ]
+  },
+  {
+    "id": "e-520",
+    "titre": "La Chevauchée fantastique",
+    "type": "solution",
+    "texte": "Une diligence attaquée, un shérif à l'étoile, des flèches venues des collines, un duel au soleil couchant, un revolver qu'on dégaine : John Ford en a fait un art.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son ____ ; les ____ se retirent avant le verdict.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-541",
+    "titre": "Le comte des Carpates",
+    "type": "solution",
+    "texte": "Il plante ses crocs dans les cous, dort le jour dans un cercueil, fuit l'ail et redoute l'aube ; un pieu dans le cœur l'achève.",
+    "dejaFausses": [
+      "Dracula"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "e-006": { "reponse": "un volcan", "raisonnement": "Le texte décrit une créature qui dort des siècles, crache feu et lave et fume au sommet, sans nommer un volcan précis. Vésuve a été refusé, donc je propose le terme générique." },
+  "e-008": { "reponse": "un produit de la ruche", "raisonnement": "Le texte décrit une substance née dans une ruche, fabriquée par les abeilles avec le nectar, sucrée et dorée. Miel a déjà été refusé comme mot, donc je la désigne par sa catégorie." },
+  "e-304": { "reponse": "simagrées", "raisonnement": "Masque, duplicité et hypocrisie sont trouvés, exemple, apparence et saint ont été refusés, et minauderies avec grimaces désigne les simagrées du faux dévot." },
+  "e-305": { "reponse": "le pardon royal", "raisonnement": "Le texte décrit la clémence du roi envers le félon, qui désarme la rancœur des courtisans. C'est le pardon royal." },
+  "e-308": { "reponse": "piège", "raisonnement": "Faille est trouvée, axiomes, sophisme, paralogisme, raisonnement et logique ont été refusés, et traquenard désigne le piège." },
+  "e-325": { "reponse": "purification", "raisonnement": "Anachorète, jeûne et discipline sont trouvés, chasteté et privation ont été refusées, et ablutions désigne la purification." },
+  "e-326": { "reponse": "notables", "raisonnement": "Tonneau et argent sont trouvés, coutume, mœurs, hôte, cynisme, impôt et puissants ont été refusés, et dignitaires avec bourgeois désigne les notables." },
+  "e-331": { "reponse": "l'hérésie", "raisonnement": "Le texte décrit l'écart par rapport au dogme, puni par l'excommunication et l'inquisition. C'est l'hérésie. L'Inquisition a été refusée." },
+  "e-335": { "reponse": "l'iconoclasme", "raisonnement": "Le texte décrit la politique d'un empereur qui fait briser les icônes, puis l'esprit frondeur qui bouscule les normes. C'est l'iconoclasme." },
+  "e-339": { "reponse": "bout", "raisonnement": "Monstre, cautériser sont trouvés, têtes, cou, tronc, couper et neuf ont été refusés, et extrémité désigne le bout, ce qui se coupe." },
+  "e-341": { "reponse": "l'aléa", "raisonnement": "Le texte oppose le destin et le calcul à la chance qui décide. Le mot le plus proche est l'aléa. Le jeu de hasard a été refusé." },
+  "e-403": { "reponse": "charcuterie", "raisonnement": "Beurre est trouvé, frigo, glacière, congélateur, réfrigérateur, glacée, glaçon et beurrier ont été refusés, et saucisson désigne la charcuterie." },
+  "e-435": { "reponse": "chambre à air", "raisonnement": "Équilibre est trouvé, pédale, guidon, selle, roue, vitesse, frein et chaîne ont été refusés, et pièce avec pneu désigne la chambre à air." },
+  "e-503": { "reponse": "incendie", "raisonnement": "Faîte, tige et foudre sont trouvés, corde, antenne et lampe ont été refusées, et brasier avec pompiers désigne l'incendie." },
+  "e-509": { "reponse": "l'embouchure", "raisonnement": "Le texte décrit un fleuve qui se divise à son arrivée à la mer en déposant des alluvions. C'est l'embouchure. Delta a été refusé comme mot." },
+  "e-520": { "reponse": "duel", "raisonnement": "Flèche et cavalier sont trouvés, ardeur, élan, maréchal, général, bataille et combat ont été refusés, et pistolet désigne le duel." },
+  "e-533": { "reponse": "un procès", "raisonnement": "Le texte décrit la comparution d'un prévenu, le réquisitoire du procureur et le verdict : c'est un procès." },
+  "e-536": { "reponse": "un géant", "raisonnement": "Le texte décrit un colosse aux bottes de sept lieues, qui veut dévorer des frères et égorge ses filles. C'est un géant. L'Ogre du Petit Poucet a été refusé." }
+}

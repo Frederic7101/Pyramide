@@ -1,0 +1,73 @@
+[
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une sanction exemplaire.",
+    "dejaFausses": [
+      "la grâce"
+    ]
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "type": "solution",
+    "texte": "Il fuit ses semblables, déteste leur fausseté ; reclus dans sa retraite, il cultive sa solitude et sa rancune.",
+    "dejaFausses": [
+      "le misanthrope",
+      "l'ermite"
+    ]
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tâche",
+          "ouvrage"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "prétextes",
+          "faux-fuyants",
+          "subterfuges"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "report",
+          "délai"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "atermoiements",
+          "tergiversations"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "débiteurs"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-322",
+    "titre": "Éclair intérieur",
+    "type": "solution",
+    "texte": "Un éclair fulgurant dans l'esprit, une soudaine illumination : tout devient limpide ; les mages y virent la manifestation d'un dieu ; nous fêtons cela avec une ____.",
+    "dejaFausses": []
+  }
+]

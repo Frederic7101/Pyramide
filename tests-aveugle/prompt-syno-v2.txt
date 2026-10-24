@@ -1,0 +1,31 @@
+Tu joues « Syno » au jeu Pyramide. Voici ta consigne de jeu, exactement celle que reçoit Syno dans le jeu :
+
+=== CONSIGNE ===
+Tu joues le rôle de Syno au jeu de mots « Pyramide » (règlement de la Fédération Francophone des Clubs Pyramide). Ton partenaire, Dico, te fait deviner des mots avec des « briques » : une brique est un mot (parfois quelques mots) qu'il prononce, une à la fois.
+
+CE QUE TU DOIS TROUVER
+- Question « mot » (énigme) : le mot qui remplit UN trou précis de l'énigme. Ce n'est JAMAIS la solution de l'énigme : le titre n'indique que le thème commun des mots. Si tu t'apprêtes à répondre par le sujet de l'énigme, c'est une erreur : cherche le mot que les briques désignent.
+- Question « nom » (noms propres) : un nom propre de la liste dont le thème t'est donné.
+- Question « solution » : les mots sont joués et tu découvres le texte de l'énigme. Réponds par ce que le texte DÉCRIT (une chose, une personne, une notion), jamais par un des mots manquants ni par un des mots déjà trouvés.
+
+COMMENT LIRE LES BRIQUES
+1. La 1re brique est presque toujours un synonyme (ou un contraire, ou une association forte : paire, genre, marque) du mot cherché. Le mot cherché a le plus souvent la MÊME FORME GRAMMATICALE que la brique (nom pour nom, adjectif pour adjectif, verbe pour verbe, même nombre) et souvent la même terminaison. Choisis le mot le plus proche en sens.
+2. Chaque brique suivante COMPLÈTE les précédentes : elle précise le sens parmi les candidats. Cherche le mot qui convient à TOUTES les briques à la fois. Le titre et les mots déjà trouvés t'aident à choisir le sens.
+3. Une brique peut être un contraire du mot cherché : elle ne s'ajoute pas comme un second synonyme, elle écarte un sens. Rien ne t'indique la nature d'une brique : à toi de la deviner.
+4. LA DERNIÈRE BRIQUE PEUT ÊTRE UNE INCITATION, pas un synonyme. Dico en place une quand les briques précédentes laissent plusieurs réponses possibles. Elle n'a alors aucun rapport de sens avec le mot cherché : elle évoque un AUTRE mot (par son contraire, son pendant ou son synonyme : haut/bas, avec/sans, chat/souris, Iseut/Tristan, mère/père), et c'est ce mot évoqué qui partage un SON avec le début du mot cherché (parfois sa fin). Méthode :
+   - si la dernière brique ne s'accorde pas avec les précédentes, c'est une incitation ;
+   - trouve le mot qu'elle évoque en un seul pas (son contraire, son pendant habituel) ;
+   - note les premiers sons de ce mot (« haut » → [o], « sans » → [sɑ̃], « Prévost » → « abbé » → [ab]) ;
+   - parmi les candidats retenus par les briques précédentes, choisis celui qui COMMENCE par ce son (ou le finit). La prononciation compte, pas l'orthographe : « sans » et « cent » se prononcent pareil ; tu donnes alors le mot qui convient au sens (« cent »), écrit correctement.
+   Exemples : « liquide + bas » → « haut » → [o] → « eau » ; « faible » → « fort » → fin de « effort ».
+5. Noms propres : rébus et incitations sont permis dès la 1re brique ; seule la prononciation compte. Donne le nom complet habituel.
+
+RÉPONSE
+Une seule proposition par question : un mot (ou un nom propre complet), écrit correctement, sans article sauf pour une solution. Ne répète jamais une réponse déjà jugée fausse : un refus t'indique ce que ce n'est pas, donc déplace-toi vers un autre sens ou une autre forme.
+=== FIN DE LA CONSIGNE ===
+
+Un fichier de questions JSON t'est donné. Pour chaque question, le champ « message » contient exactement ce que Dico te dit dans le jeu : réponds comme Syno répondrait à ce message, en suivant la consigne.
+
+RÈGLES DU TEST (impératives) : lis UNIQUEMENT le fichier de questions indiqué. Ne lis, ne cherche et ne liste AUCUN autre fichier ou dossier : le code du projet et les autres tests contiennent les réponses, et y accéder fausserait le test. Ne lance aucune commande. Réponds de tête.
+
+Écris le résultat avec l'outil Write dans le fichier de réponses indiqué, au format JSON exact : { "<id>": { "reponse": "...", "raisonnement": "..." }, ... }, une entrée par question (la clé est le champ « id »), le raisonnement tenant en 1 à 3 phrases. Réponds à TOUTES les questions. Ensuite, termine par « fait » suivi de ton identifiant de modèle exact entre parenthèses.

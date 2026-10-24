@@ -1,0 +1,581 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "solution",
+    "texte": "Je m'ouvre quand le ____ est menaçant ; je suis votre ____ contre l'averse ; mes baleines plient par grand vent ; on m'oublie souvent dans le train.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "solution",
+    "texte": "Je dors parfois pendant des ____ ; à mon réveil, je crache du ____ et de la ____ ; j'ai jadis enseveli une ville romaine ; mon ____ fume au sommet.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-007",
+    "titre": "Il passe chaque matin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le facteur",
+          "le soleil"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le vagabond",
+          "l'écolier"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "le laitier",
+          "le postier"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le marchand de journaux",
+          "le boulanger"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "bicyclette",
+      "apocope"
+    ],
+    "dejaFausses": [
+      "le coursier"
+    ]
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le champagne",
+          "le miel"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "l'hydromel",
+          "le nectar"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "l'élixir",
+          "l'abeille"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le sirop",
+          "le caramel"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "rondelle",
+      "jambon"
+    ],
+    "dejaFausses": [
+      "la pièce"
+    ]
+  },
+  {
+    "id": "e-009",
+    "titre": "Septième art",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le film",
+          "la pellicule"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le projecteur",
+          "l'écran"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la Nouvelle Vague",
+          "le cinéaste",
+          "la bande originale"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le plan",
+          "la scène"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "comédienne"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-204",
+    "titre": "Effacé, pas oublié",
+    "type": "solution",
+    "texte": "Sur ce parchemin ancien, un ____ gratta le premier ____ pour en copier un autre ; mais les ____ modernes révèlent les écritures effacées.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Tartuffe",
+          "le cagot"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le bigot",
+          "l'hypocrite",
+          "le fourbe"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "le saint",
+          "le sage",
+          "le confesseur"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "minauderies",
+      "grimaces"
+    ],
+    "dejaFausses": [
+      "la pruderie"
+    ]
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la grâce",
+          "la clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le judas",
+          "le félon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la largesse",
+          "le magnanime",
+          "le prince"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigreur",
+      "fiel",
+      "file"
+    ],
+    "dejaFausses": [
+      "la douceur",
+      "la rancune"
+    ]
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le sophisme",
+          "le paralogisme"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le spécieux",
+          "le paradoxe"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "l'axiome",
+          "l'argument",
+          "le sophiste"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le corollaire",
+          "l'inférence"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "traquenard"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "solution",
+    "texte": "L'anachorète se prive de tout : ____, abstinence et veilles ; par cette discipline, il cherche la purification de l'âme.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "solution",
+    "texte": "Le philosophe vivait dans un tonneau ; il méprisait les ____ et l'____ ; son impudence provocante choquait les notables d'Athènes.",
+    "dejaFausses": [
+      "richesses / argent"
+    ]
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "type": "solution",
+    "texte": "Cet art de la ____ aime les ____ et les colonnes ____ ; il cultive le trompe-l'œil et le goût de l'ostentation.",
+    "dejaFausses": [
+      "courbe / volutes / torses"
+    ]
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Byzance",
+          "Léon III l'Isaurien"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "les icônes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "les iconoclastes",
+          "la Fronde",
+          "le cardinal"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "l'agitation",
+          "la tradition"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "principes",
+      "Église"
+    ],
+    "dejaFausses": [
+      "les convictions"
+    ]
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'hydre",
+          "le serpent"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "les têtes",
+          "les travaux"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la hache",
+          "le couperet",
+          "les douze"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "brûler",
+      "fer rouge",
+      "falaise"
+    ],
+    "dejaFausses": [
+      "le fer rouge",
+      "la torche"
+    ]
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "solution",
+    "texte": "Ni destin ni calcul : seule la chance décide ; la fortune sourit aux audacieux ; le joueur invoque sa bonne étoile et redoute la ____.",
+    "dejaFausses": [
+      "malchance"
+    ]
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande ____ blanche garde au ____ le beurre, les yaourts et le jambon.",
+    "dejaFausses": [
+      "armoire / froid"
+    ]
+  },
+  {
+    "id": "e-428",
+    "titre": "Tchou-tchou !",
+    "type": "solution",
+    "texte": "Sur le quai, on attend en regardant l'horloge ; il arrive sur la voie ; on monte dans un wagon ; le contrôleur vérifie les ____.",
+    "dejaFausses": [
+      "billets"
+    ]
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la ____, on tient le guidon, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.",
+    "dejaFausses": [
+      "selle / pédales / chambre"
+    ]
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "solution",
+    "texte": "Dressée sur le faîte de l'édifice, une tige métallique attire la foudre ; un ____ la conduit jusqu'au sol, évitant l'____.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "solution",
+    "texte": "Les ____ sont posés sur un ____ encore ____ ; juché sur un échafaudage, Michel-Ange couvrit ainsi le plafond de la Sixtine.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-509",
+    "titre": "Embouchure en éventail",
+    "type": "solution",
+    "texte": "Le ____ se divise en ____ ; ses crues y déposent des alluvions ; celui du Nil a la forme d'un triangle.",
+    "dejaFausses": [
+      "fleuve / bras"
+    ]
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "solution",
+    "texte": "Son ____ chauffe l'eau ; à la pelle, on y jette le charbon ; elle tire les ____ sur les rails.",
+    "dejaFausses": [
+      "chaudière / wagons",
+      "foyer / convois"
+    ]
+  },
+  {
+    "id": "e-530",
+    "titre": "Un plat qui se mange froid",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la salade",
+          "le gaspacho"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la terrine",
+          "le pâté"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la charcuterie",
+          "la revanche",
+          "le pique-nique"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "la vengeance",
+          "la haine"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "punition"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le ____ comparaît ; le greffier consigne les débats ; le procureur prononce son ____ ; les ____ se retirent avant le verdict.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'ogre",
+          "le cavalier"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le cyclope",
+          "le colosse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la baleine",
+          "la Bible"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le roi",
+          "la couronne"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pierres",
+      "Poucet"
+    ],
+    "dejaFausses": [
+      "le château"
+    ]
+  },
+  {
+    "id": "e-541",
+    "titre": "Le comte des Carpates",
+    "type": "solution",
+    "texte": "Il plante ses ____ dans les cous, dort le jour dans un ____, fuit l'ail et redoute l'____ ; un pieu dans le cœur l'achève.",
+    "dejaFausses": [
+      "canines / cercueil / lumière"
+    ]
+  }
+]

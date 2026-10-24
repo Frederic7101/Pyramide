@@ -1,0 +1,59 @@
+[
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "solution",
+    "texte": "Je dors parfois pendant des siècles ; à mon réveil, je crache du feu et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.",
+    "dejaFausses": [
+      "le Vésuve"
+    ]
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grâce",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "amnistie",
+          "absolution",
+          "rémission"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "magnanimité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "rancune",
+          "amertume",
+          "ressentiment"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "punition",
+      "avec"
+    ],
+    "dejaFausses": [
+      "châtiment"
+    ]
+  }
+]

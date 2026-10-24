@@ -1,0 +1,145 @@
+[
+  {
+    "id": "e-407",
+    "titre": "Ciel en colère",
+    "type": "solution",
+    "texte": "Le tonnerre gronde, un éclair zèbre le ciel, la pluie tombe à verse ; le chien se cache sous le lit et l'on éteint l'____.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "solution",
+    "texte": "Sous sa carapace couverte d'écailles, elle peut vivre ____ ans, broute les feuilles tombées et, chez La Fontaine, bat le lièvre à la course.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "couette",
+          "oreiller",
+          "taie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "duvet"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "crâne"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "solution",
+    "texte": "On souffle les bougies plantées dans le gâteau ; tout le monde chante en chœur ; on déballe les paquets ; et l'on compte une ride de plus.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "réservé"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gêné",
+          "emprunté"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "craintif",
+          "timoré"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "foule"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "effacement",
+      "assurée",
+      "vinyle"
+    ],
+    "dejaFausses": [
+      "discret",
+      "timide"
+    ]
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son réquisitoire ; les ____ se retirent avant le verdict.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-535",
+    "titre": "Pour le meilleur et pour le pire",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "fiançailles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "alliance"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "témoins"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "trousseau"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "épousailles"
+    ],
+    "dejaFausses": []
+  }
+]

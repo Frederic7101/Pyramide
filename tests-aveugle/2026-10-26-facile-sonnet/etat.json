@@ -1,0 +1,99 @@
+{
+  "niveau": "@tests-aveugle/echantillon-facile-reecrit.json",
+  "vague": 10,
+  "reponses": {
+    "e-003": [
+      "ciel",
+      "bouclier",
+      "baleines",
+      "vent",
+      "cortège",
+      "train",
+      "le parapluie"
+    ],
+    "e-006": [
+      "âges",
+      "ères",
+      "veilleuse",
+      "feu",
+      "lave",
+      "Pompéi",
+      "nécropole",
+      "cratère",
+      "le volcan"
+    ],
+    "e-007": [
+      "tournée",
+      "sacoche",
+      "lettres",
+      "colis",
+      "boîte",
+      "vélo",
+      "le facteur"
+    ],
+    "e-008": [
+      "ruche",
+      "abeilles",
+      "nectar",
+      "miel",
+      "sucre",
+      "tranche",
+      "le miel"
+    ],
+    "e-009": [
+      "scène",
+      "salle",
+      "écran",
+      "réalisateur",
+      "plan",
+      "scène",
+      "actrice",
+      "le cinéma"
+    ],
+    "e-403": [
+      "armoire",
+      "frais",
+      "beurre",
+      "yaourt",
+      "charcuterie",
+      "jambon",
+      "le réfrigérateur"
+    ],
+    "e-428": [
+      "quai",
+      "rail",
+      "voie",
+      "wagon",
+      "contrôleur",
+      "billets",
+      "le train"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "le Père Noël"
+    ],
+    "e-435": [
+      "pédale",
+      "selle",
+      "guidon",
+      "pédale",
+      "équilibre",
+      "roue",
+      "chambre",
+      "le vélo"
+    ],
+    "e-437": [
+      "aéroport",
+      "valises",
+      "pilote",
+      "traînée",
+      "piste",
+      "hôtesse",
+      "l'avion"
+    ]
+  }
+}

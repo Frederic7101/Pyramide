@@ -1,0 +1,340 @@
+[
+  {
+    "id": "e-402",
+    "titre": "L'heure anglaise",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "thé",
+          "eau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "étiquette",
+          "prise"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "vapeur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "siffler"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "tisane",
+      "Ceylan"
+    ],
+    "dejaFausses": [
+      "infusion"
+    ]
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande armoire blanche garde au frais le beurre, les yaourts et le jambon.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-407",
+    "titre": "Ciel en colère",
+    "type": "solution",
+    "texte": "Le tonnerre gronde, un éclair zèbre le ciel, la pluie tombe à verse ; le chien se cache sous le ____ et l'on éteint l'____.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-415",
+    "titre": "Purée de pois",
+    "type": "solution",
+    "texte": "Un voile épais couvre la campagne ; on n'y voit pas plus loin que le bout de son nez, les voitures allument leurs feux et roulent lentement.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-421",
+    "titre": "Debout là-dedans !",
+    "type": "solution",
+    "texte": "Posé sur la table de nuit, sa sonnerie retentit à six heures ; on tape dessus pour dormir encore un peu sous la couette.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-423",
+    "titre": "Il répète tout",
+    "type": "solution",
+    "texte": "Cet oiseau au plumage coloré vit dans une cage ; il imite la voix de son maître et raffole des graines de tournesol.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-434",
+    "titre": "Feu de camp",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "musicien"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "cordes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "guitare",
+          "ongles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "campement",
+          "camping"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "acoustique",
+      "anguille"
+    ],
+    "dejaFausses": [
+      "guitare"
+    ]
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "pédale",
+          "selle"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "guidon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "frein",
+          "pédale"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "équilibre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pièce",
+      "lit"
+    ],
+    "dejaFausses": [
+      "rustine"
+    ]
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "bougies"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gâteau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "chanson",
+          "chanter"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "cadeaux",
+          "paquet"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pli",
+      "front"
+    ],
+    "dejaFausses": [
+      "enveloppe"
+    ]
+  },
+  {
+    "id": "e-520",
+    "titre": "La Chevauchée fantastique",
+    "type": "solution",
+    "texte": "Une diligence attaquée, un shérif à l'étoile, des flèches venues des collines, un duel au soleil couchant, un revolver qu'on dégaine : John Ford en a fait un art.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-521",
+    "titre": "Avant le parlant",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "dialogues"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "bobines",
+          "cartons"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pianiste"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "Charlot",
+          "vagabond"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "dépassé",
+      "technologie"
+    ],
+    "dejaFausses": [
+      "démodé"
+    ]
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "solution",
+    "texte": "Ce garçon réservé se sent emprunté dès qu'on lui parle ; l'____ le paralyse ; il fuit les foules et cultive la discrétion.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-528",
+    "titre": "La cassette d'Harpagon",
+    "type": "solution",
+    "texte": "Ce vieux ____ enterre son magot au jardin ; il ne cesse de lésiner sur tout ; sa rapacité le perd : il ne lâcherait pas un sou.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "prévenu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "huissier",
+          "greffier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "avocat",
+          "réquisitoire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "juges",
+          "cour"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "sentence"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-549",
+    "titre": "La dîme et la gabelle",
+    "type": "solution",
+    "texte": "Chaque contribuable reçoit l'avis du percepteur ; il paie selon ses revenus, après sa déclaration annuelle ; la fraude est sévèrement punie.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-550",
+    "titre": "L'œil de la vigie",
+    "type": "solution",
+    "texte": "Ses lentilles rapprochent le lointain ; le capitaine y guette le corsaire qui pointe à l'horizon ; il faut la déployer avant de la porter à son œil.",
+    "dejaFausses": []
+  }
+]

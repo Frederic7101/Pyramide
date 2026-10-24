@@ -1,0 +1,530 @@
+[
+  {
+    "id": "np-307",
+    "type": "nom",
+    "theme": "Écrivains des Lumières",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Encyclopédie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-308",
+    "type": "nom",
+    "theme": "Poètes symbolistes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "faune"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-309",
+    "type": "nom",
+    "theme": "Navigateurs et explorateurs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "détroit"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-310",
+    "type": "nom",
+    "theme": "Savants de la Renaissance",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "héliocentrisme"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-311",
+    "type": "nom",
+    "theme": "Mathématiciens",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Bâle"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-312",
+    "type": "nom",
+    "theme": "Physiciens",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "équations"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-313",
+    "type": "nom",
+    "theme": "Révolutionnaires",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "audace"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-314",
+    "type": "nom",
+    "theme": "Rois de France médiévaux",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Bouvines"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-315",
+    "type": "nom",
+    "theme": "Reines et régentes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "troubadours"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-316",
+    "type": "nom",
+    "theme": "Empereurs romains",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "mur"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-317",
+    "type": "nom",
+    "theme": "Pharaons",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Aton"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-318",
+    "type": "nom",
+    "theme": "Dieux de l'Olympe",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "forge"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-319",
+    "type": "nom",
+    "theme": "Héroïnes tragiques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Hippolyte"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-320",
+    "type": "nom",
+    "theme": "Personnages de Balzac",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "ambition"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-321",
+    "type": "nom",
+    "theme": "Personnages de Proust",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Odette"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-322",
+    "type": "nom",
+    "theme": "Personnages de Shakespeare",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Elseneur"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-323",
+    "type": "nom",
+    "theme": "Héroïnes d'opéra",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Séville"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-324",
+    "type": "nom",
+    "theme": "Sculpteurs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Penseur"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-325",
+    "type": "nom",
+    "theme": "Architectes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "citadelles"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-326",
+    "type": "nom",
+    "theme": "Cinéastes de la Nouvelle Vague",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Doinel"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Sète"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-328",
+    "type": "nom",
+    "theme": "Peintres espagnols",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Majas"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-329",
+    "type": "nom",
+    "theme": "Écrivains italiens",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Béatrice"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-330",
+    "type": "nom",
+    "theme": "Écrivains de langue allemande",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Werther"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-331",
+    "type": "nom",
+    "theme": "Philosophes allemands",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "dialectique"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-332",
+    "type": "nom",
+    "theme": "Philosophes britanniques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Léviathan"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-333",
+    "type": "nom",
+    "theme": "Médecins célèbres",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "stéthoscope"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-334",
+    "type": "nom",
+    "theme": "Chimistes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "oxygène"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-335",
+    "type": "nom",
+    "theme": "Inventeurs français",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "métier"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-336",
+    "type": "nom",
+    "theme": "Gens de mer",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "corsaire"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-337",
+    "type": "nom",
+    "theme": "Figures de la Résistance",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Rex"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-338",
+    "type": "nom",
+    "theme": "Maréchaux d'Empire",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "braves"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-339",
+    "type": "nom",
+    "theme": "Batailles navales",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Nelson"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-340",
+    "type": "nom",
+    "theme": "Sites antiques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Grenade"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-341",
+    "type": "nom",
+    "theme": "Fleuves du monde",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Laos"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-342",
+    "type": "nom",
+    "theme": "Capitales lointaines",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Mongolie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-343",
+    "type": "nom",
+    "theme": "Îles",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Funchal"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-344",
+    "type": "nom",
+    "theme": "Sommets",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Herzog"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-345",
+    "type": "nom",
+    "theme": "Dieux nordiques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "corbeaux"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-346",
+    "type": "nom",
+    "theme": "Divinités égyptiennes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "chacal"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-347",
+    "type": "nom",
+    "theme": "Figures bibliques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "jugement"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-348",
+    "type": "nom",
+    "theme": "Saints",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "oiseaux"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Mortimer"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-350",
+    "type": "nom",
+    "theme": "Écrivains d'Amérique latine",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Aleph"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

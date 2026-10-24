@@ -1,0 +1,13 @@
+[
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cuirasse"
+    ],
+    "dejaFausses": []
+  }
+]

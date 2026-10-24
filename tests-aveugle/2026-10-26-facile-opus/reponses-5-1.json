@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "train", "raisonnement": "Un convoi a pour synonyme direct « train », nom masculin singulier." },
+  "e-006": { "reponse": "ville", "raisonnement": "« Cité » a pour synonyme « ville » ; le volcan endormi qui ensevelit une ville sous la lave (Pompéi)." },
+  "e-007": { "reponse": "vélo", "raisonnement": "La bicyclette est un vélo, celui du facteur pendant sa tournée." },
+  "e-008": { "reponse": "tranche", "raisonnement": "Une rondelle est une tranche ronde ; le miel se tartine sur une tranche." },
+  "e-009": { "reponse": "scène", "raisonnement": "Une séquence de film a pour synonyme proche « scène »." },
+  "e-403": { "reponse": "yaourt", "raisonnement": "Danone est la marque emblématique du yaourt, rangé au réfrigérateur." },
+  "e-428": { "reponse": "billets", "raisonnement": "Les tickets sont des billets, au pluriel, que vérifie le contrôleur." },
+  "e-430": { "reponse": "sapin", "raisonnement": "Le sapin est le conifère de Noël, sous lequel le Père Noël dépose les cadeaux." },
+  "e-435": { "reponse": "équilibre", "raisonnement": "La stabilité a pour synonyme « équilibre », indispensable à vélo." },
+  "e-437": { "reponse": "piste", "raisonnement": "La piste est une trace, et l'atterrissage se fait sur la piste : seul mot qui convient aux deux briques." }
+}

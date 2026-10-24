@@ -1,0 +1,17 @@
+{
+  "e-003": { "reponse": "train", "raisonnement": "Cortège refusé ; rails précise le convoi : un train." },
+  "e-007": { "reponse": "le facteur", "raisonnement": "Tournée, sacoche de lettres, courrier glissé dans la boîte, vélo : le texte décrit le facteur." },
+  "e-204": { "reponse": "le palimpseste", "raisonnement": "Un parchemin gratté puis réécrit, dont les rayons révèlent le texte effacé : c'est un palimpseste." },
+  "e-304": { "reponse": "simagrées", "raisonnement": "Minauderies a pour synonyme simagrées, nom féminin pluriel ; le faux dévot multiplie les simagrées de piété." },
+  "e-308": { "reponse": "le sophisme", "raisonnement": "Un raisonnement d'apparence rigoureuse qui cache une faille et mène à une conclusion fausse : un sophisme." },
+  "e-325": { "reponse": "austérité", "raisonnement": "Rigueur a pour synonyme austérité, nom féminin ; elle complète jeûne et abstinence dans la vie de l'anachorète." },
+  "e-335": { "reponse": "bousculer", "raisonnement": "Ébranler refusé ; habitudes précise secouer dans l'expression « bousculer les habitudes »." },
+  "e-339": { "reponse": "l'Hydre de Lerne", "raisonnement": "Le monstre aux têtes multiples qui repoussent, vaincu par Héraclès en cautérisant les plaies : l'Hydre de Lerne." },
+  "e-430": { "reponse": "le père Noël", "raisonnement": "Traîneau, rennes, cheminée, cadeaux au pied du sapin : le père Noël." },
+  "e-435": { "reponse": "rustine", "raisonnement": "Une pièce collée sur la chambre à air du vélo est une rustine." },
+  "e-437": { "reponse": "hôtesse", "raisonnement": "Steward a pour pendant habituel hôtesse (de l'air), personnel de cabine de l'avion." },
+  "e-515": { "reponse": "la locomotive", "raisonnement": "Foyer, charbon, wagons tirés sur les rails : la locomotive à vapeur, le cheval de fer." },
+  "e-530": { "reponse": "châtiment", "raisonnement": "Punition a pour synonyme châtiment ; la vengeance implacable est un châtiment." },
+  "e-536": { "reponse": "l'ogre", "raisonnement": "Bottes de sept lieues, filles égorgées à cause des couronnes échangées par le Petit Poucet : l'ogre." },
+  "e-541": { "reponse": "le vampire", "raisonnement": "Crocs, cercueil, ail, aube et pieu dans le cœur : le vampire, Dracula." }
+}

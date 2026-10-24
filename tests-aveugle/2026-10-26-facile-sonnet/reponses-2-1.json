@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "bouclier", "raisonnement": "Écu est un bouclier ; le compagnon des jours gris, c'est ce qui protège de la pluie." },
+  "e-006": { "reponse": "ères", "raisonnement": "Époques et terre évoquent les ères géologiques ; âges est écarté." },
+  "e-007": { "reponse": "sacoche", "raisonnement": "Besace est un sac, et le facteur qui passe chaque matin porte une sacoche." },
+  "e-008": { "reponse": "abeilles", "raisonnement": "Les bourdons sont des insectes proches des abeilles, productrices du miel (or liquide)." },
+  "e-009": { "reponse": "salle", "raisonnement": "Pièce est un synonyme de salle ; propre évoque le contraire sale, qui sonne comme salle (salle de cinéma)." },
+  "e-403": { "reponse": "frais", "raisonnement": "Frisquet est un synonyme familier de frais, adjectif lié au froid de la cuisine." },
+  "e-428": { "reponse": "rail", "raisonnement": "Chemin évoque le chemin de fer, donc le rail du train." },
+  "e-430": { "reponse": "rennes", "raisonnement": "Cervidés au pluriel : les rennes tirent le traîneau du Père Noël." },
+  "e-435": { "reponse": "selle", "raisonnement": "Étrier va avec selle ; poivre évoque sel, qui commence comme selle." },
+  "e-437": { "reponse": "valises", "raisonnement": "Bagages au pluriel se dit valises, ce qu'on enregistre à l'aéroport avant l'avion." }
+}

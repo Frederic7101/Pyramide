@@ -1,0 +1,305 @@
+[
+  {
+    "id": "e-407",
+    "titre": "Ciel en colère",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tonnerre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "éclair"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pluie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "nuages",
+          "lit"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "souris"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "carapace"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "écailles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "centenaire",
+          "âge",
+          "longévité"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "branches"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-420",
+    "titre": "Prince charmant ?",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "têtard"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "mare"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "insectes",
+          "mouches"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "langue"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "crapaud"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "housse",
+      "traversin"
+    ],
+    "dejaFausses": [
+      "couette"
+    ]
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "bougies"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gâteau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "chanson",
+          "chœur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "colis",
+      "cigarettes"
+    ],
+    "dejaFausses": [
+      "cadeaux"
+    ]
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "solution",
+    "texte": "Son foyer chauffe l'eau ; à la pelle, on y jette le charbon ; elle tire les wagons sur les rails.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "réservé"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gêné",
+          "emprunté"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "craintif",
+          "timoré"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "multitude"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-528",
+    "titre": "La cassette d'Harpagon",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "avare",
+          "radin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "magot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "lésiner"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "cupidité",
+      "vautour"
+    ],
+    "dejaFausses": [
+      "avidité"
+    ]
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "prévenu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "greffier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "avocat",
+          "réquisitoire"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "assesseurs",
+      "assises"
+    ],
+    "dejaFausses": [
+      "juge"
+    ]
+  },
+  {
+    "id": "e-535",
+    "titre": "Pour le meilleur et pour le pire",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "fiançailles"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "anneau"
+    ],
+    "dejaFausses": []
+  }
+]

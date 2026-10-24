@@ -1,0 +1,632 @@
+[
+  {
+    "id": "np-002",
+    "type": "nom",
+    "theme": "Écrivains français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Victor Hugo"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Tartuffe"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Écrivains français ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Victor Hugo »).\nBriques de Dico :\n1. Tartuffe\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-103",
+    "type": "nom",
+    "theme": "Villes de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Strasbourg"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "calanques"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Villes de France ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Strasbourg »).\nBriques de Dico :\n1. calanques\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-204",
+    "type": "nom",
+    "theme": "Écrivains russes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Léon Tolstoï"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Raskolnikov"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Écrivains russes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Léon Tolstoï »).\nBriques de Dico :\n1. Raskolnikov\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-205",
+    "type": "nom",
+    "theme": "Savants de l'Antiquité",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Archimède"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "géométrie"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Savants de l'Antiquité ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Archimède »).\nBriques de Dico :\n1. géométrie\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-307",
+    "type": "nom",
+    "theme": "Écrivains des Lumières",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Denis Diderot"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Persanes"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Écrivains des Lumières ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Denis Diderot »).\nBriques de Dico :\n1. Persanes\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-316",
+    "type": "nom",
+    "theme": "Empereurs romains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hadrien"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "cheval"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Empereurs romains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Hadrien »).\nBriques de Dico :\n1. cheval\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-322",
+    "type": "nom",
+    "theme": "Personnages de Shakespeare",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hamlet"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Desdémone"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Personnages de Shakespeare ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Hamlet »).\nBriques de Dico :\n1. Desdémone\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Amsterdam"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Grands de la chanson ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Georges Brassens »).\nBriques de Dico :\n1. Amsterdam\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-328",
+    "type": "nom",
+    "theme": "Peintres espagnols",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francisco de Goya"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Ménines"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Peintres espagnols ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Francisco de Goya »).\nBriques de Dico :\n1. Ménines\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-331",
+    "type": "nom",
+    "theme": "Philosophes allemands",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hegel"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Zarathoustra"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Philosophes allemands ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Hegel »).\nBriques de Dico :\n1. Zarathoustra\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-338",
+    "type": "nom",
+    "theme": "Maréchaux d'Empire",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Michel Ney"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "cavalerie"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Maréchaux d'Empire ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Michel Ney »).\nBriques de Dico :\n1. cavalerie\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-345",
+    "type": "nom",
+    "theme": "Dieux nordiques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Odin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "marteau"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Dieux nordiques ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Odin »).\nBriques de Dico :\n1. marteau\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Blake"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Pratt"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héros de bande dessinée réaliste ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Blake »).\nBriques de Dico :\n1. Pratt\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-403",
+    "type": "nom",
+    "theme": "Grandes villes du monde",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "New York"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Tamise"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Grandes villes du monde ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« New York »).\nBriques de Dico :\n1. Tamise\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-420",
+    "type": "nom",
+    "theme": "Champions de tennis",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Roger Federer"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Majorque"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Champions de tennis ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Roger Federer »).\nBriques de Dico :\n1. Majorque\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-424",
+    "type": "nom",
+    "theme": "Actrices françaises",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Brigitte Bardot"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Parapluies"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Actrices françaises ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Brigitte Bardot »).\nBriques de Dico :\n1. Parapluies\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-432",
+    "type": "nom",
+    "theme": "Marques gourmandes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Coca-Cola"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "pâte à tartiner"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Marques gourmandes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Coca-Cola »).\nBriques de Dico :\n1. pâte à tartiner\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-434",
+    "type": "nom",
+    "theme": "Outre-mer français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Martinique"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "piton de la Fournaise"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Outre-mer français ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Martinique »).\nBriques de Dico :\n1. piton de la Fournaise\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-437",
+    "type": "nom",
+    "theme": "Mers et océans",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Méditerranée"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Hawaï"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Mers et océans ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Méditerranée »).\nBriques de Dico :\n1. Hawaï\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-441",
+    "type": "nom",
+    "theme": "Personnages de Star Wars",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dark Vador"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "petit"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Personnages de Star Wars ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Dark Vador »).\nBriques de Dico :\n1. petit\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-448",
+    "type": "nom",
+    "theme": "Présidents de la République",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Charles de Gaulle"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Corrèze"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents de la République ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Charles de Gaulle »).\nBriques de Dico :\n1. Corrèze\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Dallas"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Abraham Lincoln »).\nBriques de Dico :\n1. Dallas\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-501",
+    "type": "nom",
+    "theme": "Opéras de Verdi",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Aida"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "bouffon"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Opéras de Verdi ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Aida »).\nBriques de Dico :\n1. bouffon\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Estaque"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Fauves et cubistes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Henri Matisse »).\nBriques de Dico :\n1. Estaque\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-511",
+    "type": "nom",
+    "theme": "Moralistes et fabulistes du Grand Siècle",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jean de La Fontaine"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Théophraste"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Moralistes et fabulistes du Grand Siècle ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Jean de La Fontaine »).\nBriques de Dico :\n1. Théophraste\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-524",
+    "type": "nom",
+    "theme": "Héroïnes de la mythologie grecque",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Pénélope"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "serpent"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héroïnes de la mythologie grecque ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Pénélope »).\nBriques de Dico :\n1. serpent\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-528",
+    "type": "nom",
+    "theme": "Ministres de l'Ancien Régime",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Mazarin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "manufactures"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Ministres de l'Ancien Régime ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Mazarin »).\nBriques de Dico :\n1. manufactures\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-534",
+    "type": "nom",
+    "theme": "Pionniers de l'aviation",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Louis Blériot"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Courrier sud"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Pionniers de l'aviation ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Louis Blériot »).\nBriques de Dico :\n1. Courrier sud\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-542",
+    "type": "nom",
+    "theme": "Groupes de rock britanniques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Led Zeppelin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Townshend"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Groupes de rock britanniques ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Led Zeppelin »).\nBriques de Dico :\n1. Townshend\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-549",
+    "type": "nom",
+    "theme": "Villes ibériques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Séville"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Boabdil"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Villes ibériques ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Séville »).\nBriques de Dico :\n1. Boabdil\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

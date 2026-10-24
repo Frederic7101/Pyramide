@@ -1,0 +1,942 @@
+[
+  {
+    "id": "e-402",
+    "titre": "L'heure anglaise",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "thé",
+          "eau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "étiquette",
+          "prise"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "vapeur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "siffler"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "tisane"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "armoire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "froid",
+          "frais"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "beurre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "yaourts"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "saucisson",
+      "Bayonne"
+    ],
+    "dejaFausses": [
+      "charcuterie"
+    ]
+  },
+  {
+    "id": "e-407",
+    "titre": "Ciel en colère",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tonnerre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "éclair"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pluie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "vent",
+          "foudre"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "tablette",
+      "clavier"
+    ],
+    "dejaFausses": [
+      "noir"
+    ]
+  },
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "solution",
+    "texte": "Sous sa carapace couverte d'écailles, elle peut vivre ____ ans, broute les feuilles tombées et, chez La Fontaine, bat le lièvre à la course.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-415",
+    "titre": "Purée de pois",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "voile"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "campagne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "bouché",
+          "nez"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "fumée",
+          "feux"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "doucement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-419",
+    "titre": "Le roi des forêts",
+    "type": "solution",
+    "texte": "Cet arbre majestueux aux racines solides laisse tomber ses glands, que se disputent les écureuils ; on en tire un bois très dur.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-420",
+    "titre": "Prince charmant ?",
+    "type": "solution",
+    "texte": "Ancien têtard, elle vit près de la mare, attrape les mouches avec sa langue et se met à ____ le soir venu.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-421",
+    "titre": "Debout là-dedans !",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "siège",
+          "table"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "sonnerie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "heure"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "somnoler",
+          "dormir"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "édredon"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-422",
+    "titre": "Veillée au chalet",
+    "type": "solution",
+    "texte": "Sur le réchaud, le caquelon fait chauffer le fromage ; chacun y trempe un morceau de pain au bout de sa fourchette ; qui le perd paie la tournée.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-423",
+    "titre": "Il répète tout",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "oiseau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "multicolore",
+          "coloré"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "cage"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "chanter",
+          "voix"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "semences"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "solution",
+    "texte": "Glissé dans sa ____, garni de duvet, il soutient la tête du dormeur, sert d'arme lors d'une bataille entre enfants et veille sur nos rêves.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-426",
+    "titre": "Ouvrez grand !",
+    "type": "solution",
+    "texte": "Il soigne la carie de son patient installé dans le fauteuil ; il manie la roulette ; il veille sur votre sourire et vous conseille une bonne brosse.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-427",
+    "titre": "Homme en noir",
+    "type": "solution",
+    "texte": "Sur le terrain, il punit chaque faute d'un carton jaune ; il n'hésite pas à siffler, et les joueurs le contestent.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-428",
+    "titre": "Tchou-tchou !",
+    "type": "solution",
+    "texte": "Sur le quai, on attend en regardant l'horloge ; il arrive sur la voie ; on monte dans un wagon ; le contrôleur vérifie les billets.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-433",
+    "titre": "Toile de Nîmes",
+    "type": "solution",
+    "texte": "Ce pantalon de toile bleue, né chez les ouvriers américains, se porte avec une ceinture et se déchire aux genoux.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-434",
+    "titre": "Feu de camp",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "musicien"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "cordes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "guitare",
+          "ongles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "campement",
+          "camping"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "acoustique"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "pédale",
+          "selle"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "guidon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "frein",
+          "pédale"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "équilibre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pièce"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-436",
+    "titre": "Pivot et ses pièges",
+    "type": "solution",
+    "texte": "Le maître lit lentement ; chacun écrit sur sa copie ; l'orthographe est mise à rude épreuve ; on oublie des accents ; trop de fautes, et c'est le zéro.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "solution",
+    "texte": "Dans l'aéroport, on dépose ses valises ; le pilote attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-438",
+    "titre": "Le grand bain",
+    "type": "solution",
+    "texte": "On plonge dans le bassin ; on enchaîne les longueurs en crawl ou en brasse ; les lunettes protègent les yeux, le bonnet la tête.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-439",
+    "titre": "Mardi gras",
+    "type": "solution",
+    "texte": "Les chars défilent au son des tambours ; chacun aime se déguiser ; on lance des confettis ; Rio et Venise en sont les capitales.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-440",
+    "titre": "Celle qu'on tend",
+    "type": "solution",
+    "texte": "Au bout du bras, elle compte cinq doigts, dont le pouce ; la voyante lit dans sa paume ; l'hiver, on la glisse dans un gant.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-442",
+    "titre": "Noires et blanches",
+    "type": "solution",
+    "texte": "Ses touches cachent des marteaux qui frappent les cordes ; on s'assoit sur un tabouret pour jouer ses gammes ; Chopin en était un virtuose.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-443",
+    "titre": "Piste aux étoiles",
+    "type": "solution",
+    "texte": "Sous le chapiteau, le clown fait rire ; le funambule avance sur son fil ; le dompteur fait entrer les fauves ; les acrobates s'élancent du trapèze.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-444",
+    "titre": "Talons et semelles",
+    "type": "solution",
+    "texte": "On la choisit à sa pointure ; on serre ses lacets ; on la cire pour la faire briller ; le cordonnier la répare ; Cendrillon en perdit une, de verre.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-445",
+    "titre": "Sous les trottoirs",
+    "type": "solution",
+    "texte": "On descend sous terre ; on valide son ticket ; la rame entre dans la station ; aux heures de pointe, on voyage serrés.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "bougies"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gâteau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "chanson",
+          "chanter"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "cadeaux",
+          "paquet"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pli"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-448",
+    "titre": "Dix heures, on sort !",
+    "type": "solution",
+    "texte": "La cloche sonne ; dans la cour, on saute à la marelle ou l'on joue aux billes ; quand il pleut, on reste sous le préau.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-502",
+    "titre": "Repas de lumière",
+    "type": "solution",
+    "texte": "Dans la feuille, la chlorophylle capte les rayons ; le carbone de l'air est absorbé ; la plante en tire du glucose, source d'énergie, et rejette l'oxygène que nous respirons.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "solution",
+    "texte": "Dressée sur le faîte de l'édifice, une tige métallique attire la foudre ; un câble la conduit jusqu'au sol, évitant l'incendie.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-505",
+    "titre": "Chartres en mille éclats",
+    "type": "solution",
+    "texte": "Sertis de plomb, des verres colorés illuminent la nef ; on y lit la vie des apôtres, et le célèbre bleu de Chartres y domine.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-508",
+    "titre": "Rivière gelée",
+    "type": "solution",
+    "texte": "Né des neiges éternelles, il paraît glisser vers la vallée ; ses crevasses piègent les alpinistes ; il charrie des roches ; le climat le fait fondre.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "solution",
+    "texte": "Son foyer chauffe l'eau ; à la ____, on y jette le charbon ; elle tire les wagons sur les rails.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-518",
+    "titre": "Colère des profondeurs",
+    "type": "solution",
+    "texte": "Deux plaques glissent l'une contre l'autre ; des ondes se propagent depuis l'épicentre ; l'échelle de Richter mesure la magnitude ; puis viennent les répliques.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-519",
+    "titre": "Au bout des doigts",
+    "type": "solution",
+    "texte": "Caché derrière le rideau, l'artiste tire les ficelles ; la poupée de bois s'anime ; les enfants crient quand surgit le gendarme armé de son bâton.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-520",
+    "titre": "La Chevauchée fantastique",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ardeur",
+          "diligence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "shérif"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Indiens",
+          "flèches"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "duel"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pistolet"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-521",
+    "titre": "Avant le parlant",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "dialogues"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "bobines",
+          "cartons"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pianiste"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "Charlot",
+          "vagabond"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "dépassé"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-523",
+    "titre": "Ouvrage d'art romain",
+    "type": "solution",
+    "texte": "Les ingénieurs romains bâtirent ces arches superposées ; une légère pente permet à l'eau de couler jusqu'aux thermes de la cité.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-524",
+    "titre": "Le dernier voyage du pharaon",
+    "type": "solution",
+    "texte": "Vidé de ses entrailles, le corps est séché dans le sel, enduit de résine, puis enveloppé de bandes de lin ; il repose enfin dans un sarcophage.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-525",
+    "titre": "Le point de fuite",
+    "type": "solution",
+    "texte": "Depuis la renaissance, le peintre crée l'illusion de la profondeur ; les lignes parallèles convergent vers l'horizon, comme le montre un simple carrelage.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "réservé"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gêné",
+          "emprunté"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "craintif",
+          "intimidé"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "foule"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "effacement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-528",
+    "titre": "La cassette d'Harpagon",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "avare",
+          "rat"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "magot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "lésiner"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "avarice",
+          "rapacité"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "centime"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-530",
+    "titre": "Un plat qui se mange froid",
+    "type": "solution",
+    "texte": "Trahi, il ne pardonne pas l'affront ; son ressentiment grandit au château d'If ; Monte-Cristo prépare ses représailles avec une froideur implacable : le châtiment des traîtres sera exemplaire.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-531",
+    "titre": "La boîte de Pandore",
+    "type": "solution",
+    "texte": "Cette commère passe ses journées à espionner ses voisins, l'œil collé à la serrure ; aucun secret ne lui résiste : c'est un bien vilain défaut.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-532",
+    "titre": "Les bras croisés",
+    "type": "solution",
+    "texte": "L'oisiveté est son seul horizon : une sieste à midi dans un hamac, flâner le soir sur les boulevards ; l'Église y voit un péché capital.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "prévenu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "huissier",
+          "greffier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "avocat",
+          "réquisitoire"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "assesseurs",
+      "assises"
+    ],
+    "dejaFausses": [
+      "juges"
+    ]
+  },
+  {
+    "id": "e-535",
+    "titre": "Pour le meilleur et pour le pire",
+    "type": "solution",
+    "texte": "Après les ____, on échange l'alliance devant le maire et les témoins ; jadis la promise préparait son trousseau ; on fête ensuite les noces.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "solution",
+    "texte": "Chaussé de bottes de sept lieues, ce colosse rêve de dévorer sept frères ; il égorge ses filles, trompé par leurs couronnes, échangées par le petit dernier, celui des cailloux.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-539",
+    "titre": "Attaché au mât",
+    "type": "solution",
+    "texte": "Perchée sur les écueils, elle lance son chant pour charmer les matelots qui passent ; Andersen lui prête une queue de poisson.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-542",
+    "titre": "La dame de Cluny",
+    "type": "solution",
+    "texte": "Sur la tapisserie, elle incarne la pureté ; seule une vierge peut l'apprivoiser ; ce cheval blanc à une seule défense est un animal fabuleux.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-544",
+    "titre": "La voix de son maître",
+    "type": "solution",
+    "texte": "Un grand pavillon de cuivre, une manivelle à tourner, une aiguille qui court sur le disque ; le son grésille quand il est rayé.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-546",
+    "titre": "Jambe de bois",
+    "type": "solution",
+    "texte": "Un bandeau sur l'œil, un sabre au poing, il se lance à l'abordage ; il enterre son butin sur une île ; un perroquet sur l'épaule répète ses jurons.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-549",
+    "titre": "La dîme et la gabelle",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "contribuable"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "percepteur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "recettes",
+          "revenus"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "édit",
+          "déclaration"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "tricherie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-550",
+    "titre": "L'œil de la vigie",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "lentilles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "lointain"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pirate",
+          "corsaire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "horizon"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "étendre",
+      "ailes"
+    ],
+    "dejaFausses": [
+      "allonger"
+    ]
+  }
+]

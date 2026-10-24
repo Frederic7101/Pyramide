@@ -1,0 +1,130 @@
+[
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "hypocrite",
+          "masque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hypocrisie",
+          "duplicité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Tartuffe",
+          "pharisien",
+          "papelard"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "simagrées"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "caïman",
+      "Nil"
+    ],
+    "dejaFausses": [
+      "larmes"
+    ],
+    "message": "Titre de l'énigme : « Faux dévot ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« masque »).\nMot n°2 : trouvé (« duplicité »).\nMot n°3 : non trouvé (tes propositions : « Tartuffe », « pharisien », « papelard »).\nMot n°4 : trouvé (« simagrées »).\nMot d'une énigme. Briques de Dico :\n1. caïman\n2. Nil\nRéponses déjà jugées fausses : « larmes ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une sanction exemplaire.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une sanction exemplaire.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "solution",
+    "texte": "L'anachorète se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le désert intérieur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nL'anachorète se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "solution",
+    "texte": "Le philosophe vivait dans un tonneau ; il méprisait les conventions et l'____ ; son impudence provocante choquait les notables d'Athènes : quelle est sa doctrine ?",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « La lanterne de Diogène ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe philosophe vivait dans un tonneau ; il méprisait les conventions et l'____ ; son impudence provocante choquait les notables d'Athènes : quelle est sa doctrine ?\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la selle, on tient le guidon, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Petite reine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nOn s'assoit sur la selle, on tient le guidon, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "foudre",
+          "faîte"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "paratonnerre",
+          "tige"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "orage",
+          "foudre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "ficelle",
+          "câble"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "brasier",
+      "pompiers"
+    ],
+    "dejaFausses": [
+      "feu"
+    ],
+    "message": "Titre de l'énigme : « Le cerf-volant de Benjamin ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« faîte »).\nMot n°2 : trouvé (« tige »).\nMot n°3 : trouvé (« foudre »).\nMot n°4 : trouvé (« câble »).\nMot d'une énigme. Briques de Dico :\n1. brasier\n2. pompiers\nRéponses déjà jugées fausses : « feu ».\n\nQuel mot Dico te fait-il deviner ?"
+  }
+]

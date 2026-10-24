@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "np-307",
+    "type": "nom",
+    "theme": "Écrivains des Lumières",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Denis Diderot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Montesquieu"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "badinage"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-308",
+    "type": "nom",
+    "theme": "Poètes symbolistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Stéphane Mallarmé"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Paul Verlaine"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Charleville"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-309",
+    "type": "nom",
+    "theme": "Navigateurs et explorateurs",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Fernand de Magellan"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Cartier"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Tahiti"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-310",
+    "type": "nom",
+    "theme": "Savants de la Renaissance",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Nicolas Copernic"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Johannes Kepler"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "lunette"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-311",
+    "type": "nom",
+    "theme": "Mathématiciens",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Leonhard Euler"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Carl Friedrich Gauss"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "théorème"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-312",
+    "type": "nom",
+    "theme": "Physiciens",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "James Clerk Maxwell"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Michael Faraday"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "constante"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-313",
+    "type": "nom",
+    "theme": "Révolutionnaires",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Danton"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Maximilien de Robespierre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "baignoire"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-314",
+    "type": "nom",
+    "theme": "Rois de France médiévaux",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Philippe Auguste"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Saint Louis"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "sage",
+      "Du Guesclin"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Charles V le Sage"
+    ]
+  },
+  {
+    "id": "np-315",
+    "type": "nom",
+    "theme": "Reines et régentes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Aliénor d'Aquitaine"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Catherine de Médicis"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Anne de Bretagne"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "régente"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-316",
+    "type": "nom",
+    "theme": "Empereurs romains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hadrien"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Caligula"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Néron"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Pensées"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-317",
+    "type": "nom",
+    "theme": "Pharaons",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Akhenaton"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Ramsès II",
+          "Ramsès"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "pyramide"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-318",
+    "type": "nom",
+    "theme": "Dieux de l'Olympe",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Héphaïstos"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Hermès"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Déméter"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "vigne"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-319",
+    "type": "nom",
+    "theme": "Héroïnes tragiques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Phèdre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Antigone"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Andromaque"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Jason"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-320",
+    "type": "nom",
+    "theme": "Personnages de Balzac",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Eugène de Rastignac"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le père Goriot"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "forçat"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-321",
+    "type": "nom",
+    "theme": "Personnages de Proust",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Charles Swann"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le baron de Charlus"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "salon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-322",
+    "type": "nom",
+    "theme": "Personnages de Shakespeare",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hamlet"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Othello"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Falstaff"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tempête"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-323",
+    "type": "nom",
+    "theme": "Héroïnes d'opéra",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Carmen"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Tosca"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Violetta"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "druidesse"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-324",
+    "type": "nom",
+    "theme": "Sculpteurs",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Auguste Rodin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Alberto Giacometti"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "archer"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-325",
+    "type": "nom",
+    "theme": "Architectes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Vauban"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Georges Eugène Haussmann"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Le Corbusier"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Carcassonne"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-326",
+    "type": "nom",
+    "theme": "Cinéastes de la Nouvelle Vague",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "François Truffaut"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Luc Godard"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "contes"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Monaco"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-328",
+    "type": "nom",
+    "theme": "Peintres espagnols",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francisco de Goya"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Diego Vélasquez"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "moines"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-329",
+    "type": "nom",
+    "theme": "Écrivains italiens",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dante"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Pétrarque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Boccace"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Prince"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-330",
+    "type": "nom",
+    "theme": "Écrivains de langue allemande",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Goethe"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Friedrich von Schiller"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Franz Kafka"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Élégies"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-331",
+    "type": "nom",
+    "theme": "Philosophes allemands",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hegel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Friedrich Nietzsche"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Arthur Schopenhauer"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Dasein"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-332",
+    "type": "nom",
+    "theme": "Philosophes britanniques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Thomas Hobbes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Locke"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Édimbourg"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-333",
+    "type": "nom",
+    "theme": "Médecins célèbres",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "René Laennec"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Martin Charcot"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "ligature"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-334",
+    "type": "nom",
+    "theme": "Chimistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Antoine Lavoisier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Dmitri Mendeleïev"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "chlore"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-335",
+    "type": "nom",
+    "theme": "Inventeurs français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Joseph Marie Jacquard"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Louis Daguerre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "ballon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-336",
+    "type": "nom",
+    "theme": "Gens de mer",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Robert Surcouf"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean Bart"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Boussole"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-337",
+    "type": "nom",
+    "theme": "Figures de la Résistance",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jean Moulin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Lucie Aubrac"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Pierre Brossolette"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "affiche"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-338",
+    "type": "nom",
+    "theme": "Maréchaux d'Empire",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Michel Ney"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Joachim Murat"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Auerstaedt"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-339",
+    "type": "nom",
+    "theme": "Batailles navales",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Trafalgar"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Lépante"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Salamine"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Brueys"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-340",
+    "type": "nom",
+    "theme": "Sites antiques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Alhambra"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Angkor"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Pétra"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Darius"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-341",
+    "type": "nom",
+    "theme": "Fleuves du monde",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Mékong"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Léna",
+          "Ienisseï"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Victoria"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-342",
+    "type": "nom",
+    "theme": "Capitales lointaines",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Oulan-Bator"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Asmara"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Tbilissi"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Népal"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-343",
+    "type": "nom",
+    "theme": "Îles",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Madère"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Zanzibar"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Sakhaline"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "moaïs"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-344",
+    "type": "nom",
+    "theme": "Sommets",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Annapurna"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Kilimandjaro"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Aconcagua"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Zermatt"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-345",
+    "type": "nom",
+    "theme": "Dieux nordiques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Odin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Thor"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Loki"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "chats"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-346",
+    "type": "nom",
+    "theme": "Divinités égyptiennes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Anubis"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Thot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Hathor"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "lionne"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-347",
+    "type": "nom",
+    "theme": "Figures bibliques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Salomon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jonas"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Judith"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "patience"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-348",
+    "type": "nom",
+    "theme": "Saints",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "François d'Assise"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Saint Christophe"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Sainte Geneviève"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "manteau"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Blake"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Corto Maltese"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Valérian"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Giraud"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-350",
+    "type": "nom",
+    "theme": "Écrivains d'Amérique latine",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jorge Luis Borges"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Gabriel García Márquez"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Chili"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

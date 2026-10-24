@@ -1,0 +1,16 @@
+{
+  "e-008": { "reponse": "le miel", "raisonnement": "Le texte décrit une substance faite par les abeilles avec le nectar, sucrée et dorée, qu'on étale sur du pain. C'est le miel." },
+  "e-304": { "reponse": "crocodile", "raisonnement": "Masque, duplicité, affectation et simagrées sont trouvés, exemple, apparence et saint ont été refusés, et caïman désigne le crocodile, dont les larmes passent pour hypocrites." },
+  "e-305": { "reponse": "la mansuétude", "raisonnement": "Le texte décrit la clémence royale envers un félon, une bonté qui désarme la rancœur. Le pardon royal a été refusé, donc je propose un synonyme plus précis." },
+  "e-308": { "reponse": "un sophisme", "raisonnement": "Le texte décrit un raisonnement qui paraît valide, aux prémisses vraies et à la conclusion fausse, qui cache une faille : c'est un sophisme." },
+  "e-325": { "reponse": "l'ascèse", "raisonnement": "Le texte décrit la pratique de privation de l'anachorète, jeûne, veilles et discipline, qui vise la purification de l'âme. C'est l'ascèse." },
+  "e-326": { "reponse": "le cynisme", "raisonnement": "Le texte décrit un philosophe qui vit dans un tonneau, méprise les richesses et choque les notables. Sa doctrine est le cynisme." },
+  "e-339": { "reponse": "l'hydre de Lerne", "raisonnement": "Le texte décrit un monstre aux têtes qui renaissent, vaincu par Héraclès au marais. C'est l'hydre de Lerne. Hydre seule a été refusée comme mot." },
+  "e-341": { "reponse": "la malchance", "raisonnement": "Le texte oppose le destin et le calcul à la chance, et le joueur redoute la malchance. Guigne a déjà été refusé." },
+  "e-403": { "reponse": "boudin", "raisonnement": "Beurre est trouvé, glaçon et beurrier ont été refusés, saucisson et mauvais évoquent le boudin, charcuterie a été refusée." },
+  "e-435": { "reponse": "Champs", "raisonnement": "Équilibre est trouvé, chaîne et chambre à air ont été refusées, et pièce avec pneu et Élysées évoque les Champs-Élysées." },
+  "e-503": { "reponse": "le paratonnerre", "raisonnement": "Le texte décrit une tige métallique posée sur le faîte qui attire la foudre et la conduit au sol : c'est le paratonnerre." },
+  "e-509": { "reponse": "un delta fluvial", "raisonnement": "Le texte décrit un fleuve qui se divise à son embouchure, déposant des alluvions en forme de triangle. C'est un delta. L'embouchure a été refusée." },
+  "e-520": { "reponse": "revolver", "raisonnement": "Flèche et cavalier sont trouvés, duel a été refusé, et pistolet avec barillet désigne le revolver." },
+  "e-536": { "reponse": "un colosse", "raisonnement": "Le texte décrit un géant aux bottes de sept lieues qui veut dévorer des frères et égorge ses filles. Un géant et l'Ogre ont été refusés, donc je propose colosse." }
+}

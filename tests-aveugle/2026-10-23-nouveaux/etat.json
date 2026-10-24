@@ -1,0 +1,1501 @@
+{
+  "niveau": "a-retester",
+  "vague": 10,
+  "reponses": {
+    "e-401": [
+      "ronronner",
+      "souris",
+      "griffes",
+      "croquettes",
+      "pattes",
+      "le chat"
+    ],
+    "e-402": [
+      "thé",
+      "eau",
+      "étiquette",
+      "prise",
+      "vapeur",
+      "siffler",
+      "infusion",
+      "thé",
+      "la bouilloire"
+    ],
+    "e-403": [
+      "armoire",
+      "froid",
+      "frais",
+      "beurre",
+      "yaourts",
+      "charcuterie",
+      "jambon",
+      "le réfrigérateur"
+    ],
+    "e-404": [
+      "averse",
+      "soleil",
+      "nuage",
+      "couleurs",
+      "pont",
+      "l'arc-en-ciel"
+    ],
+    "e-405": [
+      "coquille",
+      "bave",
+      "cornes",
+      "salade",
+      "ail",
+      "l'escargot"
+    ],
+    "e-406": [
+      "semer",
+      "plants",
+      "herbe",
+      "limace",
+      "tomates",
+      "le potager"
+    ],
+    "e-407": [
+      "tonnerre",
+      "éclair",
+      "pluie",
+      "vent",
+      "foudre",
+      "noir",
+      "orage",
+      "l'orage"
+    ],
+    "e-408": [
+      "colonie",
+      "reine",
+      "infatigable",
+      "charges",
+      "cigale",
+      "la fourmi"
+    ],
+    "e-409": [
+      "tas",
+      "insecte",
+      "boule",
+      "épines",
+      "route",
+      "le hérisson"
+    ],
+    "e-410": [
+      "maison",
+      "charpente",
+      "malles",
+      "jouets",
+      "échelle",
+      "le grenier"
+    ],
+    "e-411": [
+      "appareil",
+      "poussière",
+      "poils",
+      "bruit",
+      "sac",
+      "l'aspirateur"
+    ],
+    "e-412": [
+      "carapace",
+      "écailles",
+      "pattes",
+      "centenaire",
+      "feuilles",
+      "lièvre",
+      "la tortue"
+    ],
+    "e-413": [
+      "farine",
+      "lait",
+      "pâte",
+      "poêle",
+      "sauter",
+      "la crêpe"
+    ],
+    "e-414": [
+      "champ",
+      "pantin",
+      "chapeau",
+      "corbeau",
+      "malins",
+      "l'épouvantail"
+    ],
+    "e-415": [
+      "voile",
+      "campagne",
+      "bouché",
+      "nez",
+      "fumée",
+      "feux",
+      "lentement",
+      "le brouillard"
+    ],
+    "e-416": [
+      "bonds",
+      "petit",
+      "poche",
+      "queue",
+      "boxeur",
+      "le kangourou"
+    ],
+    "e-417": [
+      "jardinier",
+      "robinet",
+      "anse",
+      "pomme",
+      "fleurs",
+      "l'arrosoir"
+    ],
+    "e-418": [
+      "fruit",
+      "acide",
+      "grimaces",
+      "tarte",
+      "huîtres",
+      "le citron"
+    ],
+    "e-419": [
+      "arbre",
+      "solides",
+      "glands",
+      "écureuil",
+      "fer",
+      "bois",
+      "le chêne"
+    ],
+    "e-420": [
+      "têtard",
+      "mare",
+      "mouches",
+      "langue",
+      "grenouille",
+      "cuisses",
+      "la grenouille"
+    ],
+    "e-421": [
+      "siège",
+      "table",
+      "sonnerie",
+      "heure",
+      "somnoler",
+      "dormir",
+      "couette",
+      "le réveil"
+    ],
+    "e-422": [
+      "réchaud",
+      "fromage",
+      "morceau",
+      "fourchette",
+      "tour",
+      "tournée",
+      "la fondue"
+    ],
+    "e-423": [
+      "oiseau",
+      "multicolore",
+      "coloré",
+      "cage",
+      "chanter",
+      "voix",
+      "graines",
+      "le perroquet"
+    ],
+    "e-424": [
+      "couette",
+      "oreiller",
+      "duvet",
+      "tête",
+      "bataille",
+      "rêves",
+      "l'oreiller"
+    ],
+    "e-425": [
+      "colosse",
+      "oreilles",
+      "trompe",
+      "défenses",
+      "mémoire",
+      "l'éléphant"
+    ],
+    "e-426": [
+      "carie",
+      "fauteuil",
+      "roulette",
+      "sourire",
+      "dents",
+      "brosse",
+      "le dentiste"
+    ],
+    "e-427": [
+      "gazon",
+      "terrain",
+      "faute",
+      "carton",
+      "siffler",
+      "joueurs",
+      "l'arbitre"
+    ],
+    "e-428": [
+      "quai",
+      "voie",
+      "machine",
+      "wagon",
+      "contrôleur",
+      "billets",
+      "le train"
+    ],
+    "e-429": [
+      "cochonnet",
+      "boules",
+      "pointer",
+      "tirer",
+      "apéritif",
+      "la pétanque"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "le Père Noël"
+    ],
+    "e-431": [
+      "écolier",
+      "trousse",
+      "cahiers",
+      "règle",
+      "goûter",
+      "le cartable"
+    ],
+    "e-432": [
+      "muscle",
+      "poitrine",
+      "sang",
+      "artères",
+      "chagrin",
+      "le cœur"
+    ],
+    "e-433": [
+      "pantalon",
+      "bleu",
+      "ouvriers",
+      "salopette",
+      "ceinture",
+      "genoux",
+      "le jean"
+    ],
+    "e-434": [
+      "musicien",
+      "cordes",
+      "guitare",
+      "ongles",
+      "campement",
+      "camping",
+      "guitare",
+      "électrique",
+      "la guitare"
+    ],
+    "e-435": [
+      "pédale",
+      "selle",
+      "guidon",
+      "frein",
+      "pédale",
+      "équilibre",
+      "rustine",
+      "chambre",
+      "le vélo"
+    ],
+    "e-436": [
+      "maître",
+      "exercice",
+      "copie",
+      "orthographe",
+      "accent",
+      "zéro",
+      "la dictée"
+    ],
+    "e-437": [
+      "aéroport",
+      "valises",
+      "pilote",
+      "sillage",
+      "piste",
+      "hôtesse",
+      "l'avion"
+    ],
+    "e-438": [
+      "bassin",
+      "longueurs",
+      "nage",
+      "crawl",
+      "lunettes",
+      "bonnet",
+      "la natation"
+    ],
+    "e-439": [
+      "char",
+      "tambour",
+      "déguiser",
+      "confettis",
+      "Nice",
+      "capitale",
+      "le carnaval"
+    ],
+    "e-440": [
+      "pied",
+      "bras",
+      "doigts",
+      "pouce",
+      "paume",
+      "gant",
+      "la main"
+    ],
+    "e-441": [
+      "sirène",
+      "casque",
+      "camion",
+      "tuyau",
+      "chats",
+      "le pompier"
+    ],
+    "e-442": [
+      "touches",
+      "marteau",
+      "tabouret",
+      "gammes",
+      "pianiste",
+      "virtuose",
+      "le piano"
+    ],
+    "e-443": [
+      "chapiteau",
+      "clown",
+      "funambule",
+      "lions",
+      "fauves",
+      "trapèze",
+      "le cirque"
+    ],
+    "e-444": [
+      "pointure",
+      "lacets",
+      "briller",
+      "cordonnier",
+      "vernis",
+      "verre",
+      "la chaussure"
+    ],
+    "e-445": [
+      "terre",
+      "ticket",
+      "rame",
+      "station",
+      "terminus",
+      "pointe",
+      "le métro"
+    ],
+    "e-446": [
+      "court",
+      "balle",
+      "raquette",
+      "filet",
+      "service",
+      "le tennis"
+    ],
+    "e-447": [
+      "bougies",
+      "gâteau",
+      "chanson",
+      "chanter",
+      "cadeaux",
+      "paquet",
+      "enveloppe",
+      "rides",
+      "l'anniversaire"
+    ],
+    "e-448": [
+      "cloche",
+      "cour",
+      "corde",
+      "marelle",
+      "billes",
+      "préau",
+      "la récréation"
+    ],
+    "e-449": [
+      "shampoing",
+      "ciseaux",
+      "peigne",
+      "frange",
+      "nuque",
+      "le coiffeur"
+    ],
+    "e-450": [
+      "instrument",
+      "populaire",
+      "bretelles",
+      "valse",
+      "guinguette",
+      "l'accordéon"
+    ],
+    "e-501": [
+      "lune",
+      "obscurité",
+      "couronne",
+      "filtre",
+      "présage",
+      "l'éclipse"
+    ],
+    "e-502": [
+      "chlorophylle",
+      "oxygène",
+      "carbone",
+      "glucose",
+      "énergie",
+      "oxygène",
+      "la photosynthèse"
+    ],
+    "e-503": [
+      "pointe",
+      "faîte",
+      "tige",
+      "foudre",
+      "câble",
+      "incendie",
+      "le paratonnerre"
+    ],
+    "e-504": [
+      "caractères",
+      "moule",
+      "presse",
+      "encre",
+      "savoir",
+      "l'imprimerie"
+    ],
+    "e-505": [
+      "plomb",
+      "multicolores",
+      "colorés",
+      "nef",
+      "apôtres",
+      "bleu",
+      "le vitrail"
+    ],
+    "e-506": [
+      "pigments",
+      "enduit",
+      "humide",
+      "échafaudage",
+      "plafond",
+      "la fresque"
+    ],
+    "e-507": [
+      "argile",
+      "pétrifié",
+      "ères",
+      "paléontologue",
+      "disparue",
+      "le fossile"
+    ],
+    "e-508": [
+      "neige",
+      "glisser",
+      "crevasses",
+      "moraine",
+      "roches",
+      "fondre",
+      "le glacier"
+    ],
+    "e-509": [
+      "fleuve",
+      "bras",
+      "crues",
+      "alluvions",
+      "triangle",
+      "le delta"
+    ],
+    "e-510": [
+      "cube",
+      "verre",
+      "mortier",
+      "motif",
+      "villas",
+      "la mosaïque"
+    ],
+    "e-511": [
+      "remparts",
+      "douves",
+      "donjon",
+      "herse",
+      "meurtrières",
+      "le château fort"
+    ],
+    "e-512": [
+      "Terreur",
+      "bourreau",
+      "condamné",
+      "couperet",
+      "supplice",
+      "la guillotine"
+    ],
+    "e-513": [
+      "miroir",
+      "étoiles",
+      "astronome",
+      "galaxie",
+      "orbite",
+      "le télescope"
+    ],
+    "e-514": [
+      "ailes",
+      "meule",
+      "blé",
+      "farine",
+      "géants",
+      "le moulin"
+    ],
+    "e-515": [
+      "foyer",
+      "charbon",
+      "eau",
+      "charbon",
+      "wagons",
+      "rails",
+      "la locomotive"
+    ],
+    "e-516": [
+      "injecter",
+      "virus",
+      "anticorps",
+      "immunité",
+      "épidémie",
+      "le vaccin"
+    ],
+    "e-517": [
+      "objectif",
+      "lamelle",
+      "bactéries",
+      "netteté",
+      "grossissement",
+      "le microscope"
+    ],
+    "e-518": [
+      "plaques",
+      "secousses",
+      "ondes",
+      "épicentre",
+      "magnitude",
+      "répliques",
+      "le séisme"
+    ],
+    "e-519": [
+      "tapisserie",
+      "rideau",
+      "ficelles",
+      "bois",
+      "gendarme",
+      "bâton",
+      "la marionnette"
+    ],
+    "e-520": [
+      "ardeur",
+      "diligence",
+      "shérif",
+      "Indiens",
+      "flèches",
+      "duel",
+      "revolver",
+      "le western"
+    ],
+    "e-521": [
+      "dialogues",
+      "bobines",
+      "cartons",
+      "pianiste",
+      "Charlot",
+      "vagabond",
+      "démodé",
+      "obsolète",
+      "le cinéma muet"
+    ],
+    "e-522": [
+      "ascenseur",
+      "étages",
+      "charpente",
+      "façades",
+      "vertige",
+      "le gratte-ciel"
+    ],
+    "e-523": [
+      "maçons",
+      "ingénieurs",
+      "arches",
+      "pente",
+      "couler",
+      "thermes",
+      "l'aqueduc"
+    ],
+    "e-524": [
+      "entrailles",
+      "sel",
+      "résine",
+      "bandelettes",
+      "lin",
+      "sarcophage",
+      "la momie"
+    ],
+    "e-525": [
+      "Renaissance",
+      "profondeur",
+      "lignes",
+      "parallèles",
+      "horizon",
+      "carrelage",
+      "la perspective"
+    ],
+    "e-526": [
+      "soupçon",
+      "infidèle",
+      "tourment",
+      "possessif",
+      "crime",
+      "la jalousie"
+    ],
+    "e-527": [
+      "réservé",
+      "gêné",
+      "emprunté",
+      "craintif",
+      "intimidé",
+      "foule",
+      "discrétion",
+      "la timidité"
+    ],
+    "e-528": [
+      "avare",
+      "rat",
+      "magot",
+      "lésiner",
+      "avarice",
+      "rapacité",
+      "sou",
+      "l'avare"
+    ],
+    "e-529": [
+      "rage",
+      "trépigner",
+      "écarlate",
+      "jurons",
+      "calmer",
+      "la colère"
+    ],
+    "e-530": [
+      "affront",
+      "rancune",
+      "ressentiment",
+      "représailles",
+      "implacable",
+      "châtiment",
+      "la vengeance"
+    ],
+    "e-531": [
+      "bavarde",
+      "commère",
+      "espionner",
+      "serrure",
+      "secret",
+      "vilain",
+      "la curiosité"
+    ],
+    "e-532": [
+      "oisiveté",
+      "sieste",
+      "transat",
+      "hamac",
+      "flâner",
+      "péché",
+      "la paresse"
+    ],
+    "e-533": [
+      "prévenu",
+      "huissier",
+      "greffier",
+      "avocat",
+      "réquisitoire",
+      "juges",
+      "cour",
+      "verdict",
+      "le procès"
+    ],
+    "e-534": [
+      "candidats",
+      "isoloir",
+      "bulletin",
+      "dépouillement",
+      "abstention",
+      "les élections"
+    ],
+    "e-535": [
+      "serment",
+      "alliance",
+      "alliance",
+      "témoins",
+      "trousseau",
+      "noces",
+      "le mariage"
+    ],
+    "e-536": [
+      "bottes",
+      "ogre",
+      "colosse",
+      "dévorer",
+      "couronnes",
+      "cailloux",
+      "l'ogre"
+    ],
+    "e-537": [
+      "récit",
+      "animaux",
+      "vers",
+      "morale",
+      "instruire",
+      "la fable"
+    ],
+    "e-538": [
+      "quatrains",
+      "tercets",
+      "rimes",
+      "chute",
+      "ciselé",
+      "le sonnet"
+    ],
+    "e-539": [
+      "récifs",
+      "écueils",
+      "chant",
+      "charmer",
+      "matelots",
+      "queue",
+      "la sirène"
+    ],
+    "e-540": [
+      "caverne",
+      "ailes",
+      "flammes",
+      "chevalier",
+      "terrasser",
+      "le dragon"
+    ],
+    "e-541": [
+      "crocs",
+      "cercueil",
+      "ail",
+      "aube",
+      "pieu",
+      "le vampire"
+    ],
+    "e-542": [
+      "tapisserie",
+      "pureté",
+      "vierge",
+      "blanc",
+      "légendaire",
+      "fabuleux",
+      "la licorne"
+    ],
+    "e-543": [
+      "fuseau",
+      "laine",
+      "pédale",
+      "fileuse",
+      "sommeil",
+      "le rouet"
+    ],
+    "e-544": [
+      "pavillon",
+      "manivelle",
+      "aiguille",
+      "disque",
+      "sillon",
+      "rayé",
+      "le phonographe"
+    ],
+    "e-545": [
+      "tempête",
+      "coque",
+      "sombrer",
+      "canots",
+      "rescapés",
+      "le naufrage"
+    ],
+    "e-546": [
+      "bandeau",
+      "sabre",
+      "abordage",
+      "trésor",
+      "butin",
+      "perroquet",
+      "le pirate"
+    ],
+    "e-547": [
+      "citrouille",
+      "carrosse",
+      "minuit",
+      "pantoufle",
+      "sortilèges",
+      "la fée"
+    ],
+    "e-548": [
+      "pupitre",
+      "écolier",
+      "tremper",
+      "buvard",
+      "taches",
+      "l'encrier"
+    ],
+    "e-549": [
+      "contribuable",
+      "percepteur",
+      "recettes",
+      "revenus",
+      "édit",
+      "déclaration",
+      "fraude",
+      "l'impôt"
+    ],
+    "e-550": [
+      "lentilles",
+      "lointain",
+      "pirate",
+      "corsaire",
+      "horizon",
+      "allonger",
+      "déployer",
+      "la longue-vue"
+    ],
+    "np-401": [
+      "Italie",
+      "Suisse",
+      "Grèce",
+      "Belgique"
+    ],
+    "np-402": [
+      "Japon",
+      "Brésil",
+      "Canada",
+      "Australie"
+    ],
+    "np-403": [
+      "New York",
+      "Londres",
+      "Rio de Janeiro",
+      "Venise"
+    ],
+    "np-404": [
+      "Nice",
+      "Toulouse",
+      "Avignon",
+      "Cannes"
+    ],
+    "np-405": [
+      "Tour Eiffel",
+      "Arc de Triomphe",
+      "Notre-Dame de Paris",
+      "Basilique du Sacré-Cœur"
+    ],
+    "np-406": [
+      "Colisée",
+      "Taj Mahal",
+      "Grande Muraille de Chine",
+      "Statue de la Liberté"
+    ],
+    "np-407": [
+      "Mars",
+      "Jupiter",
+      "Saturne",
+      "Vénus"
+    ],
+    "np-408": [
+      "Minnie",
+      "Mickey",
+      "Donald",
+      "Picsou",
+      "Pluto",
+      "Dingo"
+    ],
+    "np-409": [
+      "Blanche-Neige",
+      "Cendrillon",
+      "La Belle au bois dormant",
+      "Raiponce"
+    ],
+    "np-410": [
+      "Le Petit Chaperon rouge",
+      "Le Petit Poucet",
+      "Pinocchio",
+      "Peter Pan"
+    ],
+    "np-411": [
+      "Tintin",
+      "Lucky Luke",
+      "Gaston Lagaffe",
+      "Spirou"
+    ],
+    "np-412": [
+      "Superman",
+      "Batman",
+      "Spider-Man",
+      "Hulk"
+    ],
+    "np-413": [
+      "Louis XIV",
+      "Henri IV",
+      "François Ier",
+      "Louis XVI"
+    ],
+    "np-414": [
+      "Napoléon Bonaparte",
+      "Jeanne d'Arc",
+      "Charlemagne",
+      "Vercingétorix"
+    ],
+    "np-415": [
+      "Johnny Hallyday",
+      "Édith Piaf",
+      "Charles Aznavour",
+      "Claude François"
+    ],
+    "np-416": [
+      "Céline Dion",
+      "Mylène Farmer",
+      "Dalida",
+      "Vanessa Paradis"
+    ],
+    "np-417": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Madonna",
+      "Freddie Mercury"
+    ],
+    "np-418": [
+      "The Beatles",
+      "The Rolling Stones",
+      "ABBA",
+      "Indochine"
+    ],
+    "np-419": [
+      "Zinédine Zidane",
+      "Kylian Mbappé",
+      "Michel Platini",
+      "Pelé"
+    ],
+    "np-420": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Yannick Noah",
+      "Serena Williams"
+    ],
+    "np-421": [
+      "Usain Bolt",
+      "Teddy Riner",
+      "Mohamed Ali",
+      "Michael Phelps"
+    ],
+    "np-422": [
+      "Bernard Hinault",
+      "Eddy Merckx",
+      "Raymond Poulidor",
+      "Jacques Anquetil"
+    ],
+    "np-423": [
+      "Gérard Depardieu",
+      "Jean-Paul Belmondo",
+      "Louis de Funès",
+      "Alain Delon"
+    ],
+    "np-424": [
+      "Brigitte Bardot",
+      "Catherine Deneuve",
+      "Audrey Tautou",
+      "Marion Cotillard"
+    ],
+    "np-425": [
+      "Marilyn Monroe",
+      "Charlie Chaplin",
+      "Leonardo DiCaprio",
+      "Tom Cruise"
+    ],
+    "np-426": [
+      "Steven Spielberg",
+      "Luc Besson",
+      "Alfred Hitchcock",
+      "James Cameron"
+    ],
+    "np-427": [
+      "Bob l'éponge",
+      "Scooby-Doo",
+      "Pikachu",
+      "Bugs Bunny"
+    ],
+    "np-428": [
+      "Mario",
+      "Sonic",
+      "Pac-Man",
+      "Lara Croft"
+    ],
+    "np-429": [
+      "Peugeot",
+      "Renault",
+      "Ferrari",
+      "Citroën"
+    ],
+    "np-430": [
+      "Chanel",
+      "Louis Vuitton",
+      "Dior",
+      "Lacoste"
+    ],
+    "np-431": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "np-432": [
+      "Coca-Cola",
+      "Nutella",
+      "Haribo",
+      "Danone"
+    ],
+    "np-433": [
+      "Égypte",
+      "Maroc",
+      "Sénégal",
+      "Madagascar"
+    ],
+    "np-434": [
+      "Martinique",
+      "La Réunion",
+      "Polynésie française",
+      "Tahiti",
+      "Guyane"
+    ],
+    "np-435": [
+      "Bretagne",
+      "Alsace",
+      "Provence",
+      "Normandie"
+    ],
+    "np-436": [
+      "Alpes",
+      "Pyrénées",
+      "Jura",
+      "Vosges"
+    ],
+    "np-437": [
+      "Méditerranée",
+      "océan Pacifique",
+      "la Manche",
+      "mer Morte"
+    ],
+    "np-438": [
+      "Obélix",
+      "Panoramix",
+      "Abraracourcix",
+      "Assurancetourix"
+    ],
+    "np-439": [
+      "Capitaine Haddock",
+      "Milou",
+      "Professeur Tournesol",
+      "Bianca Castafiore"
+    ],
+    "np-440": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Albus Dumbledore",
+      "Voldemort",
+      "Rubeus Hagrid"
+    ],
+    "np-441": [
+      "Dark Vador",
+      "Yoda",
+      "Chewbacca",
+      "Luke Skywalker"
+    ],
+    "np-442": [
+      "Harpagon",
+      "Tartuffe",
+      "Scapin",
+      "Monsieur Jourdain"
+    ],
+    "np-443": [
+      "d'Artagnan",
+      "Sherlock Holmes",
+      "Robinson Crusoé",
+      "Phileas Fogg"
+    ],
+    "np-444": [
+      "James Bond",
+      "Indiana Jones",
+      "Rocky",
+      "Zorro"
+    ],
+    "np-445": [
+      "Babar",
+      "Garfield",
+      "Flipper",
+      "Lassie"
+    ],
+    "np-446": [
+      "Albert Einstein",
+      "Marie Curie",
+      "Isaac Newton",
+      "Charles Darwin"
+    ],
+    "np-447": [
+      "Christophe Colomb",
+      "Neil Armstrong",
+      "Marco Polo",
+      "Charles Lindbergh"
+    ],
+    "np-448": [
+      "Charles de Gaulle",
+      "Jacques Chirac",
+      "François Mitterrand",
+      "Emmanuel Macron"
+    ],
+    "np-449": [
+      "Abraham Lincoln",
+      "John F. Kennedy",
+      "George Washington",
+      "Barack Obama"
+    ],
+    "np-450": [
+      "le roi Arthur",
+      "Merlin",
+      "Lancelot du Lac",
+      "Perceval"
+    ],
+    "np-501": [
+      "Aïda",
+      "Rigoletto",
+      "Nabucco",
+      "Le Trouvère"
+    ],
+    "np-502": [
+      "Madame Butterfly",
+      "La Bohème",
+      "Turandot",
+      "Manon Lescaut"
+    ],
+    "np-503": [
+      "Raphaël",
+      "Michel-Ange",
+      "Le Caravage",
+      "Fra Angelico"
+    ],
+    "np-504": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jérôme Bosch"
+    ],
+    "np-505": [
+      "Henri Matisse",
+      "Georges Braque",
+      "André Derain",
+      "Fernand Léger"
+    ],
+    "np-506": [
+      "Salvador Dalí",
+      "René Magritte",
+      "André Breton",
+      "Tristan Tzara",
+      "Max Ernst"
+    ],
+    "np-507": [
+      "Andy Warhol",
+      "Edward Hopper",
+      "Jackson Pollock",
+      "Roy Lichtenstein"
+    ],
+    "np-508": [
+      "Charles Dickens",
+      "Jane Austen",
+      "Thomas Hardy",
+      "Lewis Carroll"
+    ],
+    "np-509": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain",
+      "William Faulkner",
+      "Francis Scott Fitzgerald"
+    ],
+    "np-510": [
+      "Alphonse de Lamartine",
+      "Alfred de Musset",
+      "Alfred de Vigny",
+      "Gérard de Nerval"
+    ],
+    "np-511": [
+      "Jean de La Fontaine",
+      "Jean de La Bruyère",
+      "François de La Rochefoucauld",
+      "Nicolas Boileau"
+    ],
+    "np-512": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Georges Feydeau",
+      "Eugène Ionesco"
+    ],
+    "np-513": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "Marguerite Duras",
+      "Colette"
+    ],
+    "np-514": [
+      "Guillaume Apollinaire",
+      "Paul Éluard",
+      "Jacques Prévert",
+      "Louis Aragon"
+    ],
+    "np-515": [
+      "Charles Perrault",
+      "les frères Grimm",
+      "Hans Christian Andersen",
+      "Shéhérazade"
+    ],
+    "np-516": [
+      "Candide",
+      "La Princesse de Babylone",
+      "Zadig",
+      "Micromégas",
+      "L'Ingénu"
+    ],
+    "np-517": [
+      "Jean Valjean",
+      "Javert",
+      "Cosette",
+      "Thénardier",
+      "Gavroche",
+      "Marius Pontmercy"
+    ],
+    "np-518": [
+      "d'Artagnan",
+      "Porthos",
+      "Athos",
+      "Milady de Winter",
+      "Edmond Dantès"
+    ],
+    "np-519": [
+      "Nana",
+      "Gervaise",
+      "Étienne Lantier",
+      "Octave Mouret"
+    ],
+    "np-520": [
+      "Emma Bovary",
+      "Julien Sorel",
+      "Fabrice del Dongo",
+      "Frédéric Moreau"
+    ],
+    "np-521": [
+      "Bilbo Sacquet",
+      "Frodon Sacquet",
+      "Gandalf",
+      "Gollum",
+      "Aragorn"
+    ],
+    "np-522": [
+      "Persée",
+      "Thésée",
+      "Jason",
+      "Achille"
+    ],
+    "np-523": [
+      "Janus",
+      "Junon",
+      "Cérès",
+      "Minerve"
+    ],
+    "np-524": [
+      "Pénélope",
+      "Eurydice",
+      "Pandore",
+      "Hélène"
+    ],
+    "np-525": [
+      "Roland",
+      "Bertrand Du Guesclin",
+      "Bayard",
+      "Godefroy de Bouillon"
+    ],
+    "np-526": [
+      "Christine de Pizan",
+      "Olympe de Gouges",
+      "Louise Michel",
+      "Simone Veil"
+    ],
+    "np-527": [
+      "Henri II",
+      "Charles IX",
+      "Henri III",
+      "Louis XIII",
+      "Louis XV"
+    ],
+    "np-528": [
+      "Mazarin",
+      "Jean-Baptiste Colbert",
+      "Sully",
+      "Jacques Necker"
+    ],
+    "np-529": [
+      "Joséphine de Beauharnais",
+      "Talleyrand",
+      "Joseph Fouché",
+      "Cambacérès"
+    ],
+    "np-530": [
+      "Cléopâtre",
+      "Spartacus",
+      "Attila",
+      "Hannibal"
+    ],
+    "np-531": [
+      "Platon",
+      "Aristote",
+      "Épicure",
+      "Zénon d'Élée"
+    ],
+    "np-532": [
+      "Homère",
+      "Sophocle",
+      "Eschyle",
+      "Hérodote"
+    ],
+    "np-533": [
+      "James Cook",
+      "Ibn Battuta",
+      "David Livingstone",
+      "Fridtjof Nansen",
+      "Roald Amundsen"
+    ],
+    "np-534": [
+      "Louis Blériot",
+      "Antoine de Saint-Exupéry",
+      "Jean Mermoz",
+      "Roland Garros"
+    ],
+    "np-535": [
+      "Tycho Brahe",
+      "Edmond Halley",
+      "Edwin Hubble",
+      "William Herschel"
+    ],
+    "np-536": [
+      "André-Marie Ampère",
+      "Joseph Fourier",
+      "Étienne Geoffroy Saint-Hilaire",
+      "Jean-Baptiste de Lamarck",
+      "Georges Cuvier"
+    ],
+    "np-537": [
+      "Ada Lovelace",
+      "Rosalind Franklin",
+      "Hypatie",
+      "Émilie du Châtelet"
+    ],
+    "np-538": [
+      "Claude Debussy",
+      "Georges Bizet",
+      "Erik Satie",
+      "Camille Saint-Saëns"
+    ],
+    "np-539": [
+      "Gioachino Rossini",
+      "Claudio Monteverdi",
+      "Niccolò Paganini",
+      "Vincenzo Bellini"
+    ],
+    "np-540": [
+      "Jean-Sébastien Bach",
+      "Richard Wagner",
+      "Robert Schumann",
+      "Johannes Brahms",
+      "Franz Schubert"
+    ],
+    "np-541": [
+      "Duke Ellington",
+      "Louis Armstrong",
+      "Miles Davis",
+      "Billie Holiday",
+      "Charlie Parker"
+    ],
+    "np-542": [
+      "Led Zeppelin",
+      "The Who",
+      "Pink Floyd",
+      "Oasis"
+    ],
+    "np-543": [
+      "Juliette Gréco",
+      "Charles Trenet",
+      "Claude François",
+      "Georges Moustaki",
+      "Serge Gainsbourg"
+    ],
+    "np-544": [
+      "Akira Kurosawa",
+      "Federico Fellini",
+      "Stanley Kubrick",
+      "Ingmar Bergman"
+    ],
+    "np-545": [
+      "Nadar",
+      "Henri Cartier-Bresson",
+      "Robert Doisneau",
+      "Robert Capa"
+    ],
+    "np-546": [
+      "Rita Hayworth",
+      "Greta Garbo",
+      "Audrey Hepburn",
+      "Grace Kelly"
+    ],
+    "np-547": [
+      "Dauphiné",
+      "Berry",
+      "Lorraine",
+      "Flandre",
+      "Artois"
+    ],
+    "np-548": [
+      "Vérone",
+      "Florence",
+      "Naples",
+      "Sienne"
+    ],
+    "np-549": [
+      "Séville",
+      "Grenade",
+      "Barcelone",
+      "Porto"
+    ],
+    "np-550": [
+      "Berlin",
+      "Munich",
+      "Cologne",
+      "Hambourg",
+      "Dresde"
+    ]
+  }
+}

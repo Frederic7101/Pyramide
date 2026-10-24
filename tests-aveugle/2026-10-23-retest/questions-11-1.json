@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "couette",
+          "oreiller",
+          "taie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "duvet"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "tête"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "bataille"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "songes"
+    ],
+    "dejaFausses": []
+  }
+]

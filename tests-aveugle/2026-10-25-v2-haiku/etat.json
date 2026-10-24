@@ -1,0 +1,260 @@
+{
+  "niveau": "@tests-aveugle/echantillon-5-par-niveau.json",
+  "vague": 14,
+  "reponses": {
+    "e-003": [
+      "ciel",
+      "bouclier",
+      "baleine",
+      "vent",
+      "escorte",
+      "train",
+      "Le parapluie"
+    ],
+    "e-007": [
+      "tournée",
+      "sac",
+      "sacoche",
+      "lettres",
+      "boîte",
+      "vélo",
+      "Le facteur"
+    ],
+    "e-204": [
+      "parchemin",
+      "monastique",
+      "moine",
+      "texte",
+      "liasse",
+      "rayons",
+      "écritures",
+      "Le palimpseste"
+    ],
+    "e-304": [
+      "hypocrite",
+      "masque",
+      "hypocrisie",
+      "dissimulation",
+      "fourbe",
+      "Tartuffe",
+      "saint",
+      "bigot",
+      "affectation",
+      "simagrées",
+      "crocodile",
+      "L'imposture religieuse",
+      "L'hypocrisie"
+    ],
+    "e-308": [
+      "spécieux",
+      "rigoureux",
+      "faille",
+      "axiomes",
+      "sophisme",
+      "paralogisme",
+      "induction",
+      "fallace",
+      "piège",
+      "Un sophisme"
+    ],
+    "e-325": [
+      "solitaire",
+      "anachorète",
+      "tentation",
+      "jeûne",
+      "chasteté",
+      "abstinence",
+      "austérité",
+      "pénitence",
+      "purification",
+      "L'ascèse"
+    ],
+    "e-335": [
+      "empereur",
+      "icônes",
+      "iconoclaste",
+      "iconodule",
+      "concile",
+      "troubler",
+      "bouleverser",
+      "doctrine",
+      "dogme",
+      "L'esprit critique",
+      "L'iconoclasme"
+    ],
+    "e-339": [
+      "monstre",
+      "multiples",
+      "décapitation",
+      "cautériser",
+      "tête",
+      "bout",
+      "L'hydre de Lerne",
+      "Une créature à plusieurs têtes",
+      "Un serpent aquatique"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "Le Père Noël"
+    ],
+    "e-435": [
+      "frein",
+      "pédale",
+      "guidon",
+      "gaz",
+      "pédalier",
+      "équilibre",
+      "cadre",
+      "selle",
+      "Un vélo"
+    ],
+    "e-437": [
+      "aéroport",
+      "valise",
+      "pilote",
+      "sillage",
+      "piste",
+      "hôtesse",
+      "Le vol",
+      "Un voyage en avion",
+      "Le transport aérien"
+    ],
+    "e-515": [
+      "foyer",
+      "pelle",
+      "charbon",
+      "wagons",
+      "rails",
+      "la locomotive"
+    ],
+    "e-530": [
+      "vengeance",
+      "revanche",
+      "rancune",
+      "ressentiment",
+      "représailles",
+      "implacable",
+      "châtiment",
+      "La vengeance"
+    ],
+    "e-536": [
+      "bottes",
+      "ogre",
+      "colosse",
+      "avaler",
+      "dévorer",
+      "couronne",
+      "cailloux",
+      "Le Petit Poucet",
+      "Un conte",
+      "Un récit de Charles Perrault"
+    ],
+    "e-541": [
+      "dents",
+      "crocs",
+      "cercueil",
+      "ail",
+      "aube",
+      "pieu",
+      "Le vampire"
+    ],
+    "np-204": [
+      "Léon Tolstoï",
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Alexandre Pouchkine"
+    ],
+    "np-205": [
+      "Archimède",
+      "Euclide",
+      "Pythagore",
+      "Hippocrate"
+    ],
+    "np-316": [
+      "Hadrien",
+      "Caligula",
+      "Néron",
+      "Marc Aurèle"
+    ],
+    "np-322": [
+      "Hamlet",
+      "Othello",
+      "Falstaff",
+      "Prospero"
+    ],
+    "np-327": [
+      "Georges Brassens",
+      "Jacques Brel",
+      "Charles Aznavour",
+      "Léo Ferré",
+      "Édith Piaf",
+      "Barbara"
+    ],
+    "np-328": [
+      "Francisco de Goya",
+      "Diego Vélasquez",
+      "Francisco de Zurbarán",
+      "El Greco"
+    ],
+    "np-403": [
+      "New York",
+      "Londres",
+      "Rio de Janeiro",
+      "Venise"
+    ],
+    "np-432": [
+      "Coca-Cola",
+      "Nutella",
+      "Haribo",
+      "Danone"
+    ],
+    "np-434": [
+      "Martinique",
+      "La Réunion",
+      "Polynésie française",
+      "Tahiti",
+      "Guyane française"
+    ],
+    "np-437": [
+      "Méditerranée",
+      "Pacifique",
+      "Manche",
+      "mer Morte"
+    ],
+    "np-441": [
+      "Dark Vador",
+      "Yoda",
+      "Chewbacca",
+      "Luke Skywalker"
+    ],
+    "np-501": [
+      "Aida",
+      "Rigoletto",
+      "Nabucco",
+      "Il Trovatore"
+    ],
+    "np-505": [
+      "Henri Matisse",
+      "Georges Braque",
+      "André Derain",
+      "Fernand Léger"
+    ],
+    "np-524": [
+      "Pénélope",
+      "Méduse",
+      "Eurydice",
+      "Pandore",
+      "Hélène"
+    ],
+    "np-534": [
+      "Louis Blériot",
+      "Antoine de Saint-Exupéry",
+      "Jean Mermoz",
+      "Roland Garros"
+    ]
+  }
+}

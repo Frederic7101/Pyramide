@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "vent", "raisonnement": "Brise est un vent léger ; le parapluie affronte le vent comme la pluie." },
+  "e-006": { "reponse": "feu", "raisonnement": "Flamme évoque le feu ; beaucoup, par son contraire peu, donne le son final de feu." },
+  "e-007": { "reponse": "colis", "raisonnement": "Un coffret est un petit contenant proche du colis, que le facteur distribue." },
+  "e-008": { "reponse": "miel", "raisonnement": "Doux qualifie le miel, l'or liquide produit par les abeilles." },
+  "e-009": { "reponse": "réalisateur", "raisonnement": "Truffaut était un réalisateur, métier du septième art." },
+  "e-403": { "reponse": "yaourt", "raisonnement": "Danone est une marque de yaourt, produit gardé au frais dans le frigo." },
+  "e-428": { "reponse": "wagon", "raisonnement": "Une voiture de train se dit wagon." },
+  "e-430": { "reponse": "cadeaux", "raisonnement": "Présents au pluriel : les cadeaux que porte le Père Noël dans sa hotte." },
+  "e-435": { "reponse": "pédale", "raisonnement": "Sur le vélo, la pédale joue le rôle d'accélérateur ; la série selle, guidon, pédale est cohérente." },
+  "e-437": { "reponse": "traînée", "raisonnement": "Trace laissée dans le ciel par l'avion : la traînée." }
+}

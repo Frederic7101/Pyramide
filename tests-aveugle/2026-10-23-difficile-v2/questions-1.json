@@ -1,0 +1,585 @@
+[
+  {
+    "id": "e-201",
+    "titre": "Humeur noire",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "torpeur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-203",
+    "titre": "Dire le contraire",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "erroné"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-205",
+    "titre": "Demain sans faute",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "veille"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-301",
+    "titre": "Sagesse du Portique",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "infortune"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-302",
+    "titre": "Le moulin à paroles",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "bavardage"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-303",
+    "titre": "Retournement de veste",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "retournement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "loup"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "indulgence"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-306",
+    "titre": "Un seul jour",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "asticot"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-307",
+    "titre": "Hors de son temps",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "centurion"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "strict"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-309",
+    "titre": "Nature morte",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "tête de mort"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-310",
+    "titre": "Obscure clarté",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "astres"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-311",
+    "titre": "Mots de velours",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "décédé"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-312",
+    "titre": "Le théâtre qui soigne",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "comédie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-313",
+    "titre": "Big Brother",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "lugubre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-314",
+    "titre": "Tout s'use",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "pagaille"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-315",
+    "titre": "Madeleine trempée",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "sensation"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-316",
+    "titre": "Femme aux yeux bandés",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "bascule"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-317",
+    "titre": "Élégance insolente",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "parangon"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "congénères"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-319",
+    "titre": "Carpe diem",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "jouissance"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-320",
+    "titre": "Pyrrhon d'Élis",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "verdict"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "travail"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-322",
+    "titre": "Éclair intérieur",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "foudroyant"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-323",
+    "titre": "Bienfaiteur des arts",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "monarques"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-324",
+    "titre": "Comparaison sans comme",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "printemps"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "ermite"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "fût"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-327",
+    "titre": "Le temps qui coule",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "pendule"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-328",
+    "titre": "Disque des astres",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "cuivre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "abondance"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-330",
+    "titre": "L'art de Socrate",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "accoucheuse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "doctrine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-332",
+    "titre": "Le vote des potiers",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "débris"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-333",
+    "titre": "Affaire de famille",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "oncle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-334",
+    "titre": "Le tribun",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "cajoler"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "césar"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-336",
+    "titre": "Moi seul",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "âme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-337",
+    "titre": "Le grand œuvre",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "officine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-338",
+    "titre": "Fin des temps",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "écuyers"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "créature"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-340",
+    "titre": "Ailes de cire",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "aspiration"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "sort"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-342",
+    "titre": "Seul au désert",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "caverne"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-343",
+    "titre": "Oasis trompeuse",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "vibrer"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-344",
+    "titre": "Rive des Enfers",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "rivière"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "tigre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-346",
+    "titre": "Ce qui était écrit",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "hommes"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-347",
+    "titre": "Antichambre du paradis",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "rachetée"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-348",
+    "titre": "Le bègue d'Athènes",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "galets"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-349",
+    "titre": "Pensée brève",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "adage"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-350",
+    "titre": "Loin du pays",
+    "type": "mot",
+    "motsPrecedents": [],
+    "numeroMot": 1,
+    "briques": [
+      "nation"
+    ],
+    "dejaFausses": []
+  }
+]

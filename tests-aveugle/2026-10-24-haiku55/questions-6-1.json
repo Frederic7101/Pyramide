@@ -1,0 +1,1193 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le nuage",
+          "le parapluie"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le spleen",
+          "le chevalier",
+          "le cafard"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "cétacés"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le sommeil",
+          "La Belle au bois dormant"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la veilleuse",
+          "la bougie"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "magma",
+      "basalte"
+    ],
+    "dejaFausses": [
+      "le volcan"
+    ]
+  },
+  {
+    "id": "e-007",
+    "titre": "Il passe chaque matin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le facteur",
+          "le soleil"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le vagabond",
+          "l'écolier"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "missives",
+      "alphabet"
+    ],
+    "dejaFausses": [
+      "le laitier"
+    ]
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le champagne",
+          "le miel"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "l'hydromel",
+          "le nectar"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "ambroisie",
+      "butiner"
+    ],
+    "dejaFausses": [
+      "l'élixir"
+    ]
+  },
+  {
+    "id": "e-009",
+    "titre": "Septième art",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le film",
+          "la pellicule"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le projecteur",
+          "l'écran"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Truffaut",
+      "producteur"
+    ],
+    "dejaFausses": [
+      "la Nouvelle Vague"
+    ]
+  },
+  {
+    "id": "e-204",
+    "titre": "Effacé, pas oublié",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le palimpseste",
+          "le parchemin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le psautier",
+          "le scriptorium"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "énoncé",
+      "paragraphe"
+    ],
+    "dejaFausses": [
+      "le codex"
+    ]
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Tartuffe",
+          "le cagot"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le bigot",
+          "l'hypocrite",
+          "le fourbe"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "modèle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la grâce",
+          "la clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le judas",
+          "le félon"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "générosité",
+      "Auguste"
+    ],
+    "dejaFausses": [
+      "la largesse"
+    ]
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le sophisme",
+          "le paralogisme"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le spécieux",
+          "le paradoxe"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "postulats",
+      "syllogisme"
+    ],
+    "dejaFausses": [
+      "l'axiome"
+    ]
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le solitaire",
+          "l'anachorète"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le stylite",
+          "l'ascète"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "continence",
+      "manquant"
+    ],
+    "dejaFausses": [
+      "le cénobite"
+    ]
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le tonneau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le cynique",
+          "le mépris",
+          "le protocole"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "fric",
+      "Harpagon"
+    ],
+    "dejaFausses": [
+      "l'obole"
+    ]
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le baroque",
+          "Rome"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la colonne torse",
+          "l'encens"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "tordues",
+      "raison"
+    ],
+    "dejaFausses": [
+      "les salomoniques"
+    ]
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'hérésie",
+          "le schisme"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "l'excommunication"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "l'Inquisition"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "les dissidents"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "autodafé"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Byzance",
+          "Léon III l'Isaurien"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "les icônes"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "contestataire",
+      "Mazarin",
+      "limite"
+    ],
+    "dejaFausses": [
+      "les iconoclastes",
+      "la Fronde"
+    ]
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'hydre",
+          "le serpent"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "les têtes",
+          "les travaux"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "décollation",
+      "guillotine"
+    ],
+    "dejaFausses": [
+      "la hache"
+    ]
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le hasard",
+          "le destin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la chance"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la fortune"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "astre",
+      "berger"
+    ],
+    "dejaFausses": [
+      "la constellation"
+    ]
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le réfrigérateur",
+          "le congélateur"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la glacière",
+          "le surgelé"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "le beurre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Danone"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-428",
+    "titre": "Tchou-tchou !",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la gare",
+          "le quai"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le rail",
+          "la voie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "le wagon"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "inspecteur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-430",
+    "titre": "Hotte sur le dos",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le Père Noël",
+          "le colporteur"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "les rennes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la cheminée"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le cadeau"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "conifère"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la bicyclette",
+          "le cycliste"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le guidon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la manette",
+          "le pédalier"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "stabilité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'aéroport"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "l'avion",
+          "la valise"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "le pilote"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "trace",
+      "atterrissage"
+    ],
+    "dejaFausses": [
+      "le sillage"
+    ]
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le ciel",
+          "le faîte"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la baguette",
+          "la tige"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "la foudre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "filin"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la fresque",
+          "l'enduit"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le plâtre",
+          "le badigeon"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "moite",
+      "éponge"
+    ],
+    "dejaFausses": [
+      "la détrempe"
+    ]
+  },
+  {
+    "id": "e-509",
+    "titre": "Embouchure en éventail",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le Rhône",
+          "le Nil"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la patte d'oie",
+          "la cuisse"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "les crues"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "sédiments"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la locomotive",
+          "le chemin de fer"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la pelle"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "le charbon"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "voitures",
+      "bestiaux"
+    ],
+    "dejaFausses": [
+      "le train"
+    ]
+  },
+  {
+    "id": "e-520",
+    "titre": "La Chevauchée fantastique",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la diligence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le shérif"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "les Apaches",
+          "la flèche"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "le duel"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pistolet"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-530",
+    "titre": "Un plat qui se mange froid",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la salade",
+          "le gaspacho"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "la terrine",
+          "le pâté"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "rétorsions",
+      "guerre"
+    ],
+    "dejaFausses": [
+      "la charcuterie"
+    ]
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le tribunal",
+          "le prétoire"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le greffier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "l'avocat",
+          "le juge"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "assesseurs"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'ogre",
+          "le cavalier"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le cyclope",
+          "le colosse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "engloutir",
+      "livres"
+    ],
+    "dejaFausses": [
+      "la baleine"
+    ]
+  },
+  {
+    "id": "e-541",
+    "titre": "Le comte des Carpates",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dracula",
+          "le loup-garou"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le vampire",
+          "le fossoyeur"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "l'ail"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aurore"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Charles Trenet",
+          "Léo Ferré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigle",
+      "Nantes"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Jean Ferrat"
+    ]
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francis Blake"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Hugo Pratt",
+          "Corto Maltese"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Valérian"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Giraud",
+      "lieutenant"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Moebius"
+    ]
+  },
+  {
+    "id": "np-420",
+    "type": "nom",
+    "theme": "Champions de tennis",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Roger Federer"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Rafael Nadal"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Yannick Noah"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Venus",
+      "sœur"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Venus Williams",
+      "Venus Ebony Starr Williams"
+    ]
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Paul Cézanne",
+          "Georges Braque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "André Derain"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tubes",
+      "Biot"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Pablo Picasso"
+    ]
+  },
+  {
+    "id": "np-524",
+    "type": "nom",
+    "theme": "Héroïnes de la mythologie grecque",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Pénélope"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Méduse",
+          "Perséphone",
+          "Eurydice"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Pandore"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Sparte"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

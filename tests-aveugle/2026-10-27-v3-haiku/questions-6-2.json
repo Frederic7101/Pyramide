@@ -1,0 +1,148 @@
+[
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Charles Trenet",
+          "Léo Ferré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigle",
+      "Nantes"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Charles Aznavour"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Grands de la chanson ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Georges Brassens »).\nNom n°2 : trouvé (« Jacques Brel »).\nNom n°3 : trouvé (« Léo Ferré »).\nBriques de Dico :\n1. aigle\n2. Nantes\nRéponses déjà jugées fausses : « Charles Aznavour ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francis Blake"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Hugo Pratt",
+          "Corto Maltese"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Valérian"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Giraud",
+      "lieutenant"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Moebius"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héros de bande dessinée réaliste ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Francis Blake »).\nNom n°2 : trouvé (« Corto Maltese »).\nNom n°3 : trouvé (« Valérian »).\nBriques de Dico :\n1. Giraud\n2. lieutenant\nRéponses déjà jugées fausses : « Moebius ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Fitzgerald Kennedy",
+          "Andrew Jackson",
+          "Dwight David Eisenhower",
+          "Lyndon Baines Johnson"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "premier"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°3.\nNom n°1 : trouvé (« Abraham Lincoln »).\nNom n°2 : non trouvé (tes propositions : « John Fitzgerald Kennedy », « Andrew Jackson », « Dwight David Eisenhower », « Lyndon Baines Johnson »).\nBriques de Dico :\n1. premier\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-524",
+    "type": "nom",
+    "theme": "Héroïnes de la mythologie grecque",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Pénélope"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Méduse",
+          "Perséphone",
+          "Eurydice"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Pandore"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Sparte"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héroïnes de la mythologie grecque ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Pénélope »).\nNom n°2 : trouvé (« Eurydice »).\nNom n°3 : trouvé (« Pandore »).\nBriques de Dico :\n1. Sparte\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

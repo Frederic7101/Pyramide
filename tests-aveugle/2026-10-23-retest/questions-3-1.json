@@ -1,0 +1,232 @@
+[
+  {
+    "id": "e-407",
+    "titre": "Ciel en colère",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tonnerre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "éclair"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "averse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "carapace"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "écailles"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "nombre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-420",
+    "titre": "Prince charmant ?",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "têtard"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "mare"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "moustiques"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "housse",
+      "traversin",
+      "pied"
+    ],
+    "dejaFausses": [
+      "couette",
+      "oreiller"
+    ]
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "bougies"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gâteau"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "chorale"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "foyer"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "pelle"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "houille"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "réservé"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "embarrassé",
+      "prêt"
+    ],
+    "dejaFausses": [
+      "gêné"
+    ]
+  },
+  {
+    "id": "e-528",
+    "titre": "La cassette d'Harpagon",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "avare",
+          "radin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "trésor"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "prévenu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "greffier"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "plaidoirie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-535",
+    "titre": "Pour le meilleur et pour le pire",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "promesse",
+      "bague",
+      "succès"
+    ],
+    "dejaFausses": [
+      "serment",
+      "alliance"
+    ]
+  }
+]

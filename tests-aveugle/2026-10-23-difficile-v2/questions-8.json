@@ -1,0 +1,643 @@
+[
+  {
+    "id": "e-203",
+    "titre": "Dire le contraire",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "faux"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "vrai"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "procédé",
+          "méthode"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "finesse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "raillerie",
+      "caustique",
+      "huile"
+    ],
+    "dejaFausses": [
+      "moquerie",
+      "ironie"
+    ]
+  },
+  {
+    "id": "e-301",
+    "titre": "Sagesse du Portique",
+    "type": "solution",
+    "texte": "Face à l'____, garde ton flegme ; Sénèque prônait l'ataraxie ; Épictète, ancien esclave, enseignait la résignation.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-302",
+    "titre": "Le moulin à paroles",
+    "type": "solution",
+    "texte": "Son verbiage est intarissable ; chaque phrase s'égare en digressions et en circonlocutions ; seul le silence lui serait salutaire.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-303",
+    "titre": "Retournement de veste",
+    "type": "solution",
+    "texte": "Après un brusque revirement, l'orateur renie sa propre opinion ; telle une girouette, il tourne au gré du vent ; ce désaveu public sonne comme un parjure.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "agneau",
+          "masque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hypocrisie",
+          "duplicité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "archétype",
+          "parangon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "simagrées"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "caïman"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "mansuétude",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "conjuré",
+          "félon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "magnanimité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "rancœur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "punition",
+      "avec"
+    ],
+    "dejaFausses": [
+      "châtiment"
+    ]
+  },
+  {
+    "id": "e-307",
+    "titre": "Hors de son temps",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "romain",
+          "légionnaire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "anachronisme",
+          "bévue"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "incongruités"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "enquêteur",
+          "limier"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "faute"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-309",
+    "titre": "Nature morte",
+    "type": "solution",
+    "texte": "Un crâne posé près d'une bougie éteinte, un sablier renversé, des fleurs fanées : tout rappelle la ____ de la vie.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-310",
+    "titre": "Obscure clarté",
+    "type": "solution",
+    "texte": "Cette lueur qui tombe des étoiles unit deux termes ____ ; cette figure de style cultive le paradoxe et ravit les amateurs de rhétorique.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-313",
+    "titre": "Big Brother",
+    "type": "solution",
+    "texte": "Dans ce futur sinistre, le Parti ne cesse d'épier chaque citoyen ; la censure règne, la pensée libre est un crime, et le mensonge a remplacé la vérité.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-315",
+    "titre": "Madeleine trempée",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "impression"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "saveur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "souvenir",
+          "renaître"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "involontaire",
+          "réminiscence"
+        ],
+        "trouve": false
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "rappel",
+      "spiritisme"
+    ],
+    "dejaFausses": [
+      "mémoire"
+    ]
+  },
+  {
+    "id": "e-316",
+    "titre": "Femme aux yeux bandés",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "balance"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "glaive"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "justice"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "auteur",
+          "sculpteur",
+          "artiste"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "théorique",
+      "curé"
+    ],
+    "dejaFausses": [
+      "abstraction"
+    ]
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "type": "solution",
+    "texte": "Il fuit ses semblables, déteste leur fausseté ; reclus dans sa retraite, il cultive sa solitude et sa rancune.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-320",
+    "titre": "Pyrrhon d'Élis",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "jugement"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "doute",
+          "certitude"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "apparence",
+          "illusion"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "savoir",
+          "ignorance"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "naïveté"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tâche",
+          "ouvrage"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "prétextes",
+          "faux-fuyants",
+          "subterfuges"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "report",
+          "délai"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "hésitations"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-322",
+    "titre": "Éclair intérieur",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "fulgurant"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "idée",
+          "illumination"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "évident",
+          "limpide"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "épiphanie",
+          "manifestation"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "gâteau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-323",
+    "titre": "Bienfaiteur des arts",
+    "type": "solution",
+    "texte": "Les princes de la Renaissance protégeaient les artistes ; leur fortune finançait fresques et statues ; aujourd'hui, une déduction fiscale encourage ce soutien.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-324",
+    "titre": "Comparaison sans comme",
+    "type": "solution",
+    "texte": "Dire « l'automne de la vie » pour la vieillesse : voilà une image poétique ; elle repose sur une analogie implicite ; les orateurs en font un ornement du discours.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "solitaire",
+          "anachorète"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "jeûne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "chasteté",
+          "abstinence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "austérité",
+          "discipline"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "ablutions"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-328",
+    "titre": "Disque des astres",
+    "type": "solution",
+    "texte": "Ce disque de laiton servait à mesurer la hauteur des étoiles ; les savants arabes le perfectionnèrent ; les pilotes l'emportaient pour faire le point.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-330",
+    "titre": "L'art de Socrate",
+    "type": "solution",
+    "texte": "Fils d'une sage-femme, Socrate se disait accoucheur des esprits ; par ses questions insistantes, il menait l'élève à découvrir sa propre vérité.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-332",
+    "titre": "Le vote des potiers",
+    "type": "solution",
+    "texte": "À Athènes, on gravait un nom sur un tesson pour bannir un citoyen trop influent ; cet ____ durait dix ans : une exclusion légale.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-334",
+    "titre": "Le tribun",
+    "type": "solution",
+    "texte": "L'orateur sait flatter la plèbe et promettre monts et merveilles ; ses discours populistes enflamment la foule.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "solution",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les dogmes établis.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-336",
+    "titre": "Moi seul",
+    "type": "solution",
+    "texte": "Pour lui, seul existe son propre esprit ; le monde n'est qu'une projection de sa conscience ; autrui ? un fantôme, peut-être un songe.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-337",
+    "titre": "Le grand œuvre",
+    "type": "solution",
+    "texte": "Dans son laboratoire, l'initié cherchait la pierre philosophale ; il rêvait de changer le plomb en or et de trouver l'élixir de longue vie.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "solution",
+    "texte": "Ce monstre aux têtes multiples renaissait à chaque décapitation ; Héraclès dut cautériser les plaies pour en venir à bout.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-340",
+    "titre": "Ailes de cire",
+    "type": "solution",
+    "texte": "Icare, ivre d'ambition, s'approcha trop du soleil ; sa présomption le perdit : la chute punit toujours la démesure et la vanité.",
+    "dejaFausses": [
+      "l'hybris"
+    ]
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "solution",
+    "texte": "Ni destin ni calcul : seule la chance décide ; la fortune sourit aux audacieux ; le joueur invoque sa bonne étoile et redoute la poisse.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-342",
+    "titre": "Seul au désert",
+    "type": "solution",
+    "texte": "Retiré dans sa grotte, il vit de racines et de prière ; sa sérénité n'est troublée que par le cri des corbeaux.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "type": "solution",
+    "texte": "Ce lion à tête de femme posait une devinette aux voyageurs ; quiconque échouait était dévoré ; le fils de Laïos en trouva la clé, et le monstre se jeta dans un précipice.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-348",
+    "titre": "Le bègue d'Athènes",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "cailloux"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "exercice",
+          "entraînement"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "orateur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "éloquent",
+          "persuasif"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "faconde",
+      "intarissable"
+    ],
+    "dejaFausses": [
+      "éloquence"
+    ]
+  },
+  {
+    "id": "e-349",
+    "titre": "Pensée brève",
+    "type": "solution",
+    "texte": "Une sentence courte et frappante, qui condense une vérité : La Rochefoucauld en fit des maximes ; Chamfort y mettait de l'esprit et Cioran du désespoir.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-350",
+    "titre": "Loin du pays",
+    "type": "solution",
+    "texte": "Chassé de sa patrie, Hugo vécut dix-neuf ans à Guernesey ; le manque de la terre natale le rongeait ; ses ____ grondaient contre l'usurpateur ; seule la mer le consolait.",
+    "dejaFausses": []
+  }
+]

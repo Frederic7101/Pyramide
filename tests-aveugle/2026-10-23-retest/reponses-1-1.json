@@ -1,0 +1,12 @@
+{
+  "e-407": { "reponse": "tonnerre", "raisonnement": "Le titre évoque l'orage ; le grondement du ciel, c'est le tonnerre. Écarté : orage, plus large que le grondement lui-même." },
+  "e-412": { "reponse": "carapace", "raisonnement": "Le titre renvoie à la fable Le Lièvre et la Tortue ; la cuirasse de la tortue est sa carapace. Écarté : bouclier, hors thème." },
+  "e-420": { "reponse": "têtard", "raisonnement": "Le prince charmant changé en crapaud ou en grenouille ; la larve de la grenouille est le têtard. Écarté : chenille, qui ne colle pas au thème." },
+  "e-424": { "reponse": "couette", "raisonnement": "Thème du lit et du coucher ; on parle surtout de housse de couette. Écarté : oreiller, qui a une taie plutôt qu'une housse." },
+  "e-447": { "reponse": "bougies", "raisonnement": "On fait un vœu en soufflant les bougies d'anniversaire ; chandelles en est le synonyme. Écarté : gâteau, qui n'est pas un synonyme." },
+  "e-515": { "reponse": "foyer", "raisonnement": "Le cheval de fer est la locomotive à vapeur ; l'âtre a pour synonyme foyer, qui est aussi la partie de la chaudière où brûle le charbon. Écarté : cheminée." },
+  "e-527": { "reponse": "réservé", "raisonnement": "Rougir évoque la timidité ; retenu a pour synonyme réservé. Écarté : timide, moins proche de retenu." },
+  "e-528": { "reponse": "avare", "raisonnement": "Harpagon est L'Avare de Molière ; pingre est un synonyme d'avare." },
+  "e-533": { "reponse": "prévenu", "raisonnement": "La salle des pas perdus se trouve au palais de justice ; au tribunal, l'accusé est aussi appelé prévenu. Écarté : inculpé." },
+  "e-535": { "reponse": "serment", "raisonnement": "La formule vient du mariage ; la promesse échangée se dit serment. Écarté : vœu, autre possibilité, et engagement." }
+}

@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "bouclier", "raisonnement": "L'écu est un bouclier ; le parapluie, compagnon des jours gris, protège du ciel comme un bouclier." },
+  "e-006": { "reponse": "siècles", "raisonnement": "« Terre » ne s'accorde pas avec « époques » : c'est une incitation, terre → ciel → son [sjɛ]. Parmi les synonymes pluriels d'époques, « siècles » commence par ce son." },
+  "e-007": { "reponse": "sacoche", "raisonnement": "« Besace » a pour synonyme « sacoche », celle du facteur qui passe chaque matin." },
+  "e-008": { "reponse": "abeilles", "raisonnement": "Les bourdons sont proches des abeilles, au pluriel ; avec la ruche et le miel (or liquide), « abeilles »." },
+  "e-009": { "reponse": "écran", "raisonnement": "Un moniteur est un écran ; au cinéma, la salle et l'écran." },
+  "e-403": { "reponse": "froid", "raisonnement": "« Frisquet » est un synonyme familier de « froid », adjectif ; l'armoire froide du réfrigérateur." },
+  "e-428": { "reponse": "voie", "raisonnement": "« Chemin » a pour synonyme « voie » ; avec le train et le quai, la voie ferrée." },
+  "e-430": { "reponse": "rennes", "raisonnement": "Les rennes sont les cervidés qui tirent le traîneau du Père Noël." },
+  "e-435": { "reponse": "selle", "raisonnement": "« Poivre » est une incitation : poivre → sel → [sɛl]. L'étrier va avec la selle, et le vélo a une selle." },
+  "e-437": { "reponse": "valises", "raisonnement": "« Bagages » au pluriel a pour synonyme « valises », qu'on emporte à l'aéroport." }
+}

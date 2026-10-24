@@ -1,0 +1,79 @@
+[
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "hypocrite",
+          "masque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hypocrisie",
+          "dissimulation",
+          "fourbe"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Tartuffe",
+          "saint",
+          "bigot"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "minauderies",
+      "grimaces"
+    ],
+    "dejaFausses": [
+      "affectation"
+    ],
+    "message": "Titre de l'énigme : « Faux dévot ».\nTu cherches le mot n°4.\nMot n°1 : trouvé (« masque »).\nMot n°2 : non trouvé (tes propositions : « hypocrisie », « dissimulation », « fourbe »).\nMot n°3 : non trouvé (tes propositions : « Tartuffe », « saint », « bigot »).\nMot d'une énigme. Briques de Dico :\n1. minauderies\n2. grimaces\nRéponses déjà jugées fausses : « affectation ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "type": "solution",
+    "texte": "Ce raisonnement paraît rigoureux, mais il cache une faille ; ses ____ sont vraies, sa ____ est fausse : c'est un piège déguisé.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Raisonnement trompeur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nCe raisonnement paraît rigoureux, mais il cache une faille ; ses ____ sont vraies, sa ____ est fausse : c'est un piège déguisé.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "solution",
+    "texte": "L'anachorète se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le désert intérieur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nL'anachorète se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "solution",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit ____ aime ____ les dogmes établis.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Querelle des images ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nÀ Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit ____ aime ____ les dogmes établis.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "solution",
+    "texte": "Chaussé de bottes de sept lieues, ce colosse rêve de dévorer sept frères ; il égorge ses filles, trompé par leurs couronnes, échangées par le petit dernier, celui des cailloux.",
+    "dejaFausses": [
+      "Le Petit Poucet",
+      "Un conte"
+    ],
+    "message": "Titre de l'énigme : « Je sens la chair fraîche ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nChaussé de bottes de sept lieues, ce colosse rêve de dévorer sept frères ; il égorge ses filles, trompé par leurs couronnes, échangées par le petit dernier, celui des cailloux.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Le Petit Poucet », « Un conte »."
+  }
+]

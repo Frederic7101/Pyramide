@@ -1,0 +1,19 @@
+[
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une sanction exemplaire.",
+    "dejaFausses": [
+      "la grâce",
+      "la clémence"
+    ]
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "type": "solution",
+    "texte": "Remettre sans cesse l'ouvrage, chercher des subterfuges, multiplier les délais et les tergiversations : voilà qui exaspère les créanciers.",
+    "dejaFausses": []
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "e-201",
+    "titre": "Humeur noire",
+    "texte": "Cette langueur de l'âme, que les Anciens attribuaient à la bile noire, inspira à Dürer une célèbre gravure ; Baudelaire l'appelait spleen ; elle n'est pourtant pas sans [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "attrait"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-203",
+    "titre": "Dire le contraire",
+    "texte": "Elle dit le faux pour faire entendre le vrai ; Socrate en fit une méthode ; Voltaire la maniait avec une finesse redoutable ; elle frôle parfois le [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "raillerie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-205",
+    "titre": "Demain sans faute",
+    "texte": "Je remets toujours au lendemain ce que je pourrais faire aujourd'hui ; je trouve mille prétextes pour fuir l'effort ; mon pire ennemi est l'[MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "terme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-301",
+    "titre": "Sagesse du Portique",
+    "texte": "Face à l'adversité, garde ton flegme ; Sénèque prônait l'ataraxie ; Épictète, ancien [MOT À TROUVER], enseignait la ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "serf"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-302",
+    "titre": "Le moulin à paroles",
+    "texte": "Son verbiage est intarissable ; chaque phrase s'égare en digressions et en circonlocutions ; seul le [MOT À TROUVER] lui serait salutaire.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "bruit"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-303",
+    "titre": "Retournement de veste",
+    "texte": "Après un brusque revirement, l'orateur renie sa propre opinion ; telle une girouette, il tourne au gré du vent ; ce désaveu public sonne comme un [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "trahison"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "texte": "Sous le masque de la vertu se cache la duplicité ; Tartuffe en est le [MOT À TROUVER] ; ses ____ sont des larmes de ____.",
+    "type": "mot",
+    "numeroMot": 3,
+    "briques": [
+      "modèle",
+      "vertu"
+    ],
+    "dejaFausses": [
+      "archétype"
+    ]
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une [MOT À TROUVER] exemplaire.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "punition"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-306",
+    "titre": "Un seul jour",
+    "texte": "Sorti d'une larve, je danse au-dessus de la rivière ; ma vie fugace fait de moi le symbole de la [MOT À TROUVER] ; le soir venu, je dois ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "fragilité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-307",
+    "titre": "Hors de son temps",
+    "texte": "Une montre au poignet d'un légionnaire romain : quelle bévue ! L'historien traque ces ____ comme le [MOT À TROUVER] traque l'____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "détective"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "texte": "Ce raisonnement paraît rigoureux, mais il cache une faille ; ses prémisses sont vraies, sa conclusion est fausse : c'est un [MOT À TROUVER] déguisé.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "traquenard"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-309",
+    "titre": "Nature morte",
+    "texte": "Un crâne posé près d'une bougie éteinte, un sablier renversé, des fleurs fanées : tout rappelle la [MOT À TROUVER] de la vie.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "fugacité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-310",
+    "titre": "Obscure clarté",
+    "texte": "Cette lueur qui tombe des étoiles unit deux termes contradictoires ; cette figure de style cultive le [MOT À TROUVER] et ravit les amateurs de ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "antinomie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-311",
+    "titre": "Mots de velours",
+    "texte": "Dire « il nous a quittés » pour « il est mort » : voilà un détour pudique ; on cherche à atténuer la réalité pour ménager la [MOT À TROUVER] d'autrui.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "émotivité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-312",
+    "titre": "Le théâtre qui soigne",
+    "texte": "Pour le philosophe de Stagire, la tragédie suscite crainte et pitié ; le spectateur en sort apaisé, ses [MOT À TROUVER] ainsi ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "émotions"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-313",
+    "titre": "Big Brother",
+    "texte": "Dans ce futur sinistre, le Parti ne cesse d'épier chaque citoyen ; la [MOT À TROUVER] règne, la ____ libre est un crime, et le ____ a remplacé la vérité.",
+    "type": "mot",
+    "numeroMot": 3,
+    "briques": [
+      "liberté",
+      "ciseaux"
+    ],
+    "dejaFausses": [
+      "tyrannie"
+    ]
+  },
+  {
+    "id": "e-314",
+    "titre": "Tout s'use",
+    "texte": "Le désordre ne fait que croître ; l'ordre cède au chaos ; l'énergie se dissipe en chaleur : c'est le second principe de la [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "Carnot"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-315",
+    "titre": "Madeleine trempée",
+    "texte": "Une impression oubliée remonte : un parfum, une saveur, et le passé se met à resurgir ; ce n'est pas un vrai souvenir, mais une [MOT À TROUVER] confuse.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "rappel"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-316",
+    "titre": "Femme aux yeux bandés",
+    "texte": "Une femme tenant une balance et un glaive : voici la justice figurée ; l'artiste rend visible une idée [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "théorique"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-317",
+    "titre": "Élégance insolente",
+    "texte": "Brummell en fut le modèle : une nonchalance étudiée, un costume impeccable, une impertinence affectée et un mépris souverain pour la [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "trivialité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "texte": "Il fuit ses semblables, déteste leur fausseté ; reclus dans sa retraite, il cultive sa [MOT À TROUVER] et sa ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "isolement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-319",
+    "titre": "Carpe diem",
+    "texte": "Cueille le jour : le plaisir est le souverain bien ; fuis la douleur, savoure chaque instant ; Épicure prônait pourtant la modération plus que l'[MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "griserie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-320",
+    "titre": "Pyrrhon d'Élis",
+    "texte": "Le sage suspendait son jugement ; il tenait toute certitude pour illusoire ; l'ignorance l'inquiétait moins que la [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "naïveté"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "texte": "Remettre sans cesse l'ouvrage, chercher des subterfuges, multiplier les délais et les [MOT À TROUVER] : voilà qui exaspère les ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "hésitations"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-322",
+    "titre": "Éclair intérieur",
+    "texte": "Un éclair fulgurant dans l'esprit, une soudaine illumination : tout devient limpide ; les mages y virent la manifestation d'un dieu ; nous fêtons cela avec une [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "gâteau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-323",
+    "titre": "Bienfaiteur des arts",
+    "texte": "Les princes de la Renaissance protégeaient les artistes ; leur fortune finançait fresques et statues ; aujourd'hui, une [MOT À TROUVER] fiscale encourage ce soutien.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "abattement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-324",
+    "titre": "Comparaison sans comme",
+    "texte": "Dire « l'automne de la vie » pour la vieillesse : voilà une image poétique ; elle repose sur une analogie implicite ; les [MOT À TROUVER] en font un ____ du discours.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "tribuns"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "texte": "L'anachorète se prive de tout : jeûne, [MOT À TROUVER] et veilles ; par cette ____, il cherche la ____ de l'âme.",
+    "type": "mot",
+    "numeroMot": 3,
+    "briques": [
+      "continence",
+      "manquant"
+    ],
+    "dejaFausses": [
+      "chasteté"
+    ]
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "texte": "Le philosophe vivait dans un tonneau ; il méprisait les conventions et l'argent ; son impudence provocante choquait les [MOT À TROUVER] d'Athènes.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "dignitaires"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-327",
+    "titre": "Le temps qui coule",
+    "texte": "Avant l'horloge, on mesurait les heures grâce à l'eau qui s'écoulait d'un vase percé ; les [MOT À TROUVER] grecs la consultaient.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "juridictions"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-328",
+    "titre": "Disque des astres",
+    "texte": "Ce disque de laiton servait à mesurer la hauteur des étoiles ; les savants arabes le perfectionnèrent ; les [MOT À TROUVER] l'emportaient pour faire le ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "timoniers",
+      "avion"
+    ],
+    "dejaFausses": [
+      "navigateurs"
+    ]
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "texte": "Cet art de la profusion aime les volutes et les colonnes torses ; il cultive le trompe-l'œil et le goût de l'[MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "exhibition"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-330",
+    "titre": "L'art de Socrate",
+    "texte": "Fils d'une sage-femme, Socrate se disait accoucheur des esprits ; par ses questions insistantes, il menait l'élève à découvrir sa propre [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "mensonge"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "texte": "S'écarter du dogme, c'est risquer l'excommunication ; l'inquisition traquait ces dissidents et les livrait au [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "autodafé"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-332",
+    "titre": "Le vote des potiers",
+    "texte": "À Athènes, on gravait un nom sur un tesson pour bannir un citoyen trop influent ; cet éloignement durait dix ans : une [MOT À TROUVER] légale.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "éviction"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-333",
+    "titre": "Affaire de famille",
+    "texte": "Placer ses neveux aux postes clés : voilà le péché mignon du pouvoir ; ici la parenté prime sur le [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "valeur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-334",
+    "titre": "Le tribun",
+    "texte": "L'orateur sait flatter la plèbe et promettre monts et merveilles ; ses discours populistes enflamment la [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "multitude"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit [MOT À TROUVER] aime ____ les ____ établis.",
+    "type": "mot",
+    "numeroMot": 3,
+    "briques": [
+      "contestataire",
+      "Mazarin",
+      "limite"
+    ],
+    "dejaFausses": [
+      "rebelle",
+      "iconoclaste"
+    ]
+  },
+  {
+    "id": "e-336",
+    "titre": "Moi seul",
+    "texte": "Pour lui, seul existe son propre esprit ; le monde n'est qu'une projection de sa conscience ; autrui ? un fantôme, peut-être un [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "rêve"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-337",
+    "titre": "Le grand œuvre",
+    "texte": "Dans son laboratoire, l'initié cherchait la pierre philosophale ; il rêvait de changer le [MOT À TROUVER] en or et de trouver l'____ de longue vie.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "étain"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-338",
+    "titre": "Fin des temps",
+    "texte": "Saint Jean y décrit quatre cavaliers, une bête aux sept têtes et le jugement final ; son nom signifie révélation ; on l'emploie pour toute [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "désastre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "texte": "Ce monstre aux têtes multiples renaissait à chaque décapitation ; Héraclès dut cautériser les plaies pour en venir à [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "extrémité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-340",
+    "titre": "Ailes de cire",
+    "texte": "Icare, ivre d'ambition, s'approcha trop du soleil ; sa présomption le perdit : la chute punit toujours la démesure et la [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "fatuité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "texte": "Ni destin ni calcul : seule la chance décide ; la fortune sourit aux audacieux ; le joueur invoque sa bonne étoile et redoute la [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "malchance"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-342",
+    "titre": "Seul au désert",
+    "texte": "Retiré dans sa grotte, il vit de racines et de prière ; sa sérénité n'est troublée que par le [MOT À TROUVER] des ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "hurlement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-343",
+    "titre": "Oasis trompeuse",
+    "texte": "Sous la chaleur, l'air se met à trembler ; une nappe d'eau semble miroiter au loin ; le voyageur court vers cette illusion [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "visuelle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-344",
+    "titre": "Rive des Enfers",
+    "texte": "Boire au fleuve des Enfers effaçait la mémoire ; l'âme y perdait ses souvenirs ; on dit que le temps finit par [MOT À TROUVER] toutes les blessures.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "refermer"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "texte": "Ce lion à tête de femme posait une devinette aux voyageurs ; quiconque échouait était dévoré ; le fils de Laïos en trouva la [MOT À TROUVER], et le monstre se jeta dans un ____.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "réponse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-346",
+    "titre": "Ce qui était écrit",
+    "texte": "Les dieux jouent des mortels ; nul n'échappe à son destin ; l'oracle l'avait prédit ; la malédiction s'acharne, et le héros [MOT À TROUVER] n'y peut rien.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "comique"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-347",
+    "titre": "Antichambre du paradis",
+    "texte": "Ni sauvée ni damnée, l'âme vient y expier ses fautes ; Dante en gravit la montagne ; les prières des vivants abrègent ce séjour d'[MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "expectative"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-348",
+    "titre": "Le bègue d'Athènes",
+    "texte": "Démosthène mettait des cailloux dans sa bouche ; à force d'entraînement, il devint l'orateur le plus [MOT À TROUVER] ; sa ____ subjuguait l'assemblée.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "convaincant"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-349",
+    "titre": "Pensée brève",
+    "texte": "Une sentence courte et frappante, qui condense une vérité : La Rochefoucauld en fit des maximes ; Chamfort y mettait de l'esprit et Cioran du [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "détresse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-350",
+    "titre": "Loin du pays",
+    "texte": "Chassé de sa patrie, Hugo vécut dix-neuf ans à Guernesey ; le manque de la terre natale le rongeait ; ses poèmes grondaient contre l'usurpateur ; seule la [MOT À TROUVER] le consolait.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "océan"
+    ],
+    "dejaFausses": []
+  }
+]

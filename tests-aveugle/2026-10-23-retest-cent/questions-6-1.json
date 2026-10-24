@@ -1,0 +1,39 @@
+[
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "carapace"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "écailles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "centenaire",
+          "sang"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "branches",
+      "automne"
+    ],
+    "dejaFausses": [
+      "pattes"
+    ]
+  }
+]

@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "e-201",
+    "titre": "Humeur noire",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "léthargie",
+          "langueur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "bile"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "gravure"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "spleen"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "attrait"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-203",
+    "titre": "Dire le contraire",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "faux"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "vrai"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "procédé",
+          "méthode"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "finesse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "raillerie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-205",
+    "titre": "Demain sans faute",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "lendemain"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "aujourd'hui"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "prétextes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "travail",
+          "effort"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "terme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-301",
+    "titre": "Sagesse du Portique",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "malheur",
+          "douleur"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "apathie",
+          "flegme"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "ataraxie"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "serf"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-302",
+    "titre": "Le moulin à paroles",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "papotage",
+          "verbiage"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "intarissable"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "digression"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "circonlocutions"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "bruit"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-303",
+    "titre": "Retournement de veste",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "revirement"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "opinion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "girouette"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "palinodie",
+          "désaveu"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "trahison"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "agneau",
+          "masque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hypocrisie",
+          "duplicité"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 3,
+    "briques": [
+      "modèle",
+      "vertu"
+    ],
+    "dejaFausses": [
+      "archétype"
+    ]
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "mansuétude",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "conjuré",
+          "félon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "magnanimité"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "aigreur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-306",
+    "titre": "Un seul jour",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "larve"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "rivière"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "éphémère",
+          "fugace"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "précarité"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "mourir"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-307",
+    "titre": "Hors de son temps",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "romain",
+          "légionnaire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "anachronisme",
+          "bévue"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "incongruités"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "détective"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "type": "solution",
+    "texte": "Ce raisonnement paraît rigoureux, mais il cache une faille ; ses prémisses sont vraies, sa conclusion est fausse : c'est un piège déguisé.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-309",
+    "titre": "Nature morte",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "crâne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "bougie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "sablier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "fleurs",
+          "fanées"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "fugacité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-310",
+    "titre": "Obscure clarté",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "étoiles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "contraires",
+          "alliance"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "style"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "antinomie",
+      "Zénon"
+    ],
+    "dejaFausses": [
+      "contradiction"
+    ]
+  },
+  {
+    "id": "e-311",
+    "titre": "Mots de velours",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "mort"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "détour"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pudeur",
+          "pudique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "atténuer"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "émotivité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-312",
+    "titre": "Le théâtre qui soigne",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tragédie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "terreur",
+          "pitié"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "apaisé"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "passions"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "libérées"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-313",
+    "titre": "Big Brother",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "sinistre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "surveiller",
+          "épier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "esclavage",
+          "censure"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "réflexion"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-314",
+    "titre": "Tout s'use",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "désordre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "ordre",
+          "chaos"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "énergie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "chaleur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "Carnot"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-315",
+    "titre": "Madeleine trempée",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "impression"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "saveur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "souvenir",
+          "renaître"
+        ],
+        "trouve": false
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "mémoire",
+      "sur"
+    ],
+    "dejaFausses": [
+      "involontaire"
+    ]
+  },
+  {
+    "id": "e-316",
+    "titre": "Femme aux yeux bandés",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "balance"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "glaive"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "justice"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "créateur",
+      "atelier",
+      "veine"
+    ],
+    "dejaFausses": [
+      "auteur",
+      "sculpteur"
+    ]
+  },
+  {
+    "id": "e-317",
+    "titre": "Élégance insolente",
+    "type": "solution",
+    "texte": "Brummell en fut le modèle : une nonchalance étudiée, un costume impeccable, une impertinence affectée et un mépris souverain pour la vulgarité.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "semblables"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hypocrisie",
+          "fausseté"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "désert",
+          "retraite"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "isolement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-319",
+    "titre": "Carpe diem",
+    "type": "solution",
+    "texte": "Cueille le jour : le plaisir est le souverain bien ; fuis la douleur, savoure chaque instant ; Épicure prônait pourtant la modération plus que l'ivresse.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-320",
+    "titre": "Pyrrhon d'Élis",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "jugement"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "doute",
+          "certitude"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "apparence",
+          "illusion"
+        ],
+        "trouve": false
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "connaissance"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tâche",
+          "ouvrage"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "prétextes",
+          "faux-fuyants",
+          "subterfuges"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 3,
+    "briques": [
+      "sursis"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-322",
+    "titre": "Éclair intérieur",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "fulgurant"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "idée",
+          "illumination"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "évident",
+          "limpide"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "apparition"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-323",
+    "titre": "Bienfaiteur des arts",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "rois",
+          "princes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "artistes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "fortune"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "sculptures",
+      "piédestal"
+    ],
+    "dejaFausses": [
+      "œuvres"
+    ]
+  },
+  {
+    "id": "e-324",
+    "titre": "Comparaison sans comme",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "jeunesse",
+          "automne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "poésie",
+          "poétique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "analogie"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "tribuns"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "solitaire",
+          "anachorète"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "jeûne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "chasteté",
+          "abstinence"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "rigueur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tonneau"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "conventions"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "argent"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "impudence"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "dignitaires",
+      "bourgeois"
+    ],
+    "dejaFausses": [
+      "puissants"
+    ]
+  },
+  {
+    "id": "e-327",
+    "titre": "Le temps qui coule",
+    "type": "solution",
+    "texte": "Avant l'horloge, on mesurait les heures grâce à l'eau qui s'écoulait d'un vase percé ; les tribunaux grecs la consultaient.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-328",
+    "titre": "Disque des astres",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "laiton"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hauteur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "savants"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "navigateurs",
+          "pilotes"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "position"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "profusion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "volutes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "colonnes",
+          "torses"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "trompe-l'œil"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "exhibition"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-330",
+    "titre": "L'art de Socrate",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "sage-femme"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "accoucheur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "questions"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "vérité",
+          "découvrir"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "mensonge"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "solution",
+    "texte": "S'écarter du dogme, c'est risquer l'excommunication ; l'inquisition traquait ces dissidents et les livrait au bûcher.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-332",
+    "titre": "Le vote des potiers",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tesson"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "bannir"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "influent"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "éloigner",
+          "écarter"
+        ],
+        "trouve": false
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "éviction"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-333",
+    "titre": "Affaire de famille",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "neveu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "faveur",
+          "péché"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "pouvoir"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "parenté"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "valeur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-334",
+    "titre": "Le tribun",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "flatter"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "merveilles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "foule",
+          "discours"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "populistes"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "multitude"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "empereur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "icônes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "iconoclaste",
+          "frondeur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "secouer",
+      "habitudes"
+    ],
+    "dejaFausses": [
+      "ébranler"
+    ]
+  },
+  {
+    "id": "e-336",
+    "titre": "Moi seul",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "esprit"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "image",
+          "illusion",
+          "projection"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "conscience"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "spectre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-337",
+    "titre": "Le grand œuvre",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "laboratoire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "initié"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "alchimiste",
+          "pierre",
+          "philosophale"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "étain"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-338",
+    "titre": "Fin des temps",
+    "type": "solution",
+    "texte": "Saint Jean y décrit quatre cavaliers, une bête aux sept têtes et le jugement final ; son nom signifie révélation ; on l'emploie pour toute catastrophe.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "monstre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "têtes",
+          "multiples"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "décapitation"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "cautériser"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "extrémité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-340",
+    "titre": "Ailes de cire",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ambition"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "soleil"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "orgueil",
+          "présomption"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "démesure"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "fatuité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "destin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "chance"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "hasard",
+          "fortune"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "étoile"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "malchance"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-342",
+    "titre": "Seul au désert",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grotte"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "racines"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "paix",
+          "sérénité"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "hurlement",
+      "Munch"
+    ],
+    "dejaFausses": [
+      "silence"
+    ]
+  },
+  {
+    "id": "e-343",
+    "titre": "Oasis trompeuse",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "trembler"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "désert",
+          "nappe"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "miroiter"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "illusion"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "visuelle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-344",
+    "titre": "Rive des Enfers",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "fleuve"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "oubli",
+          "mémoire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "âmes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "souvenirs"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "refermer"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "lion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "énigme",
+          "devinette"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "dévoré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "réponse",
+      "serrure"
+    ],
+    "dejaFausses": [
+      "solution"
+    ]
+  },
+  {
+    "id": "e-346",
+    "titre": "Ce qui était écrit",
+    "type": "solution",
+    "texte": "Les dieux jouent des mortels ; nul n'échappe à son destin ; l'oracle l'avait prédit ; la malédiction s'acharne, et le héros tragique n'y peut rien.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-347",
+    "titre": "Antichambre du paradis",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "sauvée"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "expier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "montagne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "âmes",
+          "morts"
+        ],
+        "trouve": false
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "expectative"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-348",
+    "titre": "Le bègue d'Athènes",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "cailloux"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "exercice",
+          "entraînement"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "orateur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "convaincant",
+      "argument"
+    ],
+    "dejaFausses": [
+      "éloquent"
+    ]
+  },
+  {
+    "id": "e-349",
+    "titre": "Pensée brève",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "proverbe",
+          "sentence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "vérité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "morale",
+          "maximes"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 4,
+    "briques": [
+      "humour"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-350",
+    "titre": "Loin du pays",
+    "type": "mot",
+    "motsPrecedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "patrie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "manque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "retour",
+          "regrets"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "usurpateur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numeroMot": 5,
+    "briques": [
+      "océan"
+    ],
+    "dejaFausses": []
+  }
+]

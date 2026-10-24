@@ -1,0 +1,11 @@
+{
+  "e-407": { "reponse": "orage", "raisonnement": "Titre et mots précédents (tonnerre, éclair, pluie, nuages) : l'orage. Souris et clavier évoquent l'ordinateur, incitation sur le son « or » d'orage." },
+  "e-412": { "reponse": "feuilles", "raisonnement": "Thème de la tortue (La Fontaine). Branches et automne évoquent les feuilles, que la tortue mange ; pattes déjà refusé." },
+  "e-420": { "reponse": "coasser", "raisonnement": "Thème de la grenouille (prince charmant transformé). Crapaud et cri mènent au cri du batracien : coasser ; batracien déjà refusé." },
+  "e-424": { "reponse": "taie", "raisonnement": "Literie : housse et traversin orientent vers la taie d'oreiller ; parler a pour contraire se taire, incitation sur « taie ». Couette et oreiller refusés." },
+  "e-447": { "reponse": "carte", "raisonnement": "Anniversaire (bougies, gâteau, chanson, cadeaux). Pli au sens de courrier : la carte d'anniversaire ; enveloppe envisagé." },
+  "e-527": { "reponse": "discret", "raisonnement": "Thème de la timidité (réservé, gêné). Effacement évoque le fait d'être discret ; modeste envisagé." },
+  "e-528": { "reponse": "sou", "raisonnement": "Avarice d'Harpagon. Centime a pour synonyme le sou (être près de ses sous)." },
+  "e-533": { "reponse": "jury", "raisonnement": "Tribunal : assesseurs et assises orientent vers le jury de cour d'assises ; pantalon pris comme incitation (jean, son « j »). Juge et cour refusés." },
+  "e-535": { "reponse": "témoins", "raisonnement": "Mariage : les garants de l'union sont les témoins." }
+}

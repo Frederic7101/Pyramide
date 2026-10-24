@@ -1,0 +1,552 @@
+[
+  {
+    "id": "e-401",
+    "titre": "Neuf vies",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "vrombir"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-402",
+    "titre": "L'heure anglaise",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "liquide"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "placard"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-404",
+    "titre": "Après la pluie",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "ondée"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-405",
+    "titre": "Toujours chez lui",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "coque"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-406",
+    "titre": "Carré de légumes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "planter"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-407",
+    "titre": "Ciel en colère",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "grondement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-408",
+    "titre": "Petite ouvrière",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "communauté"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-409",
+    "titre": "Petite pelote vivante",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "monceau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-410",
+    "titre": "Sous les toits",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "logis"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-411",
+    "titre": "Il avale tout",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "machine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-412",
+    "titre": "Rien ne sert de courir",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cuirasse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-413",
+    "titre": "Chandeleur",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "semoule"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-414",
+    "titre": "Sentinelle de paille",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pré"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-415",
+    "titre": "Purée de pois",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "rideau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-416",
+    "titre": "Sauteur des antipodes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "sauts"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-417",
+    "titre": "Pluie sur commande",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "horticulteur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-418",
+    "titre": "Le jaune qui pique",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pomme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-419",
+    "titre": "Le roi des forêts",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "sapin"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-420",
+    "titre": "Prince charmant ?",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "larve"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-421",
+    "titre": "Debout là-dedans !",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "chaise"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-422",
+    "titre": "Veillée au chalet",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Camping-Gaz"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-423",
+    "titre": "Il répète tout",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "moineau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "housse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-425",
+    "titre": "Babar et les siens",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "géant"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-426",
+    "titre": "Ouvrez grand !",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cavité"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-427",
+    "titre": "Homme en noir",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pelouse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-428",
+    "titre": "Tchou-tchou !",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "embarcadère"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-429",
+    "titre": "Le jeu des Provençaux",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "bouchon"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-430",
+    "titre": "Hotte sur le dos",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "luge"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-431",
+    "titre": "Rentrée des classes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "élève"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-432",
+    "titre": "Battements",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "biceps"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-433",
+    "titre": "Toile de Nîmes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "jupe"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-434",
+    "titre": "Feu de camp",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "instrumentiste"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "étrier"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-436",
+    "titre": "Pivot et ses pièges",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "instituteur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Roissy"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-438",
+    "titre": "Le grand bain",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "piscine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-439",
+    "titre": "Mardi gras",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tank"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-440",
+    "titre": "Celle qu'on tend",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "jambe"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-441",
+    "titre": "Soldat du feu",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "gyrophare"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-442",
+    "titre": "Noires et blanches",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "boutons"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-443",
+    "titre": "Piste aux étoiles",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tente"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-444",
+    "titre": "Talons et semelles",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "taille"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-445",
+    "titre": "Sous les trottoirs",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "ciel"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-446",
+    "titre": "Jeu, set et match",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "terrain"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "chandelles"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-448",
+    "titre": "Dix heures, on sort !",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "carillon"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-449",
+    "titre": "Une coupe, s'il vous plaît",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "savon"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-450",
+    "titre": "Bal musette",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "outil"
+    ],
+    "dejaFausses": []
+  }
+]

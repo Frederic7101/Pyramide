@@ -1,0 +1,12 @@
+{
+  "e-407": { "reponse": "nuages", "raisonnement": "Le thème est l'orage (tonnerre, éclair, pluie). Une « couche » dans le ciel, c'est la couche nuageuse, d'où les nuages." },
+  "e-412": { "reponse": "âge", "raisonnement": "Le titre renvoie à la tortue de la fable (carapace, écailles). « Nombre » puis « ans » désignent le nombre d'années, donc l'âge ; « centenaire » a été refusé, j'écarte aussi « longévité », moins direct." },
+  "e-420": { "reponse": "mouches", "raisonnement": "Le thème est la grenouille (têtard, mare). Elle mange des insectes comme les moustiques, et la « tapette » est la tapette à mouches ; « insectes » a déjà été refusé." },
+  "e-424": { "reponse": "duvet", "raisonnement": "Le thème est la literie et le coucher. Le mot « plumes » évoque le duvet, qui garnit couettes et édredons ; j'écarte « oreiller », refusé au mot précédent, et « édredon », plus lointain." },
+  "e-447": { "reponse": "chœur", "raisonnement": "Le thème est l'anniversaire (bougies, gâteau). « Chorale » est un synonyme de chœur, et « enfants » complète en « chœur d'enfants » qui chante Joyeux anniversaire ; « chanson » a été refusé." },
+  "e-515": { "reponse": "wagons", "raisonnement": "Le cheval de fer désigne la locomotive à vapeur (foyer, pelle, charbon). Les « voitures » d'un train sont ses wagons." },
+  "e-527": { "reponse": "craintif", "raisonnement": "Le thème est la timidité : les mots précédents sont des adjectifs (réservé, gêné). « Crainte » donne l'adjectif craintif ; je garde « timide », probable mot clé de la solution, en réserve." },
+  "e-528": { "reponse": "lésiner", "raisonnement": "Le thème est l'avarice (avare, magot). « Chipoter » au sens de regarder à la dépense, c'est lésiner ; j'écarte « mesquin », qui n'est pas un verbe." },
+  "e-533": { "reponse": "réquisitoire", "raisonnement": "Le titre renvoie au palais de justice (prévenu, greffier). La « plaidoirie » est le discours de l'avocat ; l'équivalent prononcé par le « procureur » est le réquisitoire, et « avocat » a été refusé." },
+  "e-535": { "reponse": "alliance", "raisonnement": "Le thème est le mariage. « Anneau » désigne directement l'alliance ; elle avait été refusée au mot précédent, mais elle correspond ici clairement à ce nouveau mot." }
+}

@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le nuage",
+          "le parapluie"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "écu"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le sommeil",
+          "La Belle au bois dormant"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "flamme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-007",
+    "titre": "Il passe chaque matin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le facteur",
+          "le soleil"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "besace"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le champagne",
+          "le miel"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "bourdons"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-009",
+    "titre": "Septième art",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le film",
+          "la pellicule"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "moniteur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-204",
+    "titre": "Effacé, pas oublié",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le palimpseste",
+          "le parchemin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "religieux"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Tartuffe",
+          "le cagot"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "fausseté"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la grâce",
+          "la clémence"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "traître"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-308",
+    "titre": "Raisonnement trompeur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le sophisme",
+          "le paralogisme"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "brèche"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le solitaire",
+          "l'anachorète"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "festin"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le tonneau"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "usages",
+      "Genève"
+    ],
+    "dejaFausses": [
+      "le cynique"
+    ]
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le baroque",
+          "Rome"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "spirales"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'hérésie",
+          "le schisme"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "anathème"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Byzance",
+          "Léon III l'Isaurien"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "images"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'hydre",
+          "le serpent"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "nombreuses"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le hasard",
+          "le destin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "veine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le réfrigérateur",
+          "le congélateur"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "frisquet"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-428",
+    "titre": "Tchou-tchou !",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la gare",
+          "le quai"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "chemin"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-430",
+    "titre": "Hotte sur le dos",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le Père Noël",
+          "le colporteur"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "cervidés"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la bicyclette",
+          "le cycliste"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "volant"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'aéroport"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "bagages",
+      "roulettes"
+    ],
+    "dejaFausses": [
+      "l'avion"
+    ]
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le ciel",
+          "le faîte"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "tringle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la fresque",
+          "l'enduit"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "crépi"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-509",
+    "titre": "Embouchure en éventail",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le Rhône",
+          "le Nil"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "jambe"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la locomotive",
+          "le chemin de fer"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "bêche"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-520",
+    "titre": "La Chevauchée fantastique",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la diligence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le shérif"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "arc"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-530",
+    "titre": "Un plat qui se mange froid",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la salade",
+          "le gaspacho"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "rancœur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le tribunal",
+          "le prétoire"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "clerc"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "l'ogre",
+          "le cavalier"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "géant"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-541",
+    "titre": "Le comte des Carpates",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dracula",
+          "le loup-garou"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "sarcophage"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "np-002",
+    "type": "nom",
+    "theme": "Écrivains français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Victor Hugo"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Molière"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Germinal"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-103",
+    "type": "nom",
+    "theme": "Villes de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Strasbourg"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Marseille"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "braderie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-204",
+    "type": "nom",
+    "theme": "Écrivains russes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Léon Tolstoï"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Fiodor Dostoïevski"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Cerisaie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-205",
+    "type": "nom",
+    "theme": "Savants de l'Antiquité",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Archimède"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Euclide"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "théorème"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-307",
+    "type": "nom",
+    "theme": "Écrivains des Lumières",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Denis Diderot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Montesquieu"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "badinage"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-316",
+    "type": "nom",
+    "theme": "Empereurs romains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hadrien"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Caligula"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "incendie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-322",
+    "type": "nom",
+    "theme": "Personnages de Shakespeare",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hamlet"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Othello"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Windsor"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Monaco"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-328",
+    "type": "nom",
+    "theme": "Peintres espagnols",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francisco de Goya"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Diego Velázquez"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "moines"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-331",
+    "type": "nom",
+    "theme": "Philosophes allemands",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Hegel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Friedrich Nietzsche"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "volonté"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-338",
+    "type": "nom",
+    "theme": "Maréchaux d'Empire",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Michel Ney"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Joachim Murat"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Auerstaedt"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-345",
+    "type": "nom",
+    "theme": "Dieux nordiques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Odin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Thor"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "ruse"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francis Blake"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Pratt",
+      "Venise"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Hugo Pratt"
+    ]
+  },
+  {
+    "id": "np-403",
+    "type": "nom",
+    "theme": "Grandes villes du monde",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "New York"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Londres"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Copacabana"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-420",
+    "type": "nom",
+    "theme": "Champions de tennis",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Roger Federer"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Rafael Nadal"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "dreadlocks"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-424",
+    "type": "nom",
+    "theme": "Actrices françaises",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Brigitte Bardot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Catherine Deneuve"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Amélie Poulain"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-432",
+    "type": "nom",
+    "theme": "Marques gourmandes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Coca-Cola"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Nutella"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "bonbons"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-434",
+    "type": "nom",
+    "theme": "Outre-mer français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Martinique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "La Réunion"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "vahiné"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-437",
+    "type": "nom",
+    "theme": "Mers et océans",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "la Méditerranée"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "le Pacifique"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "tunnel"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-441",
+    "type": "nom",
+    "theme": "Personnages de Star Wars",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dark Vador"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Yoda"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Wookiee"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-448",
+    "type": "nom",
+    "theme": "Présidents de la République",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Charles de Gaulle"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Corrèze",
+      "pommes"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "François Hollande"
+    ]
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Kennedy"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "premier"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-501",
+    "type": "nom",
+    "theme": "Opéras de Verdi",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Aida"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Rigoletto"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Babylone"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Estaque",
+      "oiseaux"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Paul Cézanne"
+    ]
+  },
+  {
+    "id": "np-511",
+    "type": "nom",
+    "theme": "Moralistes et fabulistes du Grand Siècle",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jean de La Fontaine"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean de La Bruyère"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Fronde"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-524",
+    "type": "nom",
+    "theme": "Héroïnes de la mythologie grecque",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Pénélope"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "serpent",
+      "Enfers"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Méduse"
+    ]
+  },
+  {
+    "id": "np-528",
+    "type": "nom",
+    "theme": "Ministres de l'Ancien Régime",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jules Mazarin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Baptiste Colbert"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Rosny"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-534",
+    "type": "nom",
+    "theme": "Pionniers de l'aviation",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Louis Blériot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Antoine de Saint-Exupéry"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Aéropostale"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-542",
+    "type": "nom",
+    "theme": "Groupes de rock britanniques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Led Zeppelin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "The Who"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "prisme"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-549",
+    "type": "nom",
+    "theme": "Villes ibériques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Séville"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Grenade"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Ramblas"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

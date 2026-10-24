@@ -1,0 +1,12 @@
+{
+  "e-407": { "reponse": "lit", "raisonnement": "Le titre et les mots précédents parlent d'orage. « Couche » et « matelas » renvoient tous deux à « lit » (le lit au sens de couche). Nuages est déjà refusé, et j'ai écarté strate et nappe, moins naturels avec « matelas »." },
+  "e-412": { "reponse": "longévité", "raisonnement": "Le titre renvoie à la fable « Le Lièvre et la Tortue », donc à la tortue. « Nombre » et « ans » désignent une longue vie, d'où longévité, centenaire et âge étant déjà refusés. « Avec » est peut-être une incitation, que je n'ai pas su décoder." },
+  "e-420": { "reponse": "langue", "raisonnement": "Le prince charmant changé en animal, c'est la grenouille, et le mot précédent parlait des insectes qu'elle attrape. « Dents » évoque la bouche, et la langue est ce que la grenouille utilise pour chasser." },
+  "e-424": { "reponse": "couette", "raisonnement": "Le titre fait penser au lit et au sommeil. « Housse » appelle « housse de couette ». J'ai écarté oreiller, plutôt associé à la taie." },
+  "e-447": { "reponse": "cadeaux", "raisonnement": "Bougies, gâteau et chanson : c'est un anniversaire. « Colis » évoque le paquet qu'on offre, donc les cadeaux." },
+  "e-515": { "reponse": "rails", "raisonnement": "Le cheval de fer, c'est le train à vapeur. Les traverses supportent les rails de la voie ferrée." },
+  "e-527": { "reponse": "timoré", "raisonnement": "Le titre et les mots précédents (réservé, gêné) décrivent la timidité. « Crainte » donne un adjectif proche de craintif, déjà refusé : timoré. Je n'ai pas compris le rôle de « avant »." },
+  "e-528": { "reponse": "avidité", "raisonnement": "Harpagon incarne l'avarice. « Cupidité » a pour synonyme direct avidité. J'ai écarté rapacité et convoitise, et avarice, trop proche du mot avare déjà trouvé." },
+  "e-533": { "reponse": "juge", "raisonnement": "La salle des pas perdus est celle du palais de justice. Les assesseurs entourent le juge qui préside le tribunal. J'ai écarté président, moins probable comme mot isolé." },
+  "e-535": { "reponse": "fiançailles", "raisonnement": "La formule du titre est celle du mariage. « Accordailles » est un mot ancien pour fiançailles." }
+}

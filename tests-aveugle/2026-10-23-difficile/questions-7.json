@@ -1,0 +1,206 @@
+[
+  {
+    "id": "e-205",
+    "titre": "Demain sans faute",
+    "texte": "Je remets toujours au lendemain ce que je pourrais faire aujourd'hui ; je trouve mille prétextes pour fuir l'effort ; mon pire ennemi est l'échéance.",
+    "type": "solution",
+    "dejaFausses": [
+      "le procrastinateur"
+    ]
+  },
+  {
+    "id": "e-301",
+    "titre": "Sagesse du Portique",
+    "texte": "Face à l'adversité, garde ton flegme ; Sénèque prônait l'ataraxie ; Épictète, ancien esclave, enseignait la résignation.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-304",
+    "titre": "Faux dévot",
+    "texte": "Sous le masque de la vertu se cache la duplicité ; Tartuffe en est le parangon ; ses simagrées sont des larmes de [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "caïman"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une sanction exemplaire.",
+    "type": "solution",
+    "dejaFausses": [
+      "la grâce"
+    ]
+  },
+  {
+    "id": "e-306",
+    "titre": "Un seul jour",
+    "texte": "Sorti d'une larve, je danse au-dessus de la rivière ; ma vie fugace fait de moi le symbole de la précarité ; le soir venu, je dois périr.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-307",
+    "titre": "Hors de son temps",
+    "texte": "Une montre au poignet d'un légionnaire romain : quelle bévue ! L'historien traque ces ____ comme le limier traque l'erreur.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-310",
+    "titre": "Obscure clarté",
+    "texte": "Cette lueur qui tombe des étoiles unit deux termes contradictoires ; cette figure de style cultive le paradoxe et ravit les amateurs de rhétorique.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-312",
+    "titre": "Le théâtre qui soigne",
+    "texte": "Pour le philosophe de Stagire, la tragédie suscite crainte et pitié ; le spectateur en sort apaisé, ses passions ainsi purgées.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-313",
+    "titre": "Big Brother",
+    "texte": "Dans ce futur sinistre, le Parti ne cesse d'épier chaque citoyen ; la censure règne, la pensée libre est un crime, et le [MOT À TROUVER] a remplacé la vérité.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "tromperie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-315",
+    "titre": "Madeleine trempée",
+    "texte": "Une impression oubliée remonte : un parfum, une saveur, et le passé se met à resurgir ; ce n'est pas un vrai souvenir, mais une évocation confuse.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-318",
+    "titre": "Alceste",
+    "texte": "Il fuit ses semblables, déteste leur fausseté ; reclus dans sa retraite, il cultive sa solitude et sa [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "ressentiment",
+      "file"
+    ],
+    "dejaFausses": [
+      "rancœur"
+    ]
+  },
+  {
+    "id": "e-321",
+    "titre": "Toujours demain",
+    "texte": "Remettre sans cesse l'ouvrage, chercher des subterfuges, multiplier les délais et les tergiversations : voilà qui exaspère les créanciers.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-323",
+    "titre": "Bienfaiteur des arts",
+    "texte": "Les princes de la Renaissance protégeaient les artistes ; leur fortune finançait fresques et statues ; aujourd'hui, une déduction fiscale encourage ce soutien.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-324",
+    "titre": "Comparaison sans comme",
+    "texte": "Dire « l'automne de la vie » pour la vieillesse : voilà une image poétique ; elle repose sur une analogie implicite ; les orateurs en font un ornement du discours.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "texte": "L'anachorète se prive de tout : jeûne, abstinence et veilles ; par cette [MOT À TROUVER], il cherche la ____ de l'âme.",
+    "type": "mot",
+    "numeroMot": 4,
+    "briques": [
+      "rigueur",
+      "fouet"
+    ],
+    "dejaFausses": [
+      "austérité"
+    ]
+  },
+  {
+    "id": "e-328",
+    "titre": "Disque des astres",
+    "texte": "Ce disque de laiton servait à mesurer la hauteur des étoiles ; les savants arabes le perfectionnèrent ; les pilotes l'emportaient pour faire le point.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les [MOT À TROUVER] établis.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "principes"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-337",
+    "titre": "Le grand œuvre",
+    "texte": "Dans son laboratoire, l'initié cherchait la pierre philosophale ; il rêvait de changer le plomb en or et de trouver l'élixir de longue vie.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "texte": "Ce monstre aux têtes multiples renaissait à chaque décapitation ; Héraclès dut cautériser les plaies pour en venir à bout.",
+    "type": "solution",
+    "dejaFausses": [
+      "l'hydre de Lerne"
+    ]
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "texte": "Ni destin ni calcul : seule la chance décide ; la fortune sourit aux audacieux ; le joueur invoque sa bonne étoile et redoute la poisse.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-342",
+    "titre": "Seul au désert",
+    "texte": "Retiré dans sa grotte, il vit de racines et de prière ; sa sérénité n'est troublée que par le cri des corbeaux.",
+    "type": "solution",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "texte": "Ce lion à tête de femme posait une devinette aux voyageurs ; quiconque échouait était dévoré ; le fils de Laïos en trouva la clé, et le monstre se jeta dans un [MOT À TROUVER].",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "abîme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-348",
+    "titre": "Le bègue d'Athènes",
+    "texte": "Démosthène mettait des cailloux dans sa bouche ; à force d'entraînement, il devint l'orateur le plus persuasif ; sa [MOT À TROUVER] subjuguait l'assemblée.",
+    "type": "mot",
+    "numeroMot": 5,
+    "briques": [
+      "faconde",
+      "intarissable"
+    ],
+    "dejaFausses": [
+      "éloquence"
+    ]
+  }
+]

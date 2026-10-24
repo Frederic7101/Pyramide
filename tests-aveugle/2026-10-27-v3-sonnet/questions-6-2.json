@@ -1,0 +1,39 @@
+[
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Fitzgerald Kennedy",
+          "John F. Kennedy",
+          "Lyndon Johnson"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "George Washington"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Michelle"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Abraham Lincoln »).\nNom n°2 : trouvé (« Lyndon Johnson »).\nNom n°3 : trouvé (« George Washington »).\nBriques de Dico :\n1. Michelle\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

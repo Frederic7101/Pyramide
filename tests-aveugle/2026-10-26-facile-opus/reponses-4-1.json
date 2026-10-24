@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "vent", "raisonnement": "La brise est un vent léger ; le parapluie affronte le vent les jours gris." },
+  "e-006": { "reponse": "lave", "raisonnement": "Le magma devient la lave ; le dormeur est un volcan endormi (feu, siècles)." },
+  "e-007": { "reponse": "boîte", "raisonnement": "Un coffret est une boîte ; la boîte aux lettres que le facteur remplit." },
+  "e-008": { "reponse": "sucré", "raisonnement": "« Doux » au sens gustatif a pour synonyme « sucré », adjectif ; le miel est sucré." },
+  "e-009": { "reponse": "réalisateur", "raisonnement": "Truffaut est un réalisateur ; « producteur » est son pendant habituel dans un film, ce qui écarte cinéaste au profit de réalisateur." },
+  "e-403": { "reponse": "beurre", "raisonnement": "La margarine est l'équivalent du beurre, qu'on range au réfrigérateur." },
+  "e-428": { "reponse": "contrôleur", "raisonnement": "L'inspecteur dans le train est le contrôleur." },
+  "e-430": { "reponse": "cadeaux", "raisonnement": "Les présents sont des cadeaux, au pluriel, que le Père Noël porte dans sa hotte." },
+  "e-435": { "reponse": "pédale", "raisonnement": "L'accélérateur de la voiture est une pédale ; le vélo a des pédales, refusées pour le mot 1 mais plausibles ici." },
+  "e-437": { "reponse": "sillage", "raisonnement": "La trace laissée par l'avion dans le ciel est son sillage." }
+}

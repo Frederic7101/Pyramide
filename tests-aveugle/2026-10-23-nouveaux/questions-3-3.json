@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "np-401",
+    "type": "nom",
+    "theme": "Pays d'Europe",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Italie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Suisse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Acropole"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-402",
+    "type": "nom",
+    "theme": "Pays lointains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Japon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Brésil"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "érable"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-403",
+    "type": "nom",
+    "theme": "Grandes villes du monde",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "New York"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Londres"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Copacabana"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-404",
+    "type": "nom",
+    "theme": "Villes du Midi",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Nice"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Toulouse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "pont"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-405",
+    "type": "nom",
+    "theme": "Monuments de Paris",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Tour Eiffel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Arc de Triomphe"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Quasimodo"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-406",
+    "type": "nom",
+    "theme": "Monuments du monde",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Colisée"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Taj Mahal"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Ming"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-407",
+    "type": "nom",
+    "theme": "Planètes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Mars"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jupiter"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "anneaux"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-408",
+    "type": "nom",
+    "theme": "La bande à Mickey",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Minnie",
+          "Mickey"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "canard"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-409",
+    "type": "nom",
+    "theme": "Héroïnes de contes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Blanche-Neige"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Cendrillon"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "fuseau"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-410",
+    "type": "nom",
+    "theme": "Héros de contes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Le Petit Chaperon rouge"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Le Petit Poucet"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "nez"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-411",
+    "type": "nom",
+    "theme": "Héros de BD franco-belge",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Tintin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Lucky Luke"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Franquin"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-412",
+    "type": "nom",
+    "theme": "Super-héros",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Superman"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Batman"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "araignée"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-413",
+    "type": "nom",
+    "theme": "Rois de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Louis XIV"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Henri IV"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Chambord"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-414",
+    "type": "nom",
+    "theme": "Grandes figures de l'histoire de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Napoléon Bonaparte"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jeanne d'Arc"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "barbe fleurie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-415",
+    "type": "nom",
+    "theme": "Chanteurs de légende",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Johnny Hallyday"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Édith Piaf"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Bohème"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-416",
+    "type": "nom",
+    "theme": "Chanteuses",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Céline Dion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Mylène Farmer"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Bambino"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-417",
+    "type": "nom",
+    "theme": "Stars de la pop et du rock",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Michael Jackson"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Elvis Presley"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Like a Virgin"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-418",
+    "type": "nom",
+    "theme": "Groupes de musique",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "The Beatles"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "The Rolling Stones"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Suède"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-419",
+    "type": "nom",
+    "theme": "Footballeurs",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Zinédine Zidane"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Kylian Mbappé"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Juventus"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-420",
+    "type": "nom",
+    "theme": "Champions de tennis",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Roger Federer"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Rafael Nadal"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "dreadlocks"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-421",
+    "type": "nom",
+    "theme": "Légendes du sport",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Usain Bolt"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Teddy Riner"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "boxe"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-422",
+    "type": "nom",
+    "theme": "Champions du Tour de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Bernard Hinault"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Eddy Merckx"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "éternel second"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-423",
+    "type": "nom",
+    "theme": "Acteurs français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Gérard Depardieu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Paul Belmondo"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "gendarme"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-424",
+    "type": "nom",
+    "theme": "Actrices françaises",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Brigitte Bardot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Catherine Deneuve"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Amélie Poulain"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-425",
+    "type": "nom",
+    "theme": "Stars d'Hollywood",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Marilyn Monroe"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Charlie Chaplin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Titanic"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-426",
+    "type": "nom",
+    "theme": "Réalisateurs",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Steven Spielberg"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Luc Besson"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "suspense"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-427",
+    "type": "nom",
+    "theme": "Héros de dessins animés",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Bob l'éponge"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Scooby-Doo"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Pokémon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-428",
+    "type": "nom",
+    "theme": "Héros de jeux vidéo",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Mario"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Sonic"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "fantômes"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-429",
+    "type": "nom",
+    "theme": "Marques automobiles",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Peugeot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Renault"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "cheval cabré"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-430",
+    "type": "nom",
+    "theme": "Marques de mode",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Chanel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Louis Vuitton"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "New Look"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-431",
+    "type": "nom",
+    "theme": "Géants de la tech",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Apple"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Google"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Windows"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-432",
+    "type": "nom",
+    "theme": "Marques gourmandes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Coca-Cola"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Nutella"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "bonbons"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-433",
+    "type": "nom",
+    "theme": "Pays d'Afrique",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Égypte"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Maroc"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Dakar"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-434",
+    "type": "nom",
+    "theme": "Outre-mer français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Martinique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "La Réunion"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "vahiné"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-435",
+    "type": "nom",
+    "theme": "Régions de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Bretagne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Alsace"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "lavande"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-436",
+    "type": "nom",
+    "theme": "Massifs montagneux de France",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Alpes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Pyrénées"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "comté"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-437",
+    "type": "nom",
+    "theme": "Mers et océans",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Méditerranée"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "océan Pacifique"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "tunnel"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-438",
+    "type": "nom",
+    "theme": "Le village d'Astérix",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Obélix"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Panoramix"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "chef"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-439",
+    "type": "nom",
+    "theme": "L'entourage de Tintin",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Capitaine Haddock"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Milou"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "savant"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-440",
+    "type": "nom",
+    "theme": "Personnages de Harry Potter",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Ron",
+      "studieuse",
+      "Gryffondor"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Harry Potter",
+      "Hermione Granger"
+    ]
+  },
+  {
+    "id": "np-441",
+    "type": "nom",
+    "theme": "Personnages de Star Wars",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dark Vador"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Yoda"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Wookiee"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-442",
+    "type": "nom",
+    "theme": "Personnages de Molière",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Harpagon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Tartuffe"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "fourberies"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-443",
+    "type": "nom",
+    "theme": "Héros de romans d'aventures",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "d'Artagnan"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Sherlock Holmes"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "naufragé"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-444",
+    "type": "nom",
+    "theme": "Héros de films",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "James Bond"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Indiana Jones"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "boxeur"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-445",
+    "type": "nom",
+    "theme": "Animaux héros",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Babar"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Garfield"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "dauphin"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-446",
+    "type": "nom",
+    "theme": "Grands savants",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Albert Einstein"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Marie Curie"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "pomme"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-447",
+    "type": "nom",
+    "theme": "Aventuriers et pionniers",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Christophe Colomb"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Neil Armstrong"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Venise"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-448",
+    "type": "nom",
+    "theme": "Présidents de la République",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Charles de Gaulle"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Chirac"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "rose"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John F. Kennedy"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "premier"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-450",
+    "type": "nom",
+    "theme": "Légendes du roi Arthur",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "le roi Arthur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Merlin"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "du Lac"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

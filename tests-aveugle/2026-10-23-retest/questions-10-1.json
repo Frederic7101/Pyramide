@@ -1,0 +1,51 @@
+[
+  {
+    "id": "e-424",
+    "titre": "Bonne nuit",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "couette",
+          "oreiller",
+          "taie"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "duvet"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "tête"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "combat"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "solution",
+    "texte": "Ce garçon réservé se sent emprunté dès qu'on lui parle ; l'____ le paralyse ; il fuit les foules et cultive la ____.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-535",
+    "titre": "Pour le meilleur et pour le pire",
+    "type": "solution",
+    "texte": "Après les fiançailles, on échange l'alliance devant le maire et les témoins ; jadis la promise préparait son trousseau ; on fête ensuite les noces.",
+    "dejaFausses": []
+  }
+]

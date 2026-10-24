@@ -1,0 +1,230 @@
+{
+  "niveau": "@tests-aveugle/echantillon-5-par-niveau.json",
+  "vague": 10,
+  "reponses": {
+    "e-003": [
+      "ciel",
+      "bouclier",
+      "baleines",
+      "vent",
+      "cortège",
+      "train",
+      "le parapluie"
+    ],
+    "e-007": [
+      "tournée",
+      "sacoche",
+      "lettres",
+      "boîte",
+      "vélo",
+      "le facteur"
+    ],
+    "e-204": [
+      "parchemin",
+      "moine",
+      "texte",
+      "rayons",
+      "écritures",
+      "le palimpseste"
+    ],
+    "e-304": [
+      "masque",
+      "hypocrisie",
+      "duplicité",
+      "exemple",
+      "parangon",
+      "simagrées",
+      "crocodile",
+      "l'hypocrisie"
+    ],
+    "e-308": [
+      "rigoureux",
+      "faille",
+      "prémisses",
+      "conclusion",
+      "piège",
+      "le sophisme"
+    ],
+    "e-325": [
+      "solitaire",
+      "anachorète",
+      "jeûne",
+      "chasteté",
+      "abstinence",
+      "austérité",
+      "discipline",
+      "purification",
+      "l'ascèse"
+    ],
+    "e-335": [
+      "empereur",
+      "icônes",
+      "iconoclaste",
+      "frondeur",
+      "ébranler",
+      "bousculer",
+      "dogmes",
+      "l'iconoclasme"
+    ],
+    "e-339": [
+      "monstre",
+      "multiples",
+      "décapitation",
+      "cautériser",
+      "bout",
+      "l'Hydre de Lerne",
+      "l'Hydre"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "le père Noël"
+    ],
+    "e-435": [
+      "pédale",
+      "selle",
+      "guidon",
+      "pédale",
+      "équilibre",
+      "rustine",
+      "chambre",
+      "le vélo"
+    ],
+    "e-437": [
+      "aéroport",
+      "valises",
+      "pilote",
+      "sillage",
+      "piste",
+      "hôtesse",
+      "l'avion"
+    ],
+    "e-515": [
+      "foyer",
+      "pelle",
+      "charbon",
+      "wagons",
+      "rails",
+      "la locomotive"
+    ],
+    "e-530": [
+      "affront",
+      "rancune",
+      "ressentiment",
+      "représailles",
+      "implacable",
+      "châtiment",
+      "la vengeance"
+    ],
+    "e-536": [
+      "bottes",
+      "colosse",
+      "dévorer",
+      "couronnes",
+      "cailloux",
+      "l'ogre"
+    ],
+    "e-541": [
+      "crocs",
+      "cercueil",
+      "ail",
+      "aube",
+      "pieu",
+      "le vampire"
+    ],
+    "np-204": [
+      "Léon Tolstoï",
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Alexandre Pouchkine"
+    ],
+    "np-205": [
+      "Archimède",
+      "Euclide",
+      "Pythagore",
+      "Hippocrate"
+    ],
+    "np-316": [
+      "Hadrien",
+      "Caligula",
+      "Néron",
+      "Marc Aurèle"
+    ],
+    "np-322": [
+      "Hamlet",
+      "Othello",
+      "Falstaff",
+      "Prospero"
+    ],
+    "np-327": [
+      "Georges Brassens",
+      "Jacques Brel",
+      "Léo Ferré",
+      "Barbara"
+    ],
+    "np-328": [
+      "Francisco de Goya",
+      "Diego Velázquez",
+      "Francisco de Zurbarán",
+      "Le Greco"
+    ],
+    "np-403": [
+      "New York",
+      "Londres",
+      "Rio de Janeiro",
+      "Venise"
+    ],
+    "np-432": [
+      "Coca-Cola",
+      "Nutella",
+      "Haribo",
+      "Danone"
+    ],
+    "np-434": [
+      "Martinique",
+      "La Réunion",
+      "Polynésie française",
+      "Tahiti",
+      "Guyane"
+    ],
+    "np-437": [
+      "Méditerranée",
+      "océan Pacifique",
+      "Manche",
+      "mer Morte"
+    ],
+    "np-441": [
+      "Dark Vador",
+      "Yoda",
+      "Chewbacca",
+      "Luke Skywalker"
+    ],
+    "np-501": [
+      "Aïda",
+      "Rigoletto",
+      "Nabucco",
+      "Le Trouvère"
+    ],
+    "np-505": [
+      "Henri Matisse",
+      "Georges Braque",
+      "André Derain",
+      "Fernand Léger"
+    ],
+    "np-524": [
+      "Pénélope",
+      "Eurydice",
+      "Pandore",
+      "Hélène"
+    ],
+    "np-534": [
+      "Louis Blériot",
+      "Antoine de Saint-Exupéry",
+      "Jean Mermoz",
+      "Roland Garros"
+    ]
+  }
+}

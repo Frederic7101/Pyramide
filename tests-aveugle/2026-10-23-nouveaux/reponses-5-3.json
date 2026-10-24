@@ -1,0 +1,20 @@
+{
+  "np-408": { "reponse": "Pluto", "raisonnement": "Le chien de Mickey est Pluto. Dingo est aussi un chien, mais « chien » tout court désigne d'abord Pluto, l'animal de compagnie." },
+  "np-434": { "reponse": "Guyane", "raisonnement": "Kourou est la base spatiale située en Guyane, territoire français d'outre-mer." },
+  "np-440": { "reponse": "Voldemort", "raisonnement": "Tom Jedusor est le vrai nom de Lord Voldemort." },
+  "np-506": { "reponse": "Max Ernst", "raisonnement": "Tzara est refusé. Dada puis surréalisme, et le frottage est une technique inventée par Max Ernst." },
+  "np-509": { "reponse": "Francis Scott Fitzgerald", "raisonnement": "Zelda était l'épouse de F. Scott Fitzgerald, l'auteur de Gatsby le Magnifique." },
+  "np-516": { "reponse": "L'Ingénu", "raisonnement": "Dans L'Ingénu de Voltaire, le héros est un Huron." },
+  "np-517": { "reponse": "Gavroche", "raisonnement": "Gavroche meurt sur la barricade. Enjolras et Marius sont possibles, mais Gavroche est le plus attendu." },
+  "np-518": { "reponse": "Edmond Dantès", "raisonnement": "Le héros du Comte de Monte-Cristo, Edmond Dantès, est emprisonné au château d'If." },
+  "np-521": { "reponse": "Aragorn", "raisonnement": "Aragorn est surnommé « l'Arpenteur », un rôdeur du Nord." },
+  "np-527": { "reponse": "Louis XV", "raisonnement": "Madame de Pompadour était la favorite de Louis XV." },
+  "np-529": { "reponse": "Cambacérès", "raisonnement": "Cambacérès était l'archichancelier de l'Empire." },
+  "np-533": { "reponse": "Roald Amundsen", "raisonnement": "Nansen est refusé. Amundsen, autre Norvégien, a lui aussi utilisé le Fram pour son expédition vers le pôle Sud." },
+  "np-536": { "reponse": "Georges Cuvier", "raisonnement": "Cuvier est le fondateur de la paléontologie et de l'étude des fossiles, contemporain de Lamarck et de Geoffroy Saint-Hilaire." },
+  "np-540": { "reponse": "Franz Schubert", "raisonnement": "Schubert est le maître du lied. Schumann et Brahms ont déjà été trouvés." },
+  "np-541": { "reponse": "Charlie Parker", "raisonnement": "Charlie « Bird » Parker est le grand saxophoniste alto du jazz." },
+  "np-543": { "reponse": "Serge Gainsbourg", "raisonnement": "Les Gitanes sont les cigarettes emblématiques de Gainsbourg." },
+  "np-547": { "reponse": "Artois", "raisonnement": "Flandre est refusée. Lens se trouve en Artois, une province du Nord connue pour ses beffrois." },
+  "np-550": { "reponse": "Dresde", "raisonnement": "Hambourg est refusé. Le Zwinger est le célèbre palais de Dresde, ville au bord de l'Elbe." }
+}

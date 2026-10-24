@@ -1,0 +1,552 @@
+[
+  {
+    "id": "e-501",
+    "titre": "Nuit en plein midi",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "satellite"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-502",
+    "titre": "Repas de lumière",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pigment"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "sommet"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-504",
+    "titre": "La Bible à quarante-deux lignes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "lettres"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-505",
+    "titre": "Chartres en mille éclats",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "métal"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "colorants"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-507",
+    "titre": "Mémoire de pierre",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "glaise"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-508",
+    "titre": "Rivière gelée",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "grêle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-509",
+    "titre": "Embouchure en éventail",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Loire"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-510",
+    "titre": "Puzzle de Ravenne",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Rubik"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-511",
+    "titre": "Assiégé",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "fortifications"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-512",
+    "titre": "Le rasoir national",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "épouvante"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-513",
+    "titre": "L'œil du mont Palomar",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "glace"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-514",
+    "titre": "Le secret de maître Cornille",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "voilure"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "âtre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-516",
+    "titre": "Piqûre de rappel",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "inoculer"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-517",
+    "titre": "L'œil de Leeuwenhoek",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "but"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-518",
+    "titre": "Colère des profondeurs",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "dalles"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-519",
+    "titre": "Au bout des doigts",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tenture"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-520",
+    "titre": "La Chevauchée fantastique",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "zèle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-521",
+    "titre": "Avant le parlant",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "conversations"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-522",
+    "titre": "Manhattan à la verticale",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "élévateur"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-523",
+    "titre": "Ouvrage d'art romain",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "bâtisseurs"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-524",
+    "titre": "Le dernier voyage du pharaon",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "viscères"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-525",
+    "titre": "Le point de fuite",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "renouveau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-526",
+    "titre": "Le monstre aux yeux verts",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "suspicion"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-527",
+    "titre": "Rouge aux joues",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "retenu"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-528",
+    "titre": "La cassette d'Harpagon",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pingre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-529",
+    "titre": "Voir rouge",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "furie"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-530",
+    "titre": "Un plat qui se mange froid",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "outrage"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-531",
+    "titre": "La boîte de Pandore",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pipelette"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-532",
+    "titre": "Les bras croisés",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "désœuvrement"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "accusé"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-534",
+    "titre": "Un dimanche à l'école",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "prétendants"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-535",
+    "titre": "Pour le meilleur et pour le pire",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "promesse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cuissardes"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-537",
+    "titre": "Maître Corbeau",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "narration"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-538",
+    "titre": "Ronsard pour Hélène",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "strophes"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-539",
+    "titre": "Attaché au mât",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "brisants"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-540",
+    "titre": "Gardien du trésor",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "grotte"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-541",
+    "titre": "Le comte des Carpates",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "canines"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-542",
+    "titre": "La dame de Cluny",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tenture"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-543",
+    "titre": "Piqûre fatale",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "bobine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-544",
+    "titre": "La voix de son maître",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "drapeau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-545",
+    "titre": "Corps et biens",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tourmente"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-546",
+    "titre": "Jambe de bois",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "serre-tête"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-547",
+    "titre": "Le bal de Cendrillon",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "potiron"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-548",
+    "titre": "Avant le stylo-bille",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "bureau"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-549",
+    "titre": "La dîme et la gabelle",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "redevable"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-550",
+    "titre": "L'œil de la vigie",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "verres"
+    ],
+    "dejaFausses": []
+  }
+]

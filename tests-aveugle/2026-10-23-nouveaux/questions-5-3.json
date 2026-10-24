@@ -1,0 +1,632 @@
+[
+  {
+    "id": "np-408",
+    "type": "nom",
+    "theme": "La bande à Mickey",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Minnie",
+          "Mickey"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Donald"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Picsou"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "chien"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-434",
+    "type": "nom",
+    "theme": "Outre-mer français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Martinique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "La Réunion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Polynésie française",
+          "Tahiti"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Kourou"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-440",
+    "type": "nom",
+    "theme": "Personnages de Harry Potter",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Harry Potter",
+          "Hermione Granger"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Albus Dumbledore"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Tom Jedusor"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-506",
+    "type": "nom",
+    "theme": "Surréalistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Salvador Dalí"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "René Magritte"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "André Breton"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Dada",
+      "frottage"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Tristan Tzara"
+    ]
+  },
+  {
+    "id": "np-509",
+    "type": "nom",
+    "theme": "Romanciers américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Ernest Hemingway"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Steinbeck"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Mark Twain",
+          "William Faulkner"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Zelda"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-516",
+    "type": "nom",
+    "theme": "Contes de Voltaire",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Candide"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "La Princesse de Babylone",
+          "Zadig"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Micromégas"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Huron"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-517",
+    "type": "nom",
+    "theme": "Personnages des Misérables",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jean Valjean"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Javert"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Cosette",
+          "Thénardier"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "barricade"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-518",
+    "type": "nom",
+    "theme": "Personnages d'Alexandre Dumas",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "d'Artagnan",
+          "Porthos"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Athos"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Milady de Winter"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "château d'If"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-521",
+    "type": "nom",
+    "theme": "Personnages de Tolkien",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Bilbo Sacquet",
+          "Frodon Sacquet"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Gandalf"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Gollum"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "rôdeur"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-527",
+    "type": "nom",
+    "theme": "Rois de France de la Renaissance aux Lumières",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri II",
+          "Charles IX"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Henri III"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Louis XIII"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Pompadour"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-529",
+    "type": "nom",
+    "theme": "Figures du Premier Empire",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Joséphine de Beauharnais"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Talleyrand"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Joseph Fouché"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "archichancelier"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-533",
+    "type": "nom",
+    "theme": "Grands explorateurs",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "James Cook"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Ibn Battuta"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "David Livingstone"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Fram",
+      "Norvégien"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Fridtjof Nansen"
+    ]
+  },
+  {
+    "id": "np-536",
+    "type": "nom",
+    "theme": "Savants français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "André-Marie Ampère"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Joseph Fourier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Étienne Geoffroy Saint-Hilaire",
+          "Jean-Baptiste de Lamarck"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "fossiles"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-540",
+    "type": "nom",
+    "theme": "Compositeurs germaniques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jean-Sébastien Bach"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Richard Wagner"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Robert Schumann",
+          "Johannes Brahms"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "lieder"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-541",
+    "type": "nom",
+    "theme": "Géants du jazz",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Duke Ellington"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Louis Armstrong",
+          "Miles Davis"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Billie Holiday"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "saxophone alto"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-543",
+    "type": "nom",
+    "theme": "Voix de la chanson française",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Juliette Gréco"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Charles Trenet"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Claude François",
+          "Georges Moustaki"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Gitanes"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-547",
+    "type": "nom",
+    "theme": "Provinces d'Ancien Régime",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Dauphiné"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Berry"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Lorraine"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "beffroi",
+      "Lens"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Flandre"
+    ]
+  },
+  {
+    "id": "np-550",
+    "type": "nom",
+    "theme": "Villes allemandes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Berlin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Munich"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Cologne"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Elbe",
+      "Zwinger"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Hambourg"
+    ]
+  }
+]

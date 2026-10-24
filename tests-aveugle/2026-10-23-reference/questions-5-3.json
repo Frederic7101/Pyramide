@@ -1,0 +1,339 @@
+[
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Léo Ferré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigle"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-328",
+    "type": "nom",
+    "theme": "Peintres espagnols",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francisco de Goya"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Diego Vélasquez"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Francisco de Zurbarán"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Tolède"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-332",
+    "type": "nom",
+    "theme": "Philosophes britanniques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Thomas Hobbes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Locke"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "David Hume"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "utilitarisme"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-333",
+    "type": "nom",
+    "theme": "Médecins célèbres",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "René Laennec"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Martin Charcot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Ambroise Paré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tissus"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-334",
+    "type": "nom",
+    "theme": "Chimistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Antoine Lavoisier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Dmitri Mendeleïev"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Claude Louis Berthollet"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "ballon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-335",
+    "type": "nom",
+    "theme": "Inventeurs français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Joseph Marie Jacquard"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Louis Daguerre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "les frères Montgolfier"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aveugle"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-336",
+    "type": "nom",
+    "theme": "Gens de mer",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Robert Surcouf"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean Bart"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Jean-François de La Pérouse"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Calypso"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-338",
+    "type": "nom",
+    "theme": "Maréchaux d'Empire",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Michel Ney"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Joachim Murat"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Louis Nicolas Davout"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Montebello"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-341",
+    "type": "nom",
+    "theme": "Fleuves du monde",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Mékong"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Léna",
+          "Ienisseï"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Victoria",
+      "Mozambique"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Nil"
+    ]
+  },
+  {
+    "id": "np-350",
+    "type": "nom",
+    "theme": "Écrivains d'Amérique latine",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jorge Luis Borges"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Gabriel García Márquez"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Pablo Neruda"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "marelle"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "e-003": { "reponse": "vent", "raisonnement": "Bise est un vent froid ; le vent accompagne les jours gris." },
+  "e-007": { "reponse": "vélo", "raisonnement": "Bicyclette a pour synonyme vélo, monture du facteur." },
+  "e-204": { "reponse": "palimpseste", "raisonnement": "Un parchemin gratté et réécrit dont on lit encore le texte effacé est un palimpseste." },
+  "e-304": { "reponse": "simagrées", "raisonnement": "Minauderies a pour synonyme simagrées, comportement du faux dévot." },
+  "e-308": { "reponse": "piège", "raisonnement": "Traquenard a pour synonyme piège, ce qu'est un raisonnement trompeur." },
+  "e-325": { "reponse": "austérité", "raisonnement": "Rigueur a pour proche synonyme austérité, vie de l'ascète." },
+  "e-335": { "reponse": "bousculer", "raisonnement": "Secouer les habitudes : bousculer ; ébranler est refusé." },
+  "e-339": { "reponse": "moignon", "raisonnement": "Extrémité du cou tranché, qu'Héraclès cautérise : le moignon." },
+  "e-430": { "reponse": "le Père Noël", "raisonnement": "Traîneau, rennes, cheminée, cadeaux, sapin et hotte décrivent le Père Noël." },
+  "e-435": { "reponse": "équilibre", "raisonnement": "Stabilité a pour synonyme équilibre, qu'il faut garder à vélo." },
+  "e-437": { "reponse": "piste", "raisonnement": "Trace, piste d'atterrissage et piste de ski mènent à piste." },
+  "e-515": { "reponse": "la locomotive", "raisonnement": "Foyer, pelle, charbon, wagons, rails : la locomotive à vapeur, cheval de fer." },
+  "e-530": { "reponse": "implacable", "raisonnement": "Inexorable a pour synonyme implacable, qualité de la vengeance." },
+  "e-536": { "reponse": "gemmes", "raisonnement": "Pierres précieuses : gemmes, trésor du géant avec ses couronnes." },
+  "e-541": { "reponse": "Dracula", "raisonnement": "Crocs, cercueil, ail, aube et pieu décrivent le vampire Dracula." }
+}

@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "ciel", "raisonnement": "Firmament a pour synonyme direct ciel, et le ciel est gris les jours gris." },
+  "e-006": { "reponse": "âges", "raisonnement": "Époques est un nom pluriel ; âges en est un synonyme pluriel, lié au sommeil des dormeurs à travers les âges." },
+  "e-007": { "reponse": "tournée", "raisonnement": "Virée a pour synonyme tournée, ce que fait le facteur qui passe chaque matin." },
+  "e-008": { "reponse": "ruche", "raisonnement": "L'or liquide évoque le miel ; le nid des abeilles est la ruche." },
+  "e-009": { "reponse": "scène", "raisonnement": "Pièce de théâtre ou de cinéma renvoie à une scène, mot du septième art." },
+  "e-403": { "reponse": "armoire", "raisonnement": "Placard a pour synonyme armoire ; le pôle Nord de la cuisine serait le frigo, mais le synonyme le plus proche est armoire." },
+  "e-428": { "reponse": "quai", "raisonnement": "Embarcadère se dit quai, lieu où l'on attend le train (tchou-tchou)." },
+  "e-430": { "reponse": "traîneau", "raisonnement": "Luge est proche de traîneau, véhicule du Père Noël à la hotte sur le dos." },
+  "e-435": { "reponse": "pédale", "raisonnement": "L'étrier est une pièce où l'on pose le pied, comme la pédale de la petite reine, le vélo." },
+  "e-437": { "reponse": "aéroport", "raisonnement": "Roissy est un aéroport, lieu des avions au-dessus des nuages." }
+}

@@ -1,0 +1,19 @@
+{
+  "e-003": { "reponse": "baleines", "raisonnement": "Cétacés évoque les baleines, et les baleines du parapluie compagnon des jours gris." },
+  "e-007": { "reponse": "boîte", "raisonnement": "Coffret est proche de boîte, et la boîte de Pandore le confirme ; boîte aux lettres, objet du facteur ; colis est refusé." },
+  "e-204": { "reponse": "écritures", "raisonnement": "Graphies a pour synonyme écritures, anciennes écritures sous le texte effacé." },
+  "e-304": { "reponse": "parangon", "raisonnement": "Modèle et vertu mènent à parangon de vertu, que le faux dévot feint d'être ; archétype est refusé." },
+  "e-308": { "reponse": "conclusion", "raisonnement": "Déduction mène à conclusion ; cornichon évoque con, qui partage le début [kõ]." },
+  "e-325": { "reponse": "abstinence", "raisonnement": "Continence a pour synonyme abstinence, privation de l'ascète au désert." },
+  "e-335": { "reponse": "ébranler", "raisonnement": "Secouer a pour synonyme ébranler, ce que fait l'iconoclasme au pouvoir." },
+  "e-339": { "reponse": "cautériser", "raisonnement": "Héraclès brûle les moignons de l'hydre pour que les têtes ne repoussent pas : cautériser." },
+  "e-430": { "reponse": "sapin", "raisonnement": "Conifère évoque le sapin de Noël." },
+  "e-435": { "reponse": "pédale", "raisonnement": "Accélérateur est une pédale, et le piano a des pédales ; pédale était refusé pour le mot 1 mais convient ici." },
+  "e-437": { "reponse": "sillage", "raisonnement": "Trace laissée dans le ciel par l'avion : le sillage." },
+  "e-515": { "reponse": "rails", "raisonnement": "Les traverses portent les rails du chemin de fer." },
+  "e-530": { "reponse": "représailles", "raisonnement": "Rétorsions a pour synonyme représailles, la vengeance." },
+  "e-536": { "reponse": "couronnes", "raisonnement": "Diadèmes a pour synonyme couronnes, que porte le géant des contes." },
+  "e-541": { "reponse": "pieu", "raisonnement": "Piquet est proche de pieu, qui tue le vampire." },
+  "np-432": { "reponse": "Danone", "raisonnement": "Yaourt, marque gourmande : Danone." },
+  "np-434": { "reponse": "Guyane", "raisonnement": "Kourou se trouve en Guyane française." }
+}

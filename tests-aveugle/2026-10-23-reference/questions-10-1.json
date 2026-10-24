@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e-104",
+    "titre": "Lever de rideau",
+    "type": "solution",
+    "texte": "Sous la baguette du chef, les musiciens s'accordent ; les violons pleurent, les cuivres éclatent ; dans la pénombre, le public retient son souffle.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la rancœur des courtisans, qui attendaient une ____ exemplaire.",
+    "dejaFausses": [
+      "la clémence",
+      "la magnanimité"
+    ]
+  },
+  {
+    "id": "e-307",
+    "titre": "Hors de son temps",
+    "type": "solution",
+    "texte": "Une montre au poignet d'un légionnaire romain : quelle bévue ! L'historien traque ces incongruités comme le ____ traque l'erreur.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-323",
+    "titre": "Bienfaiteur des arts",
+    "type": "solution",
+    "texte": "Les princes de la Renaissance protégeaient les artistes ; leur fortune finançait fresques et statues ; aujourd'hui, une ____ fiscale encourage ce soutien.",
+    "dejaFausses": [
+      "le mécène"
+    ]
+  }
+]

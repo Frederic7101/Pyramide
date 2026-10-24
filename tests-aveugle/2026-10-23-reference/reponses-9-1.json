@@ -1,0 +1,19 @@
+{
+  "e-104": { "reponse": "pénombre", "raisonnement": "Obscurité est un synonyme et une éclipse crée une pénombre. Je prends vélo pour une incitation : il évoque « pédale », qui donne le son « pé ». Noir et ombre sont déjà refusés, et la salle plongée dans la pénombre colle au lever de rideau." },
+  "e-105": { "reponse": "le désert", "raisonnement": "Caravanes, sources précieuses, sirocco et dunes : le titre « Mer de sable » désigne le désert. J'ai écarté « le Sahara » parce qu'il est trop précis." },
+  "e-301": { "reponse": "le stoïcisme", "raisonnement": "Le Portique, c'est la Stoa ; Sénèque et Épictète, le flegme, l'ataraxie et la résignation renvoient au stoïcisme. Le mot manquant est probablement « adversité »." },
+  "e-302": { "reponse": "la logorrhée", "raisonnement": "Verbiage intarissable, digressions et circonlocutions : c'est un flux de paroles excessif. Le bavard est refusé, donc la solution est sans doute le phénomène lui-même, la logorrhée, plutôt que la personne." },
+  "e-304": { "reponse": "l'hypocrisie", "raisonnement": "Masque de vertu, duplicité, Tartuffe et larmes de crocodile : c'est l'hypocrisie. L'autre candidat était « l'hypocrite »." },
+  "e-305": { "reponse": "la magnanimité", "raisonnement": "La clémence est refusée. Le texte nomme aussi la magnanimité, qui est le pardon propre aux grands. Le mot manquant est sans doute « vengeance » ou « punition »." },
+  "e-307": { "reponse": "erreur", "raisonnement": "Faute est un synonyme et « humaine » renvoie à « l'erreur est humaine ». Au mot 2, c'est « bévue », ma dernière proposition, qui a été validée, donc « erreur » reste libre. Impair est refusé." },
+  "e-313": { "reponse": "la dystopie", "raisonnement": "Futur sinistre, Parti, surveillance, censure, mensonge : le texte décrit l'univers d'Orwell. « 1984 » est refusé, donc je propose le genre, la dystopie. J'ai écarté « le totalitarisme »." },
+  "e-316": { "reponse": "l'allégorie", "raisonnement": "La justice représentée par une femme avec une balance et un glaive : une idée abstraite rendue visible, c'est la définition de l'allégorie." },
+  "e-321": { "reponse": "l'atermoiement", "raisonnement": "Remettre l'ouvrage, subterfuges, délais, tergiversations : on pense à la procrastination. Mais la mention des créanciers oriente vers les atermoiements, c'est-à-dire des délais de paiement." },
+  "e-322": { "reponse": "l'épiphanie", "raisonnement": "Une illumination soudaine, les mages qui y voient la manifestation d'un dieu, la galette des rois : tout cela désigne l'Épiphanie." },
+  "e-323": { "reponse": "le mécène", "raisonnement": "Les princes de la Renaissance protégeaient et finançaient les artistes. Le titre « Bienfaiteur » vise la personne, le mécène. Le mot manquant est sans doute « réduction » (fiscale)." },
+  "e-325": { "reponse": "l'ascèse", "raisonnement": "Anachorète, privations, jeûne, veilles, discipline et purification de l'âme : c'est l'ascèse. Le mot manquant est sans doute « abstinence » ou « mortifications »." },
+  "e-336": { "reponse": "le solipsisme", "raisonnement": "La doctrine selon laquelle seul existe son propre esprit, autrui n'étant peut-être qu'un songe, c'est le solipsisme (titre « Moi seul »)." },
+  "e-339": { "reponse": "l'hydre", "raisonnement": "Un monstre à plusieurs têtes qui repoussent, vaincu par Héraclès au marais de Lerne. « L'hydre de Lerne » est refusé, donc j'essaie la forme courte." },
+  "e-342": { "reponse": "l'ermite", "raisonnement": "Retiré seul dans une grotte, il vit de racines et de prière : c'est l'ermite. J'ai écarté « l'anachorète », moins courant." },
+  "e-350": { "reponse": "l'exil", "raisonnement": "Hugo chassé de sa patrie et installé à Guernesey, le manque de la terre natale : c'est l'exil. Le mot manquant est « Châtiments ». J'ai écarté « la nostalgie »." }
+}

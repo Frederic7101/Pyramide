@@ -1,0 +1,532 @@
+{
+  "niveau": "difficile",
+  "vague": 12,
+  "reponses": {
+    "e-201": [
+      "léthargie",
+      "langueur",
+      "bile",
+      "gravure",
+      "spleen",
+      "charme",
+      "la mélancolie"
+    ],
+    "e-203": [
+      "faux",
+      "vrai",
+      "procédé",
+      "méthode",
+      "finesse",
+      "moquerie",
+      "ironie",
+      "sarcasme",
+      "l'ironie"
+    ],
+    "e-205": [
+      "lendemain",
+      "aujourd'hui",
+      "prétextes",
+      "travail",
+      "effort",
+      "échéance",
+      "la procrastination"
+    ],
+    "e-301": [
+      "malheur",
+      "douleur",
+      "apathie",
+      "flegme",
+      "ataraxie",
+      "esclave",
+      "résignation",
+      "le stoïcisme"
+    ],
+    "e-302": [
+      "papotage",
+      "verbiage",
+      "intarissable",
+      "digression",
+      "circonlocutions",
+      "brouhaha",
+      "silence",
+      "la logorrhée"
+    ],
+    "e-303": [
+      "revirement",
+      "opinion",
+      "girouette",
+      "palinodie",
+      "désaveu",
+      "reniement",
+      "parjure",
+      "la palinodie"
+    ],
+    "e-304": [
+      "agneau",
+      "masque",
+      "hypocrisie",
+      "duplicité",
+      "archétype",
+      "parangon",
+      "simagrées",
+      "crocodile",
+      "l'hypocrisie"
+    ],
+    "e-305": [
+      "mansuétude",
+      "clémence",
+      "conjuré",
+      "félon",
+      "magnanimité",
+      "rancœur",
+      "châtiment",
+      "sanction",
+      "la grâce",
+      "la clémence",
+      "le droit de grâce"
+    ],
+    "e-306": [
+      "larve",
+      "rivière",
+      "éphémère",
+      "fugace",
+      "précarité",
+      "périr",
+      "l'éphémère"
+    ],
+    "e-307": [
+      "romain",
+      "légionnaire",
+      "anachronisme",
+      "bévue",
+      "incongruités",
+      "enquêteur",
+      "limier",
+      "erreur",
+      "l'anachronisme"
+    ],
+    "e-308": [
+      "rigoureux",
+      "faille",
+      "prémisses",
+      "conclusion",
+      "piège",
+      "le sophisme"
+    ],
+    "e-309": [
+      "crâne",
+      "bougie",
+      "sablier",
+      "fleurs",
+      "fanées",
+      "éphémère",
+      "montre",
+      "la vanité"
+    ],
+    "e-310": [
+      "étoiles",
+      "contraires",
+      "alliance",
+      "style",
+      "contradiction",
+      "paradoxe",
+      "rhétorique",
+      "l'oxymore"
+    ],
+    "e-311": [
+      "mort",
+      "détour",
+      "pudeur",
+      "pudique",
+      "atténuer",
+      "sensibilité",
+      "l'euphémisme"
+    ],
+    "e-312": [
+      "tragédie",
+      "terreur",
+      "pitié",
+      "apaisé",
+      "passions",
+      "purgées",
+      "la catharsis"
+    ],
+    "e-313": [
+      "sinistre",
+      "surveiller",
+      "épier",
+      "esclavage",
+      "censure",
+      "pensée",
+      "mensonge",
+      "1984",
+      "la dystopie"
+    ],
+    "e-314": [
+      "désordre",
+      "ordre",
+      "chaos",
+      "énergie",
+      "chaleur",
+      "thermodynamique",
+      "l'entropie"
+    ],
+    "e-315": [
+      "impression",
+      "saveur",
+      "souvenir",
+      "renaître",
+      "involontaire",
+      "réminiscence",
+      "mémoire",
+      "évocation",
+      "la réminiscence"
+    ],
+    "e-316": [
+      "balance",
+      "glaive",
+      "justice",
+      "auteur",
+      "sculpteur",
+      "artiste",
+      "abstraction",
+      "abstrait",
+      "l'allégorie"
+    ],
+    "e-317": [
+      "modèle",
+      "nonchalance",
+      "costume",
+      "impertinence",
+      "vulgarité",
+      "le dandy",
+      "le dandysme"
+    ],
+    "e-318": [
+      "semblables",
+      "hypocrisie",
+      "fausseté",
+      "désert",
+      "retraite",
+      "solitude",
+      "rancune",
+      "le misanthrope",
+      "l'ermite",
+      "l'ours"
+    ],
+    "e-319": [
+      "plaisir",
+      "douleur",
+      "instant",
+      "modération",
+      "ivresse",
+      "l'hédonisme"
+    ],
+    "e-320": [
+      "jugement",
+      "doute",
+      "certitude",
+      "apparence",
+      "illusion",
+      "savoir",
+      "ignorance",
+      "crédulité",
+      "le scepticisme"
+    ],
+    "e-321": [
+      "tâche",
+      "ouvrage",
+      "prétextes",
+      "faux-fuyants",
+      "subterfuges",
+      "report",
+      "délai",
+      "atermoiements",
+      "tergiversations",
+      "créanciers",
+      "les atermoiements"
+    ],
+    "e-322": [
+      "fulgurant",
+      "idée",
+      "illumination",
+      "évident",
+      "limpide",
+      "épiphanie",
+      "manifestation",
+      "épiphanie",
+      "éclair",
+      "l'épiphanie"
+    ],
+    "e-323": [
+      "rois",
+      "princes",
+      "artistes",
+      "fortune",
+      "œuvres",
+      "statues",
+      "déduction",
+      "le mécénat"
+    ],
+    "e-324": [
+      "jeunesse",
+      "automne",
+      "poésie",
+      "poétique",
+      "analogie",
+      "orateurs",
+      "ornement",
+      "la métaphore"
+    ],
+    "e-325": [
+      "solitaire",
+      "anachorète",
+      "jeûne",
+      "chasteté",
+      "abstinence",
+      "austérité",
+      "discipline",
+      "purification",
+      "l'ascèse"
+    ],
+    "e-326": [
+      "tonneau",
+      "conventions",
+      "argent",
+      "impudence",
+      "puissants",
+      "notables",
+      "le cynisme"
+    ],
+    "e-327": [
+      "horloge",
+      "heures",
+      "eau",
+      "vase",
+      "tribunaux",
+      "la clepsydre"
+    ],
+    "e-328": [
+      "laiton",
+      "hauteur",
+      "savants",
+      "navigateurs",
+      "pilotes",
+      "latitude",
+      "point",
+      "l'astrolabe"
+    ],
+    "e-329": [
+      "profusion",
+      "volutes",
+      "colonnes",
+      "torses",
+      "trompe-l'œil",
+      "ostentation",
+      "le baroque"
+    ],
+    "e-330": [
+      "sage-femme",
+      "accoucheur",
+      "questions",
+      "vérité",
+      "découvrir",
+      "erreur",
+      "vérité",
+      "la maïeutique"
+    ],
+    "e-331": [
+      "dogme",
+      "excommunication",
+      "Inquisition",
+      "dissidents",
+      "bûcher",
+      "l'hérésie"
+    ],
+    "e-332": [
+      "tesson",
+      "bannir",
+      "influent",
+      "éloigner",
+      "écarter",
+      "exil",
+      "exclusion",
+      "l'ostracisme"
+    ],
+    "e-333": [
+      "neveu",
+      "faveur",
+      "péché",
+      "pouvoir",
+      "parenté",
+      "mérite",
+      "le népotisme"
+    ],
+    "e-334": [
+      "flatter",
+      "merveilles",
+      "foule",
+      "discours",
+      "populistes",
+      "peuple",
+      "foule",
+      "le démagogue",
+      "la démagogie"
+    ],
+    "e-335": [
+      "empereur",
+      "icônes",
+      "iconoclaste",
+      "frondeur",
+      "ébranler",
+      "bousculer",
+      "dogmes",
+      "l'iconoclasme"
+    ],
+    "e-336": [
+      "esprit",
+      "image",
+      "illusion",
+      "projection",
+      "conscience",
+      "fantôme",
+      "songe",
+      "le solipsisme"
+    ],
+    "e-337": [
+      "laboratoire",
+      "initié",
+      "alchimiste",
+      "pierre",
+      "philosophale",
+      "plomb",
+      "élixir",
+      "l'alchimie"
+    ],
+    "e-338": [
+      "cavaliers",
+      "bête",
+      "jugement",
+      "révélation",
+      "catastrophe",
+      "l'Apocalypse"
+    ],
+    "e-339": [
+      "monstre",
+      "têtes",
+      "multiples",
+      "décapitation",
+      "cautériser",
+      "moignon",
+      "bout",
+      "l'hydre de Lerne",
+      "l'hydre"
+    ],
+    "e-340": [
+      "ambition",
+      "soleil",
+      "orgueil",
+      "présomption",
+      "démesure",
+      "vanité",
+      "l'hybris",
+      "l'orgueil"
+    ],
+    "e-341": [
+      "destin",
+      "chance",
+      "hasard",
+      "fortune",
+      "étoile",
+      "déveine",
+      "poisse",
+      "le hasard"
+    ],
+    "e-342": [
+      "grotte",
+      "racines",
+      "paix",
+      "sérénité",
+      "silence",
+      "cri",
+      "corbeau",
+      "l'ermite"
+    ],
+    "e-343": [
+      "trembler",
+      "désert",
+      "nappe",
+      "miroiter",
+      "illusion",
+      "optique",
+      "le mirage"
+    ],
+    "e-344": [
+      "fleuve",
+      "oubli",
+      "mémoire",
+      "âmes",
+      "souvenirs",
+      "cicatriser",
+      "l'oubli"
+    ],
+    "e-345": [
+      "lion",
+      "énigme",
+      "devinette",
+      "dévoré",
+      "solution",
+      "clé",
+      "précipice",
+      "le sphinx"
+    ],
+    "e-346": [
+      "dieux",
+      "destin",
+      "prédit",
+      "malédiction",
+      "tragique",
+      "la fatalité"
+    ],
+    "e-347": [
+      "sauvée",
+      "expier",
+      "montagne",
+      "âmes",
+      "morts",
+      "attente",
+      "le purgatoire"
+    ],
+    "e-348": [
+      "cailloux",
+      "exercice",
+      "entraînement",
+      "orateur",
+      "éloquent",
+      "persuasif",
+      "éloquence",
+      "verve",
+      "l'éloquence"
+    ],
+    "e-349": [
+      "proverbe",
+      "sentence",
+      "vérité",
+      "morale",
+      "maximes",
+      "esprit",
+      "désespoir",
+      "l'aphorisme"
+    ],
+    "e-350": [
+      "patrie",
+      "manque",
+      "retour",
+      "regrets",
+      "usurpateur",
+      "île",
+      "mer",
+      "l'exil"
+    ]
+  }
+}

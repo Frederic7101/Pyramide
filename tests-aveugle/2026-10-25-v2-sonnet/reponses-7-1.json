@@ -1,0 +1,14 @@
+{
+  "e-003": { "reponse": "cortège", "raisonnement": "Convoi a pour synonyme cortège, comme le cortège de nuages gris qui accompagne le ciel." },
+  "e-007": { "reponse": "le facteur", "raisonnement": "Tournée, sacoche, lettres, courrier, boîte, vélo : le facteur." },
+  "e-304": { "reponse": "crocodile", "raisonnement": "Caïman évoque crocodile, dont on verse les larmes feintes, comme le faux dévot." },
+  "e-308": { "reponse": "sophisme", "raisonnement": "Un raisonnement qui paraît rigoureux mais cache une faille et conclut faussement est un sophisme." },
+  "e-325": { "reponse": "mortification", "raisonnement": "Rigueur et fouet évoquent la mortification de l'ascète ; austérité est refusé." },
+  "e-335": { "reponse": "dogmes", "raisonnement": "Principes a pour synonyme dogmes, ce que la querelle des images bouscule." },
+  "e-339": { "reponse": "bout", "raisonnement": "Extrémité se dit bout, et le bout de chandelle brûle ; moignon est refusé." },
+  "e-435": { "reponse": "roue", "raisonnement": "Pièce du vélo après selle, guidon et pédale : la roue." },
+  "e-437": { "reponse": "hôtesse", "raisonnement": "Steward a pour pendant féminin hôtesse (de l'air)." },
+  "e-530": { "reponse": "châtiment", "raisonnement": "Punition a pour synonyme châtiment, fin de la vengeance." },
+  "e-536": { "reponse": "cailloux", "raisonnement": "Pierres et Poucet évoquent les cailloux semés par le Petit Poucet ; gemmes est refusé." },
+  "e-541": { "reponse": "vampire", "raisonnement": "Crocs, cercueil, ail, aube et pieu décrivent un vampire ; Dracula est refusé." }
+}

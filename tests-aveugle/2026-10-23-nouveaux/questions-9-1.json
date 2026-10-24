@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e-402",
+    "titre": "L'heure anglaise",
+    "type": "solution",
+    "texte": "Remplie d'eau et branchée sur la prise, elle crache sa vapeur et se met à siffler : place au thé !",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-434",
+    "titre": "Feu de camp",
+    "type": "solution",
+    "texte": "Le musicien pince ses cordes avec les ongles ; en camping, on chante autour du feu ; branchée, elle devient électrique.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la selle, on tient le guidon, on appuie sur les pédales ; il faut garder l'équilibre ; une crevaison, et il faut changer la chambre à air.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-447",
+    "titre": "Faire un vœu",
+    "type": "solution",
+    "texte": "On souffle les bougies plantées dans le gâteau ; tout le monde chante en ____ ; on déballe les paquets ; et l'on compte une ride de plus.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-521",
+    "titre": "Avant le parlant",
+    "type": "solution",
+    "texte": "Pas de dialogues : des cartons s'affichent entre les plans ; un pianiste accompagne l'image ; Chaplin y triomphe en vagabond ; l'arrivée du son le rendit obsolète.",
+    "dejaFausses": []
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son réquisitoire ; les ____ se retirent avant le verdict.",
+    "dejaFausses": []
+  }
+]

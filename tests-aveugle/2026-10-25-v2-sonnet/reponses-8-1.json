@@ -1,0 +1,11 @@
+{
+  "e-003": { "reponse": "train", "raisonnement": "Convoi et rails mènent à train, comme un train de nuages gris ; cortège est refusé." },
+  "e-304": { "reponse": "hypocrite", "raisonnement": "Masque, vertu feinte, duplicité, larmes de crocodile : le faux dévot est un hypocrite." },
+  "e-325": { "reponse": "purification", "raisonnement": "Les ablutions sont des rites de purification, démarche du désert intérieur." },
+  "e-335": { "reponse": "iconoclasme", "raisonnement": "Le texte décrit la querelle des images, soit l'iconoclasme." },
+  "e-339": { "reponse": "l'hydre de Lerne", "raisonnement": "Monstre à têtes qui repoussent, vaincu par Héraclès au marais de Lerne." },
+  "e-435": { "reponse": "chambre", "raisonnement": "Pièce et lit évoquent chambre, et la chambre à air du vélo ; roue est refusé." },
+  "e-437": { "reponse": "l'avion", "raisonnement": "Aéroport, piste, pilote, hôtesse : l'avion, au-dessus des nuages." },
+  "e-530": { "reponse": "la vengeance", "raisonnement": "Le plat qui se mange froid est la vengeance, celle de Monte-Cristo." },
+  "e-536": { "reponse": "l'ogre", "raisonnement": "Bottes de sept lieues, cailloux, couronnes : l'ogre du Petit Poucet." }
+}

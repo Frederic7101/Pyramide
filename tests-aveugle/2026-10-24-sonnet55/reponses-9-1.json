@@ -1,0 +1,18 @@
+{
+"e-003": {"reponse": "le parapluie", "raisonnement": "S'ouvre contre l'averse, a des baleines et s'oublie dans le train : le parapluie."},
+"e-006": {"reponse": "cratère", "raisonnement": "Bouche d'un volcan : le cratère ; Pompéi et nécropole sont refusés."},
+"e-009": {"reponse": "le cinéma", "raisonnement": "Salle obscure, écran, réalisateur, actrice : le cinéma, septième art, plutôt que scène qui est le mot manquant."},
+"e-304": {"reponse": "l'hypocrite", "raisonnement": "Masque de vertu, duplicité, simagrées et larmes de crocodile : l'hypocrite (le blanc serait modèle)."},
+"e-305": {"reponse": "ressentiment", "raisonnement": "Aigreur et fiel mènent à ressentiment ; file n'aide pas ; rancune et amertume sont refusées."},
+"e-325": {"reponse": "purification", "raisonnement": "Ablutions évoquent la purification de l'âme ; plusieurs synonymes d'austérité sont déjà refusés."},
+"e-326": {"reponse": "le cynique", "raisonnement": "Diogène est refusé, mais le texte décrit le philosophe cynique."},
+"e-335": {"reponse": "l'iconoclaste", "raisonnement": "Briser les icônes et bousculer les dogmes : l'iconoclaste."},
+"e-339": {"reponse": "l'hydre de Lerne", "raisonnement": "Monstre aux têtes multiples qui repoussent, vaincu par Héraclès."},
+"e-403": {"reponse": "le réfrigérateur", "raisonnement": "Grande armoire blanche qui garde au frais : le réfrigérateur. J'écarte le frigo, mot court."},
+"e-435": {"reponse": "chambre", "raisonnement": "Une crevaison se répare en changeant la chambre à air, d'où le mot manquant ; le texte décrit le vélo."},
+"e-437": {"reponse": "l'avion", "raisonnement": "Aéroport, valises, pilote, piste, hôtesse : l'avion, au-dessus des nuages."},
+"e-506": {"reponse": "la fresque", "raisonnement": "Pigments sur enduit humide : la fresque ; échafaudage est refusé."},
+"e-520": {"reponse": "le western", "raisonnement": "Diligence, shérif, flèches, duel, revolver, John Ford : le western."},
+"e-533": {"reponse": "le procès", "raisonnement": "Prévenu, greffier, procureur, jurés et verdict : le procès. J'écarte le tribunal."},
+"e-541": {"reponse": "le vampire", "raisonnement": "Crocs, cercueil, ail, aube, pieu : le vampire, Dracula étant refusé."}
+}

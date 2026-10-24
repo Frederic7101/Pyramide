@@ -1,0 +1,76 @@
+[
+  {
+    "id": "np-434",
+    "type": "nom",
+    "theme": "Outre-mer français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Martinique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "La Réunion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Polynésie française",
+          "Tahiti"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Kourou"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Outre-mer français ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Martinique »).\nNom n°2 : trouvé (« La Réunion »).\nNom n°3 : trouvé (« Tahiti »).\nBriques de Dico :\n1. Kourou\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Georges Braque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "André Derain"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tubes",
+      "Biot"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Maurice de Vlaminck"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Fauves et cubistes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Henri Matisse »).\nNom n°2 : trouvé (« Georges Braque »).\nNom n°3 : trouvé (« André Derain »).\nBriques de Dico :\n1. tubes\n2. Biot\nRéponses déjà jugées fausses : « Maurice de Vlaminck ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

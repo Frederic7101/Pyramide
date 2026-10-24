@@ -1,0 +1,602 @@
+[
+  {
+    "id": "np-501",
+    "type": "nom",
+    "theme": "Opéras de Verdi",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Égypte"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-502",
+    "type": "nom",
+    "theme": "Opéras de Puccini",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "geisha"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-503",
+    "type": "nom",
+    "theme": "Peintres italiens",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Urbino"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-504",
+    "type": "nom",
+    "theme": "Peintres néerlandais",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "autoportraits"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "odalisques"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-506",
+    "type": "nom",
+    "theme": "Surréalistes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Figueras"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-507",
+    "type": "nom",
+    "theme": "Artistes américains",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Factory"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-508",
+    "type": "nom",
+    "theme": "Écrivains britanniques du XIXe siècle",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Pickwick"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-509",
+    "type": "nom",
+    "theme": "Romanciers américains",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Cuba"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-510",
+    "type": "nom",
+    "theme": "Poètes romantiques français",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Mâcon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-511",
+    "type": "nom",
+    "theme": "Moralistes et fabulistes du Grand Siècle",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Château-Thierry"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-512",
+    "type": "nom",
+    "theme": "Auteurs de théâtre",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Rouen"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-513",
+    "type": "nom",
+    "theme": "Écrivains français du XXe siècle",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Oran"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-514",
+    "type": "nom",
+    "theme": "Poètes du XXe siècle",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Calligrammes"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-515",
+    "type": "nom",
+    "theme": "Conteurs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Barbe-Bleue"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-516",
+    "type": "nom",
+    "theme": "Contes de Voltaire",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Cunégonde"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-517",
+    "type": "nom",
+    "theme": "Personnages des Misérables",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "bagnard"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-518",
+    "type": "nom",
+    "theme": "Personnages d'Alexandre Dumas",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "mousquetaire"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-519",
+    "type": "nom",
+    "theme": "Personnages des Rougon-Macquart",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "courtisane"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-520",
+    "type": "nom",
+    "theme": "Héros de Flaubert et de Stendhal",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Yonville"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-521",
+    "type": "nom",
+    "theme": "Personnages de Tolkien",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "hobbit"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-522",
+    "type": "nom",
+    "theme": "Héros grecs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Andromède"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-523",
+    "type": "nom",
+    "theme": "Divinités romaines",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "portes"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-524",
+    "type": "nom",
+    "theme": "Héroïnes de la mythologie grecque",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Ithaque"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-525",
+    "type": "nom",
+    "theme": "Chevaliers et preux",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Durandal"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-526",
+    "type": "nom",
+    "theme": "Femmes dans l'histoire de France",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "poétesse"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-527",
+    "type": "nom",
+    "theme": "Rois de France de la Renaissance aux Lumières",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Catherine de Médicis"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-528",
+    "type": "nom",
+    "theme": "Ministres de l'Ancien Régime",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Italien"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-529",
+    "type": "nom",
+    "theme": "Figures du Premier Empire",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Martinique"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-530",
+    "type": "nom",
+    "theme": "Figures de l'Antiquité",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Antoine"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-531",
+    "type": "nom",
+    "theme": "Philosophes grecs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Académie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-532",
+    "type": "nom",
+    "theme": "Auteurs grecs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "aède"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-533",
+    "type": "nom",
+    "theme": "Grands explorateurs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Endeavour"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-534",
+    "type": "nom",
+    "theme": "Pionniers de l'aviation",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "monoplan"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-535",
+    "type": "nom",
+    "theme": "Astronomes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Danois"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-536",
+    "type": "nom",
+    "theme": "Savants français",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Lyon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-537",
+    "type": "nom",
+    "theme": "Femmes de science",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Byron"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-538",
+    "type": "nom",
+    "theme": "Compositeurs français",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Pelléas"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-539",
+    "type": "nom",
+    "theme": "Musiciens italiens",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tournedos"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-540",
+    "type": "nom",
+    "theme": "Compositeurs germaniques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cantor"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-541",
+    "type": "nom",
+    "theme": "Géants du jazz",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Cotton Club"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-542",
+    "type": "nom",
+    "theme": "Groupes de rock britanniques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "dirigeable"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-543",
+    "type": "nom",
+    "theme": "Voix de la chanson française",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Saint-Germain-des-Prés"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-544",
+    "type": "nom",
+    "theme": "Maîtres du cinéma d'auteur",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Japon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-545",
+    "type": "nom",
+    "theme": "Photographes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Tournachon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-546",
+    "type": "nom",
+    "theme": "Actrices de l'âge d'or hollywoodien",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "gant"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-547",
+    "type": "nom",
+    "theme": "Provinces d'Ancien Régime",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Vizille"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-548",
+    "type": "nom",
+    "theme": "Villes d'Italie",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Adige"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-549",
+    "type": "nom",
+    "theme": "Villes ibériques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Andalousie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-550",
+    "type": "nom",
+    "theme": "Villes allemandes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Spree"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

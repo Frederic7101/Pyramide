@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "train", "raisonnement": "Convoi et rails désignent le train." },
+  "e-006": { "reponse": "Pompéi", "raisonnement": "Une cité détruite par la lave du volcan : Pompéi, la ville endormie." },
+  "e-007": { "reponse": "vélo", "raisonnement": "Bicyclette a pour synonyme vélo, que le facteur utilise." },
+  "e-008": { "reponse": "tranche", "raisonnement": "Rondelle est une coupe fine : tranche, par exemple de pain d'épices au miel." },
+  "e-009": { "reponse": "scène", "raisonnement": "Séquence et théâtre convergent vers scène (plan est écarté)." },
+  "e-403": { "reponse": "jambon", "raisonnement": "Saucisson évoque le jambon ; mauvais évoque bon, dont le son finit jambon." },
+  "e-428": { "reponse": "billets", "raisonnement": "Tickets au pluriel se dit billets, que le contrôleur vérifie." },
+  "e-430": { "reponse": "le Père Noël", "raisonnement": "Traîneau, rennes, cheminée, cadeaux, sapin : c'est le Père Noël." },
+  "e-435": { "reponse": "roue", "raisonnement": "Pièce du vélo après selle, guidon, pédale : la roue." },
+  "e-437": { "reponse": "hôtesse", "raisonnement": "Steward est un membre du personnel de cabine, pendant de l'hôtesse de l'air." }
+}

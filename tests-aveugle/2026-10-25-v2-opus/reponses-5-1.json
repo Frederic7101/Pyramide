@@ -1,0 +1,18 @@
+{
+  "e-003": { "reponse": "cortège", "raisonnement": "Convoi a pour synonyme cortège, nom masculin ; les parapluies accompagnent le cortège sous le ciel gris." },
+  "e-007": { "reponse": "vélo", "raisonnement": "Bicyclette a pour synonyme vélo ; le facteur fait sa tournée à vélo." },
+  "e-204": { "reponse": "écritures", "raisonnement": "Graphies a pour synonyme écritures, pluriel ; le palimpseste superpose deux écritures." },
+  "e-304": { "reponse": "parangon", "raisonnement": "Exemple refusé ; vertu complète modèle dans l'expression « parangon de vertu », image que se donne le faux dévot." },
+  "e-308": { "reponse": "piège", "raisonnement": "Traquenard a pour synonyme piège ; le sophisme est un piège logique." },
+  "e-325": { "reponse": "abstinence", "raisonnement": "Chasteté refusé ; manquant évoque absent, son [ab], d'où abstinence, synonyme de continence." },
+  "e-335": { "reponse": "ébranler", "raisonnement": "Secouer a pour synonyme ébranler, infinitif ; la querelle iconoclaste ébranla l'Empire." },
+  "e-339": { "reponse": "bout", "raisonnement": "Extrémité a pour synonyme bout ; Héraclès vient à bout de l'Hydre en cautérisant ses cous." },
+  "e-430": { "reponse": "sapin", "raisonnement": "Le conifère emblématique de Noël est le sapin, sous lequel le père Noël dépose les cadeaux." },
+  "e-435": { "reponse": "équilibre", "raisonnement": "Stabilité a pour synonyme équilibre ; sur un vélo, il faut garder l'équilibre." },
+  "e-437": { "reponse": "piste", "raisonnement": "Sillage refusé ; atterrissage précise la trace : la piste d'atterrissage." },
+  "e-515": { "reponse": "rails", "raisonnement": "Les traverses portent les rails, pluriel, sur lesquels roule la locomotive." },
+  "e-530": { "reponse": "implacable", "raisonnement": "Inexorable a pour synonyme implacable, adjectif ; la vengeance froide est implacable." },
+  "e-536": { "reponse": "cailloux", "raisonnement": "Pierres a pour synonyme cailloux, pluriel ; le Petit Poucet sème ses cailloux blancs." },
+  "e-541": { "reponse": "pieu", "raisonnement": "Piquet a pour synonyme pieu ; on tue le vampire d'un pieu dans le cœur." },
+  "np-434": { "reponse": "Guyane", "raisonnement": "Kourou est la base spatiale de la Guyane." }
+}

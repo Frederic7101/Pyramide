@@ -1,0 +1,279 @@
+[
+  {
+    "id": "np-307",
+    "type": "nom",
+    "theme": "Écrivains des Lumières",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Denis Diderot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Montesquieu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Voltaire",
+          "Marivaux"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Figaro"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Écrivains des Lumières ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Denis Diderot »).\nNom n°2 : trouvé (« Montesquieu »).\nNom n°3 : trouvé (« Marivaux »).\nBriques de Dico :\n1. Figaro\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Charles Trenet",
+          "Léo Ferré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigle"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Grands de la chanson ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Georges Brassens »).\nNom n°2 : trouvé (« Jacques Brel »).\nNom n°3 : trouvé (« Léo Ferré »).\nBriques de Dico :\n1. aigle\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francis Blake"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Hugo Pratt",
+          "Corto Maltese"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Valérian"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Giraud"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héros de bande dessinée réaliste ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Francis Blake »).\nNom n°2 : trouvé (« Corto Maltese »).\nNom n°3 : trouvé (« Valérian »).\nBriques de Dico :\n1. Giraud\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-448",
+    "type": "nom",
+    "theme": "Présidents de la République",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Charles de Gaulle"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "François Hollande",
+          "Jacques Chirac"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "François Mitterrand"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Brigitte"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents de la République ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Charles de Gaulle »).\nNom n°2 : trouvé (« Jacques Chirac »).\nNom n°3 : trouvé (« François Mitterrand »).\nBriques de Dico :\n1. Brigitte\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "Dallas",
+      "Jackie",
+      "Cuba"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "John Fitzgerald Kennedy",
+      "Andrew Jackson",
+      "Lyndon Baines Johnson"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°2.\nNom n°1 : trouvé (« Abraham Lincoln »).\nBriques de Dico :\n1. Dallas\n2. Jackie\n3. Cuba\nRéponses déjà jugées fausses : « John Fitzgerald Kennedy », « Andrew Jackson », « Lyndon Baines Johnson ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Georges Braque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "André Derain"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tubes",
+      "Biot"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Maurice de Vlaminck"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Fauves et cubistes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Henri Matisse »).\nNom n°2 : trouvé (« Georges Braque »).\nNom n°3 : trouvé (« André Derain »).\nBriques de Dico :\n1. tubes\n2. Biot\nRéponses déjà jugées fausses : « Maurice de Vlaminck ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-524",
+    "type": "nom",
+    "theme": "Héroïnes de la mythologie grecque",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Pénélope"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Méduse",
+          "Perséphone",
+          "Eurydice"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "Épiméthée"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héroïnes de la mythologie grecque ». Rébus et incitations sont permis ici.\nTu cherches le nom n°3.\nNom n°1 : trouvé (« Pénélope »).\nNom n°2 : trouvé (« Eurydice »).\nBriques de Dico :\n1. Épiméthée\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-549",
+    "type": "nom",
+    "theme": "Villes ibériques",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Séville"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Grenade"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Barcelone"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "vin",
+      "Ribeira"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Jerez"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Villes ibériques ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Séville »).\nNom n°2 : trouvé (« Grenade »).\nNom n°3 : trouvé (« Barcelone »).\nBriques de Dico :\n1. vin\n2. Ribeira\nRéponses déjà jugées fausses : « Jerez ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

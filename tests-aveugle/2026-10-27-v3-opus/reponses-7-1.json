@@ -1,0 +1,18 @@
+{
+  "e-003": { "reponse": "le parapluie", "raisonnement": "Il s'ouvre sous un ciel menaçant, protège de l'averse, a des baleines et s'oublie dans le train : le parapluie." },
+  "e-009": { "reponse": "le cinéma", "raisonnement": "Salle obscure, écran, réalisateur, actrice : le septième art, le cinéma." },
+  "e-304": { "reponse": "crocodile", "raisonnement": "Le caïman est un crocodile ; le faux dévot verse des larmes de crocodile." },
+  "e-305": { "reponse": "sanction", "raisonnement": "Avec est une incitation (avec → sans → [sɑ̃]) : la punition, c'est la sanction ; châtiment a été refusé." },
+  "e-325": { "reponse": "discipline", "raisonnement": "Rigueur et fouet : la discipline, aussi le fouet de pénitence ; austérité a été refusé." },
+  "e-331": { "reponse": "l'hérésie", "raisonnement": "S'écarter du dogme, être excommunié et poursuivi par l'Inquisition : c'est l'hérésie." },
+  "e-335": { "reponse": "valeurs", "raisonnement": "Principes au pluriel a pour synonyme valeurs, que la querelle bouscule." },
+  "e-341": { "reponse": "le hasard", "raisonnement": "Ni destin ni calcul, seule la chance décide : le hasard." },
+  "e-403": { "reponse": "jambon", "raisonnement": "Mauvais est une incitation (mauvais → bon → [bɔ̃]) : avec le saucisson, c'est le jambon ; charcuterie a été refusé." },
+  "e-435": { "reponse": "chambre", "raisonnement": "Pièce a pour synonyme chambre, et le pneu contient la chambre à air ; rustine a été refusé." },
+  "e-437": { "reponse": "l'avion", "raisonnement": "Aéroport, valises, pilote, piste, hôtesse : l'avion." },
+  "e-503": { "reponse": "incendie", "raisonnement": "Brasier a pour synonyme incendie, que la foudre provoque sans paratonnerre." },
+  "e-520": { "reponse": "le western", "raisonnement": "Diligence, shérif, flèches, duel, revolver et John Ford : le western." },
+  "e-530": { "reponse": "la vengeance", "raisonnement": "Monte-Cristo prépare ses représailles contre les traîtres : la vengeance, plat qui se mange froid." },
+  "e-533": { "reponse": "verdict", "raisonnement": "La sentence du tribunal est le verdict." },
+  "e-536": { "reponse": "l'ogre", "raisonnement": "Bottes de sept lieues, sept frères, filles couronnées, Petit Poucet : l'ogre." }
+}

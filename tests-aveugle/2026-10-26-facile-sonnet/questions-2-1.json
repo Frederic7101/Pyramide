@@ -1,0 +1,187 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ciel"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "écu"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Compagnon des jours gris ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« ciel »).\nMot d'une énigme. Briques de Dico :\n1. écu\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "époques",
+      "terre"
+    ],
+    "dejaFausses": [
+      "âges"
+    ],
+    "message": "Titre de l'énigme : « Le dormeur ».\nTu cherches le mot n°1.\nMot d'une énigme. Briques de Dico :\n1. époques\n2. terre\nRéponses déjà jugées fausses : « âges ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-007",
+    "titre": "Il passe chaque matin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tournée"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "besace"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Il passe chaque matin ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« tournée »).\nMot d'une énigme. Briques de Dico :\n1. besace\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ruche"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "bourdons"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Or liquide ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« ruche »).\nMot d'une énigme. Briques de Dico :\n1. bourdons\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-009",
+    "titre": "Septième art",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pièce",
+      "propre"
+    ],
+    "dejaFausses": [
+      "scène"
+    ],
+    "message": "Titre de l'énigme : « Septième art ».\nTu cherches le mot n°1.\nMot d'une énigme. Briques de Dico :\n1. pièce\n2. propre\nRéponses déjà jugées fausses : « scène ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "armoire"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "frisquet"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Pôle Nord de la cuisine ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« armoire »).\nMot d'une énigme. Briques de Dico :\n1. frisquet\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-428",
+    "titre": "Tchou-tchou !",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "quai"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "chemin"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Tchou-tchou ! ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« quai »).\nMot d'une énigme. Briques de Dico :\n1. chemin\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-430",
+    "titre": "Hotte sur le dos",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "traîneau"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "cervidés"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Hotte sur le dos ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« traîneau »).\nMot d'une énigme. Briques de Dico :\n1. cervidés\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "étrier",
+      "poivre"
+    ],
+    "dejaFausses": [
+      "pédale"
+    ],
+    "message": "Titre de l'énigme : « Petite reine ».\nTu cherches le mot n°1.\nMot d'une énigme. Briques de Dico :\n1. étrier\n2. poivre\nRéponses déjà jugées fausses : « pédale ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "aéroport"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 2,
+    "briques": [
+      "bagages"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Au-dessus des nuages ».\nTu cherches le mot n°2.\nMot n°1 : trouvé (« aéroport »).\nMot d'une énigme. Briques de Dico :\n1. bagages\n\nQuel mot Dico te fait-il deviner ?"
+  }
+]

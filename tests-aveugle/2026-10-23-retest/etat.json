@@ -1,0 +1,108 @@
+{
+  "niveau": "a-retester",
+  "vague": 13,
+  "reponses": {
+    "e-407": [
+      "tonnerre",
+      "éclair",
+      "pluie",
+      "nuages",
+      "lit",
+      "rafale",
+      "orage",
+      "foudre",
+      "l'orage"
+    ],
+    "e-412": [
+      "carapace",
+      "écailles",
+      "centenaire",
+      "âge",
+      "longévité",
+      "pattes",
+      "feuilles",
+      "lièvre",
+      "la tortue"
+    ],
+    "e-420": [
+      "têtard",
+      "mare",
+      "insectes",
+      "mouches",
+      "langue",
+      "batracien",
+      "coasser",
+      "la grenouille"
+    ],
+    "e-447": [
+      "bougies",
+      "gâteau",
+      "chanson",
+      "chœur",
+      "cadeaux",
+      "paquet",
+      "carte",
+      "ride",
+      "l'anniversaire"
+    ],
+    "e-515": [
+      "foyer",
+      "pelle",
+      "charbon",
+      "wagons",
+      "rails",
+      "la locomotive"
+    ],
+    "e-527": [
+      "réservé",
+      "gêné",
+      "emprunté",
+      "craintif",
+      "timoré",
+      "foule",
+      "discret",
+      "timide",
+      "discrète",
+      "la timidité"
+    ],
+    "e-528": [
+      "avare",
+      "radin",
+      "magot",
+      "lésiner",
+      "avidité",
+      "rapacité",
+      "sou",
+      "l'avare"
+    ],
+    "e-533": [
+      "prévenu",
+      "greffier",
+      "avocat",
+      "réquisitoire",
+      "juge",
+      "cour",
+      "jury",
+      "verdict",
+      "le tribunal"
+    ],
+    "e-424": [
+      "couette",
+      "oreiller",
+      "taie",
+      "duvet",
+      "tête",
+      "bataille",
+      "rêves",
+      "l'oreiller"
+    ],
+    "e-535": [
+      "fiançailles",
+      "alliance",
+      "témoins",
+      "trousseau",
+      "noces",
+      "le mariage"
+    ]
+  }
+}

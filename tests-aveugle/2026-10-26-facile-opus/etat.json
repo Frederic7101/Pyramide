@@ -1,0 +1,93 @@
+{
+  "niveau": "@tests-aveugle/echantillon-facile-reecrit.json",
+  "vague": 9,
+  "reponses": {
+    "e-003": [
+      "ciel",
+      "bouclier",
+      "baleines",
+      "vent",
+      "train",
+      "le parapluie"
+    ],
+    "e-006": [
+      "ères",
+      "siècles",
+      "feu",
+      "lave",
+      "ville",
+      "cratère",
+      "le volcan"
+    ],
+    "e-007": [
+      "tournée",
+      "sacoche",
+      "lettres",
+      "boîte",
+      "vélo",
+      "le facteur"
+    ],
+    "e-008": [
+      "ruche",
+      "abeilles",
+      "nectar",
+      "sucré",
+      "tranche",
+      "le miel"
+    ],
+    "e-009": [
+      "salle",
+      "écran",
+      "cinéaste",
+      "réalisateur",
+      "scène",
+      "actrice",
+      "le cinéma"
+    ],
+    "e-403": [
+      "armoire",
+      "froid",
+      "frais",
+      "beurre",
+      "yaourt",
+      "charcuterie",
+      "jambon",
+      "le réfrigérateur"
+    ],
+    "e-428": [
+      "quai",
+      "voie",
+      "wagon",
+      "contrôleur",
+      "billets",
+      "le train"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "le Père Noël"
+    ],
+    "e-435": [
+      "pédale",
+      "selle",
+      "guidon",
+      "pédale",
+      "équilibre",
+      "rustine",
+      "chambre",
+      "le vélo"
+    ],
+    "e-437": [
+      "aéroport",
+      "valises",
+      "pilote",
+      "sillage",
+      "piste",
+      "hôtesse",
+      "l'avion"
+    ]
+  }
+}

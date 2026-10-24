@@ -1,0 +1,517 @@
+[
+  {
+    "id": "e-326",
+    "titre": "La lanterne de Diogène",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "fût"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-327",
+    "titre": "Le temps qui coule",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "pendule"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-328",
+    "titre": "Disque des astres",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cuivre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-329",
+    "titre": "Bernin et Borromini",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "abondance"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-330",
+    "titre": "L'art de Socrate",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "accoucheuse"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "doctrine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-332",
+    "titre": "Le vote des potiers",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "débris"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-333",
+    "titre": "Affaire de famille",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "oncle"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-334",
+    "titre": "Le tribun",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "cajoler"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "césar"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-336",
+    "titre": "Moi seul",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "âme"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-337",
+    "titre": "Le grand œuvre",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "officine"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-338",
+    "titre": "Fin des temps",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "écuyers"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "créature"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-340",
+    "titre": "Ailes de cire",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "aspiration"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "sort"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-342",
+    "titre": "Seul au désert",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "caverne"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-343",
+    "titre": "Oasis trompeuse",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "vibrer"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-344",
+    "titre": "Rive des Enfers",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "rivière"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-345",
+    "titre": "Énigme de Thèbes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "tigre"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-346",
+    "titre": "Ce qui était écrit",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "hommes"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-347",
+    "titre": "Antichambre du paradis",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "rachetée"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-348",
+    "titre": "Le bègue d'Athènes",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "galets"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-349",
+    "titre": "Pensée brève",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "adage"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "e-350",
+    "titre": "Loin du pays",
+    "type": "mot",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "nation"
+    ],
+    "dejaFausses": []
+  },
+  {
+    "id": "np-001",
+    "type": "nom",
+    "theme": "Capitales européennes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Espagne"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-002",
+    "type": "nom",
+    "theme": "Écrivains français",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Cosette"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-003",
+    "type": "nom",
+    "theme": "Compositeurs",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Salzbourg"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-004",
+    "type": "nom",
+    "theme": "Fleuves de France",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "châteaux"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-005",
+    "type": "nom",
+    "theme": "Peintres",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "nénuphars"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-101",
+    "type": "nom",
+    "theme": "Inventeurs et savants",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "imprimerie"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-102",
+    "type": "nom",
+    "theme": "Mythologie grecque",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Pénélope"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-103",
+    "type": "nom",
+    "theme": "Villes de France",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Alsace"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-201",
+    "type": "nom",
+    "theme": "Philosophes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Éthique"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-202",
+    "type": "nom",
+    "theme": "Peintres de la Renaissance",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Vénus"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-203",
+    "type": "nom",
+    "theme": "Batailles",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Napoléon"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-204",
+    "type": "nom",
+    "theme": "Écrivains russes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Karénine"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-205",
+    "type": "nom",
+    "theme": "Savants de l'Antiquité",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "eurêka"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-206",
+    "type": "nom",
+    "theme": "Compositeurs baroques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Saisons"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-301",
+    "type": "nom",
+    "theme": "Philosophes présocratiques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Éphèse"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-302",
+    "type": "nom",
+    "theme": "Primitifs flamands et maîtres d'Anvers",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Arnolfini"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-303",
+    "type": "nom",
+    "theme": "Impressionnistes méconnus",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "inondation"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-304",
+    "type": "nom",
+    "theme": "Compositeurs romantiques",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Clara"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-305",
+    "type": "nom",
+    "theme": "Compositeurs russes",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Boris"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  },
+  {
+    "id": "np-306",
+    "type": "nom",
+    "theme": "Poètes latins",
+    "precedents": [],
+    "numero": 1,
+    "briques": [
+      "Énéide"
+    ],
+    "completer": false,
+    "dejaFausses": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "e-003": { "reponse": "cortège", "raisonnement": "Convoi a pour synonyme cortège ; je n'ai pas d'autre lien net avec le parapluie, c'est le synonyme le plus proche." },
+  "e-006": { "reponse": "lave", "raisonnement": "Magma devenu lave, dans la suite feu du dormeur (volcan endormi)." },
+  "e-007": { "reponse": "boîte", "raisonnement": "Coffret est une boîte ; manger évoque boire [bwa], début de boîte, qui écarte colis." },
+  "e-008": { "reponse": "sucre", "raisonnement": "Doux pour sucré ; nord évoque sud [syd], dont le son initial est celui de sucre." },
+  "e-009": { "reponse": "plan", "raisonnement": "Séquence de film : le plan est l'unité du cinéma." },
+  "e-403": { "reponse": "charcuterie", "raisonnement": "Saucisson est de la charcuterie, rangée au frigo." },
+  "e-428": { "reponse": "contrôleur", "raisonnement": "Inspecteur du train se dit contrôleur." },
+  "e-430": { "reponse": "sapin", "raisonnement": "Le sapin est un conifère, arbre de Noël au pied duquel sont les cadeaux." },
+  "e-435": { "reponse": "équilibre", "raisonnement": "Stabilité se dit équilibre, ce dont a besoin le cycliste." },
+  "e-437": { "reponse": "piste", "raisonnement": "Trace se dit piste, et l'atterrissage se fait sur la piste ; traînée est écarté." }
+}

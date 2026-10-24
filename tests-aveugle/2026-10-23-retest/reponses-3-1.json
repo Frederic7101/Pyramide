@@ -1,0 +1,12 @@
+{
+  "e-407": { "reponse": "pluie", "raisonnement": "Thème de l'orage après tonnerre et éclair ; « averse » est un synonyme direct de pluie. Écarté : grêle, moins proche d'averse." },
+  "e-412": { "reponse": "centenaire", "raisonnement": "Le titre évoque la tortue (carapace, écailles). « Nombre » ferait penser à « cent », qui donne l'âge de la tortue centenaire. Écartés : chiffre, âge, lenteur." },
+  "e-420": { "reponse": "insectes", "raisonnement": "La grenouille (têtard, mare) mange des moustiques ; la brique est une association vers ses proies. Écartés : mouches, langue." },
+  "e-424": { "reponse": "lit", "raisonnement": "Housse, traversin et pied renvoient tous au lit ; couette et oreiller ont été refusés. Écarté : matelas." },
+  "e-447": { "reponse": "chanson", "raisonnement": "Anniversaire (bougies, gâteau) : la chorale évoque le chant de « Joyeux anniversaire ». Écarté : chant." },
+  "e-515": { "reponse": "charbon", "raisonnement": "Locomotive à vapeur (foyer, pelle) ; houille est un synonyme de charbon. Écarté : vapeur." },
+  "e-527": { "reponse": "emprunté", "raisonnement": "Thème de la timidité ; « embarrassé » est un synonyme et « prêt » serait une incitation vers « emprunt », qui donne « emprunté ». Écartés : gêné (refusé), timide, confus." },
+  "e-528": { "reponse": "magot", "raisonnement": "La cassette d'Harpagon est son magot ; « trésor » en est un synonyme. Écartés : or, argent." },
+  "e-533": { "reponse": "avocat", "raisonnement": "Palais de justice (prévenu, greffier) ; la plaidoirie est faite par l'avocat. Écarté : juge." },
+  "e-535": { "reponse": "engagement", "raisonnement": "Thème du mariage ; promesse et bague renvoient à l'engagement (bague d'engagement), serment et alliance ayant été refusés. « Succès » reste flou : candidats écartés fiançailles, vœu." }
+}

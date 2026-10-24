@@ -1,0 +1,18 @@
+{
+  "e-402": { "reponse": "thé", "raisonnement": "Tisane et Ceylan désignent le thé, en plein dans le thème du « five o'clock » (eau, vapeur, siffler de la bouilloire). Infusion a été refusée ; on reste donc sur thé." },
+  "e-403": { "reponse": "le réfrigérateur", "raisonnement": "Une grande armoire blanche de cuisine qui garde le beurre et les yaourts au frais, c'est le réfrigérateur ; le titre « Pôle Nord » renvoie au froid." },
+  "e-407": { "reponse": "l'orage", "raisonnement": "Tonnerre, éclair et pluie à verse avec un ciel « en colère », c'est un orage." },
+  "e-415": { "reponse": "le brouillard", "raisonnement": "« Purée de pois » est une expression pour un brouillard épais : voile, visibilité nulle, phares allumés." },
+  "e-421": { "reponse": "le réveil", "raisonnement": "Posé sur la table de nuit, il sonne à six heures et on tape dessus pour dormir un peu plus : c'est le réveil (« Debout là-dedans ! »)." },
+  "e-423": { "reponse": "le perroquet", "raisonnement": "Un oiseau coloré en cage qui imite la voix de son maître et répète tout, c'est le perroquet." },
+  "e-434": { "reponse": "électrique", "raisonnement": "Guitare est refusée. Acoustique est le contraire d'électrique, et anguille l'évoque par association (anguille électrique) ; le mot complète le thème guitare. J'ai écarté « sèche », qui ne colle pas à anguille." },
+  "e-435": { "reponse": "chambre", "raisonnement": "Pièce et lit mènent tous deux à chambre, et sur un vélo c'est la chambre à air. Rustine est refusée." },
+  "e-447": { "reponse": "rides", "raisonnement": "Un pli sur le front, c'est une ride ; à chaque anniversaire on prend des rides. Enveloppe est refusée." },
+  "e-520": { "reponse": "le western", "raisonnement": "Diligence, shérif, flèches indiennes, duel et revolver, plus John Ford et le titre « La Chevauchée fantastique » : c'est le western." },
+  "e-521": { "reponse": "obsolète", "raisonnement": "Dépassé, au sens d'une technologie dépassée, donne obsolète, comme le cinéma muet après l'arrivée du parlant. Démodé est déjà refusé." },
+  "e-527": { "reponse": "la timidité", "raisonnement": "Le garçon est réservé, emprunté, il fuit les foules et a le rouge aux joues : c'est la timidité qui le paralyse." },
+  "e-528": { "reponse": "l'avare", "raisonnement": "Harpagon et sa cassette, le magot enterré, la lésine et la rapacité : c'est l'Avare de Molière, donc l'avarice personnifiée." },
+  "e-533": { "reponse": "verdict", "raisonnement": "Une sentence au tribunal, c'est le verdict qui clôt le procès (prévenu, greffier, avocat). J'ai envisagé jugement mais retenu verdict." },
+  "e-549": { "reponse": "l'impôt", "raisonnement": "Contribuable, percepteur, paiement selon les revenus après déclaration annuelle : c'est l'impôt, l'héritier moderne de la dîme et de la gabelle." },
+  "e-550": { "reponse": "la longue-vue", "raisonnement": "Des lentilles qui rapprochent le lointain, un instrument qu'on déploie avant de le porter à l'œil sur un navire : c'est la longue-vue (féminin, « la »)." }
+}

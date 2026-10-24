@@ -1,0 +1,245 @@
+{
+  "niveau": "@tests-aveugle/echantillon-5-par-niveau.json",
+  "vague": 11,
+  "reponses": {
+    "e-003": [
+      "ciel",
+      "parapluie",
+      "imperméable",
+      "caban",
+      "baleines",
+      "vent",
+      "cortège",
+      "train",
+      "parapluie"
+    ],
+    "e-007": [
+      "tournée",
+      "sacoche",
+      "lettres",
+      "colis",
+      "boîte",
+      "vélo",
+      "le facteur"
+    ],
+    "e-204": [
+      "parchemin",
+      "moine",
+      "texte",
+      "rayons",
+      "écritures",
+      "palimpseste"
+    ],
+    "e-304": [
+      "masque",
+      "hypocrisie",
+      "duplicité",
+      "archétype",
+      "parangon",
+      "simagrées",
+      "crocodile",
+      "hypocrite",
+      "Tartuffe",
+      "cagot"
+    ],
+    "e-308": [
+      "rigoureux",
+      "faille",
+      "prémisses",
+      "syllogisme",
+      "conclusion",
+      "piège",
+      "sophisme"
+    ],
+    "e-325": [
+      "solitaire",
+      "retraite",
+      "anachorète",
+      "jeûne",
+      "abstinence",
+      "austérité",
+      "mortification",
+      "purification",
+      "ascèse"
+    ],
+    "e-335": [
+      "empereur",
+      "icônes",
+      "iconoclaste",
+      "frondeur",
+      "ébranler",
+      "bousculer",
+      "dogmes",
+      "iconoclasme"
+    ],
+    "e-339": [
+      "monstre",
+      "têtes",
+      "multiples",
+      "décapitation",
+      "cautériser",
+      "moignon",
+      "bout",
+      "l'hydre de Lerne",
+      "hydre"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "le Père Noël"
+    ],
+    "e-435": [
+      "pédale",
+      "selle",
+      "guidon",
+      "dérailleur",
+      "pédale",
+      "équilibre",
+      "roue",
+      "chambre",
+      "vélo"
+    ],
+    "e-437": [
+      "aéroport",
+      "valises",
+      "pilote",
+      "traînée",
+      "sillage",
+      "piste",
+      "hôtesse",
+      "l'avion"
+    ],
+    "e-515": [
+      "foyer",
+      "pelle",
+      "charbon",
+      "wagons",
+      "rails",
+      "la locomotive"
+    ],
+    "e-530": [
+      "offense",
+      "affront",
+      "rancune",
+      "ressentiment",
+      "représailles",
+      "implacable",
+      "châtiment",
+      "la vengeance"
+    ],
+    "e-536": [
+      "bottes",
+      "ogre",
+      "colosse",
+      "dévorer",
+      "couronnes",
+      "gemmes",
+      "cailloux",
+      "l'ogre"
+    ],
+    "e-541": [
+      "crocs",
+      "cercueil",
+      "ail",
+      "aube",
+      "pieu",
+      "Dracula",
+      "vampire"
+    ],
+    "np-204": [
+      "Léon Tolstoï",
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Alexandre Pouchkine"
+    ],
+    "np-205": [
+      "Archimède",
+      "Euclide",
+      "Pythagore",
+      "Hippocrate"
+    ],
+    "np-316": [
+      "Hadrien",
+      "Caligula",
+      "Néron",
+      "Marc Aurèle"
+    ],
+    "np-322": [
+      "Hamlet",
+      "Othello",
+      "Falstaff",
+      "Prospero"
+    ],
+    "np-327": [
+      "Georges Brassens",
+      "Jacques Brel",
+      "Léo Ferré",
+      "Barbara"
+    ],
+    "np-328": [
+      "Francisco de Goya",
+      "Diego Vélasquez",
+      "Francisco de Zurbarán",
+      "El Greco"
+    ],
+    "np-403": [
+      "New York",
+      "Londres",
+      "Rio de Janeiro",
+      "Venise"
+    ],
+    "np-432": [
+      "Orangina",
+      "Coca-Cola",
+      "Nutella",
+      "Haribo",
+      "Danone"
+    ],
+    "np-434": [
+      "Martinique",
+      "La Réunion",
+      "Polynésie française",
+      "Tahiti",
+      "Guyane"
+    ],
+    "np-437": [
+      "Méditerranée",
+      "Pacifique",
+      "Manche",
+      "mer Morte"
+    ],
+    "np-441": [
+      "Dark Vador",
+      "Yoda",
+      "Chewbacca",
+      "Luke Skywalker"
+    ],
+    "np-501": [
+      "Aïda",
+      "Rigoletto",
+      "Nabucco",
+      "Il trovatore"
+    ],
+    "np-505": [
+      "Henri Matisse",
+      "Georges Braque",
+      "André Derain",
+      "Fernand Léger"
+    ],
+    "np-524": [
+      "Pénélope",
+      "Eurydice",
+      "Pandore",
+      "Hélène"
+    ],
+    "np-534": [
+      "Louis Blériot",
+      "Antoine de Saint-Exupéry",
+      "Jean Mermoz",
+      "Roland Garros"
+    ]
+  }
+}
