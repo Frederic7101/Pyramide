@@ -12,7 +12,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         1,
         null,
         null,
-        2,
+        1,
         null
       ],
       "reponses": [
@@ -20,28 +20,27 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "ciel"
         ],
         [
-          "azur",
-          "voûte",
-          "éther"
+          "nuage",
+          "armure",
+          "vin"
         ],
         [
-          "empyrée",
-          "zénith"
+          "mer",
+          "dauphin"
         ],
         [
-          "air",
           "vent"
         ],
         [
-          "nuage",
-          "bruine",
-          "tempête"
+          "nuée",
+          "brume",
+          "moteur"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le parapluie"
+        "Un parapluie"
       ]
     },
     "e-006": {
@@ -52,69 +51,73 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         null,
+        2,
         null,
-        1,
-        null
+        1
       ],
       "reponses": [
         [
-          "siècle"
+          "siècles"
         ],
         [
-          "âge",
-          "temps"
+          "braise",
+          "cendre"
         ],
         [
-          "ère",
-          "présent"
+          "volcan",
+          "lave"
         ],
         [
-          "ville"
+          "ruine",
+          "nécropole"
         ],
         [
-          "époque",
-          "heure",
-          "étang"
+          "cratère"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "Le volcan"
+        "Le Vésuve",
+        "Un volcan endormi",
+        "Une montagne de feu"
       ]
     },
     "e-007": {
       "type": "enigme",
       "empreinte": "cwzqza",
       "date": "2026-10-25",
-      "score": 7,
+      "score": 2,
       "trouveA": [
         1,
-        2,
-        2,
-        1,
-        1
+        null,
+        null,
+        null,
+        null
       ],
       "reponses": [
         [
           "tournée"
         ],
         [
-          "sac",
-          "sacoche"
+          "facteur",
+          "écolier",
+          "balayeur"
         ],
         [
-          "courrier",
-          "lettre"
+          "postier",
+          "soleil"
         ],
         [
-          "boîte"
+          "laitier",
+          "boulanger"
         ],
         [
-          "vélo"
+          "livreur",
+          "cycliste"
         ]
       ],
-      "bonus": 1,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le facteur"
@@ -124,51 +127,52 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "7xz358",
       "date": "2026-10-25",
-      "score": 2,
+      "score": 1,
       "trouveA": [
-        1,
         null,
         null,
-        1,
+        null,
+        null,
         null
       ],
       "reponses": [
         [
-          "ruche"
+          "miel",
+          "nectar",
+          "sirop"
         ],
         [
-          "miel",
-          "nectar"
+          "gelée",
+          "huile"
         ],
         [
           "hydromel",
-          "miellée"
+          "ambre"
         ],
         [
-          "sucré"
+          "caramel",
+          "lait"
         ],
         [
-          "sirop",
-          "sucrerie"
+          "bière",
+          "mercure"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": false,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "La confiture",
-        "La marmelade",
-        "La gelée"
+        "Le miel"
       ]
     },
     "e-009": {
       "type": "enigme",
       "empreinte": "189ro1f",
       "date": "2026-10-25",
-      "score": 5,
+      "score": 4,
       "trouveA": [
         null,
         1,
-        2,
+        1,
         2,
         1
       ],
@@ -181,7 +185,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écran"
         ],
         [
-          "cinéaste",
           "réalisateur"
         ],
         [
@@ -193,21 +196,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "Le cinéma"
+        "Une projection",
+        "Un long-métrage",
+        "Un film"
       ]
     },
     "e-204": {
       "type": "enigme",
       "empreinte": "ewp4m4",
       "date": "2026-10-25",
-      "score": 4,
+      "score": 5,
       "trouveA": [
         1,
+        1,
+        1,
         null,
-        1,
-        1,
         1
       ],
       "reponses": [
@@ -215,26 +220,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "parchemin"
         ],
         [
-          "palimpseste",
-          "manuscrit",
-          "copiste"
+          "moine"
         ],
         [
           "texte"
         ],
         [
-          "rayons"
+          "lumière",
+          "radiographie"
         ],
         [
           "écritures"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": false,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "Un scribe",
-        "Un moine",
-        "Un moine copiste"
+        "Un palimpseste"
       ]
     },
     "e-304": {
@@ -243,24 +245,24 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "date": "2026-10-25",
       "score": 5,
       "trouveA": [
-        1,
         2,
+        1,
         null,
         1,
         1
       ],
       "reponses": [
         [
+          "hypocrite",
           "masque"
         ],
         [
-          "hypocrisie",
           "duplicité"
         ],
         [
-          "type",
-          "piété",
-          "bigot"
+          "tartuffe",
+          "bigot",
+          "saint"
         ],
         [
           "simagrées"
@@ -272,66 +274,66 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Un faux dévot",
-        "Un hypocrite"
+        "L'hypocrisie"
       ]
     },
     "e-305": {
       "type": "enigme",
       "empreinte": "q2n6h6",
       "date": "2026-10-25",
-      "score": 4,
+      "score": 2,
       "trouveA": [
         1,
-        2,
+        null,
         1,
         null,
-        2
+        null
       ],
       "reponses": [
         [
           "clémence"
         ],
         [
-          "amnistie",
-          "félon"
+          "grâce",
+          "absolution",
+          "amnistie"
         ],
         [
           "magnanimité"
         ],
         [
           "rancune",
-          "amertume",
-          "queue"
+          "vindicte",
+          "pitié"
         ],
         [
-          "peine",
-          "sanction"
+          "châtiment",
+          "sévérité"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "L'indignation",
-        "La colère",
-        "La réprobation"
+        "La miséricorde",
+        "L'indulgence"
       ]
     },
     "e-308": {
       "type": "enigme",
       "empreinte": "pvssuu",
       "date": "2026-10-25",
-      "score": 8,
+      "score": 4,
       "trouveA": [
+        null,
         1,
         1,
-        1,
-        1,
+        null,
         1
       ],
       "reponses": [
         [
-          "rigoureux"
+          "sophisme",
+          "paralogisme"
         ],
         [
           "faille"
@@ -340,42 +342,42 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "prémisse"
         ],
         [
-          "conclusion"
+          "syllogisme",
+          "erreur"
         ],
         [
           "piège"
         ]
       ],
-      "bonus": 2,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "sophisme"
+        "Un sophisme"
       ]
     },
     "e-325": {
       "type": "enigme",
       "empreinte": "137sywx",
       "date": "2026-10-25",
-      "score": 7,
+      "score": 5,
       "trouveA": [
-        3,
         2,
         1,
+        null,
         2,
         1
       ],
       "reponses": [
         [
           "solitaire",
-          "solitude",
           "anachorète"
         ],
         [
-          "banquet",
           "jeûne"
         ],
         [
-          "abstinence"
+          "ascèse",
+          "privation"
         ],
         [
           "austérité",
@@ -385,22 +387,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "purification"
         ]
       ],
-      "bonus": 1,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "L'ascèse"
+        "La mortification",
+        "L'ascétisme"
       ]
     },
     "e-326": {
       "type": "enigme",
       "empreinte": "1k2kv47",
       "date": "2026-10-25",
-      "score": 7,
+      "score": 5,
       "trouveA": [
         1,
-        2,
+        null,
         1,
-        2,
+        1,
         1
       ],
       "reponses": [
@@ -408,26 +411,24 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "tonneau"
         ],
         [
-          "coutume",
-          "convention"
+          "homme",
+          "cynique",
+          "hôte"
         ],
         [
           "argent"
         ],
         [
-          "cynisme",
           "impudence"
         ],
         [
           "notables"
         ]
       ],
-      "bonus": 2,
-      "solutionTrouvee": false,
+      "bonus": 0,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "La philosophie cynique",
-        "Le cynique",
-        "Le stoïcisme"
+        "Le cynisme"
       ]
     },
     "e-329": {
@@ -436,29 +437,29 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "date": "2026-10-25",
       "score": 4,
       "trouveA": [
+        null,
         1,
         1,
         null,
-        1,
-        null
+        1
       ],
       "reponses": [
         [
-          "profusion"
+          "baroque",
+          "rococo"
         ],
         [
           "volute"
         ],
         [
-          "torsade",
-          "sinueuses"
+          "torse"
         ],
         [
-          "trompe-l'œil"
+          "quadrature",
+          "plafond"
         ],
         [
-          "exposition",
-          "charpente"
+          "ostentation"
         ]
       ],
       "bonus": 0,
@@ -471,33 +472,34 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1selydj",
       "date": "2026-10-25",
-      "score": 7,
+      "score": 5,
       "trouveA": [
-        1,
-        1,
+        null,
         1,
         2,
+        1,
         1
       ],
       "reponses": [
         [
-          "dogme"
+          "hérésie",
+          "schisme"
         ],
         [
           "excommunication"
         ],
         [
-          "inquisition"
+          "inquisiteur",
+          "Inquisition"
         ],
         [
-          "hérétiques",
-          "dissidents"
+          "dissident"
         ],
         [
           "bûcher"
         ]
       ],
-      "bonus": 1,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "L'hérésie"
@@ -512,8 +514,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         1,
         1,
         2,
-        2,
-        null
+        null,
+        1
       ],
       "reponses": [
         [
@@ -527,12 +529,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "frondeur"
         ],
         [
-          "briser",
-          "bousculer"
+          "dispute",
+          "rébellion"
         ],
         [
-          "règles",
-          "doctrine"
+          "dogme"
         ]
       ],
       "bonus": 0,
@@ -545,39 +546,41 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1r5kxa7",
       "date": "2026-10-25",
-      "score": 4,
+      "score": 1,
       "trouveA": [
-        1,
+        2,
         null,
         null,
-        1,
-        1
+        null,
+        null
       ],
       "reponses": [
         [
+          "hydre",
           "monstre"
         ],
         [
-          "hydre",
-          "légion"
+          "serpent",
+          "polycéphale"
         ],
         [
           "tête",
-          "couperet",
+          "supplice",
           "neuf"
         ],
         [
-          "cautériser"
+          "torche",
+          "cautère",
+          "Vulcain"
         ],
         [
-          "bout"
+          "bouclier",
+          "cou"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "L'Hydre de Lerne"
-      ]
+      "solutionTrouvee": false,
+      "essaisSolution": []
     },
     "e-341": {
       "type": "enigme",
@@ -589,7 +592,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         1,
         1,
         1,
-        1
+        2
       ],
       "reponses": [
         [
@@ -606,27 +609,28 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "étoile"
         ],
         [
+          "malheur",
           "poisse"
         ]
       ],
       "bonus": 3,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "La fatalité",
-        "La loterie",
-        "Le sort"
+        "Le joueur",
+        "Le pari",
+        "La providence"
       ]
     },
     "e-403": {
       "type": "enigme",
       "empreinte": "i9kfi2",
       "date": "2026-10-25",
-      "score": 2,
+      "score": 3,
       "trouveA": [
         null,
         null,
         1,
-        null,
+        1,
         null
       ],
       "reponses": [
@@ -636,26 +640,24 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "glacière"
         ],
         [
-          "froid",
-          "glacial"
+          "glaçon",
+          "réfrigérateur"
         ],
         [
           "beurre"
         ],
         [
-          "réfrigérateur",
-          "lait"
+          "yaourt"
         ],
         [
           "charcuterie",
-          "La boucherie"
+          "conservateur"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "L'armoire frigorifique",
-        "Le Frigidaire"
+        "Le réfrigérateur"
       ]
     },
     "e-428": {
@@ -665,7 +667,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "score": 6,
       "trouveA": [
         1,
-        1,
+        2,
         1,
         1,
         1
@@ -675,6 +677,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "quai"
         ],
         [
+          "rail",
           "voie"
         ],
         [
@@ -690,7 +693,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Un voyage en train",
         "Le train"
       ]
     },
@@ -698,12 +700,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1hzo6lc",
       "date": "2026-10-25",
-      "score": 6,
+      "score": 5,
       "trouveA": [
         1,
         1,
         1,
-        1,
+        null,
         1
       ],
       "reponses": [
@@ -711,13 +713,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "traîneau"
         ],
         [
-          "rennes"
+          "renne"
         ],
         [
           "cheminée"
         ],
         [
-          "cadeaux"
+          "jouets",
+          "étrennes"
         ],
         [
           "sapin"
@@ -733,10 +736,10 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "17alons",
       "date": "2026-10-25",
-      "score": 3,
+      "score": 1,
       "trouveA": [
         null,
-        1,
+        null,
         null,
         1,
         null
@@ -744,56 +747,59 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "reponses": [
         [
           "pédale",
-          "frein"
-        ],
-        [
           "guidon"
         ],
         [
+          "roue",
+          "frein"
+        ],
+        [
           "vitesse",
-          "bicyclette"
+          "mobylette"
         ],
         [
           "équilibre"
         ],
         [
           "chaîne",
-          "chambre à air",
-          "roue"
+          "rayon",
+          "tour"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "Le vélo"
+        "Un engin à deux roues",
+        "Un moyen de locomotion"
       ]
     },
     "e-437": {
       "type": "enigme",
       "empreinte": "5stn35",
       "date": "2026-10-25",
-      "score": 4,
+      "score": 2,
       "trouveA": [
         null,
         null,
-        1,
+        null,
         2,
         1
       ],
       "reponses": [
         [
           "avion",
-          "vol"
+          "ballon"
         ],
         [
           "soute",
-          "aéroport"
-        ],
-        [
           "pilote"
         ],
         [
-          "traînée",
+          "capitaine",
+          "hublot"
+        ],
+        [
+          "sillage",
           "piste"
         ],
         [
@@ -801,10 +807,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "L'aérogare",
-        "L'avion"
+        "Un vol",
+        "Un voyage aérien",
+        "Un aéronef"
       ]
     },
     "e-503": {
@@ -813,29 +820,30 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "date": "2026-10-25",
       "score": 4,
       "trouveA": [
+        1,
         2,
         null,
-        1,
         null,
-        1
+        2
       ],
       "reponses": [
         [
-          "cime",
           "faîte"
         ],
         [
-          "barre",
-          "fleuron"
+          "foudre",
+          "tige"
         ],
         [
-          "foudre"
+          "tonnerre",
+          "orage"
         ],
         [
-          "corde",
+          "ficelle",
           "antenne"
         ],
         [
+          "flamme",
           "incendie"
         ]
       ],
@@ -849,53 +857,58 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1aywnc3",
       "date": "2026-10-25",
-      "score": 7,
+      "score": 3,
       "trouveA": [
+        null,
+        null,
         1,
-        1,
-        1,
-        1,
-        2
+        2,
+        1
       ],
       "reponses": [
         [
-          "pigments"
+          "fresque",
+          "enduit"
         ],
         [
-          "enduit"
+          "mortier",
+          "stuc"
         ],
         [
           "humide"
         ],
         [
+          "chaux",
           "échafaudage"
         ],
         [
-          "sol",
           "plafond"
         ]
       ],
-      "bonus": 1,
-      "solutionTrouvee": true,
+      "bonus": 0,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "La fresque"
+        "La chapelle Sixtine",
+        "Une voûte peinte",
+        "Michel-Ange Buonarroti"
       ]
     },
     "e-509": {
       "type": "enigme",
       "empreinte": "c25lnc",
       "date": "2026-10-25",
-      "score": 8,
+      "score": 4,
       "trouveA": [
+        null,
         1,
         1,
         1,
-        1,
-        2
+        1
       ],
       "reponses": [
         [
-          "fleuve"
+          "delta",
+          "estuaire"
         ],
         [
           "bras"
@@ -907,29 +920,28 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "alluvions"
         ],
         [
-          "delta",
           "triangle"
         ]
       ],
-      "bonus": 3,
+      "bonus": 0,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "Un estuaire",
-        "Le triangle",
-        "L'embouchure"
+        "Un fleuve",
+        "Un bassin fluvial",
+        "Le Nil"
       ]
     },
     "e-515": {
       "type": "enigme",
       "empreinte": "1rq2xzm",
       "date": "2026-10-25",
-      "score": 5,
+      "score": 4,
       "trouveA": [
         1,
         1,
         1,
         null,
-        1
+        2
       ],
       "reponses": [
         [
@@ -942,17 +954,20 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "charbon"
         ],
         [
-          "train",
-          "bétail"
+          "rames",
+          "convoi"
         ],
         [
+          "ballast",
           "rails"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "La locomotive"
+        "Le train",
+        "Une machine à vapeur",
+        "Une machine"
       ]
     },
     "e-520": {
@@ -962,43 +977,42 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "score": 5,
       "trouveA": [
         null,
+        1,
         2,
-        2,
-        2,
-        1
+        1,
+        2
       ],
       "reponses": [
         [
           "ardeur",
-          "entrain"
+          "élan"
         ],
         [
-          "cavalier",
           "shérif"
         ],
         [
-          "archer",
+          "Apache",
           "flèche"
         ],
         [
-          "bataille",
           "duel"
         ],
         [
+          "colt",
           "revolver"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le western"
+        "Un western"
       ]
     },
     "e-530": {
       "type": "enigme",
       "empreinte": "1uqrn92",
       "date": "2026-10-25",
-      "score": 4,
+      "score": 5,
       "trouveA": [
         null,
         1,
@@ -1025,11 +1039,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": false,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "La rancune",
-        "La vendetta",
-        "Le châtiment"
+        "La vengeance"
       ]
     },
     "e-533": {
@@ -1038,35 +1050,38 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "date": "2026-10-25",
       "score": 4,
       "trouveA": [
+        2,
         1,
-        1,
+        2,
         null,
-        null,
-        1
+        null
       ],
       "reponses": [
         [
+          "avocat",
           "prévenu"
         ],
         [
           "greffier"
         ],
         [
-          "plaidoyer",
-          "avocat"
+          "procès",
+          "réquisitoire"
         ],
         [
           "juges",
-          "jury",
-          "Magistrat"
+          "verdict",
+          "robe"
         ],
         [
-          "verdict"
+          "condamnation",
+          "arrêt"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
+        "Le délibéré",
         "Le procès"
       ]
     },
@@ -1074,48 +1089,49 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "akqnic",
       "date": "2026-10-25",
-      "score": 8,
+      "score": 3,
       "trouveA": [
-        1,
+        null,
         2,
-        1,
-        1,
+        null,
+        null,
         2
       ],
       "reponses": [
         [
-          "bottes"
+          "ogre",
+          "cavalier"
         ],
         [
-          "ogre",
+          "cannibale",
           "colosse"
         ],
         [
-          "dévorer"
+          "Gargantua",
+          "bibliophage"
         ],
         [
-          "couronnes"
+          "tyran",
+          "monarque"
         ],
         [
-          "rochers",
+          "pétrifié",
           "cailloux"
         ]
       ],
-      "bonus": 3,
-      "solutionTrouvee": false,
+      "bonus": 0,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "Un géant",
-        "Un cannibale",
-        "Un monstre anthropophage"
+        "L'ogre"
       ]
     },
     "e-541": {
       "type": "enigme",
       "empreinte": "4pduh5",
       "date": "2026-10-25",
-      "score": 5,
+      "score": 3,
       "trouveA": [
-        2,
+        null,
         1,
         1,
         null,
@@ -1123,8 +1139,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "dents",
-          "crocs"
+          "vampire",
+          "loup-garou"
         ],
         [
           "cercueil"
@@ -1133,17 +1149,19 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "ail"
         ],
         [
-          "crépuscule",
-          "hostie"
+          "soleil",
+          "crucifix"
         ],
         [
           "pieu"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "Un vampire"
+        "Un mort-vivant",
+        "Un suceur de sang",
+        "Un prédateur nocturne"
       ]
     },
     "np-002": {
@@ -1273,7 +1291,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Marivaux"
         ],
         [
-          "Beaumarchais"
+          "Pierre-Augustin Caron de Beaumarchais"
         ]
       ]
     },
@@ -1333,12 +1351,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "noms",
       "empreinte": "b9qjp9",
       "date": "2026-10-25",
-      "score": 3,
+      "score": 4,
       "trouveA": [
         1,
         1,
         2,
-        null
+        2
       ],
       "reponses": [
         [
@@ -1348,13 +1366,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Jacques Brel"
         ],
         [
-          "Charles Trenet",
+          "Gilbert Bécaud",
           "Léo Ferré"
         ],
         [
-          "Michel Sardou",
-          "Renaud",
-          "Pierre Perret"
+          "Jean Ferrat",
+          "Barbara"
         ]
       ]
     },
@@ -1380,1914 +1397,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Francisco de Zurbarán"
         ],
         [
-          "Le Greco"
-        ]
-      ]
-    },
-    "np-331": {
-      "type": "noms",
-      "empreinte": "a5x8mf",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Hegel"
-        ],
-        [
-          "Friedrich Nietzsche"
-        ],
-        [
-          "Arthur Schopenhauer"
-        ],
-        [
-          "Martin Heidegger"
-        ]
-      ]
-    },
-    "np-338": {
-      "type": "noms",
-      "empreinte": "1ljnc4p",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Michel Ney"
-        ],
-        [
-          "Joachim Murat"
-        ],
-        [
-          "Davout"
-        ],
-        [
-          "Jean Lannes"
-        ]
-      ]
-    },
-    "np-345": {
-      "type": "noms",
-      "empreinte": "1eth0at",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Odin"
-        ],
-        [
-          "Thor"
-        ],
-        [
-          "Loki"
-        ],
-        [
-          "Freyja"
-        ]
-      ]
-    },
-    "np-349": {
-      "type": "noms",
-      "empreinte": "19nj1x0",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        2,
-        1,
-        2
-      ],
-      "reponses": [
-        [
-          "Francis Blake"
-        ],
-        [
-          "Hugo Pratt",
-          "Corto Maltese"
-        ],
-        [
-          "Valérian"
-        ],
-        [
-          "Moebius",
-          "Blueberry"
-        ]
-      ]
-    },
-    "np-403": {
-      "type": "noms",
-      "empreinte": "1b2gih8",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "New York"
-        ],
-        [
-          "Londres"
-        ],
-        [
-          "Rio de Janeiro"
-        ],
-        [
-          "Venise"
-        ]
-      ]
-    },
-    "np-420": {
-      "type": "noms",
-      "empreinte": "11zvt03",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        2
-      ],
-      "reponses": [
-        [
-          "Roger Federer"
-        ],
-        [
-          "Rafael Nadal"
-        ],
-        [
-          "Yannick Noah"
-        ],
-        [
-          "Venus Williams",
-          "Serena Williams",
-          "Venus Ebony Starr Williams"
-        ]
-      ]
-    },
-    "np-424": {
-      "type": "noms",
-      "empreinte": "j04af3",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Brigitte Bardot"
-        ],
-        [
-          "Catherine Deneuve"
-        ],
-        [
-          "Audrey Tautou"
-        ],
-        [
-          "Marion Cotillard"
-        ]
-      ]
-    },
-    "np-432": {
-      "type": "noms",
-      "empreinte": "exjbte",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Coca-Cola"
-        ],
-        [
-          "Nutella"
-        ],
-        [
-          "Haribo"
-        ],
-        [
-          "Danone"
-        ]
-      ]
-    },
-    "np-434": {
-      "type": "noms",
-      "empreinte": "p1j89z",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        2,
-        1
-      ],
-      "reponses": [
-        [
-          "Martinique"
-        ],
-        [
-          "La Réunion"
-        ],
-        [
-          "Polynésie française",
-          "Tahiti"
-        ],
-        [
-          "Guyane française"
-        ]
-      ]
-    },
-    "np-437": {
-      "type": "noms",
-      "empreinte": "1nei4sr",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Méditerranée"
-        ],
-        [
-          "Pacifique"
-        ],
-        [
-          "La Manche"
-        ],
-        [
-          "Mer Morte"
-        ]
-      ]
-    },
-    "np-441": {
-      "type": "noms",
-      "empreinte": "1ntuloz",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Dark Vador"
-        ],
-        [
-          "Yoda"
-        ],
-        [
-          "Chewbacca"
-        ],
-        [
-          "Luke Skywalker"
-        ]
-      ]
-    },
-    "np-448": {
-      "type": "noms",
-      "empreinte": "s7mmuu",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Charles de Gaulle"
-        ],
-        [
-          "Jacques Chirac"
-        ],
-        [
-          "François Mitterrand"
-        ],
-        [
-          "Emmanuel Macron"
-        ]
-      ]
-    },
-    "np-449": {
-      "type": "noms",
-      "empreinte": "1igycor",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        3,
-        1
-      ],
-      "reponses": [
-        [
-          "Abraham Lincoln"
-        ],
-        [
-          "John Fitzgerald Kennedy"
-        ],
-        [
-          "Lyndon Baines Johnson",
-          "John F. Kennedy",
-          "George Washington"
-        ],
-        [
-          "Barack Obama"
-        ]
-      ]
-    },
-    "np-501": {
-      "type": "noms",
-      "empreinte": "1yfqoe",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Aïda"
-        ],
-        [
-          "Rigoletto"
-        ],
-        [
-          "Nabucco"
-        ],
-        [
-          "Il Trovatore"
-        ]
-      ]
-    },
-    "np-505": {
-      "type": "noms",
-      "empreinte": "1345s5o",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        3
-      ],
-      "reponses": [
-        [
-          "Henri Matisse"
-        ],
-        [
-          "Georges Braque"
-        ],
-        [
-          "André Derain"
-        ],
-        [
-          "Vlaminck",
-          "Raoul Dufy",
-          "Fernand Léger"
-        ]
-      ]
-    },
-    "np-511": {
-      "type": "noms",
-      "empreinte": "giyjt8",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        2,
-        1
-      ],
-      "reponses": [
-        [
-          "Jean de La Fontaine"
-        ],
-        [
-          "Jean de La Bruyère"
-        ],
-        [
-          "Cardinal de Retz",
-          "François de La Rochefoucauld"
-        ],
-        [
-          "Nicolas Boileau"
-        ]
-      ]
-    },
-    "np-524": {
-      "type": "noms",
-      "empreinte": "7crqaz",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        2,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Pénélope"
-        ],
-        [
-          "Méduse",
-          "Eurydice"
-        ],
-        [
-          "Pandore"
-        ],
-        [
-          "Hélène"
-        ]
-      ]
-    },
-    "np-528": {
-      "type": "noms",
-      "empreinte": "ococsu",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        2,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Richelieu",
-          "Jules Mazarin"
-        ],
-        [
-          "Jean-Baptiste Colbert"
-        ],
-        [
-          "Sully"
-        ],
-        [
-          "Jacques Necker"
-        ]
-      ]
-    },
-    "np-534": {
-      "type": "noms",
-      "empreinte": "14pa04l",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Louis Blériot"
-        ],
-        [
-          "Antoine de Saint-Exupéry"
-        ],
-        [
-          "Jean Mermoz"
-        ],
-        [
-          "Roland Garros"
-        ]
-      ]
-    },
-    "np-542": {
-      "type": "noms",
-      "empreinte": "gsc0y6",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Led Zeppelin"
-        ],
-        [
-          "The Who"
-        ],
-        [
-          "Pink Floyd"
-        ],
-        [
-          "Oasis"
-        ]
-      ]
-    },
-    "np-549": {
-      "type": "noms",
-      "empreinte": "1skpga9",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Séville"
-        ],
-        [
-          "Grenade"
-        ],
-        [
-          "Barcelone"
-        ],
-        [
-          "Porto"
-        ]
-      ]
-    }
-  },
-  "Sonnet": {
-    "e-003": {
-      "type": "enigme",
-      "empreinte": "cozwyu",
-      "date": "2026-10-25",
-      "score": 7,
-      "trouveA": [
-        1,
-        2,
-        1,
-        1,
-        2
-      ],
-      "reponses": [
-        [
-          "ciel"
-        ],
-        [
-          "parapluie",
-          "bouclier"
-        ],
-        [
-          "baleines"
-        ],
-        [
-          "vent"
-        ],
-        [
-          "nuages",
-          "train"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "un parapluie"
-      ]
-    },
-    "e-006": {
-      "type": "enigme",
-      "empreinte": "sabyo9",
-      "date": "2026-10-25",
-      "score": 5,
-      "trouveA": [
-        1,
-        2,
-        1,
-        null,
-        1
-      ],
-      "reponses": [
-        [
-          "siècles"
-        ],
-        [
-          "volcan",
-          "feu"
-        ],
-        [
-          "lave"
-        ],
-        [
-          "Pompéi",
-          "Herculanum"
-        ],
-        [
-          "cratère"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "un volcan"
-      ]
-    },
-    "e-007": {
-      "type": "enigme",
-      "empreinte": "cwzqza",
-      "date": "2026-10-25",
-      "score": 7,
-      "trouveA": [
-        1,
-        3,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "tournée"
-        ],
-        [
-          "sac",
-          "bandoulière",
-          "sacoche"
-        ],
-        [
-          "lettres"
-        ],
-        [
-          "boîte"
-        ],
-        [
-          "vélo"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le facteur"
-      ]
-    },
-    "e-008": {
-      "type": "enigme",
-      "empreinte": "7xz358",
-      "date": "2026-10-25",
-      "score": 8,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "ruche"
-        ],
-        [
-          "abeilles"
-        ],
-        [
-          "nectar"
-        ],
-        [
-          "sucré"
-        ],
-        [
-          "tranche"
-        ]
-      ],
-      "bonus": 2,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "miel"
-      ]
-    },
-    "e-009": {
-      "type": "enigme",
-      "empreinte": "189ro1f",
-      "date": "2026-10-25",
-      "score": 7,
-      "trouveA": [
-        2,
-        1,
-        2,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "scène",
-          "salle"
-        ],
-        [
-          "écran"
-        ],
-        [
-          "cinéaste",
-          "réalisateur"
-        ],
-        [
-          "scène"
-        ],
-        [
-          "actrice"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le cinéma"
-      ]
-    },
-    "e-204": {
-      "type": "enigme",
-      "empreinte": "ewp4m4",
-      "date": "2026-10-25",
-      "score": 7,
-      "trouveA": [
-        2,
-        2,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "palimpseste",
-          "parchemin"
-        ],
-        [
-          "manuscrit",
-          "moines"
-        ],
-        [
-          "texte"
-        ],
-        [
-          "rayons"
-        ],
-        [
-          "écritures"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "un palimpseste"
-      ]
-    },
-    "e-304": {
-      "type": "enigme",
-      "empreinte": "6uh4k1",
-      "date": "2026-10-25",
-      "score": 6,
-      "trouveA": [
-        1,
-        2,
-        2,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "masque"
-        ],
-        [
-          "hypocrisie",
-          "duplicité"
-        ],
-        [
-          "archétype",
-          "parangon"
-        ],
-        [
-          "simagrées"
-        ],
-        [
-          "crocodile"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "un hypocrite"
-      ]
-    },
-    "e-305": {
-      "type": "enigme",
-      "empreinte": "q2n6h6",
-      "date": "2026-10-25",
-      "score": 3,
-      "trouveA": [
-        2,
-        null,
-        null,
-        3,
-        2
-      ],
-      "reponses": [
-        [
-          "grâce",
-          "clémence"
-        ],
-        [
-          "trahison",
-          "félonie",
-          "magnanimité"
-        ],
-        [
-          "largesse",
-          "oubli",
-          "munificence"
-        ],
-        [
-          "rancune",
-          "amertume",
-          "rancœur"
-        ],
-        [
-          "châtiment",
-          "sanction"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": false,
-      "essaisSolution": [
-        "la grâce royale",
-        "la magnanimité"
-      ]
-    },
-    "e-308": {
-      "type": "enigme",
-      "empreinte": "pvssuu",
-      "date": "2026-10-25",
-      "score": 5,
-      "trouveA": [
-        1,
-        1,
-        1,
-        null,
-        1
-      ],
-      "reponses": [
-        [
-          "rigoureux"
-        ],
-        [
-          "faille"
-        ],
-        [
-          "prémisses"
-        ],
-        [
-          "syllogisme",
-          "sophisme"
-        ],
-        [
-          "piège"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "sophisme"
-      ]
-    },
-    "e-325": {
-      "type": "enigme",
-      "empreinte": "137sywx",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        null,
-        1,
-        1,
-        null,
-        1
-      ],
-      "reponses": [
-        [
-          "solitude",
-          "retraite",
-          "isolement"
-        ],
-        [
-          "jeûne"
-        ],
-        [
-          "abstinence"
-        ],
-        [
-          "austérité",
-          "mortification"
-        ],
-        [
-          "purification"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "l'ascétisme"
-      ]
-    },
-    "e-326": {
-      "type": "enigme",
-      "empreinte": "1k2kv47",
-      "date": "2026-10-25",
-      "score": 8,
-      "trouveA": [
-        1,
-        2,
-        1,
-        1,
-        2
-      ],
-      "reponses": [
-        [
-          "tonneau"
-        ],
-        [
-          "mœurs",
-          "conventions"
-        ],
-        [
-          "argent"
-        ],
-        [
-          "impudence"
-        ],
-        [
-          "puissants",
-          "notables"
-        ]
-      ],
-      "bonus": 2,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le cynisme"
-      ]
-    },
-    "e-329": {
-      "type": "enigme",
-      "empreinte": "1gsn2at",
-      "date": "2026-10-25",
-      "score": 9,
-      "trouveA": [
-        1,
-        1,
-        2,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "profusion"
-        ],
-        [
-          "volutes"
-        ],
-        [
-          "colonnes",
-          "torses"
-        ],
-        [
-          "trompe-l'œil"
-        ],
-        [
-          "ostentation"
-        ]
-      ],
-      "bonus": 3,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "baroque"
-      ]
-    },
-    "e-331": {
-      "type": "enigme",
-      "empreinte": "1selydj",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        null,
-        2,
-        1,
-        null
-      ],
-      "reponses": [
-        [
-          "dogme"
-        ],
-        [
-          "hérétiques",
-          "excommuniés",
-          "pécheurs"
-        ],
-        [
-          "bûchers",
-          "Inquisition"
-        ],
-        [
-          "dissidents"
-        ],
-        [
-          "censure",
-          "flammes"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "l'hérésie"
-      ]
-    },
-    "e-335": {
-      "type": "enigme",
-      "empreinte": "1xximq1",
-      "date": "2026-10-25",
-      "score": 5,
-      "trouveA": [
-        1,
-        1,
-        3,
-        2,
-        null
-      ],
-      "reponses": [
-        [
-          "empereur"
-        ],
-        [
-          "icônes"
-        ],
-        [
-          "iconoclastes",
-          "iconoclaste",
-          "frondeurs"
-        ],
-        [
-          "agiter",
-          "bousculer"
-        ],
-        [
-          "doctrine",
-          "tradition"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "l'iconoclasme"
-      ]
-    },
-    "e-339": {
-      "type": "enigme",
-      "empreinte": "1r5kxa7",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        2,
-        null,
-        1,
-        null
-      ],
-      "reponses": [
-        [
-          "monstre"
-        ],
-        [
-          "têtes",
-          "multiples"
-        ],
-        [
-          "coupées",
-          "décapitées",
-          "repoussent"
-        ],
-        [
-          "cautériser"
-        ],
-        [
-          "cou",
-          "moignon"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "l'Hydre de Lerne"
-      ]
-    },
-    "e-341": {
-      "type": "enigme",
-      "empreinte": "1qk3pfg",
-      "date": "2026-10-25",
-      "score": 9,
-      "trouveA": [
-        2,
-        1,
-        1,
-        1,
-        2
-      ],
-      "reponses": [
-        [
-          "hasard",
-          "destin"
-        ],
-        [
-          "chance"
-        ],
-        [
-          "fortune"
-        ],
-        [
-          "étoile"
-        ],
-        [
-          "déveine",
-          "poisse"
-        ]
-      ],
-      "bonus": 3,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le hasard"
-      ]
-    },
-    "e-403": {
-      "type": "enigme",
-      "empreinte": "i9kfi2",
-      "date": "2026-10-25",
-      "score": 2,
-      "trouveA": [
-        1,
-        null,
-        null,
-        null,
-        null
-      ],
-      "reponses": [
-        [
-          "armoire"
-        ],
-        [
-          "frigorifique",
-          "frigo"
-        ],
-        [
-          "réfrigérateur",
-          "congélateur"
-        ],
-        [
-          "freezer",
-          "glacière"
-        ],
-        [
-          "garde-manger",
-          "cave"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le réfrigérateur"
-      ]
-    },
-    "e-428": {
-      "type": "enigme",
-      "empreinte": "113hopk",
-      "date": "2026-10-25",
-      "score": 6,
-      "trouveA": [
-        1,
-        2,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "quai"
-        ],
-        [
-          "fer",
-          "voie"
-        ],
-        [
-          "wagon"
-        ],
-        [
-          "contrôleur"
-        ],
-        [
-          "billets"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "gare",
-        "le train"
-      ]
-    },
-    "e-430": {
-      "type": "enigme",
-      "empreinte": "1hzo6lc",
-      "date": "2026-10-25",
-      "score": 6,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "traîneau"
-        ],
-        [
-          "rennes"
-        ],
-        [
-          "cheminée"
-        ],
-        [
-          "cadeaux"
-        ],
-        [
-          "sapin"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "Père Noël"
-      ]
-    },
-    "e-435": {
-      "type": "enigme",
-      "empreinte": "17alons",
-      "date": "2026-10-25",
-      "score": 5,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1,
-        null
-      ],
-      "reponses": [
-        [
-          "selle"
-        ],
-        [
-          "guidon"
-        ],
-        [
-          "pédale"
-        ],
-        [
-          "équilibre"
-        ],
-        [
-          "rustine",
-          "roue",
-          "chambre à air"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "bicyclette"
-      ]
-    },
-    "e-437": {
-      "type": "enigme",
-      "empreinte": "5stn35",
-      "date": "2026-10-25",
-      "score": 8,
-      "trouveA": [
-        1,
-        1,
-        1,
-        2,
-        1
-      ],
-      "reponses": [
-        [
-          "aéroport"
-        ],
-        [
-          "valises"
-        ],
-        [
-          "pilote"
-        ],
-        [
-          "traînée",
-          "piste"
-        ],
-        [
-          "hôtesse"
-        ]
-      ],
-      "bonus": 2,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "avion"
-      ]
-    },
-    "e-503": {
-      "type": "enigme",
-      "empreinte": "1thfc9l",
-      "date": "2026-10-25",
-      "score": 7,
-      "trouveA": [
-        2,
-        2,
-        1,
-        2,
-        1
-      ],
-      "reponses": [
-        [
-          "cime",
-          "faîte"
-        ],
-        [
-          "paratonnerre",
-          "tige"
-        ],
-        [
-          "foudre"
-        ],
-        [
-          "ficelle",
-          "câble"
-        ],
-        [
-          "incendie"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le paratonnerre"
-      ]
-    },
-    "e-506": {
-      "type": "enigme",
-      "empreinte": "1aywnc3",
-      "date": "2026-10-25",
-      "score": 7,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "pigments"
-        ],
-        [
-          "enduit"
-        ],
-        [
-          "humide"
-        ],
-        [
-          "échafaudage"
-        ],
-        [
-          "plafond"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "fresque"
-      ]
-    },
-    "e-509": {
-      "type": "enigme",
-      "empreinte": "c25lnc",
-      "date": "2026-10-25",
-      "score": 9,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "fleuve"
-        ],
-        [
-          "bras"
-        ],
-        [
-          "crues"
-        ],
-        [
-          "alluvions"
-        ],
-        [
-          "triangle"
-        ]
-      ],
-      "bonus": 3,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "delta"
-      ]
-    },
-    "e-515": {
-      "type": "enigme",
-      "empreinte": "1rq2xzm",
-      "date": "2026-10-25",
-      "score": 8,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "foyer"
-        ],
-        [
-          "pelle"
-        ],
-        [
-          "charbon"
-        ],
-        [
-          "wagons"
-        ],
-        [
-          "rails"
-        ]
-      ],
-      "bonus": 2,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "locomotive"
-      ]
-    },
-    "e-520": {
-      "type": "enigme",
-      "empreinte": "eehxpa",
-      "date": "2026-10-25",
-      "score": 9,
-      "trouveA": [
-        1,
-        1,
-        2,
-        1,
-        2
-      ],
-      "reponses": [
-        [
-          "diligence"
-        ],
-        [
-          "shérif"
-        ],
-        [
-          "indien",
-          "flèche"
-        ],
-        [
-          "duel"
-        ],
-        [
-          "colt",
-          "revolver"
-        ]
-      ],
-      "bonus": 3,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le western"
-      ]
-    },
-    "e-530": {
-      "type": "enigme",
-      "empreinte": "1uqrn92",
-      "date": "2026-10-25",
-      "score": 6,
-      "trouveA": [
-        2,
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "offense",
-          "affront"
-        ],
-        [
-          "ressentiment"
-        ],
-        [
-          "représailles"
-        ],
-        [
-          "implacable"
-        ],
-        [
-          "châtiment"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "vengeance"
-      ]
-    },
-    "e-533": {
-      "type": "enigme",
-      "empreinte": "16krkg4",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        null,
-        null,
-        1
-      ],
-      "reponses": [
-        [
-          "prévenu"
-        ],
-        [
-          "greffier"
-        ],
-        [
-          "avocat",
-          "juge"
-        ],
-        [
-          "magistrats",
-          "jury",
-          "jugement"
-        ],
-        [
-          "verdict"
-        ]
-      ],
-      "bonus": 0,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "un procès"
-      ]
-    },
-    "e-536": {
-      "type": "enigme",
-      "empreinte": "akqnic",
-      "date": "2026-10-25",
-      "score": 9,
-      "trouveA": [
-        1,
-        2,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "bottes"
-        ],
-        [
-          "ogre",
-          "colosse"
-        ],
-        [
-          "dévorer"
-        ],
-        [
-          "couronnes"
-        ],
-        [
-          "cailloux"
-        ]
-      ],
-      "bonus": 3,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "le Petit Poucet",
-        "l'ogre"
-      ]
-    },
-    "e-541": {
-      "type": "enigme",
-      "empreinte": "4pduh5",
-      "date": "2026-10-25",
-      "score": 9,
-      "trouveA": [
-        1,
-        1,
-        1,
-        2,
-        1
-      ],
-      "reponses": [
-        [
-          "crocs"
-        ],
-        [
-          "cercueil"
-        ],
-        [
-          "ail"
-        ],
-        [
-          "soleil",
-          "aube"
-        ],
-        [
-          "pieu"
-        ]
-      ],
-      "bonus": 3,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "Dracula",
-        "un vampire"
-      ]
-    },
-    "np-002": {
-      "type": "noms",
-      "empreinte": "6pj0ju",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Victor Hugo"
-        ],
-        [
-          "Molière"
-        ],
-        [
-          "Émile Zola"
-        ],
-        [
-          "Jules Verne"
-        ]
-      ]
-    },
-    "np-103": {
-      "type": "noms",
-      "empreinte": "glu42a",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Strasbourg"
-        ],
-        [
-          "Marseille"
-        ],
-        [
-          "Lille"
-        ],
-        [
-          "Bordeaux"
-        ]
-      ]
-    },
-    "np-204": {
-      "type": "noms",
-      "empreinte": "vsbjx1",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Léon Tolstoï"
-        ],
-        [
-          "Fiodor Dostoïevski"
-        ],
-        [
-          "Anton Tchekhov"
-        ],
-        [
-          "Alexandre Pouchkine"
-        ]
-      ]
-    },
-    "np-205": {
-      "type": "noms",
-      "empreinte": "b5kanu",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Archimède"
-        ],
-        [
-          "Euclide"
-        ],
-        [
-          "Pythagore"
-        ],
-        [
-          "Hippocrate"
-        ]
-      ]
-    },
-    "np-307": {
-      "type": "noms",
-      "empreinte": "1b70s5q",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Denis Diderot"
-        ],
-        [
-          "Montesquieu"
-        ],
-        [
-          "Marivaux"
-        ],
-        [
-          "Beaumarchais"
-        ]
-      ]
-    },
-    "np-316": {
-      "type": "noms",
-      "empreinte": "3ogrf5",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Hadrien"
-        ],
-        [
-          "Caligula"
-        ],
-        [
-          "Néron"
-        ],
-        [
-          "Marc Aurèle"
-        ]
-      ]
-    },
-    "np-322": {
-      "type": "noms",
-      "empreinte": "15nyk6t",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Hamlet"
-        ],
-        [
-          "Othello"
-        ],
-        [
-          "Falstaff"
-        ],
-        [
-          "Prospero"
-        ]
-      ]
-    },
-    "np-327": {
-      "type": "noms",
-      "empreinte": "b9qjp9",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Georges Brassens"
-        ],
-        [
-          "Jacques Brel"
-        ],
-        [
-          "Léo Ferré"
-        ],
-        [
-          "Barbara"
-        ]
-      ]
-    },
-    "np-328": {
-      "type": "noms",
-      "empreinte": "iuiyb7",
-      "date": "2026-10-25",
-      "score": 4,
-      "trouveA": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "reponses": [
-        [
-          "Francisco de Goya"
-        ],
-        [
-          "Diego Vélasquez"
-        ],
-        [
-          "Francisco de Zurbarán"
-        ],
-        [
           "El Greco"
         ]
       ]
@@ -3305,7 +1414,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "Hegel"
+          "Georg Wilhelm Friedrich Hegel"
         ],
         [
           "Friedrich Nietzsche"
@@ -3444,6 +1553,1892 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Yannick Noah"
         ],
         [
+          "Venus Williams",
+          "Serena Williams"
+        ]
+      ]
+    },
+    "np-424": {
+      "type": "noms",
+      "empreinte": "j04af3",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Brigitte Bardot"
+        ],
+        [
+          "Catherine Deneuve"
+        ],
+        [
+          "Audrey Tautou"
+        ],
+        [
+          "Marion Cotillard"
+        ]
+      ]
+    },
+    "np-432": {
+      "type": "noms",
+      "empreinte": "exjbte",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Coca-Cola"
+        ],
+        [
+          "Nutella"
+        ],
+        [
+          "Haribo"
+        ],
+        [
+          "Danone"
+        ]
+      ]
+    },
+    "np-434": {
+      "type": "noms",
+      "empreinte": "p1j89z",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Martinique"
+        ],
+        [
+          "Réunion"
+        ],
+        [
+          "Tahiti"
+        ],
+        [
+          "Guyane"
+        ]
+      ]
+    },
+    "np-437": {
+      "type": "noms",
+      "empreinte": "1nei4sr",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Méditerranée"
+        ],
+        [
+          "Pacifique"
+        ],
+        [
+          "Manche"
+        ],
+        [
+          "mer Morte"
+        ]
+      ]
+    },
+    "np-441": {
+      "type": "noms",
+      "empreinte": "1ntuloz",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Dark Vador"
+        ],
+        [
+          "Yoda"
+        ],
+        [
+          "Chewbacca"
+        ],
+        [
+          "Luke Skywalker"
+        ]
+      ]
+    },
+    "np-448": {
+      "type": "noms",
+      "empreinte": "s7mmuu",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Charles de Gaulle"
+        ],
+        [
+          "François Hollande",
+          "Jacques Chirac"
+        ],
+        [
+          "François Mitterrand"
+        ],
+        [
+          "Emmanuel Macron"
+        ]
+      ]
+    },
+    "np-449": {
+      "type": "noms",
+      "empreinte": "1igycor",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Abraham Lincoln"
+        ],
+        [
+          "John Kennedy"
+        ],
+        [
+          "George Washington"
+        ],
+        [
+          "Barack Obama"
+        ]
+      ]
+    },
+    "np-501": {
+      "type": "noms",
+      "empreinte": "1yfqoe",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Aida"
+        ],
+        [
+          "Rigoletto"
+        ],
+        [
+          "Nabucco"
+        ],
+        [
+          "Il Trovatore"
+        ]
+      ]
+    },
+    "np-505": {
+      "type": "noms",
+      "empreinte": "1345s5o",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "Henri Matisse"
+        ],
+        [
+          "Georges Braque"
+        ],
+        [
+          "André Derain"
+        ],
+        [
+          "Picasso",
+          "Fernand Léger"
+        ]
+      ]
+    },
+    "np-511": {
+      "type": "noms",
+      "empreinte": "giyjt8",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Jean de La Fontaine"
+        ],
+        [
+          "Jean de La Bruyère"
+        ],
+        [
+          "François de La Rochefoucauld"
+        ],
+        [
+          "Nicolas Boileau"
+        ]
+      ]
+    },
+    "np-524": {
+      "type": "noms",
+      "empreinte": "7crqaz",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Pénélope"
+        ],
+        [
+          "Méduse",
+          "Eurydice"
+        ],
+        [
+          "Pandore"
+        ],
+        [
+          "Hélène"
+        ]
+      ]
+    },
+    "np-528": {
+      "type": "noms",
+      "empreinte": "ococsu",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "reponses": [
+        [
+          "Armand de Richelieu",
+          "Mazarin"
+        ],
+        [
+          "Jean-Baptiste Colbert"
+        ],
+        [
+          "Maximilien de Béthune",
+          "Sully"
+        ],
+        [
+          "Jacques Necker"
+        ]
+      ]
+    },
+    "np-534": {
+      "type": "noms",
+      "empreinte": "14pa04l",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Louis Blériot"
+        ],
+        [
+          "Antoine de Saint-Exupéry"
+        ],
+        [
+          "Jean Mermoz"
+        ],
+        [
+          "Roland Garros"
+        ]
+      ]
+    },
+    "np-542": {
+      "type": "noms",
+      "empreinte": "gsc0y6",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Led Zeppelin"
+        ],
+        [
+          "The Who"
+        ],
+        [
+          "Pink Floyd"
+        ],
+        [
+          "Oasis"
+        ]
+      ]
+    },
+    "np-549": {
+      "type": "noms",
+      "empreinte": "1skpga9",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Séville"
+        ],
+        [
+          "Grenade"
+        ],
+        [
+          "Barcelone"
+        ],
+        [
+          "Porto"
+        ]
+      ]
+    }
+  },
+  "Sonnet": {
+    "e-003": {
+      "type": "enigme",
+      "empreinte": "cozwyu",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "ciel"
+        ],
+        [
+          "bouclier"
+        ],
+        [
+          "baleine"
+        ],
+        [
+          "vent"
+        ],
+        [
+          "cortège",
+          "train"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le parapluie"
+      ]
+    },
+    "e-006": {
+      "type": "enigme",
+      "empreinte": "sabyo9",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        null,
+        1,
+        2,
+        null,
+        1
+      ],
+      "reponses": [
+        [
+          "âges",
+          "ères"
+        ],
+        [
+          "feu"
+        ],
+        [
+          "volcan",
+          "lave"
+        ],
+        [
+          "Pompéi",
+          "nécropole"
+        ],
+        [
+          "cratère"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "un volcan"
+      ]
+    },
+    "e-007": {
+      "type": "enigme",
+      "empreinte": "cwzqza",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "reponses": [
+        [
+          "tournée"
+        ],
+        [
+          "sacoche"
+        ],
+        [
+          "lettres"
+        ],
+        [
+          "colis",
+          "boîte"
+        ],
+        [
+          "vélo"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le facteur"
+      ]
+    },
+    "e-008": {
+      "type": "enigme",
+      "empreinte": "7xz358",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "reponses": [
+        [
+          "ruche"
+        ],
+        [
+          "abeilles"
+        ],
+        [
+          "nectar"
+        ],
+        [
+          "miel",
+          "sucre"
+        ],
+        [
+          "tranche"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le miel"
+      ]
+    },
+    "e-009": {
+      "type": "enigme",
+      "empreinte": "189ro1f",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "salle"
+        ],
+        [
+          "écran"
+        ],
+        [
+          "réalisateur"
+        ],
+        [
+          "scène"
+        ],
+        [
+          "actrice"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le cinéma"
+      ]
+    },
+    "e-204": {
+      "type": "enigme",
+      "empreinte": "ewp4m4",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "parchemin"
+        ],
+        [
+          "moine"
+        ],
+        [
+          "texte"
+        ],
+        [
+          "rayons"
+        ],
+        [
+          "écritures"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "palimpseste"
+      ]
+    },
+    "e-304": {
+      "type": "enigme",
+      "empreinte": "6uh4k1",
+      "date": "2026-10-25",
+      "score": 6,
+      "trouveA": [
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "masque"
+        ],
+        [
+          "hypocrisie",
+          "duplicité"
+        ],
+        [
+          "archétype",
+          "parangon"
+        ],
+        [
+          "simagrées"
+        ],
+        [
+          "crocodile"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'hypocrite"
+      ]
+    },
+    "e-305": {
+      "type": "enigme",
+      "empreinte": "q2n6h6",
+      "date": "2026-10-25",
+      "score": 5,
+      "trouveA": [
+        2,
+        1,
+        1,
+        3,
+        2
+      ],
+      "reponses": [
+        [
+          "grâce",
+          "clémence"
+        ],
+        [
+          "félon"
+        ],
+        [
+          "magnanimité"
+        ],
+        [
+          "rancune",
+          "amertume",
+          "rancœur"
+        ],
+        [
+          "châtiment",
+          "sanction"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": false,
+      "essaisSolution": [
+        "la grâce",
+        "la générosité",
+        "le pardon"
+      ]
+    },
+    "e-308": {
+      "type": "enigme",
+      "empreinte": "pvssuu",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "reponses": [
+        [
+          "rigoureux"
+        ],
+        [
+          "faille"
+        ],
+        [
+          "prémisses"
+        ],
+        [
+          "syllogisme",
+          "conclusion"
+        ],
+        [
+          "piège"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le sophisme"
+      ]
+    },
+    "e-325": {
+      "type": "enigme",
+      "empreinte": "137sywx",
+      "date": "2026-10-25",
+      "score": 5,
+      "trouveA": [
+        3,
+        1,
+        2,
+        null,
+        1
+      ],
+      "reponses": [
+        [
+          "solitaire",
+          "retraite",
+          "anachorète"
+        ],
+        [
+          "jeûne"
+        ],
+        [
+          "chasteté",
+          "abstinence"
+        ],
+        [
+          "austérité",
+          "mortification"
+        ],
+        [
+          "purification"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'ascèse"
+      ]
+    },
+    "e-326": {
+      "type": "enigme",
+      "empreinte": "1k2kv47",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "tonneau"
+        ],
+        [
+          "coutumes",
+          "conventions"
+        ],
+        [
+          "argent"
+        ],
+        [
+          "impudence"
+        ],
+        [
+          "rois",
+          "notables"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le cynisme"
+      ]
+    },
+    "e-329": {
+      "type": "enigme",
+      "empreinte": "1gsn2at",
+      "date": "2026-10-25",
+      "score": 9,
+      "trouveA": [
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "profusion"
+        ],
+        [
+          "colonnes",
+          "volutes"
+        ],
+        [
+          "torsades",
+          "torses"
+        ],
+        [
+          "trompe-l'œil"
+        ],
+        [
+          "ostentation"
+        ]
+      ],
+      "bonus": 3,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le baroque"
+      ]
+    },
+    "e-331": {
+      "type": "enigme",
+      "empreinte": "1selydj",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "dogme"
+        ],
+        [
+          "hérésie",
+          "excommunication"
+        ],
+        [
+          "inquisition"
+        ],
+        [
+          "dissidents"
+        ],
+        [
+          "bûcher"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'hérésie"
+      ]
+    },
+    "e-335": {
+      "type": "enigme",
+      "empreinte": "1xximq1",
+      "date": "2026-10-25",
+      "score": 5,
+      "trouveA": [
+        1,
+        1,
+        2,
+        2,
+        null
+      ],
+      "reponses": [
+        [
+          "empereur"
+        ],
+        [
+          "icônes"
+        ],
+        [
+          "iconoclaste",
+          "frondeur"
+        ],
+        [
+          "ébranler",
+          "bousculer"
+        ],
+        [
+          "valeurs",
+          "doctrine"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'iconoclasme"
+      ]
+    },
+    "e-339": {
+      "type": "enigme",
+      "empreinte": "1r5kxa7",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "monstre"
+        ],
+        [
+          "têtes",
+          "multiples"
+        ],
+        [
+          "décapitation"
+        ],
+        [
+          "cautériser"
+        ],
+        [
+          "bout"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'hydre"
+      ]
+    },
+    "e-341": {
+      "type": "enigme",
+      "empreinte": "1qk3pfg",
+      "date": "2026-10-25",
+      "score": 9,
+      "trouveA": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "hasard",
+          "destin"
+        ],
+        [
+          "chance"
+        ],
+        [
+          "fortune"
+        ],
+        [
+          "étoile"
+        ],
+        [
+          "guigne",
+          "poisse"
+        ]
+      ],
+      "bonus": 3,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le hasard"
+      ]
+    },
+    "e-403": {
+      "type": "enigme",
+      "empreinte": "i9kfi2",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "frigo",
+          "armoire"
+        ],
+        [
+          "frais"
+        ],
+        [
+          "beurre"
+        ],
+        [
+          "yaourt"
+        ],
+        [
+          "charcuterie",
+          "jambon"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le réfrigérateur"
+      ]
+    },
+    "e-428": {
+      "type": "enigme",
+      "empreinte": "113hopk",
+      "date": "2026-10-25",
+      "score": 6,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "quai"
+        ],
+        [
+          "voie"
+        ],
+        [
+          "wagon"
+        ],
+        [
+          "contrôleur"
+        ],
+        [
+          "billets"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "la gare",
+        "le train"
+      ]
+    },
+    "e-430": {
+      "type": "enigme",
+      "empreinte": "1hzo6lc",
+      "date": "2026-10-25",
+      "score": 6,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "traîneau"
+        ],
+        [
+          "rennes"
+        ],
+        [
+          "cheminée"
+        ],
+        [
+          "cadeaux"
+        ],
+        [
+          "sapin"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le Père Noël"
+      ]
+    },
+    "e-435": {
+      "type": "enigme",
+      "empreinte": "17alons",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "selle"
+        ],
+        [
+          "guidon"
+        ],
+        [
+          "pédale"
+        ],
+        [
+          "équilibre"
+        ],
+        [
+          "roue",
+          "chambre"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le vélo"
+      ]
+    },
+    "e-437": {
+      "type": "enigme",
+      "empreinte": "5stn35",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        1,
+        1,
+        1,
+        3,
+        1
+      ],
+      "reponses": [
+        [
+          "aéroport"
+        ],
+        [
+          "valises"
+        ],
+        [
+          "pilote"
+        ],
+        [
+          "traînée",
+          "sillage",
+          "piste"
+        ],
+        [
+          "hôtesse"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'avion"
+      ]
+    },
+    "e-503": {
+      "type": "enigme",
+      "empreinte": "1thfc9l",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ],
+      "reponses": [
+        [
+          "pointe",
+          "faîte"
+        ],
+        [
+          "tige"
+        ],
+        [
+          "foudre"
+        ],
+        [
+          "ficelle",
+          "câble"
+        ],
+        [
+          "incendie"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le paratonnerre"
+      ]
+    },
+    "e-506": {
+      "type": "enigme",
+      "empreinte": "1aywnc3",
+      "date": "2026-10-25",
+      "score": 7,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "pigments"
+        ],
+        [
+          "enduit"
+        ],
+        [
+          "humide"
+        ],
+        [
+          "échafaudage"
+        ],
+        [
+          "planche",
+          "plafond"
+        ]
+      ],
+      "bonus": 1,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "la fresque"
+      ]
+    },
+    "e-509": {
+      "type": "enigme",
+      "empreinte": "c25lnc",
+      "date": "2026-10-25",
+      "score": 9,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "fleuve"
+        ],
+        [
+          "bras"
+        ],
+        [
+          "crues"
+        ],
+        [
+          "alluvions"
+        ],
+        [
+          "triangle"
+        ]
+      ],
+      "bonus": 3,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le delta"
+      ]
+    },
+    "e-515": {
+      "type": "enigme",
+      "empreinte": "1rq2xzm",
+      "date": "2026-10-25",
+      "score": 8,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "foyer"
+        ],
+        [
+          "pelle"
+        ],
+        [
+          "charbon"
+        ],
+        [
+          "wagons"
+        ],
+        [
+          "rails"
+        ]
+      ],
+      "bonus": 2,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "la locomotive"
+      ]
+    },
+    "e-520": {
+      "type": "enigme",
+      "empreinte": "eehxpa",
+      "date": "2026-10-25",
+      "score": 9,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "diligence"
+        ],
+        [
+          "shérif"
+        ],
+        [
+          "flèche"
+        ],
+        [
+          "duel"
+        ],
+        [
+          "colt",
+          "revolver"
+        ]
+      ],
+      "bonus": 3,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le western"
+      ]
+    },
+    "e-530": {
+      "type": "enigme",
+      "empreinte": "1uqrn92",
+      "date": "2026-10-25",
+      "score": 6,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "affront"
+        ],
+        [
+          "ressentiment"
+        ],
+        [
+          "représailles"
+        ],
+        [
+          "implacable"
+        ],
+        [
+          "châtiment"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "la vengeance"
+      ]
+    },
+    "e-533": {
+      "type": "enigme",
+      "empreinte": "16krkg4",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        null,
+        null,
+        1
+      ],
+      "reponses": [
+        [
+          "prévenu"
+        ],
+        [
+          "greffier"
+        ],
+        [
+          "avocat",
+          "défense"
+        ],
+        [
+          "juges",
+          "jury",
+          "cour"
+        ],
+        [
+          "verdict"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le tribunal"
+      ]
+    },
+    "e-536": {
+      "type": "enigme",
+      "empreinte": "akqnic",
+      "date": "2026-10-25",
+      "score": 9,
+      "trouveA": [
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      "reponses": [
+        [
+          "bottes"
+        ],
+        [
+          "ogre",
+          "colosse"
+        ],
+        [
+          "dévorer"
+        ],
+        [
+          "couronnes"
+        ],
+        [
+          "bijoux",
+          "cailloux"
+        ]
+      ],
+      "bonus": 3,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "l'ogre"
+      ]
+    },
+    "e-541": {
+      "type": "enigme",
+      "empreinte": "4pduh5",
+      "date": "2026-10-25",
+      "score": 9,
+      "trouveA": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "reponses": [
+        [
+          "crocs"
+        ],
+        [
+          "cercueil"
+        ],
+        [
+          "ail"
+        ],
+        [
+          "soleil",
+          "aube"
+        ],
+        [
+          "pieu"
+        ]
+      ],
+      "bonus": 3,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "le vampire"
+      ]
+    },
+    "np-002": {
+      "type": "noms",
+      "empreinte": "6pj0ju",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Victor Hugo"
+        ],
+        [
+          "Molière"
+        ],
+        [
+          "Zola",
+          "Émile Zola"
+        ],
+        [
+          "Jules Verne"
+        ]
+      ]
+    },
+    "np-103": {
+      "type": "noms",
+      "empreinte": "glu42a",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Strasbourg"
+        ],
+        [
+          "Marseille"
+        ],
+        [
+          "Lille"
+        ],
+        [
+          "Bordeaux"
+        ]
+      ]
+    },
+    "np-204": {
+      "type": "noms",
+      "empreinte": "vsbjx1",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Tolstoï"
+        ],
+        [
+          "Dostoïevski"
+        ],
+        [
+          "Tchekhov"
+        ],
+        [
+          "Pouchkine"
+        ]
+      ]
+    },
+    "np-205": {
+      "type": "noms",
+      "empreinte": "b5kanu",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Archimède"
+        ],
+        [
+          "Euclide"
+        ],
+        [
+          "Pythagore"
+        ],
+        [
+          "Hippocrate"
+        ]
+      ]
+    },
+    "np-307": {
+      "type": "noms",
+      "empreinte": "1b70s5q",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Diderot"
+        ],
+        [
+          "Montesquieu"
+        ],
+        [
+          "Marivaux"
+        ],
+        [
+          "Beaumarchais"
+        ]
+      ]
+    },
+    "np-316": {
+      "type": "noms",
+      "empreinte": "3ogrf5",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Hadrien"
+        ],
+        [
+          "Caligula"
+        ],
+        [
+          "Néron"
+        ],
+        [
+          "Marc Aurèle"
+        ]
+      ]
+    },
+    "np-322": {
+      "type": "noms",
+      "empreinte": "15nyk6t",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Hamlet"
+        ],
+        [
+          "Othello"
+        ],
+        [
+          "Falstaff"
+        ],
+        [
+          "Prospero"
+        ]
+      ]
+    },
+    "np-327": {
+      "type": "noms",
+      "empreinte": "b9qjp9",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Georges Brassens"
+        ],
+        [
+          "Jacques Brel"
+        ],
+        [
+          "Léo Ferré"
+        ],
+        [
+          "Barbara"
+        ]
+      ]
+    },
+    "np-328": {
+      "type": "noms",
+      "empreinte": "iuiyb7",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Goya"
+        ],
+        [
+          "Vélasquez"
+        ],
+        [
+          "Zurbarán"
+        ],
+        [
+          "Le Greco"
+        ]
+      ]
+    },
+    "np-331": {
+      "type": "noms",
+      "empreinte": "a5x8mf",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Hegel"
+        ],
+        [
+          "Nietzsche"
+        ],
+        [
+          "Schopenhauer"
+        ],
+        [
+          "Heidegger"
+        ]
+      ]
+    },
+    "np-338": {
+      "type": "noms",
+      "empreinte": "1ljnc4p",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Ney"
+        ],
+        [
+          "Murat"
+        ],
+        [
+          "Davout"
+        ],
+        [
+          "Lannes"
+        ]
+      ]
+    },
+    "np-345": {
+      "type": "noms",
+      "empreinte": "1eth0at",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Odin"
+        ],
+        [
+          "Thor"
+        ],
+        [
+          "Loki"
+        ],
+        [
+          "Freyja"
+        ]
+      ]
+    },
+    "np-349": {
+      "type": "noms",
+      "empreinte": "19nj1x0",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Blake"
+        ],
+        [
+          "Corto Maltese"
+        ],
+        [
+          "Valérian"
+        ],
+        [
+          "Blueberry"
+        ]
+      ]
+    },
+    "np-403": {
+      "type": "noms",
+      "empreinte": "1b2gih8",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "New York"
+        ],
+        [
+          "Londres"
+        ],
+        [
+          "Rio de Janeiro"
+        ],
+        [
+          "Venise"
+        ]
+      ]
+    },
+    "np-420": {
+      "type": "noms",
+      "empreinte": "11zvt03",
+      "date": "2026-10-25",
+      "score": 4,
+      "trouveA": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reponses": [
+        [
+          "Federer",
+          "Roger Federer"
+        ],
+        [
+          "Rafael Nadal"
+        ],
+        [
+          "Yannick Noah"
+        ],
+        [
           "Serena Williams"
         ]
       ]
@@ -3509,7 +3504,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        2,
+        1,
         1
       ],
       "reponses": [
@@ -3520,7 +3515,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "La Réunion"
         ],
         [
-          "Polynésie française",
           "Tahiti"
         ],
         [
@@ -3614,7 +3608,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        3,
+        1,
         1
       ],
       "reponses": [
@@ -3622,11 +3616,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Abraham Lincoln"
         ],
         [
-          "John Fitzgerald Kennedy"
+          "John Kennedy"
         ],
         [
-          "Lyndon Baines Johnson",
-          "John F. Kennedy",
           "George Washington"
         ],
         [
@@ -3656,7 +3648,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Nabucco"
         ],
         [
-          "Il trovatore"
+          "Il Trovatore"
         ]
       ]
     },
@@ -3673,15 +3665,16 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "Henri Matisse"
+          "Matisse"
         ],
         [
-          "Georges Braque"
+          "Braque"
         ],
         [
-          "André Derain"
+          "Derain"
         ],
         [
+          "Léger",
           "Fernand Léger"
         ]
       ]
@@ -3694,22 +3687,21 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        2,
+        1,
         1
       ],
       "reponses": [
         [
-          "Jean de La Fontaine"
+          "La Fontaine"
         ],
         [
-          "Jean de La Bruyère"
+          "La Bruyère"
         ],
         [
-          "Cardinal de Retz",
-          "François de La Rochefoucauld"
+          "La Rochefoucauld"
         ],
         [
-          "Nicolas Boileau"
+          "Boileau"
         ]
       ]
     },
@@ -3756,13 +3748,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Mazarin"
         ],
         [
-          "Jean-Baptiste Colbert"
+          "Colbert"
         ],
         [
           "Sully"
         ],
         [
-          "Jacques Necker"
+          "Necker"
         ]
       ]
     },
@@ -3779,10 +3771,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
+          "Blériot",
           "Louis Blériot"
         ],
         [
-          "Antoine de Saint-Exupéry"
+          "Saint-Exupéry"
         ],
         [
           "Jean Mermoz"
@@ -3889,7 +3882,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "score": 8,
       "trouveA": [
         1,
-        2,
+        1,
         1,
         1,
         1
@@ -3899,7 +3892,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "siècles"
         ],
         [
-          "amour",
           "feu"
         ],
         [
@@ -3996,7 +3988,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        1,
+        2,
         1,
         1
       ],
@@ -4008,6 +4000,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écran"
         ],
         [
+          "cinéaste",
           "réalisateur"
         ],
         [
@@ -4065,7 +4058,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "score": 6,
       "trouveA": [
         1,
-        2,
+        1,
         2,
         1,
         1
@@ -4075,7 +4068,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "masque"
         ],
         [
-          "hypocrisie",
           "duplicité"
         ],
         [
@@ -4130,7 +4122,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "solutionTrouvee": true,
       "essaisSolution": [
         "la grâce",
-        "le pardon",
         "la mansuétude"
       ]
     },
@@ -4285,7 +4276,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        1,
+        2,
         1,
         1
       ],
@@ -4297,6 +4288,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "excommunication"
         ],
         [
+          "inquisiteur",
           "Inquisition"
         ],
         [
@@ -4340,7 +4332,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bousculer"
         ],
         [
-          "croyances",
+          "règles",
           "dogmes"
         ]
       ],
@@ -4382,7 +4374,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "l'Hydre de Lerne"
+        "l'hydre de Lerne"
       ]
     },
     "e-341": {
@@ -4393,9 +4385,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         2,
         1,
-        2,
         1,
-        2
+        1,
+        1
       ],
       "reponses": [
         [
@@ -4406,14 +4398,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "chance"
         ],
         [
-          "occasion",
           "fortune"
         ],
         [
           "étoile"
         ],
         [
-          "déveine",
           "poisse"
         ]
       ],
@@ -4440,8 +4430,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "armoire"
         ],
         [
-          "froide",
-          "fraîche"
+          "froid",
+          "frais"
         ],
         [
           "beurre"
@@ -4534,13 +4524,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "17alons",
       "date": "2026-10-25",
-      "score": 5,
+      "score": 8,
       "trouveA": [
         2,
         1,
         1,
         1,
-        null
+        2
       ],
       "reponses": [
         [
@@ -4558,14 +4548,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "rustine",
-          "roue",
-          "chambre à air"
+          "chambre"
         ]
       ],
-      "bonus": 0,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le vélo"
+        "la bicyclette"
       ]
     },
     "e-437": {
@@ -4628,7 +4617,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "foudre"
         ],
         [
-          "fil",
+          "ficelle",
           "câble"
         ],
         [
@@ -4754,7 +4743,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        2,
+        1,
         2,
         1
       ],
@@ -4766,8 +4755,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "shérif"
         ],
         [
-          "Indiens",
-          "flèches"
+          "flèche"
         ],
         [
           "combat",
@@ -4854,7 +4842,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le tribunal"
+        "le procès"
       ]
     },
     "e-536": {
@@ -4864,7 +4852,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "score": 9,
       "trouveA": [
         1,
-        2,
+        1,
         1,
         1,
         1
@@ -4874,7 +4862,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bottes"
         ],
         [
-          "ogre",
           "colosse"
         ],
         [
@@ -4925,6 +4912,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
+        "Dracula",
         "le vampire"
       ]
     },
@@ -5158,7 +5146,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Francisco de Zurbarán"
         ],
         [
-          "El Greco"
+          "Le Greco"
         ]
       ]
     },
@@ -5378,7 +5366,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        2,
+        1,
         1
       ],
       "reponses": [
@@ -5389,7 +5377,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "La Réunion"
         ],
         [
-          "Polynésie française",
           "Tahiti"
         ],
         [
@@ -5413,7 +5400,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Méditerranée"
         ],
         [
-          "océan Pacifique"
+          "Pacifique"
         ],
         [
           "Manche"
@@ -5483,7 +5470,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "trouveA": [
         1,
         1,
-        3,
+        1,
         1
       ],
       "reponses": [
@@ -5494,8 +5481,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "John Fitzgerald Kennedy"
         ],
         [
-          "Lyndon Baines Johnson",
-          "John Kennedy",
           "George Washington"
         ],
         [
@@ -5538,7 +5523,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         1,
         1,
         1,
-        1
+        2
       ],
       "reponses": [
         [
@@ -5551,6 +5536,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "André Derain"
         ],
         [
+          "Maurice de Vlaminck",
           "Fernand Léger"
         ]
       ]

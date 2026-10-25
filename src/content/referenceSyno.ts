@@ -189,7 +189,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "score": 8,
     "trouveA": [
       1,
-      2,
+      1,
       1,
       1,
       1
@@ -199,7 +199,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "siècles"
       ],
       [
-        "amour",
         "feu"
       ],
       [
@@ -296,7 +295,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "trouveA": [
       1,
       1,
-      1,
+      2,
       1,
       1
     ],
@@ -308,6 +307,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "écran"
       ],
       [
+        "cinéaste",
         "réalisateur"
       ],
       [
@@ -844,7 +844,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "score": 6,
     "trouveA": [
       1,
-      2,
+      1,
       2,
       1,
       1
@@ -854,7 +854,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "masque"
       ],
       [
-        "hypocrisie",
         "duplicité"
       ],
       [
@@ -909,7 +908,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "solutionTrouvee": true,
     "essaisSolution": [
       "la grâce",
-      "le pardon",
       "la mansuétude"
     ]
   },
@@ -1836,7 +1834,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "trouveA": [
       1,
       1,
-      1,
+      2,
       1,
       1
     ],
@@ -1848,6 +1846,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "excommunication"
       ],
       [
+        "inquisiteur",
         "Inquisition"
       ],
       [
@@ -1999,7 +1998,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bousculer"
       ],
       [
-        "croyances",
+        "règles",
         "dogmes"
       ]
     ],
@@ -2151,7 +2150,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
-      "l'Hydre de Lerne"
+      "l'hydre de Lerne"
     ]
   },
   "e-340": {
@@ -2198,9 +2197,9 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "trouveA": [
       2,
       1,
-      2,
       1,
-      2
+      1,
+      1
     ],
     "reponses": [
       [
@@ -2211,14 +2210,12 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "chance"
       ],
       [
-        "occasion",
         "fortune"
       ],
       [
         "étoile"
       ],
       [
-        "déveine",
         "poisse"
       ]
     ],
@@ -2649,8 +2646,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "armoire"
       ],
       [
-        "froide",
-        "fraîche"
+        "froid",
+        "frais"
       ],
       [
         "beurre"
@@ -3781,13 +3778,13 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "17alons",
     "date": "2026-10-25",
-    "score": 5,
+    "score": 8,
     "trouveA": [
       2,
       1,
       1,
       1,
-      null
+      2
     ],
     "reponses": [
       [
@@ -3805,14 +3802,13 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
       ],
       [
         "rustine",
-        "roue",
-        "chambre à air"
+        "chambre"
       ]
     ],
-    "bonus": 0,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
-      "le vélo"
+      "la bicyclette"
     ]
   },
   "e-436": {
@@ -4448,7 +4444,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "foudre"
       ],
       [
-        "fil",
+        "ficelle",
         "câble"
       ],
       [
@@ -5033,7 +5029,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "trouveA": [
       1,
       1,
-      2,
+      1,
       2,
       1
     ],
@@ -5045,8 +5041,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "shérif"
       ],
       [
-        "Indiens",
-        "flèches"
+        "flèche"
       ],
       [
         "combat",
@@ -5532,7 +5527,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
-      "le tribunal"
+      "le procès"
     ]
   },
   "e-534": {
@@ -5612,7 +5607,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "score": 9,
     "trouveA": [
       1,
-      2,
+      1,
       1,
       1,
       1
@@ -5622,7 +5617,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bottes"
       ],
       [
-        "ogre",
         "colosse"
       ],
       [
@@ -5814,6 +5808,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
+      "Dracula",
       "le vampire"
     ]
   },
@@ -7229,7 +7224,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "Francisco de Zurbarán"
       ],
       [
-        "El Greco"
+        "Le Greco"
       ]
     ]
   },
@@ -8676,7 +8671,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "trouveA": [
       1,
       1,
-      2,
+      1,
       1
     ],
     "reponses": [
@@ -8687,7 +8682,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "La Réunion"
       ],
       [
-        "Polynésie française",
         "Tahiti"
       ],
       [
@@ -8763,7 +8757,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "Méditerranée"
       ],
       [
-        "océan Pacifique"
+        "Pacifique"
       ],
       [
         "Manche"
@@ -9068,7 +9062,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "trouveA": [
       1,
       1,
-      3,
+      1,
       1
     ],
     "reponses": [
@@ -9079,8 +9073,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "John Fitzgerald Kennedy"
       ],
       [
-        "Lyndon Baines Johnson",
-        "John Kennedy",
         "George Washington"
       ],
       [
@@ -9227,7 +9219,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
       1,
       1,
       1,
-      1
+      2
     ],
     "reponses": [
       [
@@ -9240,6 +9232,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "André Derain"
       ],
       [
+        "Maurice de Vlaminck",
         "Fernand Léger"
       ]
     ]

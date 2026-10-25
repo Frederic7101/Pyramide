@@ -1,0 +1,219 @@
+[
+  {
+    "id": "np-002",
+    "type": "nom",
+    "theme": "Écrivains français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Victor Hugo"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Molière"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Zola",
+          "Émile Zola"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Nautilus"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Écrivains français ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Victor Hugo »).\nNom n°2 : trouvé (« Molière »).\nNom n°3 : trouvé (« Émile Zola »).\nBriques de Dico :\n1. Nautilus\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-420",
+    "type": "nom",
+    "theme": "Champions de tennis",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Federer",
+          "Roger Federer"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Rafael Nadal"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Yannick Noah"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Venus"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Champions de tennis ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Roger Federer »).\nNom n°2 : trouvé (« Rafael Nadal »).\nNom n°3 : trouvé (« Yannick Noah »).\nBriques de Dico :\n1. Venus\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-432",
+    "type": "nom",
+    "theme": "Marques gourmandes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Orangina",
+          "Coca-Cola"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Nutella"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Haribo"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "yaourt"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Marques gourmandes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Coca-Cola »).\nNom n°2 : trouvé (« Nutella »).\nNom n°3 : trouvé (« Haribo »).\nBriques de Dico :\n1. yaourt\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Matisse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Braque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Derain"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tubes"
+    ],
+    "completer": true,
+    "dejaFausses": [
+      "Léger"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Fauves et cubistes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Matisse »).\nNom n°2 : trouvé (« Braque »).\nNom n°3 : trouvé (« Derain »).\nBriques de Dico :\n1. tubes\nRéponses déjà jugées fausses : « Léger ».\nDico t'invite à compléter ta dernière réponse (« Complétez ») : donne le nom complet (prénom, rang ou patronyme composé).\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-528",
+    "type": "nom",
+    "theme": "Ministres de l'Ancien Régime",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Richelieu",
+          "Mazarin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Colbert"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Sully"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Genève"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Ministres de l'Ancien Régime ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Mazarin »).\nNom n°2 : trouvé (« Colbert »).\nNom n°3 : trouvé (« Sully »).\nBriques de Dico :\n1. Genève\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-534",
+    "type": "nom",
+    "theme": "Pionniers de l'aviation",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Blériot",
+          "Louis Blériot"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Saint-Exupéry"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Jean Mermoz"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Méditerranée"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Pionniers de l'aviation ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Louis Blériot »).\nNom n°2 : trouvé (« Saint-Exupéry »).\nNom n°3 : trouvé (« Jean Mermoz »).\nBriques de Dico :\n1. Méditerranée\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

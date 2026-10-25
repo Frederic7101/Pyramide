@@ -1,0 +1,478 @@
+{
+  "niveau": "@tests-aveugle/echantillon-10-par-niveau.json",
+  "vague": 13,
+  "reponses": {
+    "e-003": [
+      "ciel",
+      "bouclier",
+      "baleine",
+      "vent",
+      "cortège",
+      "train",
+      "le parapluie"
+    ],
+    "e-006": [
+      "âges",
+      "ères",
+      "feu",
+      "volcan",
+      "lave",
+      "Pompéi",
+      "nécropole",
+      "cratère",
+      "un volcan"
+    ],
+    "e-007": [
+      "tournée",
+      "sacoche",
+      "lettres",
+      "colis",
+      "boîte",
+      "vélo",
+      "le facteur"
+    ],
+    "e-008": [
+      "ruche",
+      "abeilles",
+      "nectar",
+      "miel",
+      "sucre",
+      "tranche",
+      "le miel"
+    ],
+    "e-009": [
+      "salle",
+      "écran",
+      "réalisateur",
+      "scène",
+      "actrice",
+      "le cinéma"
+    ],
+    "e-204": [
+      "parchemin",
+      "moine",
+      "texte",
+      "rayons",
+      "écritures",
+      "palimpseste"
+    ],
+    "e-304": [
+      "masque",
+      "hypocrisie",
+      "duplicité",
+      "archétype",
+      "parangon",
+      "simagrées",
+      "crocodile",
+      "l'hypocrite"
+    ],
+    "e-305": [
+      "grâce",
+      "clémence",
+      "félon",
+      "magnanimité",
+      "rancune",
+      "amertume",
+      "rancœur",
+      "châtiment",
+      "sanction",
+      "la grâce",
+      "la générosité",
+      "le pardon"
+    ],
+    "e-308": [
+      "rigoureux",
+      "faille",
+      "prémisses",
+      "syllogisme",
+      "conclusion",
+      "piège",
+      "le sophisme"
+    ],
+    "e-325": [
+      "solitaire",
+      "retraite",
+      "anachorète",
+      "jeûne",
+      "chasteté",
+      "abstinence",
+      "austérité",
+      "mortification",
+      "purification",
+      "l'ascèse"
+    ],
+    "e-326": [
+      "tonneau",
+      "coutumes",
+      "conventions",
+      "argent",
+      "impudence",
+      "rois",
+      "notables",
+      "le cynisme"
+    ],
+    "e-329": [
+      "profusion",
+      "colonnes",
+      "volutes",
+      "torsades",
+      "torses",
+      "trompe-l'œil",
+      "ostentation",
+      "le baroque"
+    ],
+    "e-331": [
+      "dogme",
+      "hérésie",
+      "excommunication",
+      "inquisition",
+      "dissidents",
+      "bûcher",
+      "l'hérésie"
+    ],
+    "e-335": [
+      "empereur",
+      "icônes",
+      "iconoclaste",
+      "frondeur",
+      "ébranler",
+      "bousculer",
+      "valeurs",
+      "doctrine",
+      "l'iconoclasme"
+    ],
+    "e-339": [
+      "monstre",
+      "têtes",
+      "multiples",
+      "décapitation",
+      "cautériser",
+      "bout",
+      "l'hydre"
+    ],
+    "e-341": [
+      "hasard",
+      "destin",
+      "chance",
+      "fortune",
+      "étoile",
+      "guigne",
+      "poisse",
+      "le hasard"
+    ],
+    "e-403": [
+      "frigo",
+      "armoire",
+      "frais",
+      "beurre",
+      "yaourt",
+      "charcuterie",
+      "jambon",
+      "le réfrigérateur"
+    ],
+    "e-428": [
+      "quai",
+      "voie",
+      "wagon",
+      "contrôleur",
+      "billets",
+      "la gare",
+      "le train"
+    ],
+    "e-430": [
+      "traîneau",
+      "rennes",
+      "cheminée",
+      "cadeaux",
+      "sapin",
+      "le Père Noël"
+    ],
+    "e-435": [
+      "selle",
+      "guidon",
+      "pédale",
+      "équilibre",
+      "roue",
+      "chambre",
+      "le vélo"
+    ],
+    "e-437": [
+      "aéroport",
+      "valises",
+      "pilote",
+      "traînée",
+      "sillage",
+      "piste",
+      "hôtesse",
+      "l'avion"
+    ],
+    "e-503": [
+      "pointe",
+      "faîte",
+      "tige",
+      "foudre",
+      "ficelle",
+      "câble",
+      "incendie",
+      "le paratonnerre"
+    ],
+    "e-506": [
+      "pigments",
+      "enduit",
+      "humide",
+      "échafaudage",
+      "planche",
+      "plafond",
+      "la fresque"
+    ],
+    "e-509": [
+      "fleuve",
+      "bras",
+      "crues",
+      "alluvions",
+      "triangle",
+      "le delta"
+    ],
+    "e-515": [
+      "foyer",
+      "pelle",
+      "charbon",
+      "wagons",
+      "rails",
+      "la locomotive"
+    ],
+    "e-520": [
+      "diligence",
+      "shérif",
+      "flèche",
+      "duel",
+      "colt",
+      "revolver",
+      "le western"
+    ],
+    "e-530": [
+      "affront",
+      "ressentiment",
+      "représailles",
+      "implacable",
+      "châtiment",
+      "la vengeance"
+    ],
+    "e-533": [
+      "prévenu",
+      "greffier",
+      "avocat",
+      "défense",
+      "juges",
+      "jury",
+      "cour",
+      "verdict",
+      "le tribunal"
+    ],
+    "e-536": [
+      "bottes",
+      "ogre",
+      "colosse",
+      "dévorer",
+      "couronnes",
+      "bijoux",
+      "cailloux",
+      "l'ogre"
+    ],
+    "e-541": [
+      "crocs",
+      "cercueil",
+      "ail",
+      "soleil",
+      "aube",
+      "pieu",
+      "le vampire"
+    ],
+    "np-002": [
+      "Victor Hugo",
+      "Molière",
+      "Zola",
+      "Émile Zola",
+      "Jules Verne"
+    ],
+    "np-103": [
+      "Strasbourg",
+      "Marseille",
+      "Lille",
+      "Bordeaux"
+    ],
+    "np-204": [
+      "Tolstoï",
+      "Dostoïevski",
+      "Tchekhov",
+      "Pouchkine"
+    ],
+    "np-205": [
+      "Archimède",
+      "Euclide",
+      "Pythagore",
+      "Hippocrate"
+    ],
+    "np-307": [
+      "Diderot",
+      "Montesquieu",
+      "Marivaux",
+      "Beaumarchais"
+    ],
+    "np-316": [
+      "Hadrien",
+      "Caligula",
+      "Néron",
+      "Marc Aurèle"
+    ],
+    "np-322": [
+      "Hamlet",
+      "Othello",
+      "Falstaff",
+      "Prospero"
+    ],
+    "np-327": [
+      "Georges Brassens",
+      "Jacques Brel",
+      "Léo Ferré",
+      "Barbara"
+    ],
+    "np-328": [
+      "Goya",
+      "Vélasquez",
+      "Zurbarán",
+      "Le Greco"
+    ],
+    "np-331": [
+      "Hegel",
+      "Nietzsche",
+      "Schopenhauer",
+      "Heidegger"
+    ],
+    "np-338": [
+      "Ney",
+      "Murat",
+      "Davout",
+      "Lannes"
+    ],
+    "np-345": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Freyja"
+    ],
+    "np-349": [
+      "Blake",
+      "Corto Maltese",
+      "Valérian",
+      "Blueberry"
+    ],
+    "np-403": [
+      "New York",
+      "Londres",
+      "Rio de Janeiro",
+      "Venise"
+    ],
+    "np-420": [
+      "Federer",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Yannick Noah",
+      "Serena Williams"
+    ],
+    "np-424": [
+      "Brigitte Bardot",
+      "Catherine Deneuve",
+      "Audrey Tautou",
+      "Marion Cotillard"
+    ],
+    "np-432": [
+      "Orangina",
+      "Coca-Cola",
+      "Nutella",
+      "Haribo",
+      "Danone"
+    ],
+    "np-434": [
+      "Martinique",
+      "La Réunion",
+      "Tahiti",
+      "Guyane"
+    ],
+    "np-437": [
+      "Méditerranée",
+      "Pacifique",
+      "Manche",
+      "Mer Morte"
+    ],
+    "np-441": [
+      "Dark Vador",
+      "Yoda",
+      "Chewbacca",
+      "Luke Skywalker"
+    ],
+    "np-448": [
+      "Charles de Gaulle",
+      "Jacques Chirac",
+      "François Mitterrand",
+      "Emmanuel Macron"
+    ],
+    "np-449": [
+      "Abraham Lincoln",
+      "John Kennedy",
+      "George Washington",
+      "Barack Obama"
+    ],
+    "np-501": [
+      "Aïda",
+      "Rigoletto",
+      "Nabucco",
+      "Il Trovatore"
+    ],
+    "np-505": [
+      "Matisse",
+      "Braque",
+      "Derain",
+      "Léger",
+      "Fernand Léger"
+    ],
+    "np-511": [
+      "La Fontaine",
+      "La Bruyère",
+      "La Rochefoucauld",
+      "Boileau"
+    ],
+    "np-524": [
+      "Pénélope",
+      "Eurydice",
+      "Pandore",
+      "Hélène"
+    ],
+    "np-528": [
+      "Richelieu",
+      "Mazarin",
+      "Colbert",
+      "Sully",
+      "Necker"
+    ],
+    "np-534": [
+      "Blériot",
+      "Louis Blériot",
+      "Saint-Exupéry",
+      "Jean Mermoz",
+      "Roland Garros"
+    ],
+    "np-542": [
+      "Led Zeppelin",
+      "The Who",
+      "Pink Floyd",
+      "Oasis"
+    ],
+    "np-549": [
+      "Séville",
+      "Grenade",
+      "Barcelone",
+      "Porto"
+    ]
+  }
+}

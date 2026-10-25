@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le ____ ; sa magnanimité désarma la ____ des courtisans, qui attendaient une ____ exemplaire.",
+    "dejaFausses": [
+      "La miséricorde",
+      "L'indulgence"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe roi fit preuve de clémence envers le ____ ; sa magnanimité désarma la ____ des courtisans, qui attendaient une ____ exemplaire.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « La miséricorde », « L'indulgence »."
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "solution",
+    "texte": "Ce monstre aux têtes ____ renaissait à chaque ____ ; Héraclès dut ____ les plaies pour en venir à ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Héraclès au marais ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nCe monstre aux têtes ____ renaissait à chaque ____ ; Héraclès dut ____ les plaies pour en venir à ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la ____, on tient le ____, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.",
+    "dejaFausses": [
+      "Un engin à deux roues",
+      "Un moyen de locomotion"
+    ],
+    "message": "Titre de l'énigme : « Petite reine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nOn s'assoit sur la ____, on tient le ____, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Un engin à deux roues », « Un moyen de locomotion »."
+  }
+]

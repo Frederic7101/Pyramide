@@ -1,0 +1,9 @@
+{
+  "np-307": { "reponse": "Pierre-Augustin Caron de Beaumarchais", "raisonnement": "Figaro est le personnage de Beaumarchais, auteur du Mariage de Figaro. Nom complet habituel de l'ecrivain des Lumieres." },
+  "np-327": { "reponse": "Jean Ferrat", "raisonnement": "Aigle renvoie a une chanson de Jean Ferrat, grand de la chanson francaise. Brassens, Brel, Becaud et Ferre sont deja traites." },
+  "np-420": { "reponse": "Serena Williams", "raisonnement": "Venus Williams est rejetee, le complement est la soeur de Venus, Serena Williams, championne de tennis dans la meme famille. Nom complet habituel." },
+  "np-448": { "reponse": "Emmanuel Macron", "raisonnement": "Brigitte est l'epouse d'Emmanuel Macron, president de la Republique. Hollande, Chirac et Mitterrand sont deja trouves." },
+  "np-505": { "reponse": "Fernand Léger", "raisonnement": "Constructeurs et tubes renvoient a la peinture cubiste et mecanique de Fernand Leger. Picasso est rejete. Nom complet habituel." },
+  "np-524": { "reponse": "Hélène", "raisonnement": "Sparte est la cite d'Helene, heroine de la mythologie grecque. Penelope, Eurydice, Meduse et Pandore sont deja traites." },
+  "np-528": { "reponse": "Sully", "raisonnement": "Rosny est la seigneurie de Sully, ministre d'Henri IV qui promouvait le labourage. Maximilien de Bethune est rejete, Sully est le nom usuel en un mot." }
+}

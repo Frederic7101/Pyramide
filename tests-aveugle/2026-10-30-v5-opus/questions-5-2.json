@@ -1,0 +1,76 @@
+[
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Georges Braque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "André Derain"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tubes",
+      "Constructeurs"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Maurice de Vlaminck"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Fauves et cubistes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Henri Matisse »).\nNom n°2 : trouvé (« Georges Braque »).\nNom n°3 : trouvé (« André Derain »).\nBriques de Dico :\n1. tubes\n2. Constructeurs\nRéponses déjà jugées fausses : « Maurice de Vlaminck ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-528",
+    "type": "nom",
+    "theme": "Ministres de l'Ancien Régime",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Richelieu",
+          "Jules Mazarin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Baptiste Colbert"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Sully"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Genève"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Ministres de l'Ancien Régime ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Jules Mazarin »).\nNom n°2 : trouvé (« Jean-Baptiste Colbert »).\nNom n°3 : trouvé (« Sully »).\nBriques de Dico :\n1. Genève\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

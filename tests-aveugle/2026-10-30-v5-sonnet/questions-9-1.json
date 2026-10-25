@@ -1,0 +1,118 @@
+[
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "solution",
+    "texte": "Je dors parfois pendant des ____ ; à mon réveil, je crache du feu et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le dormeur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe dors parfois pendant des ____ ; à mon réveil, je crache du feu et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grâce",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "félon"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "magnanimité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "rancune",
+          "amertume",
+          "rancœur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "punition",
+      "avec"
+    ],
+    "dejaFausses": [
+      "châtiment"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« clémence »).\nMot n°2 : trouvé (« félon »).\nMot n°3 : trouvé (« magnanimité »).\nMot n°4 : trouvé (« rancœur »).\nMot d'une énigme. Briques de Dico :\n1. punition\n2. avec\nRéponses déjà jugées fausses : « châtiment ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "solitaire",
+          "retraite",
+          "anachorète"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "jeûne"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "chasteté",
+          "abstinence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "austérité",
+          "mortification"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "ablutions"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le désert intérieur ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« anachorète »).\nMot n°2 : trouvé (« jeûne »).\nMot n°3 : trouvé (« abstinence »).\nMot n°4 : non trouvé (tes propositions : « austérité », « mortification »).\nMot d'une énigme. Briques de Dico :\n1. ablutions\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "solution",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les ____ établis.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Querelle des images ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nÀ Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les ____ établis.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son ____ ; les ____ se retirent avant le verdict.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Salle des pas perdus ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son ____ ; les ____ se retirent avant le verdict.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  }
+]

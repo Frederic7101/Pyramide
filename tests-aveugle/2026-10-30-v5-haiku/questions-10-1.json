@@ -1,0 +1,479 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ciel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "nuage",
+          "armure",
+          "vin"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "mer",
+          "dauphin"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "vent"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "convoi",
+      "rails",
+      "accélérateur"
+    ],
+    "dejaFausses": [
+      "nuée",
+      "brume"
+    ],
+    "message": "Titre de l'énigme : « Compagnon des jours gris ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« ciel »).\nMot n°2 : non trouvé (tes propositions : « nuage », « armure », « vin »).\nMot n°3 : non trouvé (tes propositions : « mer », « dauphin »).\nMot n°4 : trouvé (« vent »).\nMot d'une énigme. Briques de Dico :\n1. convoi\n2. rails\n3. accélérateur\nRéponses déjà jugées fausses : « nuée », « brume ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "solution",
+    "texte": "Je dors parfois pendant des siècles ; à mon réveil, je crache du ____ et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.",
+    "dejaFausses": [
+      "Le Vésuve"
+    ],
+    "message": "Titre de l'énigme : « Le dormeur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe dors parfois pendant des siècles ; à mon réveil, je crache du ____ et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Le Vésuve »."
+  },
+  {
+    "id": "e-007",
+    "titre": "Il passe chaque matin",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "tournée"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "facteur",
+          "écolier",
+          "balayeur"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "postier",
+          "soleil"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "laitier",
+          "boulanger"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "bicyclette",
+      "mensonge"
+    ],
+    "dejaFausses": [
+      "livreur"
+    ],
+    "message": "Titre de l'énigme : « Il passe chaque matin ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« tournée »).\nMot n°2 : non trouvé (tes propositions : « facteur », « écolier », « balayeur »).\nMot n°3 : non trouvé (tes propositions : « postier », « soleil »).\nMot n°4 : non trouvé (tes propositions : « laitier », « boulanger »).\nMot d'une énigme. Briques de Dico :\n1. bicyclette\n2. mensonge\nRéponses déjà jugées fausses : « livreur ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "miel",
+          "nectar",
+          "sirop"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gelée",
+          "huile"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "hydromel",
+          "ambre"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "caramel",
+          "lait"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "rondelle"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Or liquide ».\nTu cherches le mot n°5.\nMot n°1 : non trouvé (tes propositions : « miel », « nectar », « sirop »).\nMot n°2 : non trouvé (tes propositions : « gelée », « huile »).\nMot n°3 : non trouvé (tes propositions : « hydromel », « ambre »).\nMot n°4 : non trouvé (tes propositions : « caramel », « lait »).\nMot d'une énigme. Briques de Dico :\n1. rondelle\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-009",
+    "titre": "Septième art",
+    "type": "solution",
+    "texte": "Dans la ____ obscure, on fixe le grand écran ; le réalisateur crie « Moteur ! » ; une scène jouée par une actrice fait pleurer le public.",
+    "dejaFausses": [
+      "Une projection",
+      "Un long-métrage"
+    ],
+    "message": "Titre de l'énigme : « Septième art ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans la ____ obscure, on fixe le grand écran ; le réalisateur crie « Moteur ! » ; une scène jouée par une actrice fait pleurer le public.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Une projection », « Un long-métrage »."
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "grâce",
+          "absolution",
+          "amnistie"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "magnanimité"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "rancune",
+          "vindicte",
+          "pitié"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "punition",
+      "avec"
+    ],
+    "dejaFausses": [
+      "châtiment"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« clémence »).\nMot n°2 : non trouvé (tes propositions : « grâce », « absolution », « amnistie »).\nMot n°3 : trouvé (« magnanimité »).\nMot n°4 : non trouvé (tes propositions : « rancune », « vindicte », « pitié »).\nMot d'une énigme. Briques de Dico :\n1. punition\n2. avec\nRéponses déjà jugées fausses : « châtiment ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "solution",
+    "texte": "L'anachorète se prive de tout : jeûne, ____ et veilles ; par cette discipline, il cherche la purification de l'âme.",
+    "dejaFausses": [
+      "La mortification"
+    ],
+    "message": "Titre de l'énigme : « Le désert intérieur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nL'anachorète se prive de tout : jeûne, ____ et veilles ; par cette discipline, il cherche la purification de l'âme.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « La mortification »."
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "hydre",
+          "monstre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "serpent",
+          "polycéphale"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "tête",
+          "supplice",
+          "neuf"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "brûler",
+      "brasier",
+      "falaise"
+    ],
+    "dejaFausses": [
+      "torche",
+      "cautère"
+    ],
+    "message": "Titre de l'énigme : « Héraclès au marais ».\nTu cherches le mot n°4.\nMot n°1 : trouvé (« monstre »).\nMot n°2 : non trouvé (tes propositions : « serpent », « polycéphale »).\nMot n°3 : non trouvé (tes propositions : « tête », « supplice », « neuf »).\nMot d'une énigme. Briques de Dico :\n1. brûler\n2. brasier\n3. falaise\nRéponses déjà jugées fausses : « torche », « cautère ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-341",
+    "titre": "Coup de dés",
+    "type": "solution",
+    "texte": "Ni destin ni calcul : seule la chance décide ; la fortune sourit aux audacieux ; le joueur invoque sa bonne étoile et redoute la poisse.",
+    "dejaFausses": [
+      "Le joueur",
+      "Le pari"
+    ],
+    "message": "Titre de l'énigme : « Coup de dés ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nNi destin ni calcul : seule la chance décide ; la fortune sourit aux audacieux ; le joueur invoque sa bonne étoile et redoute la poisse.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Le joueur », « Le pari »."
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande ____ blanche garde au ____ le beurre, les yaourts et le ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Pôle Nord de la cuisine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans la cuisine, cette grande ____ blanche garde au ____ le beurre, les yaourts et le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "pédale",
+          "guidon"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "roue",
+          "frein"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "vitesse",
+          "mobylette"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "équilibre"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pièce",
+      "pneu",
+      "Élysées"
+    ],
+    "dejaFausses": [
+      "chaîne",
+      "rayon"
+    ],
+    "message": "Titre de l'énigme : « Petite reine ».\nTu cherches le mot n°5.\nMot n°1 : non trouvé (tes propositions : « pédale », « guidon »).\nMot n°2 : non trouvé (tes propositions : « roue », « frein »).\nMot n°3 : non trouvé (tes propositions : « vitesse », « mobylette »).\nMot n°4 : trouvé (« équilibre »).\nMot d'une énigme. Briques de Dico :\n1. pièce\n2. pneu\n3. Élysées\nRéponses déjà jugées fausses : « chaîne », « rayon ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "solution",
+    "texte": "Dans l'____, on dépose ses ____ ; le ____ attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Au-dessus des nuages ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans l'____, on dépose ses ____ ; le ____ attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "solution",
+    "texte": "Dressée sur le faîte de l'édifice, une tige métallique attire la ____ ; un ____ la conduit jusqu'au sol, évitant l'incendie.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le cerf-volant de Benjamin ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDressée sur le faîte de l'édifice, une tige métallique attire la ____ ; un ____ la conduit jusqu'au sol, évitant l'incendie.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "solution",
+    "texte": "Les ____ sont posés sur un ____ encore humide ; juché sur un échafaudage, Michel-Ange couvrit ainsi le plafond de la Sixtine.",
+    "dejaFausses": [
+      "La chapelle Sixtine"
+    ],
+    "message": "Titre de l'énigme : « Peindre dans le frais ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLes ____ sont posés sur un ____ encore humide ; juché sur un échafaudage, Michel-Ange couvrit ainsi le plafond de la Sixtine.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « La chapelle Sixtine »."
+  },
+  {
+    "id": "e-515",
+    "titre": "Le cheval de fer",
+    "type": "solution",
+    "texte": "Son foyer chauffe l'eau ; à la pelle, on y jette le charbon ; elle tire les ____ sur les rails.",
+    "dejaFausses": [
+      "Le train",
+      "Une machine à vapeur"
+    ],
+    "message": "Titre de l'énigme : « Le cheval de fer ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nSon foyer chauffe l'eau ; à la pelle, on y jette le charbon ; elle tire les ____ sur les rails.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Le train », « Une machine à vapeur »."
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "avocat",
+          "prévenu"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "greffier"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "procès",
+          "réquisitoire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "juges",
+          "verdict",
+          "robe"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "sentence",
+      "rouge"
+    ],
+    "dejaFausses": [
+      "condamnation"
+    ],
+    "message": "Titre de l'énigme : « Salle des pas perdus ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« prévenu »).\nMot n°2 : trouvé (« greffier »).\nMot n°3 : trouvé (« réquisitoire »).\nMot n°4 : non trouvé (tes propositions : « juges », « verdict », « robe »).\nMot d'une énigme. Briques de Dico :\n1. sentence\n2. rouge\nRéponses déjà jugées fausses : « condamnation ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ogre",
+          "cavalier"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "cannibale",
+          "colosse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Gargantua",
+          "bibliophage"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "tyran",
+          "monarque"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "pierres",
+      "Poucet"
+    ],
+    "dejaFausses": [
+      "pétrifié"
+    ],
+    "message": "Titre de l'énigme : « Je sens la chair fraîche ».\nTu cherches le mot n°5.\nMot n°1 : non trouvé (tes propositions : « ogre », « cavalier »).\nMot n°2 : trouvé (« colosse »).\nMot n°3 : non trouvé (tes propositions : « Gargantua », « bibliophage »).\nMot n°4 : non trouvé (tes propositions : « tyran », « monarque »).\nMot d'une énigme. Briques de Dico :\n1. pierres\n2. Poucet\nRéponses déjà jugées fausses : « pétrifié ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-541",
+    "titre": "Le comte des Carpates",
+    "type": "solution",
+    "texte": "Il plante ses ____ dans les cous, dort le jour dans un cercueil, fuit l'ail et redoute l'____ ; un pieu dans le cœur l'achève.",
+    "dejaFausses": [
+      "Un mort-vivant",
+      "Un suceur de sang"
+    ],
+    "message": "Titre de l'énigme : « Le comte des Carpates ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nIl plante ses ____ dans les cous, dort le jour dans un cercueil, fuit l'ail et redoute l'____ ; un pieu dans le cœur l'achève.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Un mort-vivant », « Un suceur de sang »."
+  }
+]

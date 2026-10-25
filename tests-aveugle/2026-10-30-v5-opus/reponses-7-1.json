@@ -1,0 +1,18 @@
+{
+  "e-003": { "reponse": "le parapluie", "raisonnement": "Il s'ouvre sous un ciel menaçant, protège de l'averse, a des baleines : le parapluie." },
+  "e-009": { "reponse": "le cinéma", "raisonnement": "Salle obscure, écran, réalisateur, actrice : le cinéma, septième art." },
+  "e-304": { "reponse": "l'hypocrisie", "raisonnement": "Duplicité sous le masque de la vertu, Tartuffe, larmes de crocodile : l'hypocrisie." },
+  "e-305": { "reponse": "sanction", "raisonnement": "Châtiment refusé ; avec → sans → [sɑ̃] incite à sanction, synonyme de punition." },
+  "e-325": { "reponse": "discipline", "raisonnement": "Austérité refusée ; rigueur + fouet (la discipline des pénitents) donnent discipline." },
+  "e-331": { "reponse": "l'hérésie", "raisonnement": "S'écarter du dogme, être excommunié et traqué par l'Inquisition : l'hérésie." },
+  "e-335": { "reponse": "règles", "raisonnement": "Synonyme pluriel de principes, que la querelle bouscule." },
+  "e-341": { "reponse": "le hasard", "raisonnement": "Ni destin ni calcul, seule la chance décide : le hasard." },
+  "e-403": { "reponse": "jambon", "raisonnement": "Charcuterie refusée ; mauvais → bon → [bɔ̃] en finale incite à jambon, proche du saucisson." },
+  "e-435": { "reponse": "chambre", "raisonnement": "Rustine refusée ; pièce a pour synonyme chambre, et pneu précise la chambre à air." },
+  "e-437": { "reponse": "l'avion", "raisonnement": "Aéroport, pilote, piste, hôtesse : l'avion." },
+  "e-503": { "reponse": "incendie", "raisonnement": "Synonyme de brasier, que la foudre peut provoquer." },
+  "e-520": { "reponse": "le western", "raisonnement": "Diligence, shérif, duel, revolver, John Ford : le western." },
+  "e-530": { "reponse": "la vengeance", "raisonnement": "Monte-Cristo prépare froidement ses représailles : la vengeance, plat qui se mange froid." },
+  "e-533": { "reponse": "jurés", "raisonnement": "Juges et jury refusés ; pantalon → jupe → [ʒy] incite à jurés, avec assesseurs et délibération." },
+  "e-541": { "reponse": "le vampire", "raisonnement": "Dracula refusé ; le texte décrit un vampire : crocs, cercueil, ail, aube, pieu." }
+}

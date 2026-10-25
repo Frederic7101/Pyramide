@@ -1,0 +1,178 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "solution",
+    "texte": "Je m'ouvre quand le ciel est menaçant ; je suis votre ____ contre l'averse ; mes ____ plient par grand vent ; on m'oublie souvent dans le ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Compagnon des jours gris ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe m'ouvre quand le ciel est menaçant ; je suis votre ____ contre l'averse ; mes ____ plient par grand vent ; on m'oublie souvent dans le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-006",
+    "titre": "Le dormeur",
+    "type": "solution",
+    "texte": "Je dors parfois pendant des siècles ; à mon réveil, je crache du ____ et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.",
+    "dejaFausses": [
+      "Le Vésuve",
+      "Un volcan endormi"
+    ],
+    "message": "Titre de l'énigme : « Le dormeur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe dors parfois pendant des siècles ; à mon réveil, je crache du ____ et de la lave ; j'ai jadis enseveli une ____ romaine ; mon cratère fume au sommet.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Le Vésuve », « Un volcan endormi »."
+  },
+  {
+    "id": "e-007",
+    "titre": "Il passe chaque matin",
+    "type": "solution",
+    "texte": "Je fais ma tournée chaque matin ; ma ____ est pleine de ____ ; je glisse le courrier dans la ____ ; jadis, je circulais à ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Il passe chaque matin ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe fais ma tournée chaque matin ; ma ____ est pleine de ____ ; je glisse le courrier dans la ____ ; jadis, je circulais à ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "miel",
+          "nectar",
+          "sirop"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "gelée",
+          "huile"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "hydromel",
+          "ambre"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "caramel",
+          "lait"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "rondelle",
+      "vingt-neuf"
+    ],
+    "dejaFausses": [
+      "bière"
+    ],
+    "message": "Titre de l'énigme : « Or liquide ».\nTu cherches le mot n°5.\nMot n°1 : non trouvé (tes propositions : « miel », « nectar », « sirop »).\nMot n°2 : non trouvé (tes propositions : « gelée », « huile »).\nMot n°3 : non trouvé (tes propositions : « hydromel », « ambre »).\nMot n°4 : non trouvé (tes propositions : « caramel », « lait »).\nMot d'une énigme. Briques de Dico :\n1. rondelle\n2. vingt-neuf\nRéponses déjà jugées fausses : « bière ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le ____ ; sa magnanimité désarma la ____ des courtisans, qui attendaient une ____ exemplaire.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe roi fit preuve de clémence envers le ____ ; sa magnanimité désarma la ____ des courtisans, qui attendaient une ____ exemplaire.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "hydre",
+          "monstre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "serpent",
+          "polycéphale"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "tête",
+          "supplice",
+          "neuf"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "torche",
+          "cautère",
+          "Vulcain"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "extrémité"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Héraclès au marais ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« monstre »).\nMot n°2 : non trouvé (tes propositions : « serpent », « polycéphale »).\nMot n°3 : non trouvé (tes propositions : « tête », « supplice », « neuf »).\nMot n°4 : non trouvé (tes propositions : « torche », « cautère », « Vulcain »).\nMot d'une énigme. Briques de Dico :\n1. extrémité\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la ____, on tient le ____, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Petite reine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nOn s'assoit sur la ____, on tient le ____, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "solution",
+    "texte": "Dans l'____, on dépose ses ____ ; le ____ attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.",
+    "dejaFausses": [
+      "Un vol"
+    ],
+    "message": "Titre de l'énigme : « Au-dessus des nuages ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans l'____, on dépose ses ____ ; le ____ attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Un vol »."
+  },
+  {
+    "id": "e-506",
+    "titre": "Peindre dans le frais",
+    "type": "solution",
+    "texte": "Les ____ sont posés sur un ____ encore humide ; juché sur un échafaudage, Michel-Ange couvrit ainsi le plafond de la Sixtine.",
+    "dejaFausses": [
+      "La chapelle Sixtine",
+      "Une voûte peinte"
+    ],
+    "message": "Titre de l'énigme : « Peindre dans le frais ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLes ____ sont posés sur un ____ encore humide ; juché sur un échafaudage, Michel-Ange couvrit ainsi le plafond de la Sixtine.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « La chapelle Sixtine », « Une voûte peinte »."
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son réquisitoire ; les ____ se retirent avant le ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Salle des pas perdus ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son réquisitoire ; les ____ se retirent avant le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-536",
+    "titre": "Je sens la chair fraîche",
+    "type": "solution",
+    "texte": "Chaussé de ____ de sept lieues, ce colosse rêve de ____ sept frères ; il égorge ses filles, trompé par leurs ____, échangées par le petit dernier, celui des cailloux.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Je sens la chair fraîche ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nChaussé de ____ de sept lieues, ce colosse rêve de ____ sept frères ; il égorge ses filles, trompé par leurs ____, échangées par le petit dernier, celui des cailloux.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  }
+]

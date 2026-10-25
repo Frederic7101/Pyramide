@@ -1,0 +1,101 @@
+[
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "solution",
+    "texte": "Je suis né dans une ____ ; les ____ m'ont fabriqué avec le ____ des fleurs ; je suis ____ et doré ; on m'étale sur une ____ de pain.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Or liquide ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe suis né dans une ____ ; les ____ m'ont fabriqué avec le ____ des fleurs ; je suis ____ et doré ; on m'étale sur une ____ de pain.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le ____ ; sa magnanimité désarma la ____ des courtisans, qui attendaient une ____ exemplaire.",
+    "dejaFausses": [
+      "La miséricorde"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe roi fit preuve de clémence envers le ____ ; sa magnanimité désarma la ____ des courtisans, qui attendaient une ____ exemplaire.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « La miséricorde »."
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "hydre",
+          "monstre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "serpent",
+          "polycéphale"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "tête",
+          "supplice",
+          "neuf"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "torche",
+          "cautère",
+          "Vulcain"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "extrémité",
+      "chandelle"
+    ],
+    "dejaFausses": [
+      "bouclier"
+    ],
+    "message": "Titre de l'énigme : « Héraclès au marais ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« monstre »).\nMot n°2 : non trouvé (tes propositions : « serpent », « polycéphale »).\nMot n°3 : non trouvé (tes propositions : « tête », « supplice », « neuf »).\nMot n°4 : non trouvé (tes propositions : « torche », « cautère », « Vulcain »).\nMot d'une énigme. Briques de Dico :\n1. extrémité\n2. chandelle\nRéponses déjà jugées fausses : « bouclier ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-435",
+    "titre": "Petite reine",
+    "type": "solution",
+    "texte": "On s'assoit sur la ____, on tient le ____, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.",
+    "dejaFausses": [
+      "Un engin à deux roues"
+    ],
+    "message": "Titre de l'énigme : « Petite reine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nOn s'assoit sur la ____, on tient le ____, on appuie sur les ____ ; il faut garder l'équilibre ; une crevaison, et il faut changer la ____ à air.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Un engin à deux roues »."
+  },
+  {
+    "id": "e-437",
+    "titre": "Au-dessus des nuages",
+    "type": "solution",
+    "texte": "Dans l'____, on dépose ses ____ ; le ____ attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.",
+    "dejaFausses": [
+      "Un vol",
+      "Un voyage aérien"
+    ],
+    "message": "Titre de l'énigme : « Au-dessus des nuages ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans l'____, on dépose ses ____ ; le ____ attend l'autorisation de quitter la piste ; à bord, l'hôtesse sert un plateau-repas.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Un vol », « Un voyage aérien »."
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son réquisitoire ; les ____ se retirent avant le ____.",
+    "dejaFausses": [
+      "Le délibéré"
+    ],
+    "message": "Titre de l'énigme : « Salle des pas perdus ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son réquisitoire ; les ____ se retirent avant le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « Le délibéré »."
+  }
+]
