@@ -50,7 +50,7 @@ function avancer(etat: EtatNomsDico): EtatNomsDico {
 /** Vrai si la réponse de Syno est le nom attendu (prononciation comparée). */
 function estJuste(etat: EtatNomsDico, reponse: string): boolean {
   const nom = etat.liste.noms[etat.nomIndex];
-  return reponseCorrectePhonetique(reponse, nom.reponse, nom.variantes);
+  return reponseCorrectePhonetique(reponse, nom.reponse, [...(nom.variantes ?? []), ...(nom.partielles ?? [])]);
 }
 
 /** Vrai si la dernière réponse de Syno est une réponse incomplète prévue (« Monet » pour « Claude Monet »). */

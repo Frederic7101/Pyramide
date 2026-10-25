@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { abandonnerNom, completerNom, creerNomsDico, jouerBriqueNom, peutCompleter, refuserBriqueNom, scoreNomsDico } from "./nomsDico";
+import { creerNomsDico, jouerBriqueNom, peutCompleter, refuserBriqueNom, scoreNomsDico } from "./nomsDico";
 import type { ListeNomsPropres } from "./types";
 
 const liste: ListeNomsPropres = {
@@ -30,26 +30,11 @@ describe("noms propres en mode Dico", () => {
     expect(e.nomIndex).toBe(1);
   });
 
-  it("réponse incomplète : « Complétez » une seule fois", () => {
+  it("le nom de famille seul (« Monet » pour « Claude Monet ») est accepté tout de suite", () => {
     let e = creerNomsDico(liste);
     e = jouerBriqueNom(e, "Giverny", "Monet");
-    expect(peutCompleter(e)).toBe(true);
-    e = completerNom(e, "Édouard Monet");
-    expect(peutCompleter(e)).toBe(false);
-    expect(e.noms[0].statut).toBe("a-jouer");
-    e = jouerBriqueNom(e, "nymphéas", "Claude Monet");
     expect(e.noms[0].statut).toBe("trouve");
-  });
-
-  it("réponse incomplète à la 3e brique : le nom attend « Complétez » ou l'abandon", () => {
-    let e = creerNomsDico(liste);
-    e = jouerBriqueNom(e, "a", "Renoir");
-    e = jouerBriqueNom(e, "b", "Manet");
-    e = jouerBriqueNom(e, "c", "Monet");
-    expect(e.nomIndex).toBe(0);
-    expect(peutCompleter(e)).toBe(true);
-    expect(abandonnerNom(e).noms[0].statut).toBe("perdu");
-    expect(completerNom(e, "Claude Monet").noms[0].statut).toBe("trouve");
+    expect(peutCompleter(e)).toBe(false);
   });
 
   it("brique interdite : nom refusé ; score final", () => {

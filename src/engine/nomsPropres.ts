@@ -110,12 +110,9 @@ export function repondreNom(etat: EtatNoms, reponse: string): EtatNoms {
   }
 
   const reponses = [...courant.reponses, reponse];
-  if (reponseCorrectePhonetique(reponse, nom.reponse, nom.variantes)) {
+  // Le nom de famille seul (« Kennedy » pour « John F. Kennedy », déclaré dans `partielles`) est accepté tout de suite.
+  if (reponseCorrectePhonetique(reponse, nom.reponse, [...(nom.variantes ?? []), ...(nom.partielles ?? [])])) {
     return avancer(etat, remplacer(etat.resultats, etat.nomIndex, { ...courant, statut: "trouve", briquesUtilisees: reponses.length, reponses }));
-  }
-  const [premierePartielle = "", ...autresPartielles] = nom.partielles ?? [];
-  if (!courant.invitationUtilisee && reponseCorrectePhonetique(reponse, premierePartielle, autresPartielles)) {
-    return { ...etat, resultats: remplacer(etat.resultats, etat.nomIndex, { ...courant, reponses, invitationUtilisee: true, attenteCompletion: true }) };
   }
   if (reponses.length >= nom.briques.length) {
     return avancer(etat, remplacer(etat.resultats, etat.nomIndex, { ...courant, statut: "perdu", briquesUtilisees: reponses.length, reponses }));

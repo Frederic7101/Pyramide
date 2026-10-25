@@ -79,11 +79,11 @@ export const LOT4_NOMS_PROPRES: ListeNomsPropres[] = [
     ["Le Petit Chaperon rouge", ["loup", "galette", inc("grand", "petit", "Petit")], { variantes: ["Petit Chaperon rouge"], partielles: ["Chaperon rouge"] }],
     ["Le Petit Poucet", ["cailloux", "ogre", inc("index", "pouce", "Pouc", "pouc")], { variantes: ["Petit Poucet"], partielles: ["Poucet"] }],
     ["Pinocchio", ["nez", "Geppetto", inc("mieux", "pis", "Pi")]],
-    ["Peter Pan", ["Crochet", "Wendy", "fée Clochette"]],
+    ["Peter Pan", ["Crochet", "Wendy", "fée Clochette"], { partielles: ["Pan"] }],
   ]),
   liste("np-411", "Héros de BD franco-belge", [
     ["Tintin", ["houppette", "Hergé", inc("romarin", "thym", "Tin", "thym")]],
-    ["Lucky Luke", ["cow-boy", "Dalton", "Jolly Jumper"]],
+    ["Lucky Luke", ["cow-boy", "Dalton", "Jolly Jumper"], { partielles: ["Luke"] }],
     ["Gaston Lagaffe", ["Franquin", "Prunelle", "Mademoiselle Jeanne"], { partielles: ["Gaston", "Lagaffe"] }],
     ["Spirou", ["groom", "Fantasio", "Marsupilami"]],
   ]),
@@ -101,7 +101,7 @@ export const LOT4_NOMS_PROPRES: ListeNomsPropres[] = [
   ]),
   liste("np-414", "Grandes figures de l'histoire de France", [
     ["Napoléon", ["Corse", "Waterloo", inc("serviette", "nappe", "Nap")], { variantes: ["Napoleon", "Napoléon Bonaparte", "Bonaparte"] }],
-    ["Jeanne d'Arc", ["Orléans", "bûcher", inc("flèche", "arc", "Arc", undefined, "fin")], { variantes: ["Jeanne d Arc"] }],
+    ["Jeanne d'Arc", ["Orléans", "bûcher", inc("flèche", "arc", "Arc", undefined, "fin")], { variantes: ["Jeanne d Arc"], partielles: ["Arc"] }],
     ["Charlemagne", ["école", "empereur", inc("souris", "chat", "Cha")]],
     ["Vercingétorix", ["Gaulois", "Alésia", inc("asticot", "ver", "Ver")], { variantes: ["Vercingetorix"] }],
   ]),
@@ -109,7 +109,7 @@ export const LOT4_NOMS_PROPRES: ListeNomsPropres[] = [
     ["Johnny Hallyday", ["rockeur", "Laeticia", inc("Baba", "Ali", "Hally", "Ali")], { partielles: ["Hallyday", "Johnny"] }],
     ["Édith Piaf", ["môme", "moineau", inc("forte", "piano", "Pia")], { variantes: ["Edith Piaf"], partielles: ["Piaf"] }],
     ["Charles Aznavour", ["Bohème", "Arménie", "Emmenez-moi"], { partielles: ["Aznavour"] }],
-    ["Claude François", ["Magnolias", "Alexandrie", "Lundi au soleil"], { variantes: ["Cloclo"] }],
+    ["Claude François", ["Magnolias", "Alexandrie", "Lundi au soleil"], { variantes: ["Cloclo"], partielles: ["François"] }],
   ]),
   liste("np-416", "Chanteuses", [
     ["Céline Dion", ["Québec", "René", "Las Vegas"], { variantes: ["Celine Dion"], partielles: ["Dion"] }],
@@ -304,7 +304,7 @@ export const LOT4_NOMS_PROPRES: ListeNomsPropres[] = [
     ["Charles Lindbergh", ["Atlantique", "avion", inc("coton", "lin", "Lin")], { partielles: ["Lindbergh"] }],
   ]),
   liste("np-448", "Présidents de la République", [
-    ["Charles de Gaulle", ["croix de Lorraine", "appel", inc("tank", "char", "Char")], { variantes: ["De Gaulle", "de Gaulle", "Général de Gaulle"] }],
+    ["Charles de Gaulle", ["croix de Lorraine", "appel", inc("tank", "char", "Char")], { variantes: ["De Gaulle", "de Gaulle", "Général de Gaulle"], partielles: ["Gaulle"] }],
     ["Jacques Chirac", ["Corrèze", "pommes", "Bernadette"], { partielles: ["Chirac"] }],
     ["François Mitterrand", ["rose", "Mazarine", inc("croûte", "mie", "Mi")], { variantes: ["Francois Mitterrand"], partielles: ["Mitterrand"] }],
     ["Emmanuel Macron", ["Brigitte", "En marche", "Amiens"], { partielles: ["Macron"] }],

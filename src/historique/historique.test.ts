@@ -148,12 +148,11 @@ describe("tableau des scores face aux modèles", () => {
     const refNoms: ReferenceSyno = { type: "noms", empreinte: empreinteNoms(liste), date: "2026-10-27", score: 3, trouveA: [1, 1, 2, null], reponses: [] };
     const lignes = comparerModeles(resumerEnigme(jouerEnigme()), resumerNoms(jouerNoms()), {
       Opus: { [enigme.id]: referenceEnigme(12), [liste.id]: refNoms },
-      Haiku: { [enigme.id]: referenceEnigme(7, "ancienne"), [liste.id]: refNoms },
+      Sonnet: { [enigme.id]: referenceEnigme(7, "ancienne"), [liste.id]: refNoms },
     });
-    expect(lignes.map((l) => l.nom)).toEqual(["Vous", "Haiku", "Sonnet", "Opus"]);
+    expect(lignes.map((l) => l.nom)).toEqual(["Vous", "Sonnet", "Opus"]);
     expect(lignes[0]).toMatchObject({ enigme: 5, noms: 4, total: 9 });
-    expect(lignes[1]).toMatchObject({ enigme: null, noms: 3, total: null });
-    expect(lignes[2]).toMatchObject({ enigme: null, noms: null, total: null });
-    expect(lignes[3]).toMatchObject({ enigme: 12, noms: 3, total: 15 });
+    expect(lignes[1]).toMatchObject({ enigme: null, noms: 3, total: null }); // référence périmée : pas de score d'énigme
+    expect(lignes[2]).toMatchObject({ enigme: 12, noms: 3, total: 15 });
   });
 });

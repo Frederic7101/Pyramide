@@ -57,7 +57,7 @@ export function tableauComparaison(titre: string, c: Comparaison, joueur: Detail
   );
 }
 
-/** Tableau des scores : le joueur face à Haiku, Sonnet et Opus jouant Syno à l'aveugle sur les mêmes contenus. */
+/** Tableau des scores : le joueur face à Sonnet et Opus jouant Syno à l'aveugle sur les mêmes contenus. */
 export function tableauModeles(enigme: EnigmeJouee, noms: ListeJouee | null): HTMLElement {
   const lignes = comparerModeles(enigme, noms, REFERENCES_MODELES);
   const val = (n: number | null) => (n === null ? "—" : String(n));

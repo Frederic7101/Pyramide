@@ -102,7 +102,7 @@ export function comparerModeles(
   enigme: EnigmeJouee,
   noms: ListeJouee | null,
   referencesParModele: Record<string, Record<string, ReferenceSyno>>,
-  ordre: readonly string[] = ["Haiku", "Sonnet", "Opus"],
+  ordre: readonly string[] = ["Sonnet", "Opus"],
 ): LigneModele[] {
   const total = (e: number | null, n: number | null, nomsAttendus: boolean) => (e === null || (nomsAttendus && n === null) ? null : e + (n ?? 0));
   const joueur: LigneModele = { nom: "Vous", enigme: enigme.score.total, noms: noms ? noms.points : null, total: total(enigme.score.total, noms ? noms.points : 0, noms !== null) };

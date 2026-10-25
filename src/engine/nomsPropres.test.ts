@@ -89,43 +89,25 @@ describe("déroulé d'un nom", () => {
   });
 });
 
-describe("invitation « Complétez »", () => {
-  it("réponse partielle : Dico invite à compléter, la complétion juste donne le nom", () => {
+describe("nom de famille seul", () => {
+  it("est accepté tout de suite quand il est déclaré (« Dupont » pour « Jean Dupont »), sans « Complétez »", () => {
     let e = creerNoms(listeTest());
     e = repondreNom(e, "Dupont");
-    expect(enAttenteCompletion(e)).toBe(true);
-    expect(briqueCouranteNom(e)).toBeNull();
-    expect(numeroBriqueNom(e)).toBe(1);
-    e = repondreNom(e, "Jean Dupont");
     expect(e.resultats[0]).toMatchObject({ statut: "trouve", briquesUtilisees: 1 });
     expect(enAttenteCompletion(e)).toBe(false);
   });
 
-  it("une complétion fausse compte comme réponse fausse et le jeu continue", () => {
+  it("le nom complet reste accepté, y compris avec une brique de plus", () => {
     let e = creerNoms(listeTest());
-    e = repondreNom(e, "Dupont");
-    e = repondreNom(e, "Paul Dupont");
-    expect(e.resultats[0].statut).toBe("a-jouer");
-    expect(briqueCouranteNom(e)).toBe("a2");
-    expect(numeroBriqueNom(e)).toBe(2);
+    e = repondreNom(e, "faux");
+    e = repondreNom(e, "Jean Dupont");
+    expect(e.resultats[0]).toMatchObject({ statut: "trouve", briquesUtilisees: 2 });
   });
 
-  it("l'invitation n'est faite qu'une fois par nom", () => {
+  it("un autre prénom avec le même nom reste accepté (le nom de famille suffit)", () => {
     let e = creerNoms(listeTest());
-    e = repondreNom(e, "Dupont");
     e = repondreNom(e, "Paul Dupont");
-    e = repondreNom(e, "Dupont");
-    expect(enAttenteCompletion(e)).toBe(false);
-    expect(briqueCouranteNom(e)).toBe("a3");
-  });
-
-  it("complétion fausse à la dernière brique : nom perdu", () => {
-    let e = creerNoms(listeTest());
-    e = repondreNom(e, "x");
-    e = repondreNom(e, "x");
-    e = repondreNom(e, "Dupont");
-    e = repondreNom(e, "Paul Dupont");
-    expect(e.resultats[0]).toMatchObject({ statut: "perdu", briquesUtilisees: 3 });
+    expect(e.resultats[0].statut).toBe("trouve");
   });
 });
 

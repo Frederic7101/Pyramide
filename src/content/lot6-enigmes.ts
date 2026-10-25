@@ -62,7 +62,7 @@ export const LOT6_ENIGMES: Enigme[] = [
     m(5, "force", [syn("contrainte"), assoc("Newton")], { famille: ["forcer", "fort", "effort", "renforcer"] }),
   ]),
   e("e-357", "Peindre en plein air", "Monet peignait sur le {1}, en plein air ; il saisissait la {2} changeante d'une {3} rapide ; la critique moqua ces simples {4} ; Renoir et Pissarro furent ses {5}.", "l'impressionnisme", ["impressionnisme", "les impressionnistes", "impressionniste"], [
-    m(1, "motif", [syn("sujet"), assoc("papier-peint")], { famille: ["motiver", "motivation"] }),
+    m(1, "motif", [syn("sujet"), assoc("tapisserie")], { famille: ["motiver", "motivation"] }),
     m(2, "lumière", [syn("clarté"), assoc("photon")], { variantes: ["lumiere"], famille: ["lumineux", "luminosité", "illuminer", "lueur"] }),
     m(3, "touche", [syn("bouton"), assoc("pinceau")], { famille: ["toucher", "touchant"] }),
     m(4, "esquisses", [syn("ébauches"), inc("ouest", "est", "es")], { variantes: ["esquisse"], famille: ["esquisser"] }),

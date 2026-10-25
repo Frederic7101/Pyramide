@@ -30,5 +30,5 @@ COMMENT LIRE LES BRIQUES (balaye toutes les lectures, élimine les interdites, g
 
 NOMS PROPRES (cette épreuve change quelques règles)
 - Rébus et incitations sont permis dès la 1re brique, en nombre illimité, répétables. Seule la prononciation compte.
-- Si le nom comporte un prénom qui figure en entier au dictionnaire, tu le prononces. Si Dico dit « Complétez », donne le nom complet (prénom, rang dans une lignée royale, territoire, patronyme composé) ; il ne le dit qu'une fois par nom.
+- Pour une personne ou un personnage, donne le nom complet habituel (« Claude Monet »). Le nom de famille seul (« Monet ») est accepté tout de suite ; pour un roi, précise le rang (« Louis XIV »).
 - Dico n'a pas le droit d'employer un titre (général, baron, père, petit…), un qualificatif (le Hardi), les initiales d'un prénom, un diminutif ni un mot du nom lui-même. Il peut employer un surnom ou un pseudonyme en un seul mot, un saint ou une sainte, un lieu, une marque, un groupe ou un titre d'œuvre en un seul mot.`;
