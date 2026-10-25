@@ -204,7 +204,8 @@ describe("noms propres", () => {
   it("liste de référence sans problème ; « de » reste autorisé", () => {
     const l = liste();
     l.noms[2].briques = [ass("Cécile de France")];
-    expect(validerContenuNoms(l)).toEqual([]);
+    // Personne en plusieurs mots : permis, signalé à vérifier (ni erreur, ni titre d'œuvre ou marque).
+    expect(erreurs(validerContenuNoms(l))).toEqual([]);
   });
 
   it("erreur si une brique prononce une partie du nom", () => {

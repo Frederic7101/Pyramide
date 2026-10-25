@@ -54,19 +54,21 @@ function contientDate(texte: string): boolean {
   return /(^|[^\d])(1\d{3}|20\d{2})([^\d]|$)/.test(texte) || /\b\d{1,2}[/.]\d{1,2}[/.]\d{2,4}\b/.test(texte);
 }
 
-const PARTICULES_NOM = new Set(["de", "du", "des", "la", "le", "les", "l", "d", "von", "van", "der", "y", "el", "al", "et"]);
+const PARTICULES_NOM = new Set(["de", "du", "des", "la", "le", "les", "l", "d", "von", "van", "der", "y", "el", "al", "et", "au", "aux", "en", "sur", "sous", "del", "di", "da", "dos", "ben", "bin"]);
 
 /**
  * Énigmes (noms communs, art. 4.1) : une brique est un seul mot, ou un mot composé avec trait d'union
  * (« papier-toilette »). Plusieurs mots séparés par des espaces sont interdits (« petit canard »), sauf un
  * nom propre dont chaque mot porte une majuscule (« Louis XIV », « Saint Georges »), à vérifier.
  */
-function controlerUnSeulMot(texte: string, ajouter: Ajout): void {
+function controlerUnSeulMot(texte: string, ajouter: Ajout, epreuve: "enigme" | "noms" = "enigme"): void {
   const morceaux = texte.trim().split(/\s+/).filter((m) => /[\p{L}\p{N}]/u.test(m));
   if (morceaux.length <= 1) return;
   const nomPropre = morceaux.every((m) => PARTICULES_NOM.has(normaliser(m)) || /^[A-ZÀÂÄÉÈÊËÎÏÔÖÙÛÜŸÇŒ0-9]/.test(m));
-  if (nomPropre) ajouter("avertissement", `« ${texte} » : nom propre en plusieurs mots, à vérifier (art. 4.2.1)`, "4.2.1");
-  else ajouter("erreur", `« ${texte} » : une brique est un seul mot (ou un mot composé avec trait d'union), pas plusieurs mots`, "4.1");
+  if (nomPropre) {
+    const precision = epreuve === "noms" ? " : seuls un nom de personne (prénom + nom) ou de lieu sont permis en plusieurs mots ; titre d'œuvre, marque, groupe, club, surnom, titre ou qualificatif sont interdits (art. 4.2.2)" : " (art. 4.2.1)";
+    ajouter("avertissement", `« ${texte} » : nom propre en plusieurs mots, à vérifier${precision}`, "4.2.2");
+  } else ajouter("erreur", `« ${texte} » : une brique est un seul mot (ou un mot composé avec trait d'union), pas un groupe de mots ou une locution`, "4.1");
 }
 
 function prefixeCommun(a: string, b: string): number {
@@ -85,7 +87,7 @@ function controlerMots(brique: Brique, interdits: string[], famille: string[], a
     ajouter("erreur", "brique vide");
     return;
   }
-  if (epreuve === "enigme") controlerUnSeulMot(brique.texte, ajouter);
+  controlerUnSeulMot(brique.texte, ajouter, epreuve);
   const motsBrique = mots(brique.texte);
   const motsInterdits = interdits.flatMap(mots);
   const motsFamille = famille.flatMap(mots);

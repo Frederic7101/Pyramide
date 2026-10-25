@@ -21,8 +21,11 @@ describe("une brique est un seul mot (énigmes)", () => {
     expect(avertissements("Louis XIV")[0]).toContain("nom propre en plusieurs mots");
   });
 
-  it("ne s'applique pas aux Noms Propres, où les briques sont libres", () => {
-    expect(erreurs("petit canard", "noms")).toEqual([]);
+  it("s'applique aussi aux Noms Propres, sauf personnes et lieux en plusieurs mots", () => {
+    expect(erreurs("petit canard", "noms")).toHaveLength(1);
+    expect(erreurs("coup de boule", "noms")).toHaveLength(1);
+    expect(erreurs("Clark Kent", "noms")).toEqual([]);
+    expect(controlerBriqueJoueur("Le Havre", ["chien"], [], [], "noms").avertissements[0]).toContain("nom de personne");
   });
 });
 
