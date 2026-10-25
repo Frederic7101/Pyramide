@@ -86,3 +86,33 @@ export function reponseCorrectePhonetique(reponse: string, attendu: string, vari
     return clePhonetique(mots.slice(-n).join(" ")) === cle || clePhonetique(mots.slice(0, n).join(" ")) === cle;
   });
 }
+
+/**
+ * Vrai si deux mots sont probablement de la même famille (même racine) : égaux au pluriel près, ou l'un
+ * contenu dans l'autre quand le plus court a au moins 5 lettres (« proche » dans « rapproche »).
+ * Heuristique : sert à écarter les propositions de Syno que le règlement rend impossibles.
+ */
+export function memeFamille(a: string, b: string): boolean {
+  const sansPluriel = (m: string) => (m.length > 3 ? m.replace(/[sx]$/, "") : m);
+  const x = sansPluriel(normaliser(a).replace(/ /g, ""));
+  const y = sansPluriel(normaliser(b).replace(/ /g, ""));
+  if (x === "" || y === "") return false;
+  if (x === y) return true;
+  const [court, long] = x.length <= y.length ? [x, y] : [y, x];
+  return court.length >= 5 && long.includes(court);
+}
+
+/**
+ * Première brique de même famille que la réponse, ou undefined. Dico n'a pas le droit d'employer un mot de la
+ * famille du mot à deviner : une telle réponse de Syno est forcément fausse (« proche » ne peut pas faire
+ * deviner « rapproche »).
+ */
+export function briqueDeMemeFamille(reponse: string, briques: readonly string[]): string | undefined {
+  const motsReponse = normaliser(reponse).split(" ").filter((m) => m.length >= 3);
+  return briques.find((brique) =>
+    normaliser(brique)
+      .split(" ")
+      .filter((m) => m.length >= 3)
+      .some((mb) => motsReponse.some((mr) => memeFamille(mr, mb))),
+  );
+}

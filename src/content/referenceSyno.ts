@@ -79,7 +79,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "cozwyu",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -105,7 +105,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "train"
       ]
     ],
-    "bonus": 7,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le parapluie"
@@ -186,7 +186,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "sabyo9",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -211,7 +211,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "cratère"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le volcan"
@@ -221,7 +221,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "cwzqza",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -246,7 +246,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "vélo"
       ]
     ],
-    "bonus": 8,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le facteur"
@@ -256,7 +256,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "7xz358",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -281,7 +281,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "tranche"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le miel"
@@ -291,7 +291,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "189ro1f",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -317,7 +317,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "actrice"
       ]
     ],
-    "bonus": 7,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le cinéma"
@@ -437,7 +437,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "f1csyh",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -462,7 +462,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "égarer"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la boussole"
@@ -549,7 +549,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1msjc7s",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 6,
     "trouveA": [
       1,
       1,
@@ -574,7 +574,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "charme"
       ]
     ],
-    "bonus": 8,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la mélancolie"
@@ -619,7 +619,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1ll2hd5",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -646,7 +646,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "sarcasme"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'ironie"
@@ -656,7 +656,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "ewp4m4",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -681,7 +681,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "écritures"
       ]
     ],
-    "bonus": 8,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le palimpseste"
@@ -691,7 +691,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "h2mmbj",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 6,
     "trouveA": [
       1,
       1,
@@ -717,7 +717,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "échéance"
       ]
     ],
-    "bonus": 7,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le procrastinateur",
@@ -841,7 +841,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "6uh4k1",
     "date": "2026-10-24",
-    "score": 12,
+    "score": 6,
     "trouveA": [
       1,
       2,
@@ -868,7 +868,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "crocodile"
       ]
     ],
-    "bonus": 6,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'hypocrisie"
@@ -878,7 +878,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "q2n6h6",
     "date": "2026-10-24",
-    "score": 12,
+    "score": 6,
     "trouveA": [
       1,
       1,
@@ -905,7 +905,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "sanction"
       ]
     ],
-    "bonus": 6,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la grâce",
@@ -916,7 +916,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "6chgqj",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -943,7 +943,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "périr"
       ]
     ],
-    "bonus": 6,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'éphémère"
@@ -992,7 +992,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "pvssuu",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -1017,7 +1017,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "piège"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le sophisme"
@@ -1100,7 +1100,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1xmbq8r",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       2,
       1,
@@ -1126,7 +1126,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "sensibilité"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'euphémisme"
@@ -1136,7 +1136,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "nduzby",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -1161,7 +1161,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "purgées"
       ]
     ],
-    "bonus": 8,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la catharsis"
@@ -1171,7 +1171,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1f4mfwy",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 7,
     "trouveA": [
       1,
       2,
@@ -1198,7 +1198,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "mensonge"
       ]
     ],
-    "bonus": 6,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "1984",
@@ -1245,7 +1245,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "535vii",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 6,
     "trouveA": [
       1,
       1,
@@ -1271,7 +1271,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "évocation"
       ]
     ],
-    "bonus": 7,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la réminiscence"
@@ -1319,7 +1319,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1gkas0k",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -1344,7 +1344,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "vulgarité"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le dandysme"
@@ -1426,7 +1426,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "ed8it1",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 9,
     "trouveA": [
       1,
       2,
@@ -1453,7 +1453,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "crédulité"
       ]
     ],
-    "bonus": 6,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le scepticisme"
@@ -1463,7 +1463,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "oyiqk6",
     "date": "2026-10-23",
-    "score": 11,
+    "score": 8,
     "trouveA": [
       2,
       2,
@@ -1491,7 +1491,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "créanciers"
       ]
     ],
-    "bonus": 5,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'atermoiement"
@@ -1578,7 +1578,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1st66p",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       2,
       2,
@@ -1605,7 +1605,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "ornement"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la métaphore"
@@ -1615,7 +1615,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "137sywx",
     "date": "2026-10-24",
-    "score": 11,
+    "score": 7,
     "trouveA": [
       2,
       1,
@@ -1643,7 +1643,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "purification"
       ]
     ],
-    "bonus": 5,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'ascèse"
@@ -1653,7 +1653,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1k2kv47",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -1678,7 +1678,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "notables"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le cynisme"
@@ -1688,7 +1688,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "ukagn6",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 8,
     "trouveA": [
       1,
       2,
@@ -1714,7 +1714,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "tribunaux"
       ]
     ],
-    "bonus": 7,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la clepsydre"
@@ -1724,7 +1724,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "s3ionz",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -1751,7 +1751,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "point"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'astrolabe"
@@ -1761,7 +1761,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1gsn2at",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -1786,7 +1786,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "ostentation"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le baroque"
@@ -1796,7 +1796,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "qxrpxc",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -1821,7 +1821,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "vérité"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la maïeutique"
@@ -1831,7 +1831,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1selydj",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -1857,7 +1857,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bûcher"
       ]
     ],
-    "bonus": 7,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'hérésie"
@@ -1867,7 +1867,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "hmmh0a",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -1893,7 +1893,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "exclusion"
       ]
     ],
-    "bonus": 7,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'ostracisme"
@@ -1975,7 +1975,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1xximq1",
     "date": "2026-10-24",
-    "score": 11,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -2003,7 +2003,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "dogmes"
       ]
     ],
-    "bonus": 5,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'iconoclasme"
@@ -2051,7 +2051,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "8pwdp3",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       1,
       2,
@@ -2078,7 +2078,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "élixir"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'alchimie"
@@ -2088,7 +2088,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "15c3whl",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -2113,7 +2113,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "catastrophe"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'Apocalypse"
@@ -2123,7 +2123,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1r5kxa7",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -2148,7 +2148,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bout"
       ]
     ],
-    "bonus": 8,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'Hydre de Lerne"
@@ -2194,7 +2194,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1qk3pfg",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -2220,7 +2220,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "poisse"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le hasard"
@@ -2230,7 +2230,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "po9uxv",
     "date": "2026-10-23",
-    "score": 11,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -2258,7 +2258,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "corbeau"
       ]
     ],
-    "bonus": 5,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'ermite"
@@ -2341,7 +2341,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1dtsaqx",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -2368,7 +2368,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "précipice"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le Sphinx"
@@ -2378,7 +2378,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1qu7hr0",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -2403,7 +2403,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "tragique"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la fatalité"
@@ -2449,7 +2449,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1wp00s",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 7,
     "trouveA": [
       1,
       2,
@@ -2476,7 +2476,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "verve"
       ]
     ],
-    "bonus": 6,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'éloquence"
@@ -2634,7 +2634,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "i9kfi2",
     "date": "2026-10-24",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       1,
       2,
@@ -2661,7 +2661,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "jambon"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le réfrigérateur"
@@ -3530,7 +3530,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "113hopk",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 6,
     "trouveA": [
       1,
       1,
@@ -3555,7 +3555,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "billets"
       ]
     ],
-    "bonus": 8,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le train"
@@ -3600,7 +3600,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1hzo6lc",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 6,
     "trouveA": [
       1,
       1,
@@ -3625,7 +3625,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "sapin"
       ]
     ],
-    "bonus": 8,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le Père Noël"
@@ -3779,7 +3779,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "17alons",
     "date": "2026-10-24",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       2,
       1,
@@ -3806,7 +3806,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "chambre"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la bicyclette"
@@ -3852,7 +3852,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "5stn35",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -3878,7 +3878,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "hôtesse"
       ]
     ],
-    "bonus": 7,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'avion"
@@ -4354,7 +4354,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "iboyr7",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -4379,7 +4379,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "présage"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'éclipse"
@@ -4425,7 +4425,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1thfc9l",
     "date": "2026-10-24",
-    "score": 12,
+    "score": 7,
     "trouveA": [
       2,
       1,
@@ -4452,7 +4452,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "incendie"
       ]
     ],
-    "bonus": 6,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le paratonnerre"
@@ -4497,7 +4497,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "kyansq",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       2,
@@ -4523,7 +4523,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bleu"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le vitrail"
@@ -4533,7 +4533,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1aywnc3",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -4558,7 +4558,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "plafond"
       ]
     ],
-    "bonus": 8,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la fresque"
@@ -4603,7 +4603,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "11gbjd9",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -4629,7 +4629,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "fondre"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le glacier"
@@ -4639,7 +4639,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "c25lnc",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -4664,7 +4664,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "triangle"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le delta"
@@ -4709,7 +4709,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "2yg60d",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -4734,7 +4734,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "meurtrières"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le château fort"
@@ -4814,7 +4814,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "12voli7",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -4839,7 +4839,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "géants"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le moulin"
@@ -4849,7 +4849,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1rq2xzm",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -4874,7 +4874,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "rails"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la locomotive à vapeur"
@@ -4919,7 +4919,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "8vf9xo",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -4944,7 +4944,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "grossissement"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le microscope"
@@ -4954,7 +4954,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "v62f4q",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       2,
@@ -4980,7 +4980,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "répliques"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le séisme"
@@ -4990,7 +4990,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1m8dni7",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       2,
       1,
@@ -5016,7 +5016,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bâton"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la marionnette"
@@ -5026,7 +5026,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "eehxpa",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5052,7 +5052,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "revolver"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le western"
@@ -5062,7 +5062,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1y0yt9j",
     "date": "2026-10-23",
-    "score": 11,
+    "score": 8,
     "trouveA": [
       1,
       2,
@@ -5090,7 +5090,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "obsolète"
       ]
     ],
-    "bonus": 5,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le cinéma muet"
@@ -5100,7 +5100,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "ohjmii",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5125,7 +5125,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "vertige"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le gratte-ciel"
@@ -5135,7 +5135,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "mzduzf",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       2,
       1,
@@ -5161,7 +5161,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "thermes"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'aqueduc"
@@ -5243,7 +5243,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1qvnhg9",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5268,7 +5268,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "crime"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la jalousie"
@@ -5389,7 +5389,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1uqrn92",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 6,
     "trouveA": [
       1,
       2,
@@ -5415,7 +5415,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "châtiment"
       ]
     ],
-    "bonus": 7,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la vengeance"
@@ -5497,7 +5497,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "16krkg4",
     "date": "2026-10-24",
-    "score": 12,
+    "score": 7,
     "trouveA": [
       1,
       1,
@@ -5524,7 +5524,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "verdict"
       ]
     ],
-    "bonus": 6,
+    "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le procès"
@@ -5569,7 +5569,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "u0jkyc",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5594,7 +5594,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "noces"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le mariage"
@@ -5604,7 +5604,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "akqnic",
     "date": "2026-10-24",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       2,
@@ -5630,7 +5630,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "cailloux"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'ogre"
@@ -5675,7 +5675,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "1md2vhd",
     "date": "2026-10-23",
-    "score": 14,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -5700,7 +5700,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "ciselé"
       ]
     ],
-    "bonus": 8,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le sonnet"
@@ -5781,7 +5781,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "4pduh5",
     "date": "2026-10-24",
-    "score": 14,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5806,7 +5806,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "pieu"
       ]
     ],
-    "bonus": 8,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le vampire"
@@ -5816,7 +5816,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "myt53b",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5842,7 +5842,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "fabuleux"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "la licorne"
@@ -5958,7 +5958,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "knwh7x",
     "date": "2026-10-23",
-    "score": 13,
+    "score": 9,
     "trouveA": [
       1,
       1,
@@ -5984,7 +5984,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "perroquet"
       ]
     ],
-    "bonus": 7,
+    "bonus": 3,
     "solutionTrouvee": true,
     "essaisSolution": [
       "le pirate"
@@ -6064,7 +6064,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "type": "enigme",
     "empreinte": "7v3s4w",
     "date": "2026-10-23",
-    "score": 12,
+    "score": 8,
     "trouveA": [
       1,
       1,
@@ -6091,7 +6091,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "fraude"
       ]
     ],
-    "bonus": 6,
+    "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
       "l'impôt"

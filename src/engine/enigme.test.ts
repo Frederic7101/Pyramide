@@ -4,6 +4,7 @@ import {
   briqueCourante,
   creerEnigme,
   numeroBriqueCourante,
+  passer,
   proposerSolution,
   repondre,
   scoreEnigme,
@@ -127,7 +128,8 @@ describe("score", () => {
     expect(soldeBriques(e)).toBe(8);
     e = proposerSolution(e, "La solution");
     expect(e.phase).toBe("terminee");
-    expect(scoreEnigme(e)).toEqual({ mots: 5, bonus: 8, solution: 1, total: 14 });
+    // Mises 2-2-3-2-2 = 11 briques pariées : bonus de 13 - 11 = 2, quelles que soient les briques utilisées.
+    expect(scoreEnigme(e)).toEqual({ mots: 5, bonus: 2, solution: 1, total: 8 });
   });
 
   it("un mot perdu supprime le bonus", () => {
@@ -135,13 +137,13 @@ describe("score", () => {
     expect(scoreEnigme(e)).toEqual({ mots: 4, bonus: 0, solution: 0, total: 4 });
   });
 
-  it("tous les mots trouvés avec des briques consommées : bonus = briques restantes", () => {
+  it("tous les mots trouvés avec des briques consommées : bonus = 13 - briques MISÉES, solution non trouvée comprise", () => {
     let e = creerEnigme(enigmeTest());
     e = repondre(e, "faux");
     e = repondre(e, "alpha"); // mot 1 trouvé à la brique 2
     for (const mot of ["bravo", "charlie", "delta", "echo"]) e = repondre(e, mot);
-    expect(soldeBriques(e)).toBe(7); // 13 - (2 + 1 + 1 + 1 + 1)
-    expect(scoreEnigme(e)).toEqual({ mots: 5, bonus: 7, solution: 0, total: 12 });
+    expect(soldeBriques(e)).toBe(7); // 13 - (2 + 1 + 1 + 1 + 1) : briques utilisées, sans effet sur le bonus
+    expect(scoreEnigme(e)).toEqual({ mots: 5, bonus: 2, solution: 0, total: 7 }); // mises 2-2-3-2-2 = 11
   });
 });
 
@@ -224,5 +226,37 @@ describe("solution", () => {
 
   it("refuse de répondre une fois les mots terminés", () => {
     expect(() => repondre(apresMots(), "x")).toThrow();
+  });
+});
+
+describe("passer", () => {
+  it("consomme la brique comme une mauvaise réponse vide et donne la suivante", () => {
+    let etat = creerEnigme(enigmeTest());
+    etat = passer(etat);
+    expect(etat.resultats[0]).toMatchObject({ statut: "a-jouer", reponses: [""] });
+    expect(numeroBriqueCourante(etat)).toBe(2);
+  });
+
+  it("perd le mot quand la mise est épuisée", () => {
+    let etat = creerEnigme(enigmeTest());
+    etat = passer(passer(etat));
+    expect(etat.resultats[0]).toMatchObject({ statut: "perdu", briquesUtilisees: 2 });
+    expect(etat.motIndex).toBe(1);
+  });
+});
+
+describe("bonus sur les briques misées", () => {
+  it("mises 3-3-2-2-1 : 11 briques pariées, 2 points de bonus, même sans la solution", () => {
+    const e = jouerMots(creerEnigme(enigmeTest([3, 3, 2, 2, 1])), [true, true, true, true, true]);
+    expect(scoreEnigme(e)).toEqual({ mots: 5, bonus: 2, solution: 0, total: 7 });
+  });
+
+  it("le bonus ne dépend pas de la brique où les mots sont trouvés", () => {
+    const tard = jouerMots(creerEnigme(enigmeTest([3, 3, 2, 2, 1])), [true, true, true, true, true]);
+    let tot = creerEnigme(enigmeTest([3, 3, 2, 2, 1]));
+    tot = repondre(tot, "faux");
+    tot = repondre(tot, "alpha");
+    for (const mot of ["bravo", "charlie", "delta", "echo"]) tot = repondre(tot, mot);
+    expect(scoreEnigme(tot).bonus).toBe(scoreEnigme(tard).bonus);
   });
 });

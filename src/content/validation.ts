@@ -213,7 +213,7 @@ export function validerContenuNoms(liste: ListeNomsPropres): Probleme[] {
       ajouterA(`nom ${i + 1}, brique ${p.position}`)(p.niveau, `${p.message} [${chaine}]`, p.regle);
     }
     nom.briques.forEach((brique, k) => {
-      controlerMots(brique, [nom.reponse, ...(nom.variantes ?? []), ...(nom.partielles ?? [])], [], ajouterA(`nom ${i + 1}, brique ${k + 1}`), "noms");
+      controlerMots(brique, [nom.reponse, ...(nom.variantes ?? []).filter((v) => !(nom.surnoms ?? []).includes(v)), ...(nom.partielles ?? [])], [], ajouterA(`nom ${i + 1}, brique ${k + 1}`), "noms");
     });
   });
   return problemes;

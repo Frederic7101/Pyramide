@@ -5,7 +5,7 @@ import { REFERENCE_SYNO } from "./content/referenceSyno";
 import { scoreEnigme } from "./engine/enigme";
 import { scoreNoms } from "./engine/nomsPropres";
 import { joueesDuCycle, tirer as tirerSansRemise } from "./engine/tirage";
-import { DIFFICULTES, type Difficulte } from "./engine/types";
+import { DIFFICULTES, type Difficulte, type Enigme, type ListeNomsPropres } from "./engine/types";
 import { comparerEnigme, comparerNoms } from "./historique/comparaison";
 import { creerParties, resumerEnigme, resumerEnigmeDico, resumerNoms, resumerNomsDico, type EnigmeJouee, type ListeJouee } from "./historique/parties";
 import { el } from "./ui/dom";
@@ -85,13 +85,19 @@ function ecrireHistorique(historique: Record<string, string[]>): void {
  * du niveau. On écarte ceux dont un mot a un signalement confirmé invalide (tant que le contenu
  * n'est pas corrigé) ; si tout est écarté, on joue quand même parmi l'ensemble.
  */
-function tirer<T extends { id: string }>(cle: string, contenus: readonly T[], rangs: (c: T) => number[]): T {
+function proposer<T extends { id: string }>(cle: string, contenus: readonly T[], rangs: (c: T) => number[]): T {
   const signalements = journal.lister();
   const jouables = contenus.filter((c) => !rangs(c).some((r) => contenuExclu(signalements, c.id, r)));
+  return tirerSansRemise(jouables.length > 0 ? jouables : contenus, lireHistorique()[cle] ?? []).choisi;
+}
+
+/** Note qu'une fiche va être jouée (tirée au hasard, suivante ou choisie par sa référence). Un nouveau cycle repart de zéro. */
+function marquerJoue(cle: string, contenus: readonly { id: string }[], id: string): void {
   const historiques = lireHistorique();
-  const { choisi, historique } = tirerSansRemise(jouables.length > 0 ? jouables : contenus, historiques[cle] ?? []);
-  ecrireHistorique({ ...historiques, [cle]: historique });
-  return choisi;
+  const ids = new Set(contenus.map((c) => c.id));
+  let joues = (historiques[cle] ?? []).filter((x) => ids.has(x) && x !== id);
+  if (joues.length >= ids.size - (ids.has(id) ? 1 : 0)) joues = [];
+  ecrireHistorique({ ...historiques, [cle]: [...joues, id] });
 }
 
 const LIBELLE_NIVEAU: Record<Difficulte, string> = { facile: "Facile", moyen: "Moyen", difficile: "Difficile" };
@@ -181,10 +187,87 @@ function accueil(): void {
   );
 }
 
-/** Partie complète au niveau choisi : une énigme, puis une liste de Noms Propres, puis le score. */
+/** Référence saisie par le joueur (« e-345 », « 345 », « np-402 »), sans tenir compte de la casse ni des espaces. */
+function trouverParReference<T extends { id: string }>(contenus: readonly T[], saisie: string, prefixe: "e" | "np"): T | undefined {
+  const texte = saisie.trim().toLowerCase().replace(/s+/g, "");
+  const id = /^d+$/.test(texte) ? `${prefixe}-${texte}` : texte.replace(/^(e|np)(d)/, "$1-$2");
+  return contenus.find((c) => c.id === id);
+}
+
+/** Avant de démarrer : la fiche proposée peut être changée (autre tirage, suivante, ou référence saisie). */
 function lancer(niveau: Difficulte): void {
-  const enigme = tirer(`enigmes-${niveau}`, duNiveau(ENIGMES, niveau), (e) => e.mots.map((m) => m.rang));
-  const liste = tirer(`noms-${niveau}`, duNiveau(LISTES_NOMS_PROPRES, niveau), (l) => l.noms.map((n) => n.rang));
+  const enigmes = duNiveau(ENIGMES, niveau);
+  const listes = duNiveau(LISTES_NOMS_PROPRES, niveau);
+  let enigme = proposer(`enigmes-${niveau}`, enigmes, (e) => e.mots.map((m) => m.rang));
+  let liste = proposer(`noms-${niveau}`, listes, (l) => l.noms.map((n) => n.rang));
+  let erreur = "";
+
+  /** Une ligne de choix : fiche actuelle, autre tirage, suivante, saisie d'une référence. */
+  function ligneChoix<T extends { id: string }>(
+    titre: string,
+    libelle: string,
+    contenus: readonly T[],
+    tous: readonly T[],
+    prefixe: "e" | "np",
+    courant: () => T,
+    changer: (c: T) => void,
+    tirage: () => T,
+  ): HTMLElement {
+    const champ = el("input", { type: "text", placeholder: prefixe === "e" ? "ex. e-345" : "ex. np-402", autocomplete: "off", "aria-label": `Référence de ${titre}`, size: "10" });
+    const aller = () => {
+      const trouve = trouverParReference(contenus, champ.value, prefixe) ?? trouverParReference(tous, champ.value, prefixe);
+      if (!trouve) {
+        erreur = `Référence « ${champ.value.trim()} » inconnue.`;
+      } else {
+        erreur = "";
+        changer(trouve);
+      }
+      dessiner();
+    };
+    return el(
+      "div",
+      { class: "avertissement" },
+      el("p", {}, el("b", {}, titre), " : ", el("span", { class: "qui" }, `${courant().id} `), libelle),
+      el(
+        "div",
+        { class: "actions" },
+        el("button", { class: "btn sec petit", type: "button", onclick: () => { erreur = ""; changer(tirage()); dessiner(); } }, "Autre au hasard"),
+        el("button", { class: "btn sec petit", type: "button", onclick: () => {
+          // Fiche chargée par sa référence hors du niveau : la suivante se cherche dans toute la liste.
+          const liste = contenus.some((c) => c.id === courant().id) ? contenus : tous;
+          const i = liste.findIndex((c) => c.id === courant().id);
+          erreur = "";
+          changer(liste[(i + 1) % liste.length]);
+          dessiner();
+        } }, "Suivante"),
+        champ,
+        el("button", { class: "btn sec petit", type: "button", onclick: aller }, "Charger cette référence"),
+      ),
+    );
+  }
+
+  function dessiner(): void {
+    carteJeu.replaceChildren(
+      el("h2", {}, "Vos fiches", el("small", {}, ` Niveau ${LIBELLE_NIVEAU[niveau].toLowerCase()}, vous serez ${role === "dico" ? "Dico" : "Syno"}`)),
+      el("p", { class: "qui" }, "Gardez ces fiches, ou changez-les avant de commencer."),
+      ligneChoix("Énigme", `« ${enigme.titre} »`, enigmes, ENIGMES, "e", () => enigme, (c) => (enigme = c), () => proposer(`enigmes-${niveau}`, enigmes, (e) => e.mots.map((m) => m.rang))),
+      ligneChoix("Noms propres", liste.theme, listes, LISTES_NOMS_PROPRES, "np", () => liste, (c) => (liste = c), () => proposer(`noms-${niveau}`, listes, (l) => l.noms.map((n) => n.rang))),
+      erreur && el("p", { class: "message", role: "alert" }, erreur),
+      el(
+        "div",
+        { class: "actions" },
+        el("button", { class: "btn", type: "button", onclick: () => jouer(niveau, enigme, liste) }, "Commencer"),
+        el("button", { class: "btn sec", type: "button", onclick: accueil }, "Changer de niveau"),
+      ),
+    );
+  }
+  dessiner();
+}
+
+/** Partie complète : l'énigme, puis la liste de Noms Propres, puis le score. */
+function jouer(niveau: Difficulte, enigme: Enigme, liste: ListeNomsPropres): void {
+  marquerJoue(`enigmes-${niveau}`, duNiveau(ENIGMES, niveau), enigme.id);
+  marquerJoue(`noms-${niveau}`, duNiveau(LISTES_NOMS_PROPRES, niveau), liste.id);
   if (role === "dico") {
     montrerEnigmeDico(
       carteJeu,

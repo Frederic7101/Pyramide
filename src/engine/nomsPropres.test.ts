@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import {
+  passerNom,
   briqueCouranteNom,
   creerNoms,
   enAttenteCompletion,
@@ -147,5 +148,16 @@ describe("signalement et fin de liste", () => {
     expect(scoreNoms(e)).toBe(4);
     expect(() => repondreNom(e, "x")).toThrow();
     expect(() => signalerNom(e)).toThrow();
+  });
+});
+
+describe("passerNom", () => {
+  it("passe à la brique suivante, puis perd le nom après la dernière brique", () => {
+    let etat = creerNoms(listeTest());
+    etat = passerNom(etat);
+    expect(etat.resultats[0]).toMatchObject({ statut: "a-jouer", reponses: [""] });
+    etat = passerNom(passerNom(etat));
+    expect(etat.resultats[0]).toMatchObject({ statut: "perdu", briquesUtilisees: 3 });
+    expect(etat.nomIndex).toBe(1);
   });
 });

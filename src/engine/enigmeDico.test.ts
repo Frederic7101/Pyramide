@@ -45,10 +45,10 @@ describe("mise", () => {
 });
 
 describe("déroulé d'un mot", () => {
-  it("Syno trouve à la 1re brique : les briques non jouées de la mise restent au solde", () => {
+  it("Syno trouve à la 1re brique : la mise reste pariée (le bonus se calcule sur les mises)", () => {
     const e = trouverDuPremierCoup(creerEnigmeDico(enigme()));
     expect(e.mots[0]).toMatchObject({ statut: "trouve", briques: ["piste"] });
-    expect(soldeDico(e)).toBe(12);
+    expect(soldeDico(e)).toBe(11); // 13 - mise de 2
     expect(e.motIndex).toBe(1);
   });
 
@@ -77,7 +77,7 @@ describe("solution et score", () => {
     expect(texteEnigmeDico(e)).toBe("alpha bravo charlie delta echo");
     e = proposerSolutionDico(e, "Solution");
     expect(e.phase).toBe("terminee");
-    expect(scoreEnigmeDico(e)).toEqual({ mots: 5, bonus: 8, solution: 1, total: 14 });
+    expect(scoreEnigmeDico(e)).toEqual({ mots: 5, bonus: 3, solution: 1, total: 9 }); // 5 mises de 2 = 10 briques pariées
   });
 
   it("Syno a trois essais pour la solution", () => {

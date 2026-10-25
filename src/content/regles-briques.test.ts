@@ -86,3 +86,31 @@ describe("brique « contraire » (consigne de Dico)", () => {
     expect(erreurs("contraire")).toEqual([]);
   });
 });
+
+describe("surnoms d'un nom propre", () => {
+  const louisIX = { rang: 1, reponse: "Louis IX", variantes: ["Saint Louis"], surnoms: ["Saint Louis"], briques: [] };
+
+  it("« Saint » (surnom Saint Louis) n'est pas interdit pour Louis IX, « Louis » l'est", () => {
+    const interdits = [louisIX.reponse, ...louisIX.variantes.filter((v) => !louisIX.surnoms.includes(v))];
+    expect(controlerBriqueJoueur("Saint", interdits, [], [], "noms").erreurs).toEqual([]);
+    expect(controlerBriqueJoueur("Louis", interdits, [], [], "noms").erreurs).toHaveLength(1);
+  });
+
+  it("sans surnom déclaré, la variante interdit ses mots", () => {
+    const interdits = [louisIX.reponse, ...louisIX.variantes];
+    expect(controlerBriqueJoueur("Saint", interdits, [], [], "noms").erreurs).toHaveLength(1);
+  });
+
+  it("l'arbitre programmé applique la même règle", () => {
+    const mot = { reponse: "Louis IX", variantes: ["Saint Louis"], surnoms: ["Saint Louis"] };
+    expect(analyserNiveau1("Saint", mot, { type: "nom", precedentes: [] }).erreurs).toEqual([]);
+    expect(analyserNiveau1("Saint", { reponse: mot.reponse, variantes: mot.variantes }, { type: "nom", precedentes: [] }).erreurs).toHaveLength(1);
+  });
+});
+
+describe("diminutifs", () => {
+  it("un diminutif du nom reste interdit tant qu'il n'est pas déclaré comme surnom", () => {
+    const interdits = ["Claude François", "Cloclo"];
+    expect(controlerBriqueJoueur("Cloclo", interdits, [], [], "noms").erreurs).toHaveLength(1);
+  });
+});

@@ -7,7 +7,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "cozwyu",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -33,7 +33,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "train"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "un parapluie"
@@ -81,7 +81,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "cwzqza",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -107,7 +107,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "vélo"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le facteur"
@@ -193,7 +193,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "ewp4m4",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -218,7 +218,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écriture"
         ]
       ],
-      "bonus": 8,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "un palimpseste"
@@ -268,7 +268,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "q2n6h6",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 6,
       "trouveA": [
         1,
         2,
@@ -296,7 +296,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "sanction"
         ]
       ],
-      "bonus": 5,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le pardon royal",
@@ -461,7 +461,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1selydj",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 7,
       "trouveA": [
         2,
         1,
@@ -488,7 +488,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bûcher"
         ]
       ],
-      "bonus": 6,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'Inquisition",
@@ -656,7 +656,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "113hopk",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 6,
       "trouveA": [
         2,
         1,
@@ -682,7 +682,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "billet"
         ]
       ],
-      "bonus": 7,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le train"
@@ -692,7 +692,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1hzo6lc",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -717,7 +717,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "sapin"
         ]
       ],
-      "bonus": 8,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le Père Noël"
@@ -767,7 +767,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "5stn35",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -792,7 +792,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "hôtesse"
         ]
       ],
-      "bonus": 8,
+      "bonus": 2,
       "solutionTrouvee": false,
       "essaisSolution": [
         "un voyage en avion",
@@ -843,7 +843,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1aywnc3",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -869,7 +869,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "plafond"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la fresque"
@@ -1070,7 +1070,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "akqnic",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 8,
       "trouveA": [
         1,
         2,
@@ -1097,7 +1097,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "cailloux"
         ]
       ],
-      "bonus": 6,
+      "bonus": 3,
       "solutionTrouvee": false,
       "essaisSolution": [
         "l'Ogre du Petit Poucet",
@@ -1942,7 +1942,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "cozwyu",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 7,
       "trouveA": [
         1,
         2,
@@ -1969,7 +1969,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "train"
         ]
       ],
-      "bonus": 6,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le parapluie"
@@ -2054,7 +2054,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "7xz358",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -2081,7 +2081,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "tranche"
         ]
       ],
-      "bonus": 6,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le miel"
@@ -2091,7 +2091,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "189ro1f",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 7,
       "trouveA": [
         2,
         1,
@@ -2118,7 +2118,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "actrice"
         ]
       ],
-      "bonus": 6,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le cinéma"
@@ -2128,7 +2128,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "ewp4m4",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         2,
         1,
@@ -2154,7 +2154,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écritures"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "palimpseste"
@@ -2206,7 +2206,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "q2n6h6",
       "date": "2026-10-24",
-      "score": 9,
+      "score": 5,
       "trouveA": [
         2,
         2,
@@ -2235,7 +2235,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "sanction"
         ]
       ],
-      "bonus": 4,
+      "bonus": 0,
       "solutionTrouvee": false,
       "essaisSolution": [
         "La clémence d'Auguste",
@@ -2247,7 +2247,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "pvssuu",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 8,
       "trouveA": [
         2,
         1,
@@ -2274,7 +2274,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "piège"
         ]
       ],
-      "bonus": 6,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le sophisme"
@@ -2362,7 +2362,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1gsn2at",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 9,
       "trouveA": [
         2,
         2,
@@ -2389,7 +2389,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "ostentation"
         ]
       ],
-      "bonus": 6,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le baroque"
@@ -2399,7 +2399,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1selydj",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -2425,7 +2425,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bûcher"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "hérésie"
@@ -2435,7 +2435,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1xximq1",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -2463,7 +2463,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "dogmes"
         ]
       ],
-      "bonus": 5,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "L'iconoclasme"
@@ -2473,7 +2473,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1r5kxa7",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 7,
       "trouveA": [
         2,
         2,
@@ -2501,7 +2501,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bout"
         ]
       ],
-      "bonus": 5,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "L'hydre de Lerne"
@@ -2511,7 +2511,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1qk3pfg",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 9,
       "trouveA": [
         2,
         1,
@@ -2538,7 +2538,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "poisse"
         ]
       ],
-      "bonus": 6,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le hasard"
@@ -2548,7 +2548,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "i9kfi2",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 8,
       "trouveA": [
         2,
         2,
@@ -2576,7 +2576,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "jambon"
         ]
       ],
-      "bonus": 5,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le réfrigérateur"
@@ -2586,7 +2586,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "113hopk",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -2611,7 +2611,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "billets"
         ]
       ],
-      "bonus": 8,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "train"
@@ -2621,7 +2621,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1hzo6lc",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -2646,7 +2646,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "sapin"
         ]
       ],
-      "bonus": 8,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Père Noël"
@@ -2695,7 +2695,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "5stn35",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 8,
       "trouveA": [
         1,
         2,
@@ -2722,7 +2722,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "hôtesse"
         ]
       ],
-      "bonus": 6,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "L'avion"
@@ -2732,7 +2732,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1thfc9l",
       "date": "2026-10-24",
-      "score": 9,
+      "score": 7,
       "trouveA": [
         2,
         2,
@@ -2762,7 +2762,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "incendie"
         ]
       ],
-      "bonus": 3,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le paratonnerre"
@@ -2772,7 +2772,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1aywnc3",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -2797,7 +2797,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "plafond"
         ]
       ],
-      "bonus": 8,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "fresque"
@@ -2844,7 +2844,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1rq2xzm",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 8,
       "trouveA": [
         2,
         1,
@@ -2870,7 +2870,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "rails"
         ]
       ],
-      "bonus": 7,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "locomotive"
@@ -2880,7 +2880,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "eehxpa",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -2906,7 +2906,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "revolver"
         ]
       ],
-      "bonus": 7,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "western"
@@ -2916,7 +2916,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1uqrn92",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -2941,7 +2941,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "châtiment"
         ]
       ],
-      "bonus": 8,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la vengeance"
@@ -2987,7 +2987,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "akqnic",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 9,
       "trouveA": [
         1,
         2,
@@ -3013,7 +3013,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "cailloux"
         ]
       ],
-      "bonus": 7,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Le Petit Poucet",
@@ -3024,7 +3024,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "4pduh5",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -3050,7 +3050,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "pieu"
         ]
       ],
-      "bonus": 7,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "Dracula",
@@ -3848,7 +3848,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "cozwyu",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -3874,7 +3874,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "train"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le parapluie"
@@ -3884,7 +3884,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "sabyo9",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -3909,7 +3909,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "cratère"
         ]
       ],
-      "bonus": 8,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le volcan"
@@ -3919,7 +3919,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "cwzqza",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -3944,7 +3944,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "vélo"
         ]
       ],
-      "bonus": 8,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le facteur"
@@ -3954,7 +3954,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "7xz358",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -3979,7 +3979,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "tranche"
         ]
       ],
-      "bonus": 8,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le miel"
@@ -3989,7 +3989,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "189ro1f",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -4015,7 +4015,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "actrice"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le cinéma"
@@ -4025,7 +4025,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "ewp4m4",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -4050,7 +4050,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écritures"
         ]
       ],
-      "bonus": 8,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le palimpseste"
@@ -4060,7 +4060,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "6uh4k1",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 6,
       "trouveA": [
         1,
         2,
@@ -4087,7 +4087,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "crocodile"
         ]
       ],
-      "bonus": 6,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'hypocrisie"
@@ -4097,7 +4097,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "q2n6h6",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -4124,7 +4124,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "sanction"
         ]
       ],
-      "bonus": 6,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la grâce",
@@ -4135,7 +4135,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "pvssuu",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -4160,7 +4160,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "piège"
         ]
       ],
-      "bonus": 8,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le sophisme"
@@ -4170,7 +4170,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "137sywx",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 7,
       "trouveA": [
         2,
         1,
@@ -4198,7 +4198,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "purification"
         ]
       ],
-      "bonus": 5,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'ascèse"
@@ -4208,7 +4208,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1k2kv47",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -4233,7 +4233,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "notables"
         ]
       ],
-      "bonus": 8,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le cynisme"
@@ -4243,7 +4243,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1gsn2at",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -4268,7 +4268,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "ostentation"
         ]
       ],
-      "bonus": 8,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le baroque"
@@ -4278,7 +4278,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1selydj",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -4304,7 +4304,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bûcher"
         ]
       ],
-      "bonus": 7,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'hérésie"
@@ -4314,7 +4314,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1xximq1",
       "date": "2026-10-24",
-      "score": 11,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -4342,7 +4342,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "dogmes"
         ]
       ],
-      "bonus": 5,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'iconoclasme"
@@ -4352,7 +4352,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1r5kxa7",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -4377,7 +4377,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bout"
         ]
       ],
-      "bonus": 8,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'Hydre de Lerne"
@@ -4387,7 +4387,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1qk3pfg",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -4413,7 +4413,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "poisse"
         ]
       ],
-      "bonus": 7,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le hasard"
@@ -4423,7 +4423,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "i9kfi2",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 8,
       "trouveA": [
         1,
         2,
@@ -4450,7 +4450,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "jambon"
         ]
       ],
-      "bonus": 6,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le réfrigérateur"
@@ -4460,7 +4460,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "113hopk",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -4485,7 +4485,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "billets"
         ]
       ],
-      "bonus": 8,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le train"
@@ -4495,7 +4495,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1hzo6lc",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 6,
       "trouveA": [
         1,
         1,
@@ -4520,7 +4520,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "sapin"
         ]
       ],
-      "bonus": 8,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le Père Noël"
@@ -4530,7 +4530,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "17alons",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 8,
       "trouveA": [
         2,
         1,
@@ -4557,7 +4557,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "chambre"
         ]
       ],
-      "bonus": 6,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la bicyclette"
@@ -4567,7 +4567,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "5stn35",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -4593,7 +4593,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "hôtesse"
         ]
       ],
-      "bonus": 7,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'avion"
@@ -4603,7 +4603,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1thfc9l",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 7,
       "trouveA": [
         2,
         1,
@@ -4630,7 +4630,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "incendie"
         ]
       ],
-      "bonus": 6,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le paratonnerre"
@@ -4640,7 +4640,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1aywnc3",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -4665,7 +4665,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "plafond"
         ]
       ],
-      "bonus": 8,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la fresque"
@@ -4675,7 +4675,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "c25lnc",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -4700,7 +4700,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "triangle"
         ]
       ],
-      "bonus": 8,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le delta"
@@ -4710,7 +4710,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1rq2xzm",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 8,
       "trouveA": [
         1,
         1,
@@ -4735,7 +4735,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "rails"
         ]
       ],
-      "bonus": 8,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la locomotive à vapeur"
@@ -4745,7 +4745,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "eehxpa",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -4771,7 +4771,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "revolver"
         ]
       ],
-      "bonus": 7,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le western"
@@ -4781,7 +4781,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "1uqrn92",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 6,
       "trouveA": [
         1,
         2,
@@ -4807,7 +4807,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "châtiment"
         ]
       ],
-      "bonus": 7,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
         "la vengeance"
@@ -4817,7 +4817,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "16krkg4",
       "date": "2026-10-24",
-      "score": 12,
+      "score": 7,
       "trouveA": [
         1,
         1,
@@ -4844,7 +4844,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "verdict"
         ]
       ],
-      "bonus": 6,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le procès"
@@ -4854,7 +4854,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "akqnic",
       "date": "2026-10-24",
-      "score": 13,
+      "score": 9,
       "trouveA": [
         1,
         2,
@@ -4880,7 +4880,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "cailloux"
         ]
       ],
-      "bonus": 7,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "l'ogre"
@@ -4890,7 +4890,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "type": "enigme",
       "empreinte": "4pduh5",
       "date": "2026-10-24",
-      "score": 14,
+      "score": 9,
       "trouveA": [
         1,
         1,
@@ -4915,7 +4915,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "pieu"
         ]
       ],
-      "bonus": 8,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "le vampire"

@@ -117,7 +117,7 @@ if (commande === "rapport") {
       if (s.trouveA !== null) trouves++;
       return s.trouveA !== null ? `${m.reponse} (${s.trouveA}/${m.mise})` : `~~${m.reponse}~~`;
     });
-    const bonus = trouves === e.mots.length ? BRIQUES_PAR_ENIGME - utilisees : 0;
+    const bonus = trouves === e.mots.length ? Math.max(0, BRIQUES_PAR_ENIGME - e.mots.reduce((somme, m) => somme + m.mise, 0)) : 0;
     const propositions = solutions[e.id] ?? [];
     const solutionTrouvee = propositions.slice(0, 3).some((p) => reponseCorrecte(p, e.solution, e.solutionVariantes));
     const score = trouves + bonus + (solutionTrouvee ? 1 : 0);

@@ -123,6 +123,11 @@ export function repondreNom(etat: EtatNoms, reponse: string): EtatNoms {
   return { ...etat, resultats: remplacer(etat.resultats, etat.nomIndex, { ...courant, reponses }) };
 }
 
+/** Syno passe : même effet qu'une mauvaise réponse (réponse vide), la brique suivante est donnée. */
+export function passerNom(etat: EtatNoms): EtatNoms {
+  return repondreNom(etat, "");
+}
+
 /** Signalement à l'arbitre : le nom en cours est annulé sans pénalité et on passe au suivant. */
 export function signalerNom(etat: EtatNoms): EtatNoms {
   exigerPhaseNoms(etat);

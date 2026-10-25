@@ -27,7 +27,7 @@ Règles (énigmes, règles générales) :
 - Nombres : permis (« un », « neuf », « dix », 10…) comme n'importe quel mot ; seules les DATES (années, jours) sont interdites. Ne refuse jamais une brique parce que c'est un nombre ou un chiffre, ni parce que c'est un petit mot (« un », « une »…) qui a aussi un autre sens.
 - Énigmes : une brique est UN SEUL mot (un mot composé avec trait d'union, comme « papier-toilette », compte pour un) ; plusieurs mots séparés (« petit canard », « bas de laine ») sont interdits, sauf un nom propre. Cette règle ne s'applique pas aux Noms Propres.
 - Outils interdits : dates, verlan, lettre de l'alphabet pour indiquer une lettre du mot, anagramme sans rapport, mot-valise, mot erroné ou inexistant, mot d'une locution qui n'existe pas seul, mot étranger absent des dictionnaires (traduction), associer ou dissocier des mots pour en créer un troisième.
-- Noms propres dans les briques : tels qu'au Larousse ; titres (général, monsieur, père…) et qualificatifs (« le Hardi ») interdits ; initiales de prénom interdites ; surnoms et pseudonymes en un seul mot permis ; marques, titres d'œuvres, groupes en un seul mot permis (sauf s'ils contiennent 3 lettres consécutives du mot à deviner, phonétiquement), en plusieurs mots interdits.
+- Noms propres dans les briques : seuls les mots du NOM lui-même sont interdits, pas ceux d'un surnom (« Saint » est permis pour Louis IX, dit Saint Louis : seul « Louis » est interdit) ; en revanche un DIMINUTIF du nom ou d'un de ses mots est interdit (« Cloclo » pour Claude François, « Indy » pour Indiana Jones) ; tels qu'au Larousse ; titres (général, monsieur, père…) et qualificatifs (« le Hardi ») interdits ; initiales de prénom interdites ; surnoms et pseudonymes en un seul mot permis ; marques, titres d'œuvres, groupes en un seul mot permis (sauf s'ils contiennent 3 lettres consécutives du mot à deviner, phonétiquement), en plusieurs mots interdits.
 
 Dico, comme Syno, ne découvre les mots d'une énigme qu'un à un : il connaît le titre, les mots déjà joués, mais ni les mots suivants ni la solution. S'il emploie par hasard un mot suivant ou la solution comme brique, signale-le avec certain=false (le doute profite au joueur).
 
@@ -56,10 +56,12 @@ export const SCHEMA = {
 export function construireMessageArbitre(d: DemandeArbitre): string {
   const epreuve = d.type === "nom" ? `Épreuve des Noms Propres (thème : « ${d.theme ?? "?"} »).` : "Épreuve des Énigmes (règles générales).";
   const variantes = d.variantes?.length ? ` (formes acceptées : ${d.variantes.join(", ")})` : "";
+  const surnoms = d.surnoms?.length ? `
+Surnoms acceptés comme réponse mais qui ne font PAS partie du nom (leurs mots sont permis comme briques, sauf ceux qui sont aussi dans le nom) : ${d.surnoms.join(", ")}.` : "";
   const famille = d.famille?.length ? `\nMots de même racine déclarés : ${d.famille.join(", ")}.` : "";
   const briques = d.briques.map((b, i) => `${i + 1}. ${b}`).join("\n");
   const acquises = d.briques.length > 1 ? `\nLes briques 1 à ${d.briques.length - 1} ont déjà été acceptées : ne juge que la brique n°${d.briques.length}.` : "";
-  return `${epreuve}\nMot à deviner : « ${d.motADeviner} »${variantes}.${famille}\nEnchaînement de Dico :\n${briques}${acquises}\n\nLa dernière brique (n°${d.briques.length}) est-elle permise dans cet enchaînement ?`;
+  return `${epreuve}\nMot à deviner : « ${d.motADeviner} »${variantes}.${surnoms}${famille}\nEnchaînement de Dico :\n${briques}${acquises}\n\nLa dernière brique (n°${d.briques.length}) est-elle permise dans cet enchaînement ?`;
 }
 
 /** Vérifie la forme du verdict renvoyé par le modèle. */

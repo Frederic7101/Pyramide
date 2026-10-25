@@ -27,7 +27,7 @@ export function empreinteNoms(l: ListeNomsPropres): string {
   return hacher(
     JSON.stringify({
       theme: l.theme,
-      noms: l.noms.map((n) => ({ reponse: n.reponse, variantes: n.variantes ?? [], partielles: n.partielles ?? [], briques: n.briques.map((b) => b.texte) })),
+      noms: l.noms.map((n) => ({ reponse: n.reponse, variantes: n.variantes ?? [], partielles: n.partielles ?? [], ...(n.surnoms && { surnoms: n.surnoms }), briques: n.briques.map((b) => b.texte) })),
     }),
   );
 }

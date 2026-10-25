@@ -3,6 +3,7 @@
  * Exécuté côté serveur uniquement (middleware Vite) : la clé API n'est jamais envoyée au navigateur.
  */
 import Anthropic from "@anthropic-ai/sdk";
+import { briqueDeMemeFamille } from "../src/engine/matching";
 import type { DemandeSyno, ReponseSyno } from "../src/engine/synoTypes";
 import { demanderClaudeCli, type Lanceur } from "./claudeCli";
 
@@ -19,6 +20,7 @@ COMMENT LIRE LES BRIQUES
 1. La 1re brique est presque toujours un synonyme (ou un contraire, ou une association forte : paire, genre, marque) du mot cherché. Le mot cherché a le plus souvent la MÊME FORME GRAMMATICALE que la brique (nom pour nom, adjectif pour adjectif, verbe pour verbe, même nombre) et souvent la même terminaison. Choisis le mot le plus proche en sens.
 2. Chaque brique suivante COMPLÈTE les précédentes : elle précise le sens parmi les candidats. Cherche le mot qui convient à TOUTES les briques à la fois. Le titre et les mots déjà trouvés t'aident à choisir le sens.
 3. Une brique peut être un contraire du mot cherché : elle ne s'ajoute pas comme un second synonyme, elle écarte un sens. Rien ne t'indique la nature d'une brique : à toi de la deviner.
+2 bis. Dico n'a PAS le droit d'employer un mot de la même famille (même racine) que le mot à deviner : la réponse n'est donc JAMAIS un mot de la même famille qu'une brique donnée (« proche » ne fait pas deviner « rapproche », « approche » ni « proximité »… : cherche un autre mot).
 3 bis. Si une brique est le mot « contraire », c'est une CONSIGNE de Dico, pas un indice de sens : tu dois répondre le contraire, soit du sens de la 1re brique, soit de ta réponse précédente (si tu viens de proposer un mot refusé ou connu, dis son contraire). Choisis selon ce qui a du sens avec le titre et les autres briques.
 4. LA DERNIÈRE BRIQUE PEUT ÊTRE UNE INCITATION, pas un synonyme. Dico en place une quand les briques précédentes laissent plusieurs réponses possibles. Elle n'a alors aucun rapport de sens avec le mot cherché : elle évoque un AUTRE mot (par son contraire, son pendant ou son synonyme : haut/bas, avec/sans, chat/souris, Iseut/Tristan, mère/père), et c'est ce mot évoqué qui partage un SON avec le début du mot cherché (parfois sa fin). Méthode :
    - si la dernière brique ne s'accorde pas avec les précédentes, c'est une incitation ;
@@ -65,6 +67,20 @@ export function construireMessage(d: DemandeSyno): string {
     return `Épreuve des Noms Propres. Thème de la liste : « ${d.theme ?? "?"} ». Rébus et incitations sont permis ici.\n${contexte}Briques de Dico :\n${briques}${fausses}${completer}\n\nQuel nom propre Dico te fait-il deviner ?`;
   }
   return `${contexte}Mot d'une énigme. Briques de Dico :\n${briques}${fausses}\n\nQuel mot Dico te fait-il deviner ?`;
+}
+
+/**
+ * Garde : une proposition de la même famille qu'une brique est forcément fausse (Dico ne peut pas employer un mot
+ * de la famille du mot à deviner). On la signale comme déjà jugée fausse et on redemande (2 relances au plus).
+ */
+export async function avecGardeFamille(demande: DemandeSyno, deviner: (d: DemandeSyno) => Promise<ReponseSyno>): Promise<ReponseSyno> {
+  let courante = demande;
+  let reponse = await deviner(courante);
+  for (let essai = 0; essai < 2 && demande.type !== "solution" && briqueDeMemeFamille(reponse.reponse, demande.briques) !== undefined; essai++) {
+    courante = { ...courante, reponsesFausses: [...courante.reponsesFausses, reponse.reponse] };
+    reponse = await deviner(courante);
+  }
+  return reponse;
 }
 
 /** Erreur de configuration (clé API absente), à signaler clairement au joueur. */

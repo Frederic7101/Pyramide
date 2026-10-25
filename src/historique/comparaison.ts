@@ -2,7 +2,7 @@ import { BRIQUES_PAR_ENIGME, MOTS_PAR_ENIGME, NOMS_PAR_LISTE } from "../engine/t
 import type { EnigmeJouee, ListeJouee, Partie } from "./parties";
 import type { ReferenceSyno } from "./reference";
 
-/** Score maximal d'une énigme : 5 mots trouvés chacun à la 1re brique, bonus des briques restantes, solution. */
+/** Score maximal théorique d'une énigme : 5 mots, bonus de 13 − 5 briques pariées (une par mot), solution. */
 export const SCORE_MAX_ENIGME = MOTS_PAR_ENIGME + (BRIQUES_PAR_ENIGME - MOTS_PAR_ENIGME) + 1;
 
 export interface Comparaison {

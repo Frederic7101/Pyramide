@@ -114,6 +114,11 @@ export function segmentsTexte(etat: EtatEnigme): SegmentTexte[] {
 }
 
 /** Briques restantes sur les 13 de l'énigme. */
+export function briquesMisees(enigme: Enigme): number {
+  return enigme.mots.reduce((somme, m) => somme + m.mise, 0);
+}
+
+/** Briques non consommées sur les 13 de l'énigme (information de jeu : le bonus se calcule sur les mises, voir scoreEnigme). */
 export function soldeBriques(etat: EtatEnigme): number {
   return BRIQUES_PAR_ENIGME - etat.resultats.reduce((somme, r) => somme + r.briquesUtilisees, 0);
 }
@@ -153,6 +158,14 @@ export function repondre(etat: EtatEnigme, reponse: string): EtatEnigme {
 }
 
 /**
+ * Syno passe (« je passe ») : il n'a aucune idée. La brique est consommée comme une mauvaise réponse
+ * (réponse vide) et la brique suivante est donnée, ou le mot est perdu si la mise est épuisée.
+ */
+export function passer(etat: EtatEnigme): EtatEnigme {
+  return repondre(etat, "");
+}
+
+/**
  * Signalement à l'arbitre : le mot en cours est annulé sans pénalité
  * (ni point, ni brique consommée) et on passe au mot suivant.
  */
@@ -181,13 +194,14 @@ export function abandonnerSolution(etat: EtatEnigme): EtatEnigme {
 }
 
 /**
- * Score : 1 point par mot trouvé ; bonus = briques restantes si les cinq mots sont trouvés
- * (un mot perdu ou annulé supprime le bonus) ; +1 si la solution est trouvée.
+ * Score : 1 point par mot trouvé ; +1 si la solution est trouvée ; bonus = 13 moins les briques MISÉES par
+ * Dico (et non les briques utilisées), accordé dès que les cinq mots sont trouvés, que la solution le soit ou
+ * non (un mot perdu ou annulé supprime le bonus).
  */
 export function scoreEnigme(etat: EtatEnigme): ScoreEnigme {
   const mots = etat.resultats.filter((r) => r.statut === "trouve").length;
   const tousTrouves = mots === etat.resultats.length;
-  const bonus = tousTrouves ? soldeBriques(etat) : 0;
+  const bonus = tousTrouves ? Math.max(0, BRIQUES_PAR_ENIGME - briquesMisees(etat.enigme)) : 0;
   const solution = etat.solutionTrouvee ? 1 : 0;
   return { mots, bonus, solution, total: mots + bonus + solution };
 }

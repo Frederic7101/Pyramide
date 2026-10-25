@@ -31,6 +31,8 @@ export interface AnalyseNiveau1 {
 export interface MotAJuger {
   reponse: string;
   variantes?: string[];
+  /** Surnoms (déjà dans `variantes`) dont les mots ne font pas partie du nom : permis comme briques. */
+  surnoms?: string[];
   famille?: string[];
   /** Briques prévues par le contenu pour ce mot (pistes relues). */
   briquesConnues?: string[];
@@ -70,7 +72,7 @@ function consonance(a: string, b: string): boolean {
 }
 
 export function analyserNiveau1(brique: string, mot: MotAJuger, contexte: ContexteNiveau1): AnalyseNiveau1 {
-  const interdits = [mot.reponse, ...(mot.variantes ?? [])];
+  const interdits = [mot.reponse, ...(mot.variantes ?? []).filter((v) => !(mot.surnoms ?? []).includes(v))];
   const controle = controlerBriqueJoueur(brique, interdits, mot.famille ?? [], contexte.autresMots ?? [], contexte.type === "nom" ? "noms" : "enigme");
   const pisteConnue = (mot.briquesConnues ?? []).some((b) => normaliser(b) === normaliser(brique));
   const indices: Indice[] = [];

@@ -48,7 +48,7 @@ export function montrerEnigmeDico(
     racine.replaceChildren(
       el("h2", {}, enigme.titre, el("small", {}, " Vous êtes Dico, l'ordinateur est Syno")),
       barreMots(),
-      el("p", {}, "Briques restantes : ", el("b", {}, `${soldeDico(etat)} / ${BRIQUES_PAR_ENIGME}`)),
+      el("p", {}, "Briques non pariées (bonus possible si les 5 mots sont trouvés) : ", el("b", {}, `${soldeDico(etat)} / ${BRIQUES_PAR_ENIGME}`)),
       message ? el("p", { class: "message", role: "status" }, message) : "",
       contestable ? boutonContester(contester) : "",
       etat.phase === "mots" ? zoneMot() : etat.phase === "solution" ? zoneSolution() : zoneFin(),
@@ -270,7 +270,7 @@ export function montrerEnigmeDico(
       "div",
       {},
       el("p", {}, el("b", {}, "Solution : "), enigme.solution, etat.solutionTrouvee ? " (trouvée par Syno)" : " (non trouvée)"),
-      el("table", {}, ligne("Mots trouvés", s.mots), ligne("Bonus (briques restantes)", s.bonus), ligne("Solution", s.solution), el("tr", {}, el("th", {}, "Total"), el("th", {}, String(s.total)))),
+      el("table", {}, ligne("Mots trouvés", s.mots), ligne("Bonus (13 − briques pariées)", s.bonus), ligne("Solution", s.solution), el("tr", {}, el("th", {}, "Total"), el("th", {}, String(s.total)))),
       formulaireEvaluation({
         evaluations,
         base: { type: "enigme", contenuId: enigme.id, versionContenu: enigme.version ?? "non-versionne", difficulteAnnoncee: enigme.difficulte, role: "dico" },

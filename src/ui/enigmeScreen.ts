@@ -3,11 +3,13 @@ import {
   briqueCourante,
   creerEnigme,
   numeroBriqueCourante,
+  passer,
   proposerSolution,
   repondre,
   scoreEnigme,
   segmentsTexte,
   signaler,
+  briquesMisees,
   soldeBriques,
   texteEnigme,
   type EtatEnigme,
@@ -67,14 +69,20 @@ export function montrerEnigme(
     const utilisees = BRIQUES_PAR_ENIGME - solde;
     const cases: HTMLElement[] = [];
     for (let i = 0; i < BRIQUES_PAR_ENIGME; i++) cases.push(el("i", { class: i < utilisees ? "brique usee" : "brique" }));
-    return el("div", {}, el("p", {}, "Briques restantes : ", el("b", {}, `${solde} / ${BRIQUES_PAR_ENIGME}`)), el("div", { class: "briques" }, ...cases));
+    const bonus = Math.max(0, BRIQUES_PAR_ENIGME - briquesMisees(enigme));
+    return el(
+      "div",
+      {},
+      el("p", {}, "Briques utilisées : ", el("b", {}, `${utilisees} / ${BRIQUES_PAR_ENIGME}`), el("span", { class: "qui" }, ` · Dico en a misé ${briquesMisees(enigme)} : bonus de ${bonus} point(s) si vous trouvez les 5 mots`)),
+      el("div", { class: "briques" }, ...cases),
+    );
   }
 
   function zoneMot(): HTMLElement {
     const mot = enigme.mots[etat.motIndex];
     const resultat = etat.resultats[etat.motIndex];
     const historique = resultat.reponses.map((rep, k) =>
-      el("div", { class: "indice" }, el("span", {}, el("span", { class: "qui" }, `Brique ${k + 1} `), el("b", {}, mot.briques[k].texte)), el("span", { class: "qui" }, `Votre réponse : ${rep.trim() || "(vide)"} ✗`)),
+      el("div", { class: "indice" }, el("span", {}, el("span", { class: "qui" }, `Brique ${k + 1} `), el("b", {}, mot.briques[k].texte)), el("span", { class: "qui" }, `Votre réponse : ${rep.trim() || "(passé)"} ✗`)),
     );
     const brique = briqueCourante(etat) ?? "";
 
@@ -99,6 +107,21 @@ export function montrerEnigme(
       },
       champ,
       el("button", { class: "btn", type: "submit" }, "Valider"),
+      el(
+        "button",
+        {
+          class: "btn sec",
+          type: "button",
+          title: "Aucune idée : la brique est consommée et la suivante est donnée",
+          onclick: () => {
+            const indexAvant = etat.motIndex;
+            etat = passer(etat);
+            message = etat.resultats[indexAvant].statut === "perdu" ? "Vous passez. Mot non trouvé, mot suivant." : "Vous passez. Brique suivante.";
+            dessiner();
+          },
+        },
+        "Je passe",
+      ),
     );
 
     return el(
@@ -196,7 +219,7 @@ export function montrerEnigme(
       ),
       el("p", { class: "legende" }, el("span", { class: "mot-revele trouve" }, "trouvé"), " ", el("span", { class: "mot-revele perdu" }, "non trouvé"), " ", el("span", { class: "mot-revele annule" }, "annulé")),
       el("p", {}, el("b", {}, "Solution : "), enigme.solution, etat.solutionTrouvee ? " (trouvée)" : " (non trouvée)"),
-      el("table", {}, ligne("Mots trouvés", s.mots), ligne("Bonus (briques restantes)", s.bonus), ligne("Solution", s.solution), el("tr", {}, el("th", {}, "Total"), el("th", {}, String(s.total)))),
+      el("table", {}, ligne("Mots trouvés", s.mots), ligne("Bonus (13 − briques pariées)", s.bonus), ligne("Solution", s.solution), el("tr", {}, el("th", {}, "Total"), el("th", {}, String(s.total)))),
       revueEnchainements(
         etat.resultats.map((r, i) => ({
           contexte: contexteMot(i, briquesMontrees(r.statut, r.reponses.length)),

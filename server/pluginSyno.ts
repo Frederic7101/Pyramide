@@ -13,7 +13,7 @@ import type { Connect, Plugin } from "vite";
 import type { DemandeArbitre, DemandeSyno } from "../src/engine/synoTypes";
 import { arbitrer, arbitrerCli } from "./arbitre";
 import { ClaudeCliError } from "./claudeCli";
-import { creerClient, devinerSyno, devinerSynoCli } from "./syno";
+import { avecGardeFamille, creerClient, devinerSyno, devinerSynoCli } from "./syno";
 
 function lireCorps(req: IncomingMessage): Promise<string> {
   return new Promise((resolve, reject) => {
@@ -83,7 +83,11 @@ export function pluginSyno(apiKey: string | undefined): Plugin {
     };
   }
 
-  const syno = route(estDemandeSyno, devinerSyno, (d) => devinerSynoCli(d));
+  const syno = route(
+    estDemandeSyno,
+    (c, d) => avecGardeFamille(d, (x) => devinerSyno(c, x)),
+    (d) => avecGardeFamille(d, (x) => devinerSynoCli(x)),
+  );
   const arbitre = route(estDemandeArbitre, arbitrer, (d) => arbitrerCli(d));
   return {
     name: "pyramide-syno",

@@ -107,6 +107,12 @@ export interface NomPropre {
   /** Autres formes complètes acceptées. */
   variantes?: string[];
   /**
+   * Surnoms acceptés comme réponse (ils s'ajoutent à `variantes` pour la correction) mais qui ne font PAS partie
+   * du nom : leurs mots restent permis comme briques (« Saint Louis » pour Louis IX : « Saint » n'est pas interdit,
+   * seul « Louis » l'est). Chaque surnom doit aussi figurer dans `variantes`.
+   */
+  surnoms?: string[];
+  /**
    * Réponses incomplètes (ex. le seul patronyme) qui déclenchent l'invitation « Complétez »,
    * possible une seule fois par nom propre.
    */

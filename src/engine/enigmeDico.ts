@@ -44,16 +44,9 @@ export function creerEnigmeDico(enigme: Enigme): EtatEnigmeDico {
   };
 }
 
-/** Briques consommées par un mot : celles jouées s'il est trouvé, toute la mise s'il est perdu ou refusé. */
-function briquesConsommees(mot: MotDico): number {
-  if (mot.statut === "trouve") return mot.briques.length;
-  if (mot.statut === "perdu" || mot.statut === "refuse") return mot.mise ?? 0;
-  return 0;
-}
-
-/** Briques non consommées sur les 13 de l'énigme. */
+/** Briques non encore pariées sur les 13 de l'énigme : le bonus est 13 moins les briques MISÉES, pas les briques utilisées. */
 export function soldeDico(etat: EtatEnigmeDico): number {
-  return BRIQUES_PAR_ENIGME - etat.mots.reduce((s, m) => s + briquesConsommees(m), 0);
+  return BRIQUES_PAR_ENIGME - etat.mots.reduce((s, m) => s + (m.mise ?? 0), 0);
 }
 
 /** Mise maximale pour le mot en cours : il faut garder au moins une brique pour chacun des mots suivants. */
@@ -121,10 +114,10 @@ export function texteEnigmeDico(etat: EtatEnigmeDico): string {
   });
 }
 
-/** Score des deux joueurs (comme en mode Syno) : mots trouvés, bonus si les 5 sont trouvés, solution. */
+/** Score des deux joueurs (comme en mode Syno) : mots trouvés, solution, et bonus (13 − briques misées) si les 5 mots sont trouvés. */
 export function scoreEnigmeDico(etat: EtatEnigmeDico): { mots: number; bonus: number; solution: number; total: number } {
   const mots = etat.mots.filter((m) => m.statut === "trouve").length;
-  const bonus = mots === etat.mots.length ? soldeDico(etat) : 0;
+  const bonus = mots === etat.mots.length ? Math.max(0, soldeDico(etat)) : 0;
   const solution = etat.solutionTrouvee ? 1 : 0;
   return { mots, bonus, solution, total: mots + bonus + solution };
 }

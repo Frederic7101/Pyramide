@@ -45,6 +45,8 @@ export interface DemandeArbitre {
   type: "mot" | "nom";
   motADeviner: string;
   variantes?: string[];
+  /** Noms propres : surnoms acceptés comme réponse mais qui ne font pas partie du nom (leurs mots sont permis comme briques). */
+  surnoms?: string[];
   /** Mots de même racine déclarés dans le contenu. */
   famille?: string[];
   /** Noms propres : thème de la liste. */

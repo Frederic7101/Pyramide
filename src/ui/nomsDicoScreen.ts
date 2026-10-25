@@ -55,7 +55,7 @@ export function montrerNomsDico(
       const briques = [...nom.briques, brique];
       const { reponse, verdict } = await jouerCoup(
         { type: "nom", theme: liste.theme, ...contexteSyno(), briques, reponsesFausses: nom.reponsesSyno },
-        avecIA ? { type: "nom", motADeviner: attendu.reponse, variantes: attendu.variantes, theme: liste.theme, briques } : undefined,
+        avecIA ? { type: "nom", motADeviner: attendu.reponse, variantes: (attendu.variantes ?? []).filter((v) => !(attendu.surnoms ?? []).includes(v)), surnoms: attendu.surnoms, theme: liste.theme, briques } : undefined,
       );
       const etatAvant = etat;
       const index = etat.nomIndex;
@@ -143,7 +143,7 @@ export function montrerNomsDico(
           const avecIA = (e as SubmitEvent).submitter?.dataset.ia === "oui";
           const analyse = analyserNiveau1(
             brique,
-            { reponse: attendu.reponse, variantes: [...(attendu.variantes ?? []), ...(attendu.partielles ?? [])], briquesConnues: attendu.briques.map((b) => b.texte) },
+            { reponse: attendu.reponse, variantes: [...(attendu.variantes ?? []), ...(attendu.partielles ?? [])], surnoms: attendu.surnoms, briquesConnues: attendu.briques.map((b) => b.texte) },
             { type: "nom", precedentes: nom.briques },
           );
           if (analyse.erreurs.length > 0) {

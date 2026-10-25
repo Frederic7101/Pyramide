@@ -4,6 +4,7 @@ import {
   creerNoms,
   enAttenteCompletion,
   numeroBriqueNom,
+  passerNom,
   repondreNom,
   scoreNoms,
   signalerNom,
@@ -63,7 +64,7 @@ export function montrerNomsPropres(
     const numero = numeroBriqueNom(etat);
 
     const historique = resultat.reponses.slice(0, attente ? numero - 1 : undefined).map((rep, k) =>
-      el("div", { class: "indice" }, el("span", {}, el("span", { class: "qui" }, `Brique ${k + 1} `), el("b", {}, nom.briques[k].texte)), el("span", { class: "qui" }, `Votre réponse : ${rep.trim() || "(vide)"} ✗`)),
+      el("div", { class: "indice" }, el("span", {}, el("span", { class: "qui" }, `Brique ${k + 1} `), el("b", {}, nom.briques[k].texte)), el("span", { class: "qui" }, `Votre réponse : ${rep.trim() || "(passé)"} ✗`)),
     );
     // Brique à laquelle Syno vient de répondre de façon incomplète : Dico a dit « Complétez ».
     const briqueAvecInvitation = attente
@@ -95,6 +96,22 @@ export function montrerNomsPropres(
       },
       champ,
       el("button", { class: "btn", type: "submit" }, "Valider"),
+      el(
+        "button",
+        {
+          class: "btn sec",
+          type: "button",
+          title: "Aucune idée : la brique est consommée et la suivante est donnée",
+          onclick: () => {
+            const indexAvant = etat.nomIndex;
+            etat = passerNom(etat);
+            const apres = etat.resultats[indexAvant];
+            message = apres.statut === "perdu" ? "Vous passez. Nom non trouvé, nom suivant." : apres.attenteCompletion ? "" : "Vous passez. Brique suivante.";
+            dessiner();
+          },
+        },
+        "Je passe",
+      ),
     );
 
     const affichee = brique ?? nom.briques[numero - 1].texte;

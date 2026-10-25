@@ -14,4 +14,6 @@ export const MOTS_COMPLEMENTAIRES: readonly string[] = [
   "oxymores",
   "oxymoron",
   "sphinge",
+  "sérendipité",
+  "serendipite",
 ];

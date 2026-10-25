@@ -12,7 +12,7 @@ L'utilisateur, un joueur expérimenté, est très exigeant sur la qualité des p
 - 13 briques au total pour l'énigme. Dico mise un nombre de briques par mot, et le **total des mises ne dépasse pas 13**.
 - Score :
   - 1 point par mot trouvé ;
-  - si les 5 mots sont trouvés, un bonus égal aux briques non utilisées ;
+  - si les 5 mots sont trouvés (même si la solution ne l’est pas), un bonus égal à 13 moins les briques MISÉES par Dico (pas les briques utilisées) : mises 3-3-2-2-1 = 11 briques pariées, donc 2 points de bonus ;
   - +1 point si Syno trouve la solution.
 - **Ce que Syno sait.** Pendant la recherche des mots, il ne connaît QUE :
   - le TITRE ;
@@ -143,3 +143,5 @@ Ne modifie AUCUN autre fichier que le tien : ni `index.ts`, ni les autres lots.
 **D. Incitations évidentes : leçons des tests.** Syno ne décode pas l'incitation quand l'évoqué est indirect ou peu courant. Mal lues : camembert → brie, facture → addition, « Saisons » → Vivaldi, écolier → élève, sur → sous, chèvre → bouc. Préfère le CONTRAIRE ou le PENDANT usuel du mot évoqué (haut/bas, avec/sans, jour/nuit, chat/souris, mère/père, nord/sud, oui/non, neuf/dix, roi/reine), ou un mot de la même famille de sons immédiatement associé. Teste mentalement : « si Syno lit seulement ce mot, pense-t-il tout de suite au mot évoqué ? ».
 
 **E. La brique « contraire » (consigne de Dico).** Dico peut dire le mot « contraire » : c'est une consigne qui demande à Syno de dire le contraire, soit du sens de la 1re brique, soit de la réponse précédente de Syno (quand Syno vient de proposer un mot refusé, c'est le contraire de ce mot). Elle s'écrit `decl("contraire")` (déclinaison) et se place après une brique qui a déjà amené quelque chose, jamais en 1re position. Elle sert à dire « l'inverse de ce que tu penses » sans ajouter un nouveau mot : « faible + contraire → fort » (le contraire de la 1re brique) ; « chaud + froid + contraire → … » est à éviter (redondant). Elle compte comme une brique pour la mise. Syno ordinateur et l'arbitre la connaissent déjà (server/syno.ts, server/arbitre.ts).
+
+**F. Surnoms des noms propres.** Seuls les mots du NOM lui-même sont interdits comme briques. Un surnom accepté comme réponse (« Saint Louis » pour Louis IX) se déclare dans `variantes` ET dans `surnoms` : ses mots restent permis comme briques (« Saint » est permis pour Louis IX, « Louis » ne l'est pas). Un DIMINUTIF du nom ou d'un de ses mots n'est pas un surnom à déclarer : il est interdit (« Cloclo » pour Claude François, « Indy » pour Indiana Jones). Sans `surnoms`, tous les mots des `variantes` sont interdits.
