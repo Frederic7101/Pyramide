@@ -1,0 +1,53 @@
+[
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grâce",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "trahison",
+          "félonie",
+          "magnanimité"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "largesse",
+          "oubli",
+          "munificence"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "rancune",
+          "amertume",
+          "rancœur"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "punition",
+      "avec"
+    ],
+    "dejaFausses": [
+      "châtiment"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« clémence »).\nMot n°2 : non trouvé (tes propositions : « trahison », « félonie », « magnanimité »).\nMot n°3 : non trouvé (tes propositions : « largesse », « oubli », « munificence »).\nMot n°4 : trouvé (« rancœur »).\nMot d'une énigme. Briques de Dico :\n1. punition\n2. avec\nRéponses déjà jugées fausses : « châtiment ».\n\nQuel mot Dico te fait-il deviner ?"
+  }
+]

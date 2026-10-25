@@ -1,0 +1,31 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "solution",
+    "texte": "Je m'ouvre quand le ciel est menaçant ; je suis votre ____ contre l'averse ; mes ____ plient par grand vent ; on m'oublie souvent dans le ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Compagnon des jours gris ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe m'ouvre quand le ciel est menaçant ; je suis votre ____ contre l'averse ; mes ____ plient par grand vent ; on m'oublie souvent dans le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la ____ des courtisans, qui attendaient une sanction exemplaire.",
+    "dejaFausses": [
+      "L'indignation",
+      "La colère"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe roi fit preuve de clémence envers le félon ; sa magnanimité désarma la ____ des courtisans, qui attendaient une sanction exemplaire.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « L'indignation », « La colère »."
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande ____ blanche garde au ____ le beurre, les ____ et le ____.",
+    "dejaFausses": [
+      "L'armoire frigorifique"
+    ],
+    "message": "Titre de l'énigme : « Pôle Nord de la cuisine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans la cuisine, cette grande ____ blanche garde au ____ le beurre, les ____ et le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « L'armoire frigorifique »."
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "e-003",
+    "titre": "Compagnon des jours gris",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "ciel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "azur",
+          "voûte",
+          "éther"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "empyrée",
+          "zénith"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "air",
+          "vent"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "convoi",
+      "rails",
+      "accélérateur"
+    ],
+    "dejaFausses": [
+      "nuage",
+      "bruine"
+    ],
+    "message": "Titre de l'énigme : « Compagnon des jours gris ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« ciel »).\nMot n°2 : non trouvé (tes propositions : « azur », « voûte », « éther »).\nMot n°3 : non trouvé (tes propositions : « empyrée », « zénith »).\nMot n°4 : trouvé (« vent »).\nMot d'une énigme. Briques de Dico :\n1. convoi\n2. rails\n3. accélérateur\nRéponses déjà jugées fausses : « nuage », « bruine ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-008",
+    "titre": "Or liquide",
+    "type": "solution",
+    "texte": "Je suis né dans une ruche ; les ____ m'ont fabriqué avec le ____ des fleurs ; je suis sucré et doré ; on m'étale sur une ____ de pain.",
+    "dejaFausses": [
+      "La confiture",
+      "La marmelade"
+    ],
+    "message": "Titre de l'énigme : « Or liquide ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nJe suis né dans une ruche ; les ____ m'ont fabriqué avec le ____ des fleurs ; je suis sucré et doré ; on m'étale sur une ____ de pain.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « La confiture », « La marmelade »."
+  },
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "solution",
+    "texte": "Le roi fit preuve de clémence envers le félon ; sa magnanimité désarma la ____ des courtisans, qui attendaient une sanction exemplaire.",
+    "dejaFausses": [
+      "L'indignation"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe roi fit preuve de clémence envers le félon ; sa magnanimité désarma la ____ des courtisans, qui attendaient une sanction exemplaire.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal).\nRéponses déjà jugées fausses : « L'indignation »."
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande ____ blanche garde au ____ le beurre, les ____ et le ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Pôle Nord de la cuisine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans la cuisine, cette grande ____ blanche garde au ____ le beurre, les ____ et le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  }
+]

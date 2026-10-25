@@ -1,0 +1,253 @@
+[
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grâce",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "trahison",
+          "félonie",
+          "magnanimité"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "largesse",
+          "oubli",
+          "munificence"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigreur"
+    ],
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nTu cherches le mot n°4.\nMot n°1 : trouvé (« clémence »).\nMot n°2 : non trouvé (tes propositions : « trahison », « félonie », « magnanimité »).\nMot n°3 : non trouvé (tes propositions : « largesse », « oubli », « munificence »).\nMot d'une énigme. Briques de Dico :\n1. aigreur\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-325",
+    "titre": "Le désert intérieur",
+    "type": "solution",
+    "texte": "L'____ se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le désert intérieur ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nL'____ se prive de tout : jeûne, abstinence et veilles ; par cette ____, il cherche la purification de l'âme.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "dogme"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "hérétiques",
+          "excommuniés",
+          "pécheurs"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "bûchers",
+          "Inquisition"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "dissidents"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "autodafé",
+      "fagots"
+    ],
+    "dejaFausses": [
+      "censure"
+    ],
+    "message": "Titre de l'énigme : « Brebis égarées ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« dogme »).\nMot n°2 : non trouvé (tes propositions : « hérétiques », « excommuniés », « pécheurs »).\nMot n°3 : trouvé (« Inquisition »).\nMot n°4 : trouvé (« dissidents »).\nMot d'une énigme. Briques de Dico :\n1. autodafé\n2. fagots\nRéponses déjà jugées fausses : « censure ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "empereur"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "icônes"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "iconoclastes",
+          "iconoclaste",
+          "frondeurs"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "agiter",
+          "bousculer"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "principes",
+      "Église"
+    ],
+    "dejaFausses": [
+      "doctrine"
+    ],
+    "message": "Titre de l'énigme : « Querelle des images ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« empereur »).\nMot n°2 : trouvé (« icônes »).\nMot n°3 : trouvé (« frondeurs »).\nMot n°4 : trouvé (« bousculer »).\nMot d'une énigme. Briques de Dico :\n1. principes\n2. Église\nRéponses déjà jugées fausses : « doctrine ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "monstre"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "têtes",
+          "multiples"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "coupées",
+          "décapitées",
+          "repoussent"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "cautériser"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "extrémité",
+      "chandelle"
+    ],
+    "dejaFausses": [
+      "cou"
+    ],
+    "message": "Titre de l'énigme : « Héraclès au marais ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« monstre »).\nMot n°2 : trouvé (« multiples »).\nMot n°3 : non trouvé (tes propositions : « coupées », « décapitées », « repoussent »).\nMot n°4 : trouvé (« cautériser »).\nMot d'une énigme. Briques de Dico :\n1. extrémité\n2. chandelle\nRéponses déjà jugées fausses : « cou ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "armoire"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "frigorifique",
+          "frigo"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "réfrigérateur",
+          "congélateur"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 4,
+        "propositions": [
+          "freezer",
+          "glacière"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 5,
+    "briques": [
+      "saucisson",
+      "mauvais"
+    ],
+    "dejaFausses": [
+      "garde-manger"
+    ],
+    "message": "Titre de l'énigme : « Pôle Nord de la cuisine ».\nTu cherches le mot n°5.\nMot n°1 : trouvé (« armoire »).\nMot n°2 : non trouvé (tes propositions : « frigorifique », « frigo »).\nMot n°3 : non trouvé (tes propositions : « réfrigérateur », « congélateur »).\nMot n°4 : non trouvé (tes propositions : « freezer », « glacière »).\nMot d'une énigme. Briques de Dico :\n1. saucisson\n2. mauvais\nRéponses déjà jugées fausses : « garde-manger ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-503",
+    "titre": "Le cerf-volant de Benjamin",
+    "type": "solution",
+    "texte": "Dressée sur le faîte de l'édifice, une tige métallique attire la foudre ; un câble la conduit jusqu'au sol, évitant l'incendie.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Le cerf-volant de Benjamin ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDressée sur le faîte de l'édifice, une tige métallique attire la foudre ; un câble la conduit jusqu'au sol, évitant l'incendie.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-533",
+    "titre": "Salle des pas perdus",
+    "type": "solution",
+    "texte": "Le prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son ____ ; les ____ se retirent avant le verdict.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Salle des pas perdus ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nLe prévenu comparaît ; le greffier consigne les débats ; le procureur prononce son ____ ; les ____ se retirent avant le verdict.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  }
+]

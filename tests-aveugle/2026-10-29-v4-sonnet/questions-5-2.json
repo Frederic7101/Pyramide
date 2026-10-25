@@ -1,0 +1,176 @@
+[
+  {
+    "id": "np-432",
+    "type": "nom",
+    "theme": "Marques gourmandes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Orangina",
+          "Coca-Cola"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Nutella"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Haribo"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "yaourt"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Marques gourmandes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Coca-Cola »).\nNom n°2 : trouvé (« Nutella »).\nNom n°3 : trouvé (« Haribo »).\nBriques de Dico :\n1. yaourt\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-434",
+    "type": "nom",
+    "theme": "Outre-mer français",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Martinique"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "La Réunion"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Polynésie française",
+          "Tahiti"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Kourou"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Outre-mer français ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Martinique »).\nNom n°2 : trouvé (« La Réunion »).\nNom n°3 : trouvé (« Tahiti »).\nBriques de Dico :\n1. Kourou\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Fitzgerald Kennedy",
+          "John F. Kennedy",
+          "Lyndon Baines Johnson"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "premier"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°3.\nNom n°1 : trouvé (« Abraham Lincoln »).\nNom n°2 : trouvé (« Lyndon Baines Johnson »).\nBriques de Dico :\n1. premier\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-511",
+    "type": "nom",
+    "theme": "Moralistes et fabulistes du Grand Siècle",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Jean de La Fontaine"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean de La Bruyère"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Cardinal de Retz",
+          "François de La Rochefoucauld"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Lutrin"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Moralistes et fabulistes du Grand Siècle ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Jean de La Fontaine »).\nNom n°2 : trouvé (« Jean de La Bruyère »).\nNom n°3 : trouvé (« François de La Rochefoucauld »).\nBriques de Dico :\n1. Lutrin\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-528",
+    "type": "nom",
+    "theme": "Ministres de l'Ancien Régime",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Richelieu",
+          "Mazarin"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jean-Baptiste Colbert"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Sully"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Genève"
+    ],
+    "completer": false,
+    "dejaFausses": [],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Ministres de l'Ancien Régime ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Mazarin »).\nNom n°2 : trouvé (« Jean-Baptiste Colbert »).\nNom n°3 : trouvé (« Sully »).\nBriques de Dico :\n1. Genève\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

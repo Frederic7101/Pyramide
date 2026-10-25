@@ -311,7 +311,7 @@ export const LOT4_NOMS_PROPRES: ListeNomsPropres[] = [
   ]),
   liste("np-449", "Présidents américains", [
     ["Abraham Lincoln", ["esclavage", "Gettysburg", inc("coton", "lin", "Lin")], { partielles: ["Lincoln"] }],
-    ["John F. Kennedy", ["Dallas", "Jackie", inc("Barbie", "Ken", "Ken")], { variantes: ["John Kennedy", "JFK"], partielles: ["Kennedy"] }],
+    ["John F. Kennedy", ["Dallas", "Jackie", inc("Barbie", "Ken", "Ken")], { variantes: ["John Kennedy", "John Fitzgerald Kennedy", "JFK"], partielles: ["Kennedy"] }],
     ["George Washington", ["premier", "dollar", inc("kilo", "tonne", "ton", "ton", "fin")], { partielles: ["Washington"] }],
     ["Barack Obama", ["Michelle", "Hawaï", "Yes we can"], { partielles: ["Obama"] }],
   ]),

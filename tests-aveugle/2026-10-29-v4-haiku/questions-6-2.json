@@ -1,0 +1,192 @@
+[
+  {
+    "id": "np-327",
+    "type": "nom",
+    "theme": "Grands de la chanson",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Georges Brassens"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Jacques Brel"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Charles Trenet",
+          "Léo Ferré"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigle",
+      "Nantes"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Michel Sardou"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Grands de la chanson ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Georges Brassens »).\nNom n°2 : trouvé (« Jacques Brel »).\nNom n°3 : trouvé (« Léo Ferré »).\nBriques de Dico :\n1. aigle\n2. Nantes\nRéponses déjà jugées fausses : « Michel Sardou ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-349",
+    "type": "nom",
+    "theme": "Héros de bande dessinée réaliste",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Francis Blake"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Hugo Pratt",
+          "Corto Maltese"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Valérian"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Giraud",
+      "lieutenant"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Moebius"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Héros de bande dessinée réaliste ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Francis Blake »).\nNom n°2 : trouvé (« Corto Maltese »).\nNom n°3 : trouvé (« Valérian »).\nBriques de Dico :\n1. Giraud\n2. lieutenant\nRéponses déjà jugées fausses : « Moebius ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-420",
+    "type": "nom",
+    "theme": "Champions de tennis",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Roger Federer"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Rafael Nadal"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "Yannick Noah"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "Venus",
+      "Américaine"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Venus Williams",
+      "Venus Ebony Starr Williams"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Champions de tennis ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Roger Federer »).\nNom n°2 : trouvé (« Rafael Nadal »).\nNom n°3 : trouvé (« Yannick Noah »).\nBriques de Dico :\n1. Venus\n2. Américaine\nRéponses déjà jugées fausses : « Venus Williams », « Venus Ebony Starr Williams ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Fitzgerald Kennedy"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "premier",
+      "dollar",
+      "kilo"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Lyndon Baines Johnson",
+      "John F. Kennedy"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°3.\nNom n°1 : trouvé (« Abraham Lincoln »).\nNom n°2 : trouvé (« John Fitzgerald Kennedy »).\nBriques de Dico :\n1. premier\n2. dollar\n3. kilo\nRéponses déjà jugées fausses : « Lyndon Baines Johnson », « John F. Kennedy ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  },
+  {
+    "id": "np-505",
+    "type": "nom",
+    "theme": "Fauves et cubistes",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Henri Matisse"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "Georges Braque"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "André Derain"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "tubes",
+      "Constructeurs",
+      "lourd"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Vlaminck",
+      "Raoul Dufy"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Fauves et cubistes ». Rébus et incitations sont permis ici.\nTu cherches le nom n°4.\nNom n°1 : trouvé (« Henri Matisse »).\nNom n°2 : trouvé (« Georges Braque »).\nNom n°3 : trouvé (« André Derain »).\nBriques de Dico :\n1. tubes\n2. Constructeurs\n3. lourd\nRéponses déjà jugées fausses : « Vlaminck », « Raoul Dufy ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

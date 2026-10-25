@@ -1,0 +1,76 @@
+[
+  {
+    "id": "e-305",
+    "titre": "Le pardon des grands",
+    "type": "mot",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "grâce",
+          "clémence"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "trahison",
+          "félonie",
+          "magnanimité"
+        ],
+        "trouve": false
+      },
+      {
+        "numero": 3,
+        "propositions": [
+          "largesse",
+          "oubli",
+          "munificence"
+        ],
+        "trouve": false
+      }
+    ],
+    "numero": 4,
+    "briques": [
+      "aigreur",
+      "fiel"
+    ],
+    "dejaFausses": [
+      "rancune"
+    ],
+    "message": "Titre de l'énigme : « Le pardon des grands ».\nTu cherches le mot n°4.\nMot n°1 : trouvé (« clémence »).\nMot n°2 : non trouvé (tes propositions : « trahison », « félonie », « magnanimité »).\nMot n°3 : non trouvé (tes propositions : « largesse », « oubli », « munificence »).\nMot d'une énigme. Briques de Dico :\n1. aigreur\n2. fiel\nRéponses déjà jugées fausses : « rancune ».\n\nQuel mot Dico te fait-il deviner ?"
+  },
+  {
+    "id": "e-331",
+    "titre": "Brebis égarées",
+    "type": "solution",
+    "texte": "S'écarter du dogme, c'est risquer l'____ ; l'inquisition traquait ces dissidents et les livrait au ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Brebis égarées ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nS'écarter du dogme, c'est risquer l'____ ; l'inquisition traquait ces dissidents et les livrait au ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-335",
+    "titre": "Querelle des images",
+    "type": "solution",
+    "texte": "À Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les ____ établis.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Querelle des images ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nÀ Byzance, l'empereur faisait briser les icônes ; aujourd'hui, l'esprit frondeur aime bousculer les ____ établis.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-339",
+    "titre": "Héraclès au marais",
+    "type": "solution",
+    "texte": "Ce monstre aux têtes multiples renaissait à chaque ____ ; Héraclès dut cautériser les plaies pour en venir à ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Héraclès au marais ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nCe monstre aux têtes multiples renaissait à chaque ____ ; Héraclès dut cautériser les plaies pour en venir à ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  },
+  {
+    "id": "e-403",
+    "titre": "Pôle Nord de la cuisine",
+    "type": "solution",
+    "texte": "Dans la cuisine, cette grande armoire blanche garde au ____ le ____, les ____ et le ____.",
+    "dejaFausses": [],
+    "message": "Titre de l'énigme : « Pôle Nord de la cuisine ».\nLes cinq mots de l'énigme ont été joués. Voici l'énigme, avec les mots trouvés replacés (« ____ » pour les mots non trouvés) :\n\nDans la cuisine, cette grande armoire blanche garde au ____ le ____, les ____ et le ____.\n\nQuelle est la solution de l'énigme ? Donne une réponse courte (un mot ou un groupe nominal)."
+  }
+]

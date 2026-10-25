@@ -6,85 +6,91 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-003": {
       "type": "enigme",
       "empreinte": "cozwyu",
-      "date": "2026-10-24",
-      "score": 7,
+      "date": "2026-10-25",
+      "score": 3,
       "trouveA": [
         1,
-        1,
-        1,
-        1,
-        2
+        null,
+        null,
+        2,
+        null
       ],
       "reponses": [
         [
           "ciel"
         ],
         [
-          "bouclier"
+          "azur",
+          "voûte",
+          "éther"
         ],
         [
-          "baleine"
+          "empyrée",
+          "zénith"
         ],
         [
+          "air",
           "vent"
         ],
         [
-          "flotte",
-          "train"
-        ]
-      ],
-      "bonus": 1,
-      "solutionTrouvee": true,
-      "essaisSolution": [
-        "un parapluie"
-      ]
-    },
-    "e-006": {
-      "type": "enigme",
-      "empreinte": "sabyo9",
-      "date": "2026-10-24",
-      "score": 5,
-      "trouveA": [
-        2,
-        1,
-        1,
-        null,
-        1
-      ],
-      "reponses": [
-        [
-          "âge",
-          "siècle"
-        ],
-        [
-          "feu"
-        ],
-        [
-          "lave"
-        ],
-        [
-          "Pompéi",
-          "nécropole"
-        ],
-        [
-          "cratère"
+          "nuage",
+          "bruine",
+          "tempête"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le Vésuve",
-        "un volcan"
+        "Le parapluie"
+      ]
+    },
+    "e-006": {
+      "type": "enigme",
+      "empreinte": "sabyo9",
+      "date": "2026-10-25",
+      "score": 3,
+      "trouveA": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "reponses": [
+        [
+          "siècle"
+        ],
+        [
+          "âge",
+          "temps"
+        ],
+        [
+          "ère",
+          "présent"
+        ],
+        [
+          "ville"
+        ],
+        [
+          "époque",
+          "heure",
+          "étang"
+        ]
+      ],
+      "bonus": 0,
+      "solutionTrouvee": true,
+      "essaisSolution": [
+        "Le volcan"
       ]
     },
     "e-007": {
       "type": "enigme",
       "empreinte": "cwzqza",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
-        1,
+        2,
         2,
         1,
         1
@@ -94,6 +100,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "tournée"
         ],
         [
+          "sac",
           "sacoche"
         ],
         [
@@ -110,69 +117,71 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le facteur"
+        "Le facteur"
       ]
     },
     "e-008": {
       "type": "enigme",
       "empreinte": "7xz358",
-      "date": "2026-10-24",
-      "score": 4,
+      "date": "2026-10-25",
+      "score": 2,
       "trouveA": [
+        1,
         null,
-        1,
-        1,
+        null,
         1,
         null
       ],
       "reponses": [
         [
+          "ruche"
+        ],
+        [
           "miel",
-          "rayon",
-          "gelée"
-        ],
-        [
-          "abeille"
-        ],
-        [
           "nectar"
+        ],
+        [
+          "hydromel",
+          "miellée"
         ],
         [
           "sucré"
         ],
         [
-          "cire",
-          "ruche"
+          "sirop",
+          "sucrerie"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "un produit de la ruche",
-        "le miel"
+        "La confiture",
+        "La marmelade",
+        "La gelée"
       ]
     },
     "e-009": {
       "type": "enigme",
       "empreinte": "189ro1f",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 5,
       "trouveA": [
         null,
         1,
-        1,
+        2,
         2,
         1
       ],
       "reponses": [
         [
-          "film",
-          "œuvre"
+          "œuvre",
+          "film"
         ],
         [
           "écran"
         ],
         [
+          "cinéaste",
           "réalisateur"
         ],
         [
@@ -186,17 +195,17 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le cinéma"
+        "Le cinéma"
       ]
     },
     "e-204": {
       "type": "enigme",
       "empreinte": "ewp4m4",
-      "date": "2026-10-24",
-      "score": 7,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         1,
-        1,
+        null,
         1,
         1,
         1
@@ -206,7 +215,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "parchemin"
         ],
         [
-          "moine"
+          "palimpseste",
+          "manuscrit",
+          "copiste"
         ],
         [
           "texte"
@@ -215,30 +226,31 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "rayons"
         ],
         [
-          "écriture"
+          "écritures"
         ]
       ],
-      "bonus": 1,
-      "solutionTrouvee": true,
+      "bonus": 0,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "un palimpseste"
+        "Un scribe",
+        "Un moine",
+        "Un moine copiste"
       ]
     },
     "e-304": {
       "type": "enigme",
       "empreinte": "6uh4k1",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 5,
       "trouveA": [
-        2,
+        1,
         2,
         null,
-        2,
+        1,
         1
       ],
       "reponses": [
         [
-          "agneau",
           "masque"
         ],
         [
@@ -246,12 +258,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "duplicité"
         ],
         [
-          "exemple",
-          "apparence",
-          "saint"
+          "type",
+          "piété",
+          "bigot"
         ],
         [
-          "affectation",
           "simagrées"
         ],
         [
@@ -261,27 +272,28 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "un hypocrite"
+        "Un faux dévot",
+        "Un hypocrite"
       ]
     },
     "e-305": {
       "type": "enigme",
       "empreinte": "q2n6h6",
-      "date": "2026-10-24",
-      "score": 6,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         1,
         2,
         1,
-        3,
-        1
+        null,
+        2
       ],
       "reponses": [
         [
           "clémence"
         ],
         [
-          "grâce",
+          "amnistie",
           "félon"
         ],
         [
@@ -289,83 +301,81 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "rancune",
-          "venin",
-          "rancœur"
+          "amertume",
+          "queue"
         ],
         [
+          "peine",
           "sanction"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "le pardon royal",
-        "la mansuétude"
+        "L'indignation",
+        "La colère",
+        "La réprobation"
       ]
     },
     "e-308": {
       "type": "enigme",
       "empreinte": "pvssuu",
-      "date": "2026-10-24",
-      "score": 3,
+      "date": "2026-10-25",
+      "score": 8,
       "trouveA": [
-        null,
         1,
-        null,
-        null,
+        1,
+        1,
+        1,
         1
       ],
       "reponses": [
         [
-          "lâche",
-          "captieux"
+          "rigoureux"
         ],
         [
           "faille"
         ],
         [
-          "axiomes",
-          "sophisme",
-          "paralogisme"
+          "prémisse"
         ],
         [
-          "raisonnement",
-          "logique"
+          "conclusion"
         ],
         [
           "piège"
         ]
       ],
-      "bonus": 0,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "un sophisme"
+        "sophisme"
       ]
     },
     "e-325": {
       "type": "enigme",
       "empreinte": "137sywx",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 7,
       "trouveA": [
+        3,
         2,
-        2,
-        null,
+        1,
         2,
         1
       ],
       "reponses": [
         [
           "solitaire",
+          "solitude",
           "anachorète"
         ],
         [
-          "ripaille",
+          "banquet",
           "jeûne"
         ],
         [
-          "chasteté",
-          "privation"
+          "abstinence"
         ],
         [
           "austérité",
@@ -375,23 +385,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "purification"
         ]
       ],
-      "bonus": 0,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "l'ascèse"
+        "L'ascèse"
       ]
     },
     "e-326": {
       "type": "enigme",
       "empreinte": "1k2kv47",
-      "date": "2026-10-24",
-      "score": 4,
+      "date": "2026-10-25",
+      "score": 7,
       "trouveA": [
         1,
-        null,
+        2,
         1,
-        null,
-        2
+        2,
+        1
       ],
       "reponses": [
         [
@@ -399,31 +409,31 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "coutume",
-          "mœurs",
-          "hôte"
+          "convention"
         ],
         [
           "argent"
         ],
         [
           "cynisme",
-          "impôt"
+          "impudence"
         ],
         [
-          "puissants",
           "notables"
         ]
       ],
-      "bonus": 0,
-      "solutionTrouvee": true,
+      "bonus": 2,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "le cynisme"
+        "La philosophie cynique",
+        "Le cynique",
+        "Le stoïcisme"
       ]
     },
     "e-329": {
       "type": "enigme",
       "empreinte": "1gsn2at",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -440,8 +450,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "volute"
         ],
         [
-          "salomoniques",
-          "torsade"
+          "torsade",
+          "sinueuses"
         ],
         [
           "trompe-l'œil"
@@ -454,16 +464,16 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le baroque"
+        "Le baroque"
       ]
     },
     "e-331": {
       "type": "enigme",
       "empreinte": "1selydj",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
-        2,
+        1,
         1,
         1,
         2,
@@ -471,7 +481,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "enseignement",
           "dogme"
         ],
         [
@@ -491,14 +500,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "l'Inquisition",
-        "l'hérésie"
+        "L'hérésie"
       ]
     },
     "e-335": {
       "type": "enigme",
       "empreinte": "1xximq1",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 5,
       "trouveA": [
         1,
@@ -519,27 +527,27 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "frondeur"
         ],
         [
-          "ébranler",
+          "briser",
           "bousculer"
         ],
         [
-          "idées",
-          "doctrines"
+          "règles",
+          "doctrine"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "l'iconoclasme"
+        "L'iconoclasme"
       ]
     },
     "e-339": {
       "type": "enigme",
       "empreinte": "1r5kxa7",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
-        2,
+        1,
         null,
         null,
         1,
@@ -547,16 +555,15 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "hydre",
           "monstre"
         ],
         [
-          "têtes",
-          "cou"
+          "hydre",
+          "légion"
         ],
         [
-          "tronc",
-          "couper",
+          "tête",
+          "couperet",
           "neuf"
         ],
         [
@@ -569,20 +576,20 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "l'hydre de Lerne"
+        "L'Hydre de Lerne"
       ]
     },
     "e-341": {
       "type": "enigme",
       "empreinte": "1qk3pfg",
-      "date": "2026-10-24",
-      "score": 4,
+      "date": "2026-10-25",
+      "score": 8,
       "trouveA": [
         2,
         1,
         1,
         1,
-        null
+        1
       ],
       "reponses": [
         [
@@ -599,22 +606,21 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "étoile"
         ],
         [
-          "guigne",
-          "poisson"
+          "poisse"
         ]
       ],
-      "bonus": 0,
+      "bonus": 3,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "le jeu de hasard",
-        "l'aléa",
-        "la malchance"
+        "La fatalité",
+        "La loterie",
+        "Le sort"
       ]
     },
     "e-403": {
       "type": "enigme",
       "empreinte": "i9kfi2",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 2,
       "trouveA": [
         null,
@@ -626,39 +632,39 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "reponses": [
         [
           "frigo",
-          "glacière",
-          "congélateur"
+          "congélateur",
+          "glacière"
         ],
         [
-          "réfrigérateur",
-          "glacée"
+          "froid",
+          "glacial"
         ],
         [
           "beurre"
         ],
         [
-          "glaçon",
-          "beurrier"
+          "réfrigérateur",
+          "lait"
         ],
         [
           "charcuterie",
-          "boudin"
+          "La boucherie"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "l'armoire frigorifique",
-        "le frigidaire"
+        "L'armoire frigorifique",
+        "Le Frigidaire"
       ]
     },
     "e-428": {
       "type": "enigme",
       "empreinte": "113hopk",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
-        2,
+        1,
         1,
         1,
         1,
@@ -666,7 +672,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "gare",
           "quai"
         ],
         [
@@ -685,13 +690,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le train"
+        "Un voyage en train",
+        "Le train"
       ]
     },
     "e-430": {
       "type": "enigme",
       "empreinte": "1hzo6lc",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -711,7 +717,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "cheminée"
         ],
         [
-          "cadeau"
+          "cadeaux"
         ],
         [
           "sapin"
@@ -720,17 +726,17 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le Père Noël"
+        "Le Père Noël"
       ]
     },
     "e-435": {
       "type": "enigme",
       "empreinte": "17alons",
-      "date": "2026-10-24",
-      "score": 2,
+      "date": "2026-10-25",
+      "score": 3,
       "trouveA": [
         null,
-        null,
+        1,
         null,
         1,
         null
@@ -738,15 +744,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "reponses": [
         [
           "pédale",
+          "frein"
+        ],
+        [
           "guidon"
         ],
         [
-          "selle",
-          "roue"
-        ],
-        [
           "vitesse",
-          "frein"
+          "bicyclette"
         ],
         [
           "équilibre"
@@ -754,63 +759,65 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         [
           "chaîne",
           "chambre à air",
-          "Champs"
+          "roue"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le vélo"
+        "Le vélo"
       ]
     },
     "e-437": {
       "type": "enigme",
       "empreinte": "5stn35",
-      "date": "2026-10-24",
-      "score": 7,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
+        null,
+        null,
         1,
-        1,
-        1,
-        1,
+        2,
         1
       ],
       "reponses": [
         [
-          "aéroport"
+          "avion",
+          "vol"
         ],
         [
-          "valise"
+          "soute",
+          "aéroport"
         ],
         [
           "pilote"
         ],
         [
+          "traînée",
           "piste"
         ],
         [
           "hôtesse"
         ]
       ],
-      "bonus": 2,
-      "solutionTrouvee": false,
+      "bonus": 0,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "un voyage en avion",
-        "un aéroport",
-        "un vol"
+        "L'aérogare",
+        "L'avion"
       ]
     },
     "e-503": {
       "type": "enigme",
       "empreinte": "1thfc9l",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         2,
-        2,
+        null,
         1,
         null,
-        2
+        1
       ],
       "reponses": [
         [
@@ -818,8 +825,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "faîte"
         ],
         [
-          "baguette",
-          "tige"
+          "barre",
+          "fleuron"
         ],
         [
           "foudre"
@@ -829,31 +836,30 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "antenne"
         ],
         [
-          "lampe",
           "incendie"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le paratonnerre"
+        "Le paratonnerre"
       ]
     },
     "e-506": {
       "type": "enigme",
       "empreinte": "1aywnc3",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
         1,
         1,
-        2,
-        1
+        1,
+        2
       ],
       "reponses": [
         [
-          "pigment"
+          "pigments"
         ],
         [
           "enduit"
@@ -862,39 +868,37 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "humide"
         ],
         [
-          "fresque",
           "échafaudage"
         ],
         [
+          "sol",
           "plafond"
         ]
       ],
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "la fresque"
+        "La fresque"
       ]
     },
     "e-509": {
       "type": "enigme",
       "empreinte": "c25lnc",
-      "date": "2026-10-24",
-      "score": 3,
+      "date": "2026-10-25",
+      "score": 8,
       "trouveA": [
-        null,
-        null,
+        1,
+        1,
         1,
         1,
         2
       ],
       "reponses": [
         [
-          "delta",
-          "estuaire"
+          "fleuve"
         ],
         [
-          "patte",
-          "mollet"
+          "bras"
         ],
         [
           "crue"
@@ -903,22 +907,22 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "alluvions"
         ],
         [
-          "cône",
+          "delta",
           "triangle"
         ]
       ],
-      "bonus": 0,
+      "bonus": 3,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "l'embouchure",
-        "un delta fluvial",
-        "le Nil"
+        "Un estuaire",
+        "Le triangle",
+        "L'embouchure"
       ]
     },
     "e-515": {
       "type": "enigme",
       "empreinte": "1rq2xzm",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 5,
       "trouveA": [
         1,
@@ -938,7 +942,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "charbon"
         ],
         [
-          "machine",
+          "train",
           "bétail"
         ],
         [
@@ -948,57 +952,56 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "la locomotive"
+        "La locomotive"
       ]
     },
     "e-520": {
       "type": "enigme",
       "empreinte": "eehxpa",
-      "date": "2026-10-24",
-      "score": 3,
+      "date": "2026-10-25",
+      "score": 5,
       "trouveA": [
         null,
-        null,
         2,
-        null,
-        2
+        2,
+        2,
+        1
       ],
       "reponses": [
         [
           "ardeur",
-          "élan"
-        ],
-        [
-          "maréchal",
-          "général"
+          "entrain"
         ],
         [
           "cavalier",
+          "shérif"
+        ],
+        [
+          "archer",
           "flèche"
         ],
         [
           "bataille",
-          "combat"
+          "duel"
         ],
         [
-          "duel",
           "revolver"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "un western"
+        "Le western"
       ]
     },
     "e-530": {
       "type": "enigme",
       "empreinte": "1uqrn92",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         null,
-        2,
+        1,
         1,
         1,
         1
@@ -1006,10 +1009,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "reponses": [
         [
           "vengeance",
-          "réparation"
+          "revanche"
         ],
         [
-          "revanche",
           "ressentiment"
         ],
         [
@@ -1023,15 +1025,17 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": true,
+      "solutionTrouvee": false,
       "essaisSolution": [
-        "la vengeance"
+        "La rancune",
+        "La vendetta",
+        "Le châtiment"
       ]
     },
     "e-533": {
       "type": "enigme",
       "empreinte": "16krkg4",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1048,13 +1052,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "greffier"
         ],
         [
-          "avocat",
-          "juge"
+          "plaidoyer",
+          "avocat"
         ],
         [
-          "magistrat",
+          "juges",
           "jury",
-          "toge"
+          "Magistrat"
         ],
         [
           "verdict"
@@ -1063,13 +1067,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "un procès"
+        "Le procès"
       ]
     },
     "e-536": {
       "type": "enigme",
       "empreinte": "akqnic",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -1090,28 +1094,28 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "dévorer"
         ],
         [
-          "couronne"
+          "couronnes"
         ],
         [
-          "château",
+          "rochers",
           "cailloux"
         ]
       ],
       "bonus": 3,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "l'Ogre du Petit Poucet",
-        "un géant",
-        "un colosse"
+        "Un géant",
+        "Un cannibale",
+        "Un monstre anthropophage"
       ]
     },
     "e-541": {
       "type": "enigme",
       "empreinte": "4pduh5",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 5,
       "trouveA": [
-        1,
+        2,
         1,
         1,
         null,
@@ -1119,6 +1123,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
+          "dents",
           "crocs"
         ],
         [
@@ -1128,8 +1133,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "ail"
         ],
         [
-          "soleil",
-          "crucifix"
+          "crépuscule",
+          "hostie"
         ],
         [
           "pieu"
@@ -1138,14 +1143,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Dracula",
-        "un vampire"
+        "Un vampire"
       ]
     },
     "np-002": {
       "type": "noms",
-      "empreinte": "f4v8b0",
-      "date": "2026-10-24",
+      "empreinte": "6pj0ju",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1170,8 +1174,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-103": {
       "type": "noms",
-      "empreinte": "6awkvo",
-      "date": "2026-10-24",
+      "empreinte": "glu42a",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1196,8 +1200,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-204": {
       "type": "noms",
-      "empreinte": "74nwdh",
-      "date": "2026-10-24",
+      "empreinte": "vsbjx1",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1222,8 +1226,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-205": {
       "type": "noms",
-      "empreinte": "1vysymc",
-      "date": "2026-10-24",
+      "empreinte": "b5kanu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1248,8 +1252,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-307": {
       "type": "noms",
-      "empreinte": "1tw2d73",
-      "date": "2026-10-24",
+      "empreinte": "1b70s5q",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1275,8 +1279,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-316": {
       "type": "noms",
-      "empreinte": "1injqs9",
-      "date": "2026-10-24",
+      "empreinte": "3ogrf5",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1301,8 +1305,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-322": {
       "type": "noms",
-      "empreinte": "1dotqvp",
-      "date": "2026-10-24",
+      "empreinte": "15nyk6t",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1327,8 +1331,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-327": {
       "type": "noms",
-      "empreinte": "x9630e",
-      "date": "2026-10-24",
+      "empreinte": "b9qjp9",
+      "date": "2026-10-25",
       "score": 3,
       "trouveA": [
         1,
@@ -1348,16 +1352,16 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Léo Ferré"
         ],
         [
-          "Charles Aznavour",
           "Michel Sardou",
-          "Serge Gainsbourg"
+          "Renaud",
+          "Pierre Perret"
         ]
       ]
     },
     "np-328": {
       "type": "noms",
-      "empreinte": "12gm744",
-      "date": "2026-10-24",
+      "empreinte": "iuiyb7",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1367,23 +1371,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "Francisco Goya"
+          "Francisco de Goya"
         ],
         [
-          "Diego Vélasquez"
+          "Diego Velázquez"
         ],
         [
           "Francisco de Zurbarán"
         ],
         [
-          "El Greco"
+          "Le Greco"
         ]
       ]
     },
     "np-331": {
       "type": "noms",
-      "empreinte": "1akpthv",
-      "date": "2026-10-24",
+      "empreinte": "a5x8mf",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1408,8 +1412,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-338": {
       "type": "noms",
-      "empreinte": "3lbnwd",
-      "date": "2026-10-24",
+      "empreinte": "1ljnc4p",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1425,7 +1429,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Joachim Murat"
         ],
         [
-          "Louis-Nicolas Davout"
+          "Davout"
         ],
         [
           "Jean Lannes"
@@ -1434,8 +1438,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-345": {
       "type": "noms",
-      "empreinte": "1mjcot8",
-      "date": "2026-10-24",
+      "empreinte": "1eth0at",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1460,8 +1464,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-349": {
       "type": "noms",
-      "empreinte": "y8lbwj",
-      "date": "2026-10-24",
+      "empreinte": "19nj1x0",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1488,8 +1492,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-403": {
       "type": "noms",
-      "empreinte": "jzmsh4",
-      "date": "2026-10-24",
+      "empreinte": "1b2gih8",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1514,14 +1518,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-420": {
       "type": "noms",
-      "empreinte": "1xdxxbp",
-      "date": "2026-10-24",
+      "empreinte": "11zvt03",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
         1,
-        1
+        2
       ],
       "reponses": [
         [
@@ -1534,14 +1538,16 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Yannick Noah"
         ],
         [
-          "Serena Williams"
+          "Venus Williams",
+          "Serena Williams",
+          "Venus Ebony Starr Williams"
         ]
       ]
     },
     "np-424": {
       "type": "noms",
-      "empreinte": "d6zrkm",
-      "date": "2026-10-24",
+      "empreinte": "j04af3",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1566,8 +1572,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-432": {
       "type": "noms",
-      "empreinte": "kdutn1",
-      "date": "2026-10-24",
+      "empreinte": "exjbte",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1592,13 +1598,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-434": {
       "type": "noms",
-      "empreinte": "138a96y",
-      "date": "2026-10-24",
+      "empreinte": "p1j89z",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
-        1,
+        2,
         1
       ],
       "reponses": [
@@ -1609,17 +1615,18 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "La Réunion"
         ],
         [
+          "Polynésie française",
           "Tahiti"
         ],
         [
-          "Guyane"
+          "Guyane française"
         ]
       ]
     },
     "np-437": {
       "type": "noms",
-      "empreinte": "10e6f6n",
-      "date": "2026-10-24",
+      "empreinte": "1nei4sr",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1638,14 +1645,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "La Manche"
         ],
         [
-          "mer Morte"
+          "Mer Morte"
         ]
       ]
     },
     "np-441": {
       "type": "noms",
-      "empreinte": "1mgd3p0",
-      "date": "2026-10-24",
+      "empreinte": "1ntuloz",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1670,12 +1677,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-448": {
       "type": "noms",
-      "empreinte": "s1dnsp",
-      "date": "2026-10-24",
+      "empreinte": "s7mmuu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
-        2,
+        1,
         1,
         1
       ],
@@ -1684,7 +1691,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Charles de Gaulle"
         ],
         [
-          "François Hollande",
           "Jacques Chirac"
         ],
         [
@@ -1697,13 +1703,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-449": {
       "type": "noms",
-      "empreinte": "1ifpt8q",
-      "date": "2026-10-24",
-      "score": 3,
+      "empreinte": "1igycor",
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         1,
-        null,
         1,
+        3,
         1
       ],
       "reponses": [
@@ -1711,12 +1717,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Abraham Lincoln"
         ],
         [
-          "John Fitzgerald Kennedy",
-          "Andrew Jackson",
-          "Dwight David Eisenhower",
-          "Lyndon Baines Johnson"
+          "John Fitzgerald Kennedy"
         ],
         [
+          "Lyndon Baines Johnson",
+          "John F. Kennedy",
           "George Washington"
         ],
         [
@@ -1726,8 +1731,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-501": {
       "type": "noms",
-      "empreinte": "139ztku",
-      "date": "2026-10-24",
+      "empreinte": "1yfqoe",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1737,7 +1742,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "Aida"
+          "Aïda"
         ],
         [
           "Rigoletto"
@@ -1746,20 +1751,20 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Nabucco"
         ],
         [
-          "Il trovatore"
+          "Il Trovatore"
         ]
       ]
     },
     "np-505": {
       "type": "noms",
-      "empreinte": "18i052",
-      "date": "2026-10-24",
+      "empreinte": "1345s5o",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
         1,
-        2
+        3
       ],
       "reponses": [
         [
@@ -1772,20 +1777,21 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "André Derain"
         ],
         [
-          "Maurice de Vlaminck",
+          "Vlaminck",
+          "Raoul Dufy",
           "Fernand Léger"
         ]
       ]
     },
     "np-511": {
       "type": "noms",
-      "empreinte": "stke98",
-      "date": "2026-10-24",
+      "empreinte": "giyjt8",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
-        1,
+        2,
         1
       ],
       "reponses": [
@@ -1796,6 +1802,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Jean de La Bruyère"
         ],
         [
+          "Cardinal de Retz",
           "François de La Rochefoucauld"
         ],
         [
@@ -1805,12 +1812,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-524": {
       "type": "noms",
-      "empreinte": "ikmbr8",
-      "date": "2026-10-24",
+      "empreinte": "7crqaz",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
-        3,
+        2,
         1,
         1
       ],
@@ -1820,7 +1827,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "Méduse",
-          "Perséphone",
           "Eurydice"
         ],
         [
@@ -1833,17 +1839,18 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-528": {
       "type": "noms",
-      "empreinte": "1airotk",
-      "date": "2026-10-24",
+      "empreinte": "ococsu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
-        1,
+        2,
         1,
         1,
         1
       ],
       "reponses": [
         [
+          "Richelieu",
           "Jules Mazarin"
         ],
         [
@@ -1859,8 +1866,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-534": {
       "type": "noms",
-      "empreinte": "1h1i5pg",
-      "date": "2026-10-24",
+      "empreinte": "14pa04l",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1885,8 +1892,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-542": {
       "type": "noms",
-      "empreinte": "1060z2q",
-      "date": "2026-10-24",
+      "empreinte": "gsc0y6",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -1911,14 +1918,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-549": {
       "type": "noms",
-      "empreinte": "96eti4",
-      "date": "2026-10-24",
+      "empreinte": "1skpga9",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
         1,
-        2
+        1
       ],
       "reponses": [
         [
@@ -1931,7 +1938,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Barcelone"
         ],
         [
-          "Jerez",
           "Porto"
         ]
       ]
@@ -1941,7 +1947,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-003": {
       "type": "enigme",
       "empreinte": "cozwyu",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -1965,24 +1971,24 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "vent"
         ],
         [
-          "cortège",
+          "nuages",
           "train"
         ]
       ],
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le parapluie"
+        "un parapluie"
       ]
     },
     "e-006": {
       "type": "enigme",
       "empreinte": "sabyo9",
-      "date": "2026-10-24",
-      "score": 4,
+      "date": "2026-10-25",
+      "score": 5,
       "trouveA": [
         1,
-        null,
+        2,
         1,
         null,
         1
@@ -1993,14 +1999,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "volcan",
-          "cendre"
+          "feu"
         ],
         [
           "lave"
         ],
         [
           "Pompéi",
-          "nécropole"
+          "Herculanum"
         ],
         [
           "cratère"
@@ -2009,18 +2015,18 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le volcan"
+        "un volcan"
       ]
     },
     "e-007": {
       "type": "enigme",
       "empreinte": "cwzqza",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 7,
       "trouveA": [
         1,
-        null,
-        2,
+        3,
+        1,
         1,
         1
       ],
@@ -2029,12 +2035,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "tournée"
         ],
         [
-          "facteur",
-          "écolier",
-          "salarié"
+          "sac",
+          "bandoulière",
+          "sacoche"
         ],
         [
-          "courrier",
           "lettres"
         ],
         [
@@ -2044,23 +2049,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "vélo"
         ]
       ],
-      "bonus": 0,
+      "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le facteur"
+        "le facteur"
       ]
     },
     "e-008": {
       "type": "enigme",
       "empreinte": "7xz358",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
         1,
         1,
-        2,
-        2
+        1,
+        1
       ],
       "reponses": [
         [
@@ -2073,30 +2078,28 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "nectar"
         ],
         [
-          "miel",
-          "sucre"
+          "sucré"
         ],
         [
-          "pièce",
           "tranche"
         ]
       ],
       "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le miel"
+        "miel"
       ]
     },
     "e-009": {
       "type": "enigme",
       "empreinte": "189ro1f",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         2,
         1,
-        1,
         2,
+        1,
         1
       ],
       "reponses": [
@@ -2108,10 +2111,10 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écran"
         ],
         [
+          "cinéaste",
           "réalisateur"
         ],
         [
-          "plan",
           "scène"
         ],
         [
@@ -2121,17 +2124,17 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le cinéma"
+        "le cinéma"
       ]
     },
     "e-204": {
       "type": "enigme",
       "empreinte": "ewp4m4",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         2,
-        1,
+        2,
         1,
         1,
         1
@@ -2142,7 +2145,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "parchemin"
         ],
         [
-          "moine"
+          "manuscrit",
+          "moines"
         ],
         [
           "texte"
@@ -2157,24 +2161,23 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "palimpseste"
+        "un palimpseste"
       ]
     },
     "e-304": {
       "type": "enigme",
       "empreinte": "6uh4k1",
-      "date": "2026-10-24",
-      "score": 4,
+      "date": "2026-10-25",
+      "score": 6,
       "trouveA": [
-        2,
-        2,
-        null,
         1,
-        2
+        2,
+        2,
+        1,
+        1
       ],
       "reponses": [
         [
-          "hypocrite",
           "masque"
         ],
         [
@@ -2182,36 +2185,32 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "duplicité"
         ],
         [
-          "Tartuffe",
-          "pharisien",
-          "papelard"
+          "archétype",
+          "parangon"
         ],
         [
           "simagrées"
         ],
         [
-          "larmes",
           "crocodile"
         ]
       ],
       "bonus": 0,
-      "solutionTrouvee": false,
+      "solutionTrouvee": true,
       "essaisSolution": [
-        "Le Tartuffe",
-        "Le bigot",
-        "Le cagot"
+        "un hypocrite"
       ]
     },
     "e-305": {
       "type": "enigme",
       "empreinte": "q2n6h6",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 3,
       "trouveA": [
         2,
-        2,
-        1,
-        2,
+        null,
+        null,
+        3,
         2
       ],
       "reponses": [
@@ -2220,14 +2219,18 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "clémence"
         ],
         [
-          "Cinna",
-          "félon"
-        ],
-        [
+          "trahison",
+          "félonie",
           "magnanimité"
         ],
         [
+          "largesse",
+          "oubli",
+          "munificence"
+        ],
+        [
           "rancune",
+          "amertume",
           "rancœur"
         ],
         [
@@ -2238,26 +2241,24 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": false,
       "essaisSolution": [
-        "La clémence d'Auguste",
-        "La clémence",
-        "L'amnistie"
+        "la grâce royale",
+        "la magnanimité"
       ]
     },
     "e-308": {
       "type": "enigme",
       "empreinte": "pvssuu",
-      "date": "2026-10-24",
-      "score": 8,
+      "date": "2026-10-25",
+      "score": 5,
       "trouveA": [
-        2,
         1,
         1,
-        2,
+        1,
+        null,
         1
       ],
       "reponses": [
         [
-          "sophisme",
           "rigoureux"
         ],
         [
@@ -2268,27 +2269,27 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "syllogisme",
-          "conclusion"
+          "sophisme"
         ],
         [
           "piège"
         ]
       ],
-      "bonus": 2,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le sophisme"
+        "sophisme"
       ]
     },
     "e-325": {
       "type": "enigme",
       "empreinte": "137sywx",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
-        3,
+        null,
         1,
-        2,
+        1,
         null,
         1
       ],
@@ -2296,13 +2297,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         [
           "solitude",
           "retraite",
-          "anachorète"
+          "isolement"
         ],
         [
           "jeûne"
         ],
         [
-          "chasteté",
           "abstinence"
         ],
         [
@@ -2316,19 +2316,19 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "L'ascétisme"
+        "l'ascétisme"
       ]
     },
     "e-326": {
       "type": "enigme",
       "empreinte": "1k2kv47",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 8,
       "trouveA": [
         1,
         2,
-        null,
-        2,
+        1,
+        1,
         2
       ],
       "reponses": [
@@ -2340,11 +2340,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "conventions"
         ],
         [
-          "monnaie",
-          "richesse"
+          "argent"
         ],
         [
-          "cynisme",
           "impudence"
         ],
         [
@@ -2352,34 +2350,33 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "notables"
         ]
       ],
-      "bonus": 0,
+      "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le cynisme"
+        "le cynisme"
       ]
     },
     "e-329": {
       "type": "enigme",
       "empreinte": "1gsn2at",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
-        2,
-        2,
         1,
+        1,
+        2,
         1,
         1
       ],
       "reponses": [
         [
-          "baroque",
           "profusion"
         ],
         [
-          "colonnes",
           "volutes"
         ],
         [
+          "colonnes",
           "torses"
         ],
         [
@@ -2392,56 +2389,59 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le baroque"
+        "baroque"
       ]
     },
     "e-331": {
       "type": "enigme",
       "empreinte": "1selydj",
-      "date": "2026-10-24",
-      "score": 7,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         1,
-        1,
-        1,
+        null,
         2,
-        1
+        1,
+        null
       ],
       "reponses": [
         [
           "dogme"
         ],
         [
-          "excommunication"
-        ],
-        [
-          "inquisition"
-        ],
-        [
           "hérétiques",
+          "excommuniés",
+          "pécheurs"
+        ],
+        [
+          "bûchers",
+          "Inquisition"
+        ],
+        [
           "dissidents"
         ],
         [
-          "bûcher"
+          "censure",
+          "flammes"
         ]
       ],
-      "bonus": 1,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "hérésie"
+        "l'hérésie"
       ]
     },
     "e-335": {
       "type": "enigme",
       "empreinte": "1xximq1",
-      "date": "2026-10-24",
-      "score": 8,
+      "date": "2026-10-25",
+      "score": 5,
       "trouveA": [
         1,
         1,
         3,
         2,
-        1
+        null
       ],
       "reponses": [
         [
@@ -2453,37 +2453,37 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         [
           "iconoclastes",
           "iconoclaste",
-          "frondeur"
+          "frondeurs"
         ],
         [
-          "ébranler",
+          "agiter",
           "bousculer"
         ],
         [
-          "dogmes"
+          "doctrine",
+          "tradition"
         ]
       ],
-      "bonus": 2,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "L'iconoclasme"
+        "l'iconoclasme"
       ]
     },
     "e-339": {
       "type": "enigme",
       "empreinte": "1r5kxa7",
-      "date": "2026-10-24",
-      "score": 7,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
-        2,
-        2,
         1,
+        2,
+        null,
         1,
-        2
+        null
       ],
       "reponses": [
         [
-          "hydre",
           "monstre"
         ],
         [
@@ -2491,26 +2491,28 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "multiples"
         ],
         [
-          "décapitation"
+          "coupées",
+          "décapitées",
+          "repoussent"
         ],
         [
           "cautériser"
         ],
         [
-          "moignon",
-          "bout"
+          "cou",
+          "moignon"
         ]
       ],
-      "bonus": 1,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "L'hydre de Lerne"
+        "l'Hydre de Lerne"
       ]
     },
     "e-341": {
       "type": "enigme",
       "empreinte": "1qk3pfg",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         2,
@@ -2541,55 +2543,56 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le hasard"
+        "le hasard"
       ]
     },
     "e-403": {
       "type": "enigme",
       "empreinte": "i9kfi2",
-      "date": "2026-10-24",
-      "score": 8,
+      "date": "2026-10-25",
+      "score": 2,
       "trouveA": [
-        2,
-        2,
         1,
-        1,
-        2
+        null,
+        null,
+        null,
+        null
       ],
       "reponses": [
         [
-          "frigo",
           "armoire"
         ],
         [
-          "froid",
-          "frais"
+          "frigorifique",
+          "frigo"
         ],
         [
-          "beurre"
+          "réfrigérateur",
+          "congélateur"
         ],
         [
-          "yaourt"
+          "freezer",
+          "glacière"
         ],
         [
-          "charcuterie",
-          "jambon"
+          "garde-manger",
+          "cave"
         ]
       ],
-      "bonus": 2,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le réfrigérateur"
+        "le réfrigérateur"
       ]
     },
     "e-428": {
       "type": "enigme",
       "empreinte": "113hopk",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
-        1,
+        2,
         1,
         1,
         1
@@ -2599,6 +2602,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "quai"
         ],
         [
+          "fer",
           "voie"
         ],
         [
@@ -2614,13 +2618,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "train"
+        "gare",
+        "le train"
       ]
     },
     "e-430": {
       "type": "enigme",
       "empreinte": "1hzo6lc",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -2655,50 +2660,48 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-435": {
       "type": "enigme",
       "empreinte": "17alons",
-      "date": "2026-10-24",
-      "score": 4,
+      "date": "2026-10-25",
+      "score": 5,
       "trouveA": [
-        2,
         1,
-        null,
+        1,
+        1,
         1,
         null
       ],
       "reponses": [
         [
-          "pédale",
           "selle"
         ],
         [
           "guidon"
         ],
         [
-          "dérailleur",
-          "pédalier"
+          "pédale"
         ],
         [
           "équilibre"
         ],
         [
+          "rustine",
           "roue",
-          "jante",
           "chambre à air"
         ]
       ],
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "La bicyclette"
+        "bicyclette"
       ]
     },
     "e-437": {
       "type": "enigme",
       "empreinte": "5stn35",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
-        2,
+        1,
         1,
         2,
         1
@@ -2708,7 +2711,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "aéroport"
         ],
         [
-          "soute",
           "valises"
         ],
         [
@@ -2725,24 +2727,24 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "L'avion"
+        "avion"
       ]
     },
     "e-503": {
       "type": "enigme",
       "empreinte": "1thfc9l",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         2,
         2,
+        1,
         2,
-        2,
-        2
+        1
       ],
       "reponses": [
         [
-          "foudre",
+          "cime",
           "faîte"
         ],
         [
@@ -2750,7 +2752,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "tige"
         ],
         [
-          "orage",
           "foudre"
         ],
         [
@@ -2758,20 +2759,19 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "câble"
         ],
         [
-          "feu",
           "incendie"
         ]
       ],
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le paratonnerre"
+        "le paratonnerre"
       ]
     },
     "e-506": {
       "type": "enigme",
       "empreinte": "1aywnc3",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -2806,19 +2806,18 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-509": {
       "type": "enigme",
       "empreinte": "c25lnc",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 9,
       "trouveA": [
-        null,
         1,
         1,
         1,
-        2
+        1,
+        1
       ],
       "reponses": [
         [
-          "estuaire",
-          "delta"
+          "fleuve"
         ],
         [
           "bras"
@@ -2830,11 +2829,10 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "alluvions"
         ],
         [
-          "delta",
           "triangle"
         ]
       ],
-      "bonus": 0,
+      "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
         "delta"
@@ -2843,10 +2841,10 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-515": {
       "type": "enigme",
       "empreinte": "1rq2xzm",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
-        2,
+        1,
         1,
         1,
         1,
@@ -2854,7 +2852,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "chaudière",
           "foyer"
         ],
         [
@@ -2879,12 +2876,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-520": {
       "type": "enigme",
       "empreinte": "eehxpa",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
         1,
-        1,
+        2,
         1,
         2
       ],
@@ -2896,6 +2893,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "shérif"
         ],
         [
+          "indien",
           "flèche"
         ],
         [
@@ -2909,16 +2907,16 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "western"
+        "le western"
       ]
     },
     "e-530": {
       "type": "enigme",
       "empreinte": "1uqrn92",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
-        1,
+        2,
         1,
         1,
         1,
@@ -2926,6 +2924,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
+          "offense",
           "affront"
         ],
         [
@@ -2944,19 +2943,19 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "la vengeance"
+        "vengeance"
       ]
     },
     "e-533": {
       "type": "enigme",
       "empreinte": "16krkg4",
-      "date": "2026-10-24",
-      "score": 5,
+      "date": "2026-10-25",
+      "score": 4,
       "trouveA": [
         1,
         1,
         null,
-        1,
+        null,
         1
       ],
       "reponses": [
@@ -2971,7 +2970,9 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "juge"
         ],
         [
-          "jurés"
+          "magistrats",
+          "jury",
+          "jugement"
         ],
         [
           "verdict"
@@ -2980,13 +2981,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "procès"
+        "un procès"
       ]
     },
     "e-536": {
       "type": "enigme",
       "empreinte": "akqnic",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
@@ -3016,14 +3017,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 3,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "Le Petit Poucet",
-        "L'ogre"
+        "le Petit Poucet",
+        "l'ogre"
       ]
     },
     "e-541": {
       "type": "enigme",
       "empreinte": "4pduh5",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
@@ -3054,13 +3055,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "solutionTrouvee": true,
       "essaisSolution": [
         "Dracula",
-        "Un vampire"
+        "un vampire"
       ]
     },
     "np-002": {
       "type": "noms",
-      "empreinte": "f4v8b0",
-      "date": "2026-10-24",
+      "empreinte": "6pj0ju",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3085,8 +3086,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-103": {
       "type": "noms",
-      "empreinte": "6awkvo",
-      "date": "2026-10-24",
+      "empreinte": "glu42a",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3111,8 +3112,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-204": {
       "type": "noms",
-      "empreinte": "74nwdh",
-      "date": "2026-10-24",
+      "empreinte": "vsbjx1",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3137,8 +3138,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-205": {
       "type": "noms",
-      "empreinte": "1vysymc",
-      "date": "2026-10-24",
+      "empreinte": "b5kanu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3163,8 +3164,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-307": {
       "type": "noms",
-      "empreinte": "1tw2d73",
-      "date": "2026-10-24",
+      "empreinte": "1b70s5q",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3189,8 +3190,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-316": {
       "type": "noms",
-      "empreinte": "1injqs9",
-      "date": "2026-10-24",
+      "empreinte": "3ogrf5",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3215,8 +3216,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-322": {
       "type": "noms",
-      "empreinte": "1dotqvp",
-      "date": "2026-10-24",
+      "empreinte": "15nyk6t",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3241,8 +3242,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-327": {
       "type": "noms",
-      "empreinte": "x9630e",
-      "date": "2026-10-24",
+      "empreinte": "b9qjp9",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3267,8 +3268,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-328": {
       "type": "noms",
-      "empreinte": "12gm744",
-      "date": "2026-10-24",
+      "empreinte": "iuiyb7",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3293,8 +3294,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-331": {
       "type": "noms",
-      "empreinte": "1akpthv",
-      "date": "2026-10-24",
+      "empreinte": "a5x8mf",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3319,8 +3320,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-338": {
       "type": "noms",
-      "empreinte": "3lbnwd",
-      "date": "2026-10-24",
+      "empreinte": "1ljnc4p",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3336,7 +3337,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Joachim Murat"
         ],
         [
-          "Louis Davout"
+          "Louis-Nicolas Davout"
         ],
         [
           "Jean Lannes"
@@ -3345,8 +3346,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-345": {
       "type": "noms",
-      "empreinte": "1mjcot8",
-      "date": "2026-10-24",
+      "empreinte": "1eth0at",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3371,8 +3372,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-349": {
       "type": "noms",
-      "empreinte": "y8lbwj",
-      "date": "2026-10-24",
+      "empreinte": "19nj1x0",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3397,8 +3398,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-403": {
       "type": "noms",
-      "empreinte": "jzmsh4",
-      "date": "2026-10-24",
+      "empreinte": "1b2gih8",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3423,8 +3424,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-420": {
       "type": "noms",
-      "empreinte": "1xdxxbp",
-      "date": "2026-10-24",
+      "empreinte": "11zvt03",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3449,8 +3450,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-424": {
       "type": "noms",
-      "empreinte": "d6zrkm",
-      "date": "2026-10-24",
+      "empreinte": "j04af3",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3475,8 +3476,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-432": {
       "type": "noms",
-      "empreinte": "kdutn1",
-      "date": "2026-10-24",
+      "empreinte": "exjbte",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         2,
@@ -3502,8 +3503,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-434": {
       "type": "noms",
-      "empreinte": "138a96y",
-      "date": "2026-10-24",
+      "empreinte": "p1j89z",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3529,8 +3530,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-437": {
       "type": "noms",
-      "empreinte": "10e6f6n",
-      "date": "2026-10-24",
+      "empreinte": "1nei4sr",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3555,8 +3556,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-441": {
       "type": "noms",
-      "empreinte": "1mgd3p0",
-      "date": "2026-10-24",
+      "empreinte": "1ntuloz",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3581,8 +3582,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-448": {
       "type": "noms",
-      "empreinte": "s1dnsp",
-      "date": "2026-10-24",
+      "empreinte": "s7mmuu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3607,13 +3608,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-449": {
       "type": "noms",
-      "empreinte": "1ifpt8q",
-      "date": "2026-10-24",
+      "empreinte": "1igycor",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
-        2,
         1,
+        3,
         1
       ],
       "reponses": [
@@ -3621,11 +3622,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Abraham Lincoln"
         ],
         [
-          "John Fitzgerald Kennedy",
-          "John F. Kennedy",
-          "Lyndon Johnson"
+          "John Fitzgerald Kennedy"
         ],
         [
+          "Lyndon Baines Johnson",
+          "John F. Kennedy",
           "George Washington"
         ],
         [
@@ -3635,8 +3636,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-501": {
       "type": "noms",
-      "empreinte": "139ztku",
-      "date": "2026-10-24",
+      "empreinte": "1yfqoe",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3655,14 +3656,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Nabucco"
         ],
         [
-          "Le Trouvère"
+          "Il trovatore"
         ]
       ]
     },
     "np-505": {
       "type": "noms",
-      "empreinte": "18i052",
-      "date": "2026-10-24",
+      "empreinte": "1345s5o",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3687,8 +3688,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-511": {
       "type": "noms",
-      "empreinte": "stke98",
-      "date": "2026-10-24",
+      "empreinte": "giyjt8",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3705,7 +3706,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "Cardinal de Retz",
-          "La Rochefoucauld"
+          "François de La Rochefoucauld"
         ],
         [
           "Nicolas Boileau"
@@ -3714,8 +3715,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-524": {
       "type": "noms",
-      "empreinte": "ikmbr8",
-      "date": "2026-10-24",
+      "empreinte": "7crqaz",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3740,18 +3741,19 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-528": {
       "type": "noms",
-      "empreinte": "1airotk",
-      "date": "2026-10-24",
+      "empreinte": "ococsu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
-        1,
+        2,
         1,
         1,
         1
       ],
       "reponses": [
         [
-          "Jules Mazarin"
+          "Richelieu",
+          "Mazarin"
         ],
         [
           "Jean-Baptiste Colbert"
@@ -3766,8 +3768,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-534": {
       "type": "noms",
-      "empreinte": "1h1i5pg",
-      "date": "2026-10-24",
+      "empreinte": "14pa04l",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3792,8 +3794,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-542": {
       "type": "noms",
-      "empreinte": "1060z2q",
-      "date": "2026-10-24",
+      "empreinte": "gsc0y6",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3818,8 +3820,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-549": {
       "type": "noms",
-      "empreinte": "96eti4",
-      "date": "2026-10-24",
+      "empreinte": "1skpga9",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -3847,7 +3849,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-003": {
       "type": "enigme",
       "empreinte": "cozwyu",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -3883,11 +3885,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-006": {
       "type": "enigme",
       "empreinte": "sabyo9",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
-        1,
+        2,
         1,
         1,
         1
@@ -3897,6 +3899,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "siècles"
         ],
         [
+          "amour",
           "feu"
         ],
         [
@@ -3918,7 +3921,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-007": {
       "type": "enigme",
       "empreinte": "cwzqza",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -3953,7 +3956,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-008": {
       "type": "enigme",
       "empreinte": "7xz358",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -3988,12 +3991,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-009": {
       "type": "enigme",
       "empreinte": "189ro1f",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
         1,
-        2,
+        1,
         1,
         1
       ],
@@ -4005,7 +4008,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "écran"
         ],
         [
-          "cinéaste",
           "réalisateur"
         ],
         [
@@ -4024,7 +4026,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-204": {
       "type": "enigme",
       "empreinte": "ewp4m4",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -4059,7 +4061,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-304": {
       "type": "enigme",
       "empreinte": "6uh4k1",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -4096,7 +4098,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-305": {
       "type": "enigme",
       "empreinte": "q2n6h6",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -4128,13 +4130,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "solutionTrouvee": true,
       "essaisSolution": [
         "la grâce",
+        "le pardon",
         "la mansuétude"
       ]
     },
     "e-308": {
       "type": "enigme",
       "empreinte": "pvssuu",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -4169,7 +4172,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-325": {
       "type": "enigme",
       "empreinte": "137sywx",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         2,
@@ -4207,7 +4210,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-326": {
       "type": "enigme",
       "empreinte": "1k2kv47",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -4242,7 +4245,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-329": {
       "type": "enigme",
       "empreinte": "1gsn2at",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
@@ -4277,12 +4280,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-331": {
       "type": "enigme",
       "empreinte": "1selydj",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
         1,
-        2,
+        1,
         1,
         1
       ],
@@ -4294,7 +4297,6 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "excommunication"
         ],
         [
-          "inquisiteur",
           "Inquisition"
         ],
         [
@@ -4313,7 +4315,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-335": {
       "type": "enigme",
       "empreinte": "1xximq1",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -4338,7 +4340,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "bousculer"
         ],
         [
-          "valeurs",
+          "croyances",
           "dogmes"
         ]
       ],
@@ -4351,7 +4353,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-339": {
       "type": "enigme",
       "empreinte": "1r5kxa7",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -4386,23 +4388,25 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-341": {
       "type": "enigme",
       "empreinte": "1qk3pfg",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
+        2,
         1,
-        1,
-        1,
+        2,
         1,
         2
       ],
       "reponses": [
         [
+          "hasard",
           "destin"
         ],
         [
           "chance"
         ],
         [
+          "occasion",
           "fortune"
         ],
         [
@@ -4422,7 +4426,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-403": {
       "type": "enigme",
       "empreinte": "i9kfi2",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -4436,8 +4440,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "armoire"
         ],
         [
-          "froid",
-          "frais"
+          "froide",
+          "fraîche"
         ],
         [
           "beurre"
@@ -4459,7 +4463,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-428": {
       "type": "enigme",
       "empreinte": "113hopk",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -4494,7 +4498,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-430": {
       "type": "enigme",
       "empreinte": "1hzo6lc",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -4529,14 +4533,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-435": {
       "type": "enigme",
       "empreinte": "17alons",
-      "date": "2026-10-24",
-      "score": 8,
+      "date": "2026-10-25",
+      "score": 5,
       "trouveA": [
         2,
         1,
         1,
         1,
-        2
+        null
       ],
       "reponses": [
         [
@@ -4554,19 +4558,20 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
         ],
         [
           "rustine",
-          "chambre"
+          "roue",
+          "chambre à air"
         ]
       ],
-      "bonus": 2,
+      "bonus": 0,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "la bicyclette"
+        "le vélo"
       ]
     },
     "e-437": {
       "type": "enigme",
       "empreinte": "5stn35",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -4602,7 +4607,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-503": {
       "type": "enigme",
       "empreinte": "1thfc9l",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         2,
@@ -4613,7 +4618,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "cime",
+          "pointe",
           "faîte"
         ],
         [
@@ -4623,7 +4628,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "foudre"
         ],
         [
-          "ficelle",
+          "fil",
           "câble"
         ],
         [
@@ -4639,7 +4644,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-506": {
       "type": "enigme",
       "empreinte": "1aywnc3",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
@@ -4674,7 +4679,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-509": {
       "type": "enigme",
       "empreinte": "c25lnc",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
@@ -4709,7 +4714,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-515": {
       "type": "enigme",
       "empreinte": "1rq2xzm",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 8,
       "trouveA": [
         1,
@@ -4738,18 +4743,18 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 2,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "la locomotive à vapeur"
+        "la locomotive"
       ]
     },
     "e-520": {
       "type": "enigme",
       "empreinte": "eehxpa",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
         1,
-        1,
+        2,
         2,
         1
       ],
@@ -4761,7 +4766,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "shérif"
         ],
         [
-          "flèche"
+          "Indiens",
+          "flèches"
         ],
         [
           "combat",
@@ -4780,7 +4786,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-530": {
       "type": "enigme",
       "empreinte": "1uqrn92",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 6,
       "trouveA": [
         1,
@@ -4816,13 +4822,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-533": {
       "type": "enigme",
       "empreinte": "16krkg4",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 7,
       "trouveA": [
         1,
         1,
         2,
-        2,
+        3,
         1
       ],
       "reponses": [
@@ -4833,11 +4839,12 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "greffier"
         ],
         [
-          "défense",
+          "avocat",
           "réquisitoire"
         ],
         [
           "juges",
+          "jury",
           "jurés"
         ],
         [
@@ -4847,13 +4854,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       "bonus": 1,
       "solutionTrouvee": true,
       "essaisSolution": [
-        "le procès"
+        "le tribunal"
       ]
     },
     "e-536": {
       "type": "enigme",
       "empreinte": "akqnic",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
@@ -4889,7 +4896,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     "e-541": {
       "type": "enigme",
       "empreinte": "4pduh5",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "score": 9,
       "trouveA": [
         1,
@@ -4923,8 +4930,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-002": {
       "type": "noms",
-      "empreinte": "f4v8b0",
-      "date": "2026-10-24",
+      "empreinte": "6pj0ju",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -4949,8 +4956,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-103": {
       "type": "noms",
-      "empreinte": "6awkvo",
-      "date": "2026-10-24",
+      "empreinte": "glu42a",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -4975,8 +4982,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-204": {
       "type": "noms",
-      "empreinte": "74nwdh",
-      "date": "2026-10-24",
+      "empreinte": "vsbjx1",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5001,8 +5008,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-205": {
       "type": "noms",
-      "empreinte": "1vysymc",
-      "date": "2026-10-24",
+      "empreinte": "b5kanu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5027,8 +5034,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-307": {
       "type": "noms",
-      "empreinte": "1tw2d73",
-      "date": "2026-10-24",
+      "empreinte": "1b70s5q",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5053,8 +5060,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-316": {
       "type": "noms",
-      "empreinte": "1injqs9",
-      "date": "2026-10-24",
+      "empreinte": "3ogrf5",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5079,8 +5086,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-322": {
       "type": "noms",
-      "empreinte": "1dotqvp",
-      "date": "2026-10-24",
+      "empreinte": "15nyk6t",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5105,8 +5112,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-327": {
       "type": "noms",
-      "empreinte": "x9630e",
-      "date": "2026-10-24",
+      "empreinte": "b9qjp9",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5131,8 +5138,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-328": {
       "type": "noms",
-      "empreinte": "12gm744",
-      "date": "2026-10-24",
+      "empreinte": "iuiyb7",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5145,20 +5152,20 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Francisco de Goya"
         ],
         [
-          "Diego Velázquez"
+          "Diego Vélasquez"
         ],
         [
           "Francisco de Zurbarán"
         ],
         [
-          "Le Greco"
+          "El Greco"
         ]
       ]
     },
     "np-331": {
       "type": "noms",
-      "empreinte": "1akpthv",
-      "date": "2026-10-24",
+      "empreinte": "a5x8mf",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5183,8 +5190,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-338": {
       "type": "noms",
-      "empreinte": "3lbnwd",
-      "date": "2026-10-24",
+      "empreinte": "1ljnc4p",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5200,7 +5207,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Joachim Murat"
         ],
         [
-          "Louis-Nicolas Davout"
+          "Louis Nicolas Davout"
         ],
         [
           "Jean Lannes"
@@ -5209,8 +5216,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-345": {
       "type": "noms",
-      "empreinte": "1mjcot8",
-      "date": "2026-10-24",
+      "empreinte": "1eth0at",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5235,8 +5242,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-349": {
       "type": "noms",
-      "empreinte": "y8lbwj",
-      "date": "2026-10-24",
+      "empreinte": "19nj1x0",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5261,8 +5268,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-403": {
       "type": "noms",
-      "empreinte": "jzmsh4",
-      "date": "2026-10-24",
+      "empreinte": "1b2gih8",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5287,8 +5294,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-420": {
       "type": "noms",
-      "empreinte": "1xdxxbp",
-      "date": "2026-10-24",
+      "empreinte": "11zvt03",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5313,8 +5320,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-424": {
       "type": "noms",
-      "empreinte": "d6zrkm",
-      "date": "2026-10-24",
+      "empreinte": "j04af3",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5339,8 +5346,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-432": {
       "type": "noms",
-      "empreinte": "kdutn1",
-      "date": "2026-10-24",
+      "empreinte": "exjbte",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5365,8 +5372,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-434": {
       "type": "noms",
-      "empreinte": "138a96y",
-      "date": "2026-10-24",
+      "empreinte": "p1j89z",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5392,8 +5399,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-437": {
       "type": "noms",
-      "empreinte": "10e6f6n",
-      "date": "2026-10-24",
+      "empreinte": "1nei4sr",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5418,8 +5425,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-441": {
       "type": "noms",
-      "empreinte": "1mgd3p0",
-      "date": "2026-10-24",
+      "empreinte": "1ntuloz",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5444,8 +5451,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-448": {
       "type": "noms",
-      "empreinte": "s1dnsp",
-      "date": "2026-10-24",
+      "empreinte": "s7mmuu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5470,13 +5477,13 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-449": {
       "type": "noms",
-      "empreinte": "1ifpt8q",
-      "date": "2026-10-24",
+      "empreinte": "1igycor",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
-        1,
+        3,
         1
       ],
       "reponses": [
@@ -5484,9 +5491,11 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "Abraham Lincoln"
         ],
         [
-          "John F. Kennedy"
+          "John Fitzgerald Kennedy"
         ],
         [
+          "Lyndon Baines Johnson",
+          "John Kennedy",
           "George Washington"
         ],
         [
@@ -5496,8 +5505,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-501": {
       "type": "noms",
-      "empreinte": "139ztku",
-      "date": "2026-10-24",
+      "empreinte": "1yfqoe",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5507,7 +5516,7 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
       ],
       "reponses": [
         [
-          "Aida"
+          "Aïda"
         ],
         [
           "Rigoletto"
@@ -5522,14 +5531,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-505": {
       "type": "noms",
-      "empreinte": "18i052",
-      "date": "2026-10-24",
+      "empreinte": "1345s5o",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
         1,
         1,
-        2
+        1
       ],
       "reponses": [
         [
@@ -5542,15 +5551,14 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
           "André Derain"
         ],
         [
-          "Maurice de Vlaminck",
           "Fernand Léger"
         ]
       ]
     },
     "np-511": {
       "type": "noms",
-      "empreinte": "stke98",
-      "date": "2026-10-24",
+      "empreinte": "giyjt8",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5575,8 +5583,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-524": {
       "type": "noms",
-      "empreinte": "ikmbr8",
-      "date": "2026-10-24",
+      "empreinte": "7crqaz",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5601,18 +5609,19 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-528": {
       "type": "noms",
-      "empreinte": "1airotk",
-      "date": "2026-10-24",
+      "empreinte": "ococsu",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
-        1,
+        2,
         1,
         1,
         1
       ],
       "reponses": [
         [
-          "Mazarin"
+          "Richelieu",
+          "Jules Mazarin"
         ],
         [
           "Jean-Baptiste Colbert"
@@ -5627,8 +5636,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-534": {
       "type": "noms",
-      "empreinte": "1h1i5pg",
-      "date": "2026-10-24",
+      "empreinte": "14pa04l",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5653,8 +5662,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-542": {
       "type": "noms",
-      "empreinte": "1060z2q",
-      "date": "2026-10-24",
+      "empreinte": "gsc0y6",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,
@@ -5679,8 +5688,8 @@ export const REFERENCES_MODELES: Record<string, Record<string, ReferenceSyno>> =
     },
     "np-549": {
       "type": "noms",
-      "empreinte": "96eti4",
-      "date": "2026-10-24",
+      "empreinte": "1skpga9",
+      "date": "2026-10-25",
       "score": 4,
       "trouveA": [
         1,

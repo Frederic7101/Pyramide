@@ -1,0 +1,15 @@
+{
+  "e-003": { "reponse": "bruine", "raisonnement": "Le ciel et le vent, avec le convoi et les rails, évoquent une pluie fine, nom féminin comme la brique. Nuage ayant été refusé, bruine est le candidat voisin." },
+  "e-006": { "reponse": "Le volcan", "raisonnement": "La solution décrite est un volcan qui crache du magma et de la cendre, enfouit une ville romaine et fume au sommet. Les mots trouvés (siècle, ville) ne sont pas la réponse." },
+  "e-008": { "reponse": "La marmelade", "raisonnement": "La solution décrite est une préparation sucrée et dorée, étalée sur le pain, fabriquée à partir de fruits. La confiture ayant été refusée, la marmelade est le candidat voisin." },
+  "e-204": { "reponse": "Un moine copiste", "raisonnement": "La solution décrite est un religieux qui recopie les textes sur le parchemin. Scribe et moine ayant été refusés, la formule complète est le candidat voisin." },
+  "e-304": { "reponse": "Un hypocrite", "raisonnement": "La solution décrite est celui qui cache la duplicité sous le masque de la vertu, soit un hypocrite. Faux dévot ayant été refusé, hypocrite est le candidat voisin." },
+  "e-305": { "reponse": "L'indignation", "raisonnement": "La solution décrite est le sentiment des courtisans face à la clémence du roi, soit l'indignation. Les mots trouvés (clémence, félon, magnanimité) ne sont pas la réponse." },
+  "e-325": { "reponse": "L'ascèse", "raisonnement": "La solution décrite est la pratique du renoncement de l'anachorète, soit l'ascèse. Jeûne, abstinence, discipline et purification ont été trouvés ou proposés, donc pas la réponse." },
+  "e-326": { "reponse": "Le stoïcisme", "raisonnement": "La solution décrite est une doctrine qui méprise les conventions et l'argent, sans être le cynisme déjà refusé. Le stoïcisme est le candidat voisin, à vérifier." },
+  "e-403": { "reponse": "La boucherie", "raisonnement": "Le saucisson et le mauvais évoquent la boucherie, nom féminin comme la brique, où l'on trouve la viande et les salaisons. Charcuterie ayant été refusé, boucherie est le candidat voisin." },
+  "e-435": { "reponse": "Le vélo", "raisonnement": "La solution décrite est le deux-roues sur lequel on s'assoit, qu'on guide au guidon et qu'on pédale, soit le vélo. Bicyclette ayant été refusé comme mot, vélo est le candidat voisin." },
+  "e-437": { "reponse": "L'avion", "raisonnement": "La solution décrite est l'appareil où l'on dépose ses bagages et que pilote le commandant, soit l'avion. L'aérogare ayant été refusée, avion est le candidat voisin." },
+  "e-520": { "reponse": "Le western", "raisonnement": "La solution décrite est le genre de film de l'Ouest où s'affrontent shérif, cavaliers et duel, soit le western. Les mots trouvés ne sont pas la réponse." },
+  "e-536": { "reponse": "Un monstre anthropophage", "raisonnement": "La solution décrite est un colosse qui mange la chair humaine, soit un monstre anthropophage. Géant et cannibale ayant été refusés, la formule complète est le candidat voisin." }
+}

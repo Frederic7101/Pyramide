@@ -78,7 +78,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-003": {
     "type": "enigme",
     "empreinte": "cozwyu",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
@@ -185,11 +185,11 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-006": {
     "type": "enigme",
     "empreinte": "sabyo9",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
-      1,
+      2,
       1,
       1,
       1
@@ -199,6 +199,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "siècles"
       ],
       [
+        "amour",
         "feu"
       ],
       [
@@ -220,7 +221,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-007": {
     "type": "enigme",
     "empreinte": "cwzqza",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
@@ -255,7 +256,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-008": {
     "type": "enigme",
     "empreinte": "7xz358",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -290,12 +291,12 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-009": {
     "type": "enigme",
     "empreinte": "189ro1f",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
       1,
-      2,
+      1,
       1,
       1
     ],
@@ -307,7 +308,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "écran"
       ],
       [
-        "cinéaste",
         "réalisateur"
       ],
       [
@@ -655,7 +655,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-204": {
     "type": "enigme",
     "empreinte": "ewp4m4",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
@@ -840,7 +840,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-304": {
     "type": "enigme",
     "empreinte": "6uh4k1",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 6,
     "trouveA": [
       1,
@@ -877,7 +877,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-305": {
     "type": "enigme",
     "empreinte": "q2n6h6",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 6,
     "trouveA": [
       1,
@@ -909,6 +909,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "solutionTrouvee": true,
     "essaisSolution": [
       "la grâce",
+      "le pardon",
       "la mansuétude"
     ]
   },
@@ -991,7 +992,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-308": {
     "type": "enigme",
     "empreinte": "pvssuu",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -1614,7 +1615,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-325": {
     "type": "enigme",
     "empreinte": "137sywx",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       2,
@@ -1652,7 +1653,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-326": {
     "type": "enigme",
     "empreinte": "1k2kv47",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -1760,7 +1761,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-329": {
     "type": "enigme",
     "empreinte": "1gsn2at",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 9,
     "trouveA": [
       1,
@@ -1830,12 +1831,12 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-331": {
     "type": "enigme",
     "empreinte": "1selydj",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
       1,
-      2,
+      1,
       1,
       1
     ],
@@ -1847,7 +1848,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "excommunication"
       ],
       [
-        "inquisiteur",
         "Inquisition"
       ],
       [
@@ -1974,7 +1974,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-335": {
     "type": "enigme",
     "empreinte": "1xximq1",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -1999,7 +1999,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "bousculer"
       ],
       [
-        "valeurs",
+        "croyances",
         "dogmes"
       ]
     ],
@@ -2122,7 +2122,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-339": {
     "type": "enigme",
     "empreinte": "1r5kxa7",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
@@ -2193,23 +2193,25 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-341": {
     "type": "enigme",
     "empreinte": "1qk3pfg",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 9,
     "trouveA": [
+      2,
       1,
-      1,
-      1,
+      2,
       1,
       2
     ],
     "reponses": [
       [
+        "hasard",
         "destin"
       ],
       [
         "chance"
       ],
       [
+        "occasion",
         "fortune"
       ],
       [
@@ -2633,7 +2635,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-403": {
     "type": "enigme",
     "empreinte": "i9kfi2",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -2647,8 +2649,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "armoire"
       ],
       [
-        "froid",
-        "frais"
+        "froide",
+        "fraîche"
       ],
       [
         "beurre"
@@ -3529,7 +3531,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-428": {
     "type": "enigme",
     "empreinte": "113hopk",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 6,
     "trouveA": [
       1,
@@ -3599,7 +3601,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-430": {
     "type": "enigme",
     "empreinte": "1hzo6lc",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 6,
     "trouveA": [
       1,
@@ -3778,14 +3780,14 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-435": {
     "type": "enigme",
     "empreinte": "17alons",
-    "date": "2026-10-24",
-    "score": 8,
+    "date": "2026-10-25",
+    "score": 5,
     "trouveA": [
       2,
       1,
       1,
       1,
-      2
+      null
     ],
     "reponses": [
       [
@@ -3803,13 +3805,14 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
       ],
       [
         "rustine",
-        "chambre"
+        "roue",
+        "chambre à air"
       ]
     ],
-    "bonus": 2,
+    "bonus": 0,
     "solutionTrouvee": true,
     "essaisSolution": [
-      "la bicyclette"
+      "le vélo"
     ]
   },
   "e-436": {
@@ -3851,7 +3854,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-437": {
     "type": "enigme",
     "empreinte": "5stn35",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -4424,7 +4427,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-503": {
     "type": "enigme",
     "empreinte": "1thfc9l",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       2,
@@ -4435,7 +4438,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     ],
     "reponses": [
       [
-        "cime",
+        "pointe",
         "faîte"
       ],
       [
@@ -4445,7 +4448,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "foudre"
       ],
       [
-        "ficelle",
+        "fil",
         "câble"
       ],
       [
@@ -4532,7 +4535,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-506": {
     "type": "enigme",
     "empreinte": "1aywnc3",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
@@ -4638,7 +4641,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-509": {
     "type": "enigme",
     "empreinte": "c25lnc",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 9,
     "trouveA": [
       1,
@@ -4848,7 +4851,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-515": {
     "type": "enigme",
     "empreinte": "1rq2xzm",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 8,
     "trouveA": [
       1,
@@ -4877,7 +4880,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "bonus": 2,
     "solutionTrouvee": true,
     "essaisSolution": [
-      "la locomotive à vapeur"
+      "la locomotive"
     ]
   },
   "e-516": {
@@ -5025,12 +5028,12 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-520": {
     "type": "enigme",
     "empreinte": "eehxpa",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 9,
     "trouveA": [
       1,
       1,
-      1,
+      2,
       2,
       1
     ],
@@ -5042,7 +5045,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "shérif"
       ],
       [
-        "flèche"
+        "Indiens",
+        "flèches"
       ],
       [
         "combat",
@@ -5388,7 +5392,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-530": {
     "type": "enigme",
     "empreinte": "1uqrn92",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 6,
     "trouveA": [
       1,
@@ -5496,13 +5500,13 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-533": {
     "type": "enigme",
     "empreinte": "16krkg4",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 7,
     "trouveA": [
       1,
       1,
       2,
-      2,
+      3,
       1
     ],
     "reponses": [
@@ -5513,11 +5517,12 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "greffier"
       ],
       [
-        "défense",
+        "avocat",
         "réquisitoire"
       ],
       [
         "juges",
+        "jury",
         "jurés"
       ],
       [
@@ -5527,7 +5532,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     "bonus": 1,
     "solutionTrouvee": true,
     "essaisSolution": [
-      "le procès"
+      "le tribunal"
     ]
   },
   "e-534": {
@@ -5603,7 +5608,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-536": {
     "type": "enigme",
     "empreinte": "akqnic",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 9,
     "trouveA": [
       1,
@@ -5780,7 +5785,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   "e-541": {
     "type": "enigme",
     "empreinte": "4pduh5",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "score": 9,
     "trouveA": [
       1,
@@ -6162,8 +6167,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-002": {
     "type": "noms",
-    "empreinte": "f4v8b0",
-    "date": "2026-10-24",
+    "empreinte": "6pj0ju",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -6318,8 +6323,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-103": {
     "type": "noms",
-    "empreinte": "6awkvo",
-    "date": "2026-10-24",
+    "empreinte": "glu42a",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -6423,8 +6428,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-204": {
     "type": "noms",
-    "empreinte": "74nwdh",
-    "date": "2026-10-24",
+    "empreinte": "vsbjx1",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -6449,8 +6454,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-205": {
     "type": "noms",
-    "empreinte": "1vysymc",
-    "date": "2026-10-24",
+    "empreinte": "b5kanu",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -6657,8 +6662,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-307": {
     "type": "noms",
-    "empreinte": "1tw2d73",
-    "date": "2026-10-24",
+    "empreinte": "1b70s5q",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -6891,8 +6896,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-316": {
     "type": "noms",
-    "empreinte": "1injqs9",
-    "date": "2026-10-24",
+    "empreinte": "3ogrf5",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7048,8 +7053,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-322": {
     "type": "noms",
-    "empreinte": "1dotqvp",
-    "date": "2026-10-24",
+    "empreinte": "15nyk6t",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7178,8 +7183,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-327": {
     "type": "noms",
-    "empreinte": "x9630e",
-    "date": "2026-10-24",
+    "empreinte": "b9qjp9",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7204,8 +7209,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-328": {
     "type": "noms",
-    "empreinte": "12gm744",
-    "date": "2026-10-24",
+    "empreinte": "iuiyb7",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7218,13 +7223,13 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "Francisco de Goya"
       ],
       [
-        "Diego Velázquez"
+        "Diego Vélasquez"
       ],
       [
         "Francisco de Zurbarán"
       ],
       [
-        "Le Greco"
+        "El Greco"
       ]
     ]
   },
@@ -7282,8 +7287,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-331": {
     "type": "noms",
-    "empreinte": "1akpthv",
-    "date": "2026-10-24",
+    "empreinte": "a5x8mf",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7465,8 +7470,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-338": {
     "type": "noms",
-    "empreinte": "3lbnwd",
-    "date": "2026-10-24",
+    "empreinte": "1ljnc4p",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7482,7 +7487,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "Joachim Murat"
       ],
       [
-        "Louis-Nicolas Davout"
+        "Louis Nicolas Davout"
       ],
       [
         "Jean Lannes"
@@ -7649,8 +7654,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-345": {
     "type": "noms",
-    "empreinte": "1mjcot8",
-    "date": "2026-10-24",
+    "empreinte": "1eth0at",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7753,8 +7758,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-349": {
     "type": "noms",
-    "empreinte": "y8lbwj",
-    "date": "2026-10-24",
+    "empreinte": "19nj1x0",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -7857,8 +7862,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-403": {
     "type": "noms",
-    "empreinte": "jzmsh4",
-    "date": "2026-10-24",
+    "empreinte": "1b2gih8",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -8301,8 +8306,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-420": {
     "type": "noms",
-    "empreinte": "1xdxxbp",
-    "date": "2026-10-24",
+    "empreinte": "11zvt03",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -8405,8 +8410,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-424": {
     "type": "noms",
-    "empreinte": "d6zrkm",
-    "date": "2026-10-24",
+    "empreinte": "j04af3",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -8613,8 +8618,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-432": {
     "type": "noms",
-    "empreinte": "kdutn1",
-    "date": "2026-10-24",
+    "empreinte": "exjbte",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -8665,8 +8670,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-434": {
     "type": "noms",
-    "empreinte": "138a96y",
-    "date": "2026-10-24",
+    "empreinte": "p1j89z",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -8744,8 +8749,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-437": {
     "type": "noms",
-    "empreinte": "10e6f6n",
-    "date": "2026-10-24",
+    "empreinte": "1nei4sr",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -8849,8 +8854,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-441": {
     "type": "noms",
-    "empreinte": "1mgd3p0",
-    "date": "2026-10-24",
+    "empreinte": "1ntuloz",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -9031,8 +9036,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-448": {
     "type": "noms",
-    "empreinte": "s1dnsp",
-    "date": "2026-10-24",
+    "empreinte": "s7mmuu",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -9057,13 +9062,13 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-449": {
     "type": "noms",
-    "empreinte": "1ifpt8q",
-    "date": "2026-10-24",
+    "empreinte": "1igycor",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
       1,
-      1,
+      3,
       1
     ],
     "reponses": [
@@ -9071,9 +9076,11 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "Abraham Lincoln"
       ],
       [
-        "John F. Kennedy"
+        "John Fitzgerald Kennedy"
       ],
       [
+        "Lyndon Baines Johnson",
+        "John Kennedy",
         "George Washington"
       ],
       [
@@ -9109,8 +9116,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-501": {
     "type": "noms",
-    "empreinte": "139ztku",
-    "date": "2026-10-24",
+    "empreinte": "1yfqoe",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -9120,7 +9127,7 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
     ],
     "reponses": [
       [
-        "Aida"
+        "Aïda"
       ],
       [
         "Rigoletto"
@@ -9213,14 +9220,14 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-505": {
     "type": "noms",
-    "empreinte": "18i052",
-    "date": "2026-10-24",
+    "empreinte": "1345s5o",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
       1,
       1,
-      2
+      1
     ],
     "reponses": [
       [
@@ -9233,7 +9240,6 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
         "André Derain"
       ],
       [
-        "Maurice de Vlaminck",
         "Fernand Léger"
       ]
     ]
@@ -9372,8 +9378,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-511": {
     "type": "noms",
-    "empreinte": "stke98",
-    "date": "2026-10-24",
+    "empreinte": "giyjt8",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -9715,8 +9721,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-524": {
     "type": "noms",
-    "empreinte": "ikmbr8",
-    "date": "2026-10-24",
+    "empreinte": "7crqaz",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -9820,18 +9826,19 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-528": {
     "type": "noms",
-    "empreinte": "1airotk",
-    "date": "2026-10-24",
+    "empreinte": "ococsu",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
-      1,
+      2,
       1,
       1,
       1
     ],
     "reponses": [
       [
-        "Mazarin"
+        "Richelieu",
+        "Jules Mazarin"
       ],
       [
         "Jean-Baptiste Colbert"
@@ -9977,8 +9984,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-534": {
     "type": "noms",
-    "empreinte": "1h1i5pg",
-    "date": "2026-10-24",
+    "empreinte": "14pa04l",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -10188,8 +10195,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-542": {
     "type": "noms",
-    "empreinte": "1060z2q",
-    "date": "2026-10-24",
+    "empreinte": "gsc0y6",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,
@@ -10372,8 +10379,8 @@ export const REFERENCE_SYNO: Record<string, ReferenceSyno> = {
   },
   "np-549": {
     "type": "noms",
-    "empreinte": "96eti4",
-    "date": "2026-10-24",
+    "empreinte": "1skpga9",
+    "date": "2026-10-25",
     "score": 4,
     "trouveA": [
       1,

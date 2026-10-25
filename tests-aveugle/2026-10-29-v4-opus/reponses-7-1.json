@@ -1,0 +1,18 @@
+{
+  "e-003": { "reponse": "le parapluie", "raisonnement": "Il s'ouvre sous un ciel menaçant, protège de l'averse, a des baleines et s'oublie dans le train : le parapluie." },
+  "e-006": { "reponse": "le volcan", "raisonnement": "Il dort des siècles, crache feu et lave, a enseveli Pompéi et a un cratère : le volcan." },
+  "e-304": { "reponse": "crocodile", "raisonnement": "Le caïman est un crocodile ; les larmes de crocodile sont celles du faux dévot." },
+  "e-305": { "reponse": "sanction", "raisonnement": "Punition est synonyme de sanction ; avec incite par sans [sɑ̃], châtiment étant refusé." },
+  "e-325": { "reponse": "discipline", "raisonnement": "Rigueur + fouet (la discipline, fouet de pénitence) : discipline, austérité étant refusée." },
+  "e-335": { "reponse": "croyances", "raisonnement": "Principes au pluriel donne croyances, bousculées par la querelle." },
+  "e-341": { "reponse": "déveine", "raisonnement": "Malchance est synonyme de déveine, revers du coup de dés." },
+  "e-403": { "reponse": "jambon", "raisonnement": "Saucisson oriente vers la charcuterie ; mauvais incite par bon [bɔ̃] : jambon." },
+  "e-435": { "reponse": "roue", "raisonnement": "Pièce du vélo + pneu : la roue, rustine étant refusée." },
+  "e-437": { "reponse": "l'avion", "raisonnement": "Aéroport, valises, pilote, piste, hôtesse, au-dessus des nuages : l'avion." },
+  "e-503": { "reponse": "incendie", "raisonnement": "Un brasier est un incendie, que le paratonnerre prévient." },
+  "e-520": { "reponse": "revolver", "raisonnement": "Le pistolet du western est le revolver du duel." },
+  "e-530": { "reponse": "la vengeance", "raisonnement": "Affront, ressentiment, représailles de Monte-Cristo : la vengeance, plat qui se mange froid." },
+  "e-533": { "reponse": "jurés", "raisonnement": "Assesseurs + délibération ; pantalon incite par jupe [ʒy] : jurés, juges et jury étant refusés." },
+  "e-536": { "reponse": "l'ogre", "raisonnement": "Bottes de sept lieues, veut dévorer le Petit Poucet et ses frères, égorge ses filles : l'ogre." },
+  "np-449": { "reponse": "Barack Obama", "raisonnement": "Michelle est l'épouse de Barack Obama." }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "np-449",
+    "type": "nom",
+    "theme": "Présidents américains",
+    "precedents": [
+      {
+        "numero": 1,
+        "propositions": [
+          "Abraham Lincoln"
+        ],
+        "trouve": true
+      },
+      {
+        "numero": 2,
+        "propositions": [
+          "John Fitzgerald Kennedy"
+        ],
+        "trouve": true
+      }
+    ],
+    "numero": 3,
+    "briques": [
+      "premier",
+      "dollar",
+      "kilo"
+    ],
+    "completer": false,
+    "dejaFausses": [
+      "Lyndon Baines Johnson",
+      "John Kennedy"
+    ],
+    "message": "Épreuve des Noms Propres. Thème de la liste : « Présidents américains ». Rébus et incitations sont permis ici.\nTu cherches le nom n°3.\nNom n°1 : trouvé (« Abraham Lincoln »).\nNom n°2 : trouvé (« John Fitzgerald Kennedy »).\nBriques de Dico :\n1. premier\n2. dollar\n3. kilo\nRéponses déjà jugées fausses : « Lyndon Baines Johnson », « John Kennedy ».\n\nQuel nom propre Dico te fait-il deviner ?"
+  }
+]

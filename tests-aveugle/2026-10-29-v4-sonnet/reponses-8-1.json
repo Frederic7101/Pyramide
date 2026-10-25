@@ -1,0 +1,23 @@
+{
+  "e-003": { "reponse": "un parapluie", "raisonnement": "Il s'ouvre sous la menace, protège de l'averse, a des baleines et s'oublie dans le train." },
+  "e-006": { "reponse": "un volcan", "raisonnement": "Dort des siècles, crache feu et lave, cratère : un volcan." },
+  "e-007": { "reponse": "le facteur", "raisonnement": "Tournée, sacoche de lettres, boîte, vélo : le facteur." },
+  "e-009": { "reponse": "le cinéma", "raisonnement": "Salle obscure, écran, réalisateur, scène, actrice : le cinéma." },
+  "e-204": { "reponse": "un palimpseste", "raisonnement": "Parchemin gratté et réécrit, dont les écritures effacées réapparaissent." },
+  "e-304": { "reponse": "un hypocrite", "raisonnement": "Masque de vertu, duplicité, Tartuffe, larmes de crocodile : l'hypocrite." },
+  "e-305": { "reponse": "munificence", "raisonnement": "Générosité d'Auguste, nabab riche et prodigue : munificence des grands." },
+  "e-325": { "reponse": "purification", "raisonnement": "Ablutions = purification, aboutissement de l'ascèse du désert intérieur." },
+  "e-326": { "reponse": "le cynisme", "raisonnement": "Mépris des conventions et de l'argent, impudence : la doctrine cynique." },
+  "e-331": { "reponse": "censure", "raisonnement": "Autodafé évoque la censure des idées contre les brebis égarées." },
+  "e-335": { "reponse": "doctrine", "raisonnement": "Principes = doctrine, objet de la querelle." },
+  "e-339": { "reponse": "cou", "raisonnement": "Extrémité du corps de l'hydre où Héraclès brûlait la plaie : le cou." },
+  "e-341": { "reponse": "le hasard", "raisonnement": "Le texte décrit le hasard (chance, fortune, étoile, poisse), thème du coup de dés." },
+  "e-403": { "reponse": "garde-manger", "raisonnement": "Saucisson se conserve au frais dans le garde-manger, pôle Nord de la cuisine ; les autres noms de froid sont refusés." },
+  "e-428": { "reponse": "le train", "raisonnement": "Quai, voie, wagon, contrôleur, billets : le train ; gare refusé." },
+  "e-435": { "reponse": "bicyclette", "raisonnement": "Selle, guidon, pédales, chambre à air : la bicyclette, petite reine." },
+  "e-503": { "reponse": "incendie", "raisonnement": "Brasier = incendie, que provoque la foudre." },
+  "e-520": { "reponse": "le western", "raisonnement": "Diligence, shérif, flèches, duel, revolver : le western de John Ford." },
+  "e-533": { "reponse": "verdict", "raisonnement": "Sentence = verdict, rendu par la cour ; autres mots refusés." },
+  "e-536": { "reponse": "l'ogre", "raisonnement": "Colosse aux bottes de sept lieues qui dévore ; le Petit Poucet refusé, c'est donc l'ogre." },
+  "e-541": { "reponse": "un vampire", "raisonnement": "Crocs, cercueil, ail, aube, pieu ; Dracula refusé, donc le vampire." }
+}
